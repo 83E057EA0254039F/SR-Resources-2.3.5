@@ -1,0 +1,408 @@
+[
+  {
+    "ShopInfoIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMiniShopIcon_101.png",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_101.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Shop",
+    "GridDesc": {
+      "hash": -1957338190
+    },
+    "GridTitle": {
+      "hash": 1030156465
+    },
+    "GridID": 101
+  },
+  {
+    "ShopInfoIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMiniShopIcon_102.png",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_102.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Shop",
+    "GridDesc": {
+      "hash": -391254249
+    },
+    "GridTitle": {
+      "hash": 1030156468
+    },
+    "GridID": 102
+  },
+  {
+    "ShopInfoIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMiniShopIcon_103.png",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_103.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Shop",
+    "GridDesc": {
+      "hash": 1174829692
+    },
+    "GridTitle": {
+      "hash": 1030156467
+    },
+    "GridID": 103
+  },
+  {
+    "ShopInfoIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMiniShopIcon_104.png",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_104.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Shop",
+    "GridDesc": {
+      "hash": -1197823303
+    },
+    "GridTitle": {
+      "hash": 1030156462
+    },
+    "GridID": 104
+  },
+  {
+    "ShopInfoIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMiniShopIcon_105.png",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_105.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Shop",
+    "GridDesc": {
+      "hash": 368260638
+    },
+    "GridTitle": {
+      "hash": 1030156461
+    },
+    "GridID": 105
+  },
+  {
+    "ShopInfoIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMiniShopIcon_106.png",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_106.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Shop",
+    "GridDesc": {
+      "hash": 1934344579
+    },
+    "GridTitle": {
+      "hash": 1030156464
+    },
+    "GridID": 106
+  },
+  {
+    "ShopInfoIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMiniShopIcon_107.png",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_107.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Shop",
+    "GridDesc": {
+      "hash": -794538776
+    },
+    "GridTitle": {
+      "hash": 1030156463
+    },
+    "GridID": 107
+  },
+  {
+    "ShopInfoIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMiniShopIcon_108.png",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_108.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Shop",
+    "GridDesc": {
+      "hash": 1127775525
+    },
+    "GridTitle": {
+      "hash": 1030156458
+    },
+    "GridID": 108
+  },
+  {
+    "ShopInfoIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMiniShopIcon_109.png",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_109.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Shop",
+    "GridDesc": {
+      "hash": -1601107830
+    },
+    "GridTitle": {
+      "hash": 1030156457
+    },
+    "GridID": 109
+  },
+  {
+    "ShopInfoIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMiniShopIcon_110.png",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_110.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Shop",
+    "GridDesc": {
+      "hash": 771545164
+    },
+    "GridTitle": {
+      "hash": -535927475
+    },
+    "GridID": 110
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_201.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Dock",
+    "GridDesc": {
+      "hash": 1074073143
+    },
+    "GridTitle": {
+      "hash": 1030156436
+    },
+    "GridID": 201
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Empty",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 371857150
+    },
+    "GridID": 301
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Tutorial",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 371857150
+    },
+    "GridID": 999
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_403.png",
+    "RelatedMainMission": 8003262,
+    "RelatedEventID": 303,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 1224161298
+    },
+    "GridID": 1
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_403.png",
+    "RelatedMainMission": 8003263,
+    "RelatedEventID": 304,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 1224161299
+    },
+    "GridID": 2
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_403.png",
+    "RelatedMainMission": 8003266,
+    "RelatedEventID": 307,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 1224161300
+    },
+    "GridID": 3
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_403.png",
+    "RelatedMainMission": 8003260,
+    "RelatedEventID": 301,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 1224161293
+    },
+    "GridID": 4
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_403.png",
+    "RelatedMainMission": 8003264,
+    "RelatedEventID": 305,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 1224161294
+    },
+    "GridID": 5
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_403.png",
+    "RelatedMainMission": 8003267,
+    "RelatedEventID": 308,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 1224161295
+    },
+    "GridID": 6
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_403.png",
+    "RelatedMainMission": 8003261,
+    "RelatedEventID": 302,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 1224161296
+    },
+    "GridID": 7
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_403.png",
+    "RelatedMainMission": 8003265,
+    "RelatedEventID": 306,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 1224161289
+    },
+    "GridID": 8
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_403.png",
+    "RelatedMainMission": 8003269,
+    "RelatedEventID": 309,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 1224161290
+    },
+    "GridID": 9
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_1001.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": -1479679779
+    },
+    "GridID": 1001
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_1002.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": -1076395252
+    },
+    "GridID": 1002
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_1003.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 1652488103
+    },
+    "GridID": 1003
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_1004.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 2055772630
+    },
+    "GridID": 1004
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_1003.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 489688689
+    },
+    "GridID": 1005
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_1004.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": 892973216
+    },
+    "GridID": 1006
+  },
+  {
+    "ShopInfoIcon": "",
+    "GridIcon": "SpriteOutput/Quest/Alley/AlleyMapIcon/AlleyMapIcon_403.png",
+    "RelatedMainMission": 0,
+    "RelatedEventID": 0,
+    "GridType": "Buff",
+    "GridDesc": {
+      "hash": 371857150
+    },
+    "GridTitle": {
+      "hash": -673110725
+    },
+    "GridID": 1007
+  }
+]

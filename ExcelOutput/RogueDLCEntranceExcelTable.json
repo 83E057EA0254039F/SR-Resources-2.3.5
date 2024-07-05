@@ -1,0 +1,34 @@
+[
+  {
+    "PatternBgPath": "UI/Rogue/Widget/RogueDlcPatternBg1.prefab",
+    "RewardList": [],
+    "SwitchBannerImgPath": "SpriteOutput/Rogue/Planet/Dlc/IconRogueSelectDlc1.png",
+    "ButtonPath": "UI/Rogue/Widget/RoguePlanetDlcSelect1.prefab",
+    "SubTypeTitle": {
+      "hash": 1122091176
+    },
+    "SubType": "ChessRogue",
+    "ID": 1
+  },
+  {
+    "PatternBgPath": "UI/Rogue/Widget/RogueDlcPatternBg2.prefab",
+    "RewardList": [
+      1,
+      236,
+      241,
+      101,
+      235,
+      213,
+      233,
+      300041,
+      2
+    ],
+    "SwitchBannerImgPath": "SpriteOutput/Rogue/Planet/Dlc/IconRogueSelectDlc2.png",
+    "ButtonPath": "UI/Rogue/Widget/RoguePlanetDlcSelect2.prefab",
+    "SubTypeTitle": {
+      "hash": 1122091179
+    },
+    "SubType": "ChessRogueNous",
+    "ID": 2
+  }
+]

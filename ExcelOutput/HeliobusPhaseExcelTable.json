@@ -1,0 +1,102 @@
+[
+  {
+    "PhaseSmallIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon2.png",
+    "PhaseBigIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon2.png",
+    "Heliobus_ToDoListTitle_After": {
+      "hash": 1798876166
+    },
+    "UnlockMissionID": 0,
+    "Heliobus_ToDoListTitle_Before": {
+      "hash": 371857150
+    },
+    "ReceiveMissionID": 0,
+    "Heliobus_UpMissionDesc": {
+      "hash": 371857150
+    },
+    "PhaseFans": 0,
+    "PhaseTextID": {
+      "hash": 449532936
+    },
+    "HeliobusPhaseID": 1
+  },
+  {
+    "PhaseSmallIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon3.png",
+    "PhaseBigIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon3.png",
+    "Heliobus_ToDoListTitle_After": {
+      "hash": -930007189
+    },
+    "UnlockMissionID": 8015101,
+    "Heliobus_ToDoListTitle_Before": {
+      "hash": 1469903582
+    },
+    "ReceiveMissionID": 8015192,
+    "Heliobus_UpMissionDesc": {
+      "hash": 371857150
+    },
+    "PhaseFans": 20000,
+    "PhaseTextID": {
+      "hash": 852817463
+    },
+    "HeliobusPhaseID": 2
+  },
+  {
+    "PhaseSmallIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon4.png",
+    "PhaseBigIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon4.png",
+    "Heliobus_ToDoListTitle_After": {
+      "hash": 636076752
+    },
+    "UnlockMissionID": 8015102,
+    "Heliobus_ToDoListTitle_Before": {
+      "hash": 1469903583
+    },
+    "ReceiveMissionID": 8015193,
+    "Heliobus_UpMissionDesc": {
+      "hash": -1492347429
+    },
+    "PhaseFans": 100000,
+    "PhaseTextID": {
+      "hash": -713266478
+    },
+    "HeliobusPhaseID": 3
+  },
+  {
+    "PhaseSmallIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon5.png",
+    "PhaseBigIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon5.png",
+    "Heliobus_ToDoListTitle_After": {
+      "hash": -1736576243
+    },
+    "UnlockMissionID": 8015103,
+    "Heliobus_ToDoListTitle_Before": {
+      "hash": 1469903580
+    },
+    "ReceiveMissionID": 8015194,
+    "Heliobus_UpMissionDesc": {
+      "hash": 880305566
+    },
+    "PhaseFans": 400000,
+    "PhaseTextID": {
+      "hash": 46248409
+    },
+    "HeliobusPhaseID": 4
+  },
+  {
+    "PhaseSmallIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon5.png",
+    "PhaseBigIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon5.png",
+    "Heliobus_ToDoListTitle_After": {
+      "hash": -170492302
+    },
+    "UnlockMissionID": 8015104,
+    "Heliobus_ToDoListTitle_Before": {
+      "hash": 1469903581
+    },
+    "ReceiveMissionID": 0,
+    "Heliobus_UpMissionDesc": {
+      "hash": -685778375
+    },
+    "PhaseFans": 1000000,
+    "PhaseTextID": {
+      "hash": -1519835532
+    },
+    "HeliobusPhaseID": 5
+  }
+]

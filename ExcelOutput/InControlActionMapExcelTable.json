@@ -1,0 +1,2630 @@
+[
+  {
+    "defaultMouseType": "PositiveY",
+    "actionTypeList": [
+      0
+    ],
+    "actionName": "Special_PositiveY",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -721122367
+    }
+  },
+  {
+    "defaultMouseType": "NegativeY",
+    "actionTypeList": [
+      0
+    ],
+    "actionName": "Special_NegativeY",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1786396715
+    }
+  },
+  {
+    "defaultMouseType": "NegativeX",
+    "actionTypeList": [
+      0
+    ],
+    "actionName": "Special_NegativeX",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1786396716
+    }
+  },
+  {
+    "defaultMouseType": "PositiveX",
+    "actionTypeList": [
+      0
+    ],
+    "actionName": "Special_PositiveX",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -721122368
+    }
+  },
+  {
+    "defaultMouseType": "LeftButton",
+    "actionTypeList": [
+      0
+    ],
+    "actionName": "Special_MouseLeftButton",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1458072557
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      0
+    ],
+    "actionName": "Special_MouseOperating",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "LeftAlt",
+    "actionTextmapID": {
+      "hash": 1871409819
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "actionName": "Maze_ShortCutWheel",
+    "FuncGotoIDList": [
+      4900
+    ],
+    "defaultInControlTypes": [
+      "LeftBumper"
+    ],
+    "defaultKey": "Tab",
+    "actionTextmapID": {
+      "hash": 818886562
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      5,
+      6,
+      8,
+      9,
+      11,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "actionName": "Maze_Avatar",
+    "FuncGotoIDList": [
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      4800,
+      400,
+      400,
+      400
+    ],
+    "defaultInControlTypes": [],
+    "defaultKey": "C",
+    "actionTextmapID": {
+      "hash": -1373810116
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      5,
+      6,
+      8,
+      15,
+      16,
+      17,
+      18
+    ],
+    "actionName": "Maze_Team",
+    "FuncGotoIDList": [
+      300,
+      301,
+      302,
+      300,
+      4700,
+      303,
+      304,
+      304
+    ],
+    "defaultInControlTypes": [],
+    "defaultKey": "T",
+    "actionTextmapID": {
+      "hash": -1087064008
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      5,
+      8,
+      15,
+      16
+    ],
+    "actionName": "Maze_Map",
+    "FuncGotoIDList": [
+      200,
+      2700,
+      5500,
+      5300,
+      2700
+    ],
+    "defaultInControlTypes": [
+      "Share",
+      "Capture",
+      "View",
+      "Back",
+      "Create",
+      "Minus"
+    ],
+    "defaultKey": "M",
+    "actionTextmapID": {
+      "hash": 849287801
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      5,
+      8,
+      9,
+      17,
+      18
+    ],
+    "actionName": "Maze_Bag",
+    "FuncGotoIDList": [
+      500,
+      508,
+      500,
+      500,
+      500,
+      500
+    ],
+    "defaultInControlTypes": [],
+    "defaultKey": "B",
+    "actionTextmapID": {
+      "hash": 412245537
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      4,
+      8,
+      9,
+      5,
+      6,
+      13,
+      16
+    ],
+    "actionName": "Maze_Job",
+    "FuncGotoIDList": [
+      700
+    ],
+    "defaultInControlTypes": [],
+    "defaultKey": "J",
+    "actionTextmapID": {
+      "hash": 1138261028
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      8,
+      9
+    ],
+    "actionName": "Maze_Shop",
+    "FuncGotoIDList": [
+      600
+    ],
+    "defaultInControlTypes": [],
+    "defaultKey": "F5",
+    "actionTextmapID": {
+      "hash": 1547711189
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      8,
+      9,
+      14,
+      17,
+      18
+    ],
+    "actionName": "Maze_Gacha",
+    "FuncGotoIDList": [
+      2300
+    ],
+    "defaultInControlTypes": [],
+    "defaultKey": "F3",
+    "actionTextmapID": {
+      "hash": 1830364425
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      5,
+      16,
+      15,
+      17,
+      18
+    ],
+    "actionName": "Maze_TutorialOverView",
+    "FuncGotoIDList": [
+      2500
+    ],
+    "defaultInControlTypes": [],
+    "defaultKey": "G",
+    "actionTextmapID": {
+      "hash": -1974924236
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      5,
+      16,
+      17,
+      18
+    ],
+    "actionName": "Maze_BattlePass",
+    "FuncGotoIDList": [
+      3400
+    ],
+    "defaultInControlTypes": [],
+    "defaultKey": "F2",
+    "actionTextmapID": {
+      "hash": 969699586
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      16
+    ],
+    "actionName": "Maze_HandbookPage",
+    "FuncGotoIDList": [
+      1500,
+      5100
+    ],
+    "defaultInControlTypes": [],
+    "defaultKey": "F4",
+    "actionTextmapID": {
+      "hash": -629773790
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3
+    ],
+    "actionName": "Maze_Activity",
+    "FuncGotoIDList": [
+      800
+    ],
+    "defaultInControlTypes": [],
+    "defaultKey": "F1",
+    "actionTextmapID": {
+      "hash": 1497028604
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_MoveUp",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickUp"
+    ],
+    "defaultKey": "W",
+    "actionTextmapID": {
+      "hash": -1388597319
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_MoveDown",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickDown"
+    ],
+    "defaultKey": "S",
+    "actionTextmapID": {
+      "hash": -1630427712
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_MoveLeft",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickLeft"
+    ],
+    "defaultKey": "A",
+    "actionTextmapID": {
+      "hash": -743305005
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_MoveRight",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickRight"
+    ],
+    "defaultKey": "D",
+    "actionTextmapID": {
+      "hash": 814254470
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_Walk",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "Control",
+    "actionTextmapID": {
+      "hash": 2065306720
+    }
+  },
+  {
+    "defaultMouseType": "RightButton",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_FastRun",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightBumper"
+    ],
+    "defaultKey": "LeftShift",
+    "actionTextmapID": {
+      "hash": -1111841388
+    }
+  },
+  {
+    "defaultMouseType": "PositiveY",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_LookUp",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightStickUp"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -2128684161
+    }
+  },
+  {
+    "defaultMouseType": "NegativeY",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_LookDown",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightStickDown"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -485519354
+    }
+  },
+  {
+    "defaultMouseType": "NegativeX",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_LookLeft",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightStickLeft"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -209842871
+    }
+  },
+  {
+    "defaultMouseType": "PositiveX",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_LookRight",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightStickRight"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -71704212
+    }
+  },
+  {
+    "defaultMouseType": "PositiveScrollWheel",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_LookForward",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftTrigger"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 1992207681
+    }
+  },
+  {
+    "defaultMouseType": "NegativeScrollWheel",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_LookBack",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightTrigger"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1460102287
+    }
+  },
+  {
+    "defaultMouseType": "PositiveScrollWheel",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_InteractSelectUp",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightStickButton"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -527254794
+    }
+  },
+  {
+    "defaultMouseType": "NegativeScrollWheel",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_InteractSelectDown",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightStickButton"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 540233609
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_CameraReset",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightStickButton"
+    ],
+    "defaultKey": "CapsLock",
+    "actionTextmapID": {
+      "hash": -604642279
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_CameraMoveUp",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightBumper"
+    ],
+    "defaultKey": "Q",
+    "actionTextmapID": {
+      "hash": 1082299122
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_CameraMoveDown",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftBumper"
+    ],
+    "defaultKey": "E",
+    "actionTextmapID": {
+      "hash": 596358655
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      2
+    ],
+    "actionName": "Battle_SelectTargetLeft",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickLeft",
+      "DPadLeft"
+    ],
+    "defaultKey": "A",
+    "actionTextmapID": {
+      "hash": -836707038
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      2
+    ],
+    "actionName": "Battle_SelectTargetRight",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickRight",
+      "DPadRight"
+    ],
+    "defaultKey": "D",
+    "actionTextmapID": {
+      "hash": -1384156139
+    }
+  },
+  {
+    "defaultMouseType": "RightButton",
+    "actionTypeList": [
+      2
+    ],
+    "actionName": "Battle_SkillSelect",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1288995491
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      2
+    ],
+    "actionName": "Battle_SkillRelease",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "defaultKey": "Space",
+    "actionTextmapID": {
+      "hash": -981527188
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      2
+    ],
+    "actionName": "Battle_TriggerUltra",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftTrigger"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 546644164
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Battle_ViewMode",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 988281308
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeA",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 1315499641
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeB",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action2"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -250584300
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeX",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action3"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 1812892502
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeY",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 246808561
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeBack",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Share",
+      "Capture",
+      "View",
+      "Back",
+      "Create",
+      "Minus"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 1923425935
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeOption",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Options",
+      "Menu",
+      "Start",
+      "Home",
+      "Plus"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 297754091
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeLeftBumper",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftBumper"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 1393049184
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeRightBumper",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightBumper"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1481032123
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeLeftTrigger",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftTrigger"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 469862771
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeRightTrigger",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightTrigger"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 861322880
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeLeftStickButton",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickButton"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 307277347
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeRightStickButton",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightStickButton"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 2078591212
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeDPadUp",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "DPadUp"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1471683438
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeDPadDown",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "DPadDown"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 601141731
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeDPadLeft",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "DPadLeft"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 876818982
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeDPadRight",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "DPadRight"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -67347619
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeAnyButton",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Share",
+      "Capture",
+      "View",
+      "Back",
+      "Create",
+      "Minus",
+      "Options",
+      "Menu",
+      "Start",
+      "Home",
+      "Plus",
+      "LeftBumper",
+      "RightBumper",
+      "LeftTrigger",
+      "RightTrigger",
+      "LeftStickButton",
+      "RightStickButton",
+      "DPadUp",
+      "DPadDown",
+      "DPadLeft",
+      "DPadRight",
+      "Action1",
+      "Action2",
+      "Action3",
+      "Action4"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1828992420
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeLeftStickUp",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickUp"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1351722396
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeLeftStickDown",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickDown"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 2086706463
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeLeftStickLeft",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickLeft"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 1434854424
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeLeftStickRight",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickRight"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -916712243
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UnchangeRightStickDown",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightStickDown"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 1499299764
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_Confirm",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1584564381
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_Cancel",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action2"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 772781171
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_ClosePage",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action2"
+    ],
+    "defaultKey": "Escape",
+    "actionTextmapID": {
+      "hash": -1353687264
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_ContinueDialog",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1",
+      "Action2"
+    ],
+    "defaultKey": "Space",
+    "actionTextmapID": {
+      "hash": 1071854592
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_MazeInteract",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "defaultKey": "F",
+    "actionTextmapID": {
+      "hash": -1649047864
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_MazeEnemyDetail",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightStickButton"
+    ],
+    "defaultKey": "Z",
+    "actionTextmapID": {
+      "hash": -1704589443
+    }
+  },
+  {
+    "defaultMouseType": "LeftButton",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_MazeAttack",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action3"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1752600294
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_MazeSkill",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "defaultKey": "E",
+    "actionTextmapID": {
+      "hash": 578219875
+    }
+  },
+  {
+    "defaultMouseType": "LeftButton",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_MazeSkillOnly",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action3",
+      "Action4"
+    ],
+    "defaultKey": "E",
+    "actionTextmapID": {
+      "hash": -408804773
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_BattleAuto",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightBumper"
+    ],
+    "defaultKey": "V",
+    "actionTextmapID": {
+      "hash": -27269772
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_BattleFast",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftBumper"
+    ],
+    "defaultKey": "B",
+    "actionTextmapID": {
+      "hash": -1452191605
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_BattlePause",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Options",
+      "Menu",
+      "Start",
+      "Home",
+      "Plus"
+    ],
+    "defaultKey": "Escape",
+    "actionTextmapID": {
+      "hash": 1429558293
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_BattleEnemyDetail",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightStickButton"
+    ],
+    "defaultKey": "Z",
+    "actionTextmapID": {
+      "hash": 1447809800
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_BattleAvatarDetail",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickButton"
+    ],
+    "defaultKey": "C",
+    "actionTextmapID": {
+      "hash": -972845305
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_ReleaseUltra1",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action3"
+    ],
+    "defaultKey": "Key1",
+    "actionTextmapID": {
+      "hash": -1534521297
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_ReleaseUltra2",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "defaultKey": "Key2",
+    "actionTextmapID": {
+      "hash": 1194362058
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_ReleaseUltra3",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "defaultKey": "Key3",
+    "actionTextmapID": {
+      "hash": -371721883
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_ReleaseUltra4",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action2"
+    ],
+    "defaultKey": "Key4",
+    "actionTextmapID": {
+      "hash": 2000931112
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_NormalAttack",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action3"
+    ],
+    "defaultKey": "Q",
+    "actionTextmapID": {
+      "hash": 1921404914
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_BPSkill",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "defaultKey": "E",
+    "actionTextmapID": {
+      "hash": 335883184
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_SkillCancel",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action2"
+    ],
+    "defaultKey": "X",
+    "actionTextmapID": {
+      "hash": 1228718052
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_UltraSkill",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "defaultKey": "Space",
+    "actionTextmapID": {
+      "hash": -1742921010
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_ReleaseColossusSkill",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "DPadUp"
+    ],
+    "defaultKey": "R",
+    "actionTextmapID": {
+      "hash": -1194853972
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_MazeGuideHint",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickButton"
+    ],
+    "defaultKey": "G",
+    "actionTextmapID": {
+      "hash": 813677907
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_TinyGameEvent",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightTrigger"
+    ],
+    "defaultKey": "R",
+    "actionTextmapID": {
+      "hash": 1848041465
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PhoneOrQuitGame",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Options",
+      "Menu",
+      "Start",
+      "Home",
+      "Plus"
+    ],
+    "defaultKey": "Escape",
+    "actionTextmapID": {
+      "hash": -858279729
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_TraceMission",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickButton"
+    ],
+    "defaultKey": "V",
+    "actionTextmapID": {
+      "hash": 965581816
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_SwitchAvatar1",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "DPadUp"
+    ],
+    "defaultKey": "Key1",
+    "actionTextmapID": {
+      "hash": -1011657501
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_SwitchAvatar2",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "DPadRight"
+    ],
+    "defaultKey": "Key2",
+    "actionTextmapID": {
+      "hash": 1717225854
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_SwitchAvatar3",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "DPadDown"
+    ],
+    "defaultKey": "Key3",
+    "actionTextmapID": {
+      "hash": 151141913
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_SwitchAvatar4",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "DPadLeft"
+    ],
+    "defaultKey": "Key4",
+    "actionTextmapID": {
+      "hash": -1414942028
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_CameraShot",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "defaultKey": "F",
+    "actionTextmapID": {
+      "hash": -344564318
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PhoneMessage",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "P",
+    "actionTextmapID": {
+      "hash": 518981109
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PuzzleChallenge",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Options",
+      "Menu",
+      "Start",
+      "Home",
+      "Plus"
+    ],
+    "defaultKey": "I",
+    "actionTextmapID": {
+      "hash": 177035486
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_TutorialOverView",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "G",
+    "actionTextmapID": {
+      "hash": -776739292
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PuzzleRubikCube_TurnLeft",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftBumper"
+    ],
+    "defaultKey": "Q",
+    "actionTextmapID": {
+      "hash": 407329282
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PuzzleRubikCube_TurnRight",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightBumper"
+    ],
+    "defaultKey": "E",
+    "actionTextmapID": {
+      "hash": -1448604235
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_Chat_Enter",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "defaultKey": "Return",
+    "actionTextmapID": {
+      "hash": 839846286
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PuzzleInsertion_Clockwise",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "defaultKey": "D",
+    "actionTextmapID": {
+      "hash": -1266060511
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PuzzleInsertion_AntiClockwise",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action3"
+    ],
+    "defaultKey": "A",
+    "actionTextmapID": {
+      "hash": -183801409
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PuzzleReset",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Options",
+      "Menu",
+      "Start",
+      "Home",
+      "Plus"
+    ],
+    "defaultKey": "R",
+    "actionTextmapID": {
+      "hash": -1505177520
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PuzzleUndo",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickButton"
+    ],
+    "defaultKey": "Z",
+    "actionTextmapID": {
+      "hash": -230615843
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PuzzleCompass_Shift",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action3"
+    ],
+    "defaultKey": "Q",
+    "actionTextmapID": {
+      "hash": 1049318512
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PuzzleCompass_Rotation",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "defaultKey": "D",
+    "actionTextmapID": {
+      "hash": 1752399414
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_MazeBuffPanel",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftTrigger"
+    ],
+    "defaultKey": "U",
+    "actionTextmapID": {
+      "hash": -304535949
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_BattleBuffPanel",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Share",
+      "Capture",
+      "View",
+      "Back",
+      "Create",
+      "Minus"
+    ],
+    "defaultKey": "U",
+    "actionTextmapID": {
+      "hash": -1060389000
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_DroneIdentify",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightTrigger"
+    ],
+    "defaultKey": "R",
+    "actionTextmapID": {
+      "hash": -108875165
+    }
+  },
+  {
+    "defaultMouseType": "LeftButton",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_DroneGoDown",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftBumper"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1287601999
+    }
+  },
+  {
+    "defaultMouseType": "RightButton",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_DroneGoUp",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightBumper"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 886286454
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_DroneGoUp&down",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -860130392
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_DroneReversal",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Share",
+      "Capture",
+      "View",
+      "Back",
+      "Create",
+      "Minus"
+    ],
+    "defaultKey": "I",
+    "actionTextmapID": {
+      "hash": -653864933
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_Chat",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "Return",
+    "actionTextmapID": {
+      "hash": 1018510387
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_DroneShot",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightTrigger"
+    ],
+    "defaultKey": "R",
+    "actionTextmapID": {
+      "hash": -700000049
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_Backlog",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftBumper"
+    ],
+    "defaultKey": "L",
+    "actionTextmapID": {
+      "hash": 571585956
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_BacklogClose",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "L",
+    "actionTextmapID": {
+      "hash": -2041633340
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_CmdBotInputUp",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "DPadUp"
+    ],
+    "defaultKey": "W",
+    "actionTextmapID": {
+      "hash": -1041016403
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_CmdBotInputDown",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "DPadDown"
+    ],
+    "defaultKey": "S",
+    "actionTextmapID": {
+      "hash": -383273852
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_CmdBotInputLeft",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "DPadLeft"
+    ],
+    "defaultKey": "A",
+    "actionTextmapID": {
+      "hash": 1693499659
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_CmdBotInputRight",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "DPadRight"
+    ],
+    "defaultKey": "D",
+    "actionTextmapID": {
+      "hash": 1625888406
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_CmdBotClear",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Options",
+      "Menu",
+      "Start",
+      "Home",
+      "Plus"
+    ],
+    "defaultKey": "R",
+    "actionTextmapID": {
+      "hash": 1733741559
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_CmdBotInputAction",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "defaultKey": "Space",
+    "actionTextmapID": {
+      "hash": 863608506
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_DecalCast",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "defaultKey": "F",
+    "actionTextmapID": {
+      "hash": 1428824975
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_QTESingleClick1",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "defaultKey": "Space",
+    "actionTextmapID": {
+      "hash": -1128901696
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_QTESingleClick2",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action2"
+    ],
+    "defaultKey": "Q",
+    "actionTextmapID": {
+      "hash": 1599981659
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_QTESingleClick3",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action3"
+    ],
+    "defaultKey": "E",
+    "actionTextmapID": {
+      "hash": 33897718
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_QTESingleClick4",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "defaultKey": "R",
+    "actionTextmapID": {
+      "hash": -1532186223
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_QTEComboClick",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "defaultKey": "Space",
+    "actionTextmapID": {
+      "hash": -1067754953
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_QTESwipeUp",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickUp"
+    ],
+    "defaultKey": "W",
+    "actionTextmapID": {
+      "hash": 1451188962
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_QTESwipeDown",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickDown"
+    ],
+    "defaultKey": "S",
+    "actionTextmapID": {
+      "hash": -1519896049
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_QTESwipeLeft",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickLeft"
+    ],
+    "defaultKey": "A",
+    "actionTextmapID": {
+      "hash": -1244218958
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_QTESwipeRight",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickRight"
+    ],
+    "defaultKey": "D",
+    "actionTextmapID": {
+      "hash": -2142976971
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_Flip",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftBumper"
+    ],
+    "defaultKey": "Space",
+    "actionTextmapID": {
+      "hash": 1479041634
+    }
+  },
+  {
+    "defaultMouseType": "LeftButton",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_Shoot",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action3"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -111074804
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_Pause",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Options",
+      "Menu",
+      "Start",
+      "Home",
+      "Plus"
+    ],
+    "defaultKey": "Escape",
+    "actionTextmapID": {
+      "hash": -1806058441
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PinBallFire",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "defaultKey": "Space",
+    "actionTextmapID": {
+      "hash": 1914413997
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PinBallPlateSwitch",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action1"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 1123226023
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_PinBallPlateRotate",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action3"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -132915084
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_TalkClick1",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "Key1",
+    "actionTextmapID": {
+      "hash": -2018456120
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_TalkClick2",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "Key2",
+    "actionTextmapID": {
+      "hash": -2018456121
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_TalkClick3",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "Key3",
+    "actionTextmapID": {
+      "hash": -2018456122
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_TalkClick4",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "Key4",
+    "actionTextmapID": {
+      "hash": -2018456115
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_TalkClick5",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "Key5",
+    "actionTextmapID": {
+      "hash": -2018456116
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_TalkClick6",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [],
+    "defaultKey": "Key6",
+    "actionTextmapID": {
+      "hash": -2018456117
+    }
+  },
+  {
+    "defaultMouseType": "LeftButton",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_GunPlayShoot",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightTrigger"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1827147402
+    }
+  },
+  {
+    "defaultMouseType": "RightButton",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_GunPlaySkill",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftTrigger"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 1002492160
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_FriendTeamList",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftTrigger+RightTrigger"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1761500388
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_EvolveBuildLevelBtn",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightTrigger"
+    ],
+    "defaultKey": "U",
+    "actionTextmapID": {
+      "hash": 1555147482
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      17
+    ],
+    "actionName": "Menu_RogueTournMenu",
+    "FuncGotoIDList": [
+      2700
+    ],
+    "defaultInControlTypes": [],
+    "defaultKey": "M",
+    "actionTextmapID": {
+      "hash": 849287801
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_RogueTournUpgradeBtn",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftBumper+RightBumper"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 465759361
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_ListUnchangeLeftBumper",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftBumper"
+    ],
+    "defaultKey": "Q",
+    "actionTextmapID": {
+      "hash": 1393049184
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_ListUnchangeRightBumper",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightBumper"
+    ],
+    "defaultKey": "E",
+    "actionTextmapID": {
+      "hash": -1481032123
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_ListUnchangeLeftTrigger",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftTrigger"
+    ],
+    "defaultKey": "Z",
+    "actionTextmapID": {
+      "hash": 469862771
+    }
+  },
+  {
+    "defaultMouseType": "",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Menu_ListUnchangeRightTrigger",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "RightTrigger"
+    ],
+    "defaultKey": "C",
+    "actionTextmapID": {
+      "hash": 861322880
+    }
+  },
+  {
+    "defaultMouseType": "PositiveY",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_TrackPhoto_LookUp",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickUp"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1220384697
+    }
+  },
+  {
+    "defaultMouseType": "NegativeY",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_TrackPhoto_LookDown",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickDown"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -683554790
+    }
+  },
+  {
+    "defaultMouseType": "NegativeX",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_TrackPhoto_LookLeft",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickLeft"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": 69312129
+    }
+  },
+  {
+    "defaultMouseType": "PositiveX",
+    "actionTypeList": [
+      3,
+      4,
+      5,
+      6,
+      16
+    ],
+    "actionName": "Maze_TrackPhoto_LookRight",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "LeftStickRight"
+    ],
+    "defaultKey": "",
+    "actionTextmapID": {
+      "hash": -1026777720
+    }
+  },
+  {
+    "defaultMouseType": "LeftButton",
+    "actionTypeList": [
+      1
+    ],
+    "actionName": "Maze_TrackPhoto_CameraShot",
+    "FuncGotoIDList": [],
+    "defaultInControlTypes": [
+      "Action4"
+    ],
+    "defaultKey": "F",
+    "actionTextmapID": {
+      "hash": 747900902
+    }
+  }
+]

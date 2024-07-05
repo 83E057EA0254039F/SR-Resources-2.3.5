@@ -1,0 +1,3998 @@
+[
+  {
+    "CurveID": 1111,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1111,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1111,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1111,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1111,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1111,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1111,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1111,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1111,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1111,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1112,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1112,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1112,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1112,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1112,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1112,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1112,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1112,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1112,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1112,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1113,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1113,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1113,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1113,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1113,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1113,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1113,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1113,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1113,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1113,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1114,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1114,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1114,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1114,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1114,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1114,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1114,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1114,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1114,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1114,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1121,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1121,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1121,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1121,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1121,
+    "DelayTime": 1,
+    "AddCurveRatio": 48.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1121,
+    "DelayTime": 1,
+    "AddCurveRatio": 48.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1121,
+    "DelayTime": 1,
+    "AddCurveRatio": 48.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1121,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1121,
+    "DelayTime": 1,
+    "AddCurveRatio": 30.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1121,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1122,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1122,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1122,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1122,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1122,
+    "DelayTime": 1,
+    "AddCurveRatio": 48.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1122,
+    "DelayTime": 1,
+    "AddCurveRatio": 48.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1122,
+    "DelayTime": 1,
+    "AddCurveRatio": 48.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1122,
+    "DelayTime": 1,
+    "AddCurveRatio": 48.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1122,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1122,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1123,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1123,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1123,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1123,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1123,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1123,
+    "DelayTime": 1,
+    "AddCurveRatio": 40.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1123,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1123,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1123,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1123,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1211,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1211,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1211,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1211,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1211,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1211,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1211,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1211,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1211,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1211,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1212,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1212,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1212,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1212,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1212,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1212,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1212,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1212,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1212,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1212,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1213,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1213,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1213,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1213,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1213,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1213,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1213,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1213,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1213,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1213,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1214,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1214,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1214,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1214,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1214,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1214,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1214,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1214,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1214,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1214,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1221,
+    "DelayTime": 1,
+    "AddCurveRatio": 26.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1221,
+    "DelayTime": 1,
+    "AddCurveRatio": 26.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1221,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1221,
+    "DelayTime": 1,
+    "AddCurveRatio": 50.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1221,
+    "DelayTime": 1,
+    "AddCurveRatio": 55.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1221,
+    "DelayTime": 1,
+    "AddCurveRatio": 50.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1221,
+    "DelayTime": 1,
+    "AddCurveRatio": 33.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1221,
+    "DelayTime": 1,
+    "AddCurveRatio": 23.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1221,
+    "DelayTime": 1,
+    "AddCurveRatio": 18.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1221,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1222,
+    "DelayTime": 1,
+    "AddCurveRatio": 23.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1222,
+    "DelayTime": 1,
+    "AddCurveRatio": 23.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1222,
+    "DelayTime": 1,
+    "AddCurveRatio": 28.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1222,
+    "DelayTime": 1,
+    "AddCurveRatio": 33.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1222,
+    "DelayTime": 1,
+    "AddCurveRatio": 38.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1222,
+    "DelayTime": 1,
+    "AddCurveRatio": 33.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1222,
+    "DelayTime": 1,
+    "AddCurveRatio": 28.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1222,
+    "DelayTime": 1,
+    "AddCurveRatio": 23.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1222,
+    "DelayTime": 1,
+    "AddCurveRatio": 18.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1222,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1223,
+    "DelayTime": 1,
+    "AddCurveRatio": 11.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1223,
+    "DelayTime": 1,
+    "AddCurveRatio": 11.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1223,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1223,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1223,
+    "DelayTime": 1,
+    "AddCurveRatio": 15.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1223,
+    "DelayTime": 1,
+    "AddCurveRatio": 18.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1223,
+    "DelayTime": 1,
+    "AddCurveRatio": 23.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1223,
+    "DelayTime": 1,
+    "AddCurveRatio": 18.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1223,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1223,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1311,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1311,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1311,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1311,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1311,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1311,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1311,
+    "DelayTime": 1,
+    "AddCurveRatio": 13.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1311,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1311,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1311,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1312,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1312,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1312,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1312,
+    "DelayTime": 1,
+    "AddCurveRatio": 19.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1312,
+    "DelayTime": 1,
+    "AddCurveRatio": 19.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1312,
+    "DelayTime": 1,
+    "AddCurveRatio": 19.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1312,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1312,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1312,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1312,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1313,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1313,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1313,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1313,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1313,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1313,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1313,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1313,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1313,
+    "DelayTime": 1,
+    "AddCurveRatio": 16.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1313,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1314,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1314,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1314,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1314,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1314,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1314,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1314,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1314,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1314,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1314,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1321,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1321,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1321,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1321,
+    "DelayTime": 1,
+    "AddCurveRatio": 48.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1321,
+    "DelayTime": 1,
+    "AddCurveRatio": 56.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1321,
+    "DelayTime": 1,
+    "AddCurveRatio": 60.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1321,
+    "DelayTime": 1,
+    "AddCurveRatio": 56.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1321,
+    "DelayTime": 1,
+    "AddCurveRatio": 48.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1321,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1321,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1322,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1322,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1322,
+    "DelayTime": 1,
+    "AddCurveRatio": 32.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1322,
+    "DelayTime": 1,
+    "AddCurveRatio": 40.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1322,
+    "DelayTime": 1,
+    "AddCurveRatio": 48.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1322,
+    "DelayTime": 1,
+    "AddCurveRatio": 40.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1322,
+    "DelayTime": 1,
+    "AddCurveRatio": 32.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1322,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1322,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1322,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1323,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1323,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1323,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1323,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1323,
+    "DelayTime": 1,
+    "AddCurveRatio": 40.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1323,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1323,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1323,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1323,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1323,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1411,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1411,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1411,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1411,
+    "DelayTime": 1,
+    "AddCurveRatio": 21.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1411,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1411,
+    "DelayTime": 1,
+    "AddCurveRatio": 28.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1411,
+    "DelayTime": 1,
+    "AddCurveRatio": 28.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1411,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1411,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1411,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1412,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1412,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1412,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1412,
+    "DelayTime": 1,
+    "AddCurveRatio": 18.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1412,
+    "DelayTime": 1,
+    "AddCurveRatio": 20.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1412,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1412,
+    "DelayTime": 1,
+    "AddCurveRatio": 28.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1412,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1412,
+    "DelayTime": 1,
+    "AddCurveRatio": 18.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1412,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1413,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1413,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1413,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1413,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1413,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1413,
+    "DelayTime": 1,
+    "AddCurveRatio": 26.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1413,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1413,
+    "DelayTime": 1,
+    "AddCurveRatio": 18.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1413,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1413,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1414,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1414,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1414,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1414,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1414,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1414,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1414,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1414,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1414,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1414,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1421,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1421,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 3,
+    "AddHigh": 3
+  },
+  {
+    "CurveID": 1421,
+    "DelayTime": 1,
+    "AddCurveRatio": 31.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 5,
+    "AddHigh": 5
+  },
+  {
+    "CurveID": 1421,
+    "DelayTime": 1,
+    "AddCurveRatio": 45.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 9,
+    "AddHigh": 9
+  },
+  {
+    "CurveID": 1421,
+    "DelayTime": 1,
+    "AddCurveRatio": 50.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1421,
+    "DelayTime": 1,
+    "AddCurveRatio": 56.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1421,
+    "DelayTime": 1,
+    "AddCurveRatio": 56.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1421,
+    "DelayTime": 1,
+    "AddCurveRatio": 50.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1421,
+    "DelayTime": 1,
+    "AddCurveRatio": 50.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1421,
+    "DelayTime": 1,
+    "AddCurveRatio": 48.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1422,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1422,
+    "DelayTime": 1,
+    "AddCurveRatio": 21.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 3,
+    "AddHigh": 3
+  },
+  {
+    "CurveID": 1422,
+    "DelayTime": 1,
+    "AddCurveRatio": 31.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 5,
+    "AddHigh": 5
+  },
+  {
+    "CurveID": 1422,
+    "DelayTime": 1,
+    "AddCurveRatio": 31.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 9,
+    "AddHigh": 9
+  },
+  {
+    "CurveID": 1422,
+    "DelayTime": 1,
+    "AddCurveRatio": 38.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1422,
+    "DelayTime": 1,
+    "AddCurveRatio": 46.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1422,
+    "DelayTime": 1,
+    "AddCurveRatio": 46.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1422,
+    "DelayTime": 1,
+    "AddCurveRatio": 46.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1422,
+    "DelayTime": 1,
+    "AddCurveRatio": 38.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1422,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1423,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1423,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1423,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1423,
+    "DelayTime": 1,
+    "AddCurveRatio": 48.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1423,
+    "DelayTime": 1,
+    "AddCurveRatio": 56.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1423,
+    "DelayTime": 1,
+    "AddCurveRatio": 48.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1423,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1423,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1423,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1423,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1511,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1511,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1511,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1511,
+    "DelayTime": 1,
+    "AddCurveRatio": 18.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1511,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1511,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1511,
+    "DelayTime": 1,
+    "AddCurveRatio": 18.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1511,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1511,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1511,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1512,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1512,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1512,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1512,
+    "DelayTime": 1,
+    "AddCurveRatio": 32.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1512,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1512,
+    "DelayTime": 1,
+    "AddCurveRatio": 40.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1512,
+    "DelayTime": 1,
+    "AddCurveRatio": 40.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1512,
+    "DelayTime": 1,
+    "AddCurveRatio": 40.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1512,
+    "DelayTime": 1,
+    "AddCurveRatio": 40.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1512,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1513,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1513,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1513,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1513,
+    "DelayTime": 1,
+    "AddCurveRatio": 18.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1513,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1513,
+    "DelayTime": 1,
+    "AddCurveRatio": 30.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1513,
+    "DelayTime": 1,
+    "AddCurveRatio": 32.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1513,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1513,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1513,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1514,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1514,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1514,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1514,
+    "DelayTime": 1,
+    "AddCurveRatio": 18.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1514,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1514,
+    "DelayTime": 1,
+    "AddCurveRatio": 30.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1514,
+    "DelayTime": 1,
+    "AddCurveRatio": 32.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1514,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1514,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1514,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1515,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1515,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1515,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1515,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1515,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1515,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1515,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1515,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1515,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1515,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1521,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1521,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1521,
+    "DelayTime": 1,
+    "AddCurveRatio": 42.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1521,
+    "DelayTime": 1,
+    "AddCurveRatio": 50.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1521,
+    "DelayTime": 1,
+    "AddCurveRatio": 56.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1521,
+    "DelayTime": 1,
+    "AddCurveRatio": 60.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1521,
+    "DelayTime": 1,
+    "AddCurveRatio": 56.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1521,
+    "DelayTime": 1,
+    "AddCurveRatio": 50.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1521,
+    "DelayTime": 1,
+    "AddCurveRatio": 42.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1521,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1522,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1522,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1522,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1522,
+    "DelayTime": 1,
+    "AddCurveRatio": 40.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1522,
+    "DelayTime": 1,
+    "AddCurveRatio": 42.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1522,
+    "DelayTime": 1,
+    "AddCurveRatio": 46.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1522,
+    "DelayTime": 1,
+    "AddCurveRatio": 42.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1522,
+    "DelayTime": 1,
+    "AddCurveRatio": 40.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1522,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1522,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1523,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1523,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 3,
+    "AddHigh": 3
+  },
+  {
+    "CurveID": 1523,
+    "DelayTime": 1,
+    "AddCurveRatio": 42.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 5,
+    "AddHigh": 5
+  },
+  {
+    "CurveID": 1523,
+    "DelayTime": 1,
+    "AddCurveRatio": 50.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 9,
+    "AddHigh": 9
+  },
+  {
+    "CurveID": 1523,
+    "DelayTime": 1,
+    "AddCurveRatio": 56.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1523,
+    "DelayTime": 1,
+    "AddCurveRatio": 60.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1523,
+    "DelayTime": 1,
+    "AddCurveRatio": 56.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1523,
+    "DelayTime": 1,
+    "AddCurveRatio": 50.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1523,
+    "DelayTime": 1,
+    "AddCurveRatio": 42.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 1523,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1524,
+    "DelayTime": 1,
+    "AddCurveRatio": 12.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1524,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1524,
+    "DelayTime": 1,
+    "AddCurveRatio": 30.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1524,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1524,
+    "DelayTime": 1,
+    "AddCurveRatio": 40.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1524,
+    "DelayTime": 1,
+    "AddCurveRatio": 42.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1524,
+    "DelayTime": 1,
+    "AddCurveRatio": 40.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1524,
+    "DelayTime": 1,
+    "AddCurveRatio": 36.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1524,
+    "DelayTime": 1,
+    "AddCurveRatio": 30.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 1524,
+    "DelayTime": 1,
+    "AddCurveRatio": 24.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 2131,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2131,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2131,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2131,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2131,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2131,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2131,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2131,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2131,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2131,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2231,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2231,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2231,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2231,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2231,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2231,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2231,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2231,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2231,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2231,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2331,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2331,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2331,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2331,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2331,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2331,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2331,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2331,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2331,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2331,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2431,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2431,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2431,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2431,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2431,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2431,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2431,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2431,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2431,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2431,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2531,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2531,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2531,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2531,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2531,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2531,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 6,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2531,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 7,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2531,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 8,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2531,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 9,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 2531,
+    "DelayTime": 1,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 10,
+    "AddLow": 12,
+    "AddHigh": 18
+  },
+  {
+    "CurveID": 3641,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 3641,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 3641,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 3141,
+    "DelayTime": 0,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 0,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 3142,
+    "DelayTime": 0,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 0,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 3143,
+    "DelayTime": 0,
+    "AddCurveRatio": 0.0,
+    "HPDecrease": 0,
+    "PlayerStep": 0,
+    "AddLow": 10,
+    "AddHigh": 10
+  },
+  {
+    "CurveID": 10101,
+    "DelayTime": 0,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10101,
+    "DelayTime": 0,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10101,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10102,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10102,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10102,
+    "DelayTime": 1,
+    "AddCurveRatio": 9.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10102,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10102,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10103,
+    "DelayTime": 1,
+    "AddCurveRatio": 6.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10103,
+    "DelayTime": 1,
+    "AddCurveRatio": 22.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10103,
+    "DelayTime": 1,
+    "AddCurveRatio": 8.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10103,
+    "DelayTime": 1,
+    "AddCurveRatio": 8.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10103,
+    "DelayTime": 1,
+    "AddCurveRatio": 5.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10104,
+    "DelayTime": 1,
+    "AddCurveRatio": 3.0,
+    "HPDecrease": 0,
+    "PlayerStep": 1,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10104,
+    "DelayTime": 1,
+    "AddCurveRatio": 4.0,
+    "HPDecrease": 0,
+    "PlayerStep": 2,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10104,
+    "DelayTime": 1,
+    "AddCurveRatio": 5.0,
+    "HPDecrease": 0,
+    "PlayerStep": 3,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10104,
+    "DelayTime": 1,
+    "AddCurveRatio": 5.0,
+    "HPDecrease": 0,
+    "PlayerStep": 4,
+    "AddLow": 0,
+    "AddHigh": 0
+  },
+  {
+    "CurveID": 10104,
+    "DelayTime": 1,
+    "AddCurveRatio": 5.0,
+    "HPDecrease": 0,
+    "PlayerStep": 5,
+    "AddLow": 0,
+    "AddHigh": 0
+  }
+]

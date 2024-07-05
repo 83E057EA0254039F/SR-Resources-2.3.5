@@ -1,0 +1,282 @@
+[
+  {
+    "SkillTextIDList": [
+      1001111
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100111,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -1749800551
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1001121
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100112,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -1346516024
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1001131
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100113,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": 1382367331
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1001211
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100121,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -1749800550
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1001221
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100122,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -1346516023
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1002111
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100211,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -1326313048
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1002121
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100212,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -1729597575
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1002211
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100221,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -1326313047
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1002221
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100222,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -1729597574
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1003111
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100311,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -1467475549
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1003121
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100312,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": 1261407806
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1003131
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100313,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -304676135
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1004111
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100411,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": 2121679242
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1004121
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100412,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -607204113
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1004131
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100413,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": 958879828
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1004141
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100414,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -1770003527
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1004151
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100415,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -203919586
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1004211
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100421,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": 2121679243
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1004221
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100422,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": -607204112
+    }
+  },
+  {
+    "SkillTextIDList": [
+      1004231
+    ],
+    "SkillAnswer": {
+      "hash": 371857150
+    },
+    "SkillID": 100423,
+    "Difficulty": 1,
+    "Type": "Normal",
+    "SkillName": {
+      "hash": 958879829
+    }
+  }
+]

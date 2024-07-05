@@ -1,0 +1,346 @@
+[
+  {
+    "SpecialAvatarIDList": [
+      3021005,
+      3021111
+    ],
+    "EntranceIconPath": "SpriteOutput/UI/Quest/TreasureDungeon/TGEntrance01.png",
+    "ImgPath": "UI/UI3D/TreasureDungeon/_dependencies/Materials/TreasureDungeonBG.mat",
+    "RecommendNature": [
+      "Ice",
+      "Thunder",
+      "Fire",
+      "Imaginary"
+    ],
+    "DisplayMonsterIDList": [
+      1013010,
+      1013020
+    ],
+    "DisplayEventID": 306010,
+    "GroupID": 10,
+    "GridPrefabType": 0,
+    "GridExploreCost": 1,
+    "ExploreSubHpRatio": 300,
+    "Name": {
+      "hash": 1735427583
+    },
+    "UnlockID": 0,
+    "PreDungeonID": 0,
+    "InitialExplore": 25,
+    "DungeonID": 10,
+    "Desc": {
+      "hash": -1388082763
+    },
+    "MaxExplore": 30
+  },
+  {
+    "SpecialAvatarIDList": [
+      3021005,
+      3021111
+    ],
+    "EntranceIconPath": "SpriteOutput/UI/Quest/TreasureDungeon/TGEntrance01Hard.png",
+    "ImgPath": "UI/UI3D/TreasureDungeon/_dependencies/Materials/TreasureDungeonBG.mat",
+    "RecommendNature": [
+      "Ice",
+      "Thunder",
+      "Fire",
+      "Imaginary"
+    ],
+    "DisplayMonsterIDList": [
+      1013010,
+      1013020
+    ],
+    "DisplayEventID": 306013,
+    "GroupID": 10,
+    "GridPrefabType": 0,
+    "GridExploreCost": 1,
+    "ExploreSubHpRatio": 500,
+    "Name": {
+      "hash": 1735427584
+    },
+    "UnlockID": 101201,
+    "PreDungeonID": 10,
+    "InitialExplore": 25,
+    "DungeonID": 11,
+    "Desc": {
+      "hash": -1388082762
+    },
+    "MaxExplore": 30
+  },
+  {
+    "SpecialAvatarIDList": [
+      3021006,
+      3021206
+    ],
+    "EntranceIconPath": "SpriteOutput/UI/Quest/TreasureDungeon/TGEntrance02.png",
+    "ImgPath": "UI/UI3D/TreasureDungeon/_dependencies/Materials/TreasureDungeonBGLv2.mat",
+    "RecommendNature": [
+      "Quantum",
+      "Physical",
+      "Fire",
+      "Ice",
+      "Wind"
+    ],
+    "DisplayMonsterIDList": [
+      8003010,
+      8003020
+    ],
+    "DisplayEventID": 306010,
+    "GroupID": 20,
+    "GridPrefabType": 0,
+    "GridExploreCost": 1,
+    "ExploreSubHpRatio": 300,
+    "Name": {
+      "hash": -993455772
+    },
+    "UnlockID": 101201,
+    "PreDungeonID": 10,
+    "InitialExplore": 25,
+    "DungeonID": 20,
+    "Desc": {
+      "hash": -1791367290
+    },
+    "MaxExplore": 30
+  },
+  {
+    "SpecialAvatarIDList": [
+      3021006,
+      3021206
+    ],
+    "EntranceIconPath": "SpriteOutput/UI/Quest/TreasureDungeon/TGEntrance02Hard.png",
+    "ImgPath": "UI/UI3D/TreasureDungeon/_dependencies/Materials/TreasureDungeonBGLv2.mat",
+    "RecommendNature": [
+      "Quantum",
+      "Physical",
+      "Fire",
+      "Ice",
+      "Wind"
+    ],
+    "DisplayMonsterIDList": [
+      8003010,
+      8003020
+    ],
+    "DisplayEventID": 306013,
+    "GroupID": 20,
+    "GridPrefabType": 0,
+    "GridExploreCost": 1,
+    "ExploreSubHpRatio": 500,
+    "Name": {
+      "hash": -993455771
+    },
+    "UnlockID": 101202,
+    "PreDungeonID": 20,
+    "InitialExplore": 25,
+    "DungeonID": 21,
+    "Desc": {
+      "hash": -1791367289
+    },
+    "MaxExplore": 30
+  },
+  {
+    "SpecialAvatarIDList": [
+      3021204,
+      3021202
+    ],
+    "EntranceIconPath": "SpriteOutput/UI/Quest/TreasureDungeon/TGEntrance03.png",
+    "ImgPath": "UI/UI3D/TreasureDungeon/_dependencies/Materials/TreasureDungeonBGLv3.mat",
+    "RecommendNature": [
+      "Thunder",
+      "Fire",
+      "Ice",
+      "Quantum",
+      "Imaginary"
+    ],
+    "DisplayMonsterIDList": [
+      1023020,
+      1023010
+    ],
+    "DisplayEventID": 306010,
+    "GroupID": 30,
+    "GridPrefabType": 0,
+    "GridExploreCost": 1,
+    "ExploreSubHpRatio": 300,
+    "Name": {
+      "hash": 572628169
+    },
+    "UnlockID": 101202,
+    "PreDungeonID": 20,
+    "InitialExplore": 25,
+    "DungeonID": 30,
+    "Desc": {
+      "hash": -225283349
+    },
+    "MaxExplore": 30
+  },
+  {
+    "SpecialAvatarIDList": [
+      3021204,
+      3021202
+    ],
+    "EntranceIconPath": "SpriteOutput/UI/Quest/TreasureDungeon/TGEntrance03Hard.png",
+    "ImgPath": "UI/UI3D/TreasureDungeon/_dependencies/Materials/TreasureDungeonBGLv3.mat",
+    "RecommendNature": [
+      "Thunder",
+      "Fire",
+      "Ice",
+      "Quantum",
+      "Imaginary"
+    ],
+    "DisplayMonsterIDList": [
+      1023020,
+      1023010
+    ],
+    "DisplayEventID": 306013,
+    "GroupID": 30,
+    "GridPrefabType": 0,
+    "GridExploreCost": 1,
+    "ExploreSubHpRatio": 500,
+    "Name": {
+      "hash": 572628170
+    },
+    "UnlockID": 101203,
+    "PreDungeonID": 30,
+    "InitialExplore": 25,
+    "DungeonID": 31,
+    "Desc": {
+      "hash": -225283348
+    },
+    "MaxExplore": 30
+  },
+  {
+    "SpecialAvatarIDList": [
+      3021205,
+      3021203
+    ],
+    "EntranceIconPath": "SpriteOutput/UI/Quest/TreasureDungeon/TGEntrance04.png",
+    "ImgPath": "UI/UI3D/TreasureDungeon/_dependencies/Materials/TreasureDungeonBGLv4.mat",
+    "RecommendNature": [
+      "Wind",
+      "Physical",
+      "Fire",
+      "Thunder",
+      "Quantum"
+    ],
+    "DisplayMonsterIDList": [
+      8003030,
+      8003040
+    ],
+    "DisplayEventID": 306010,
+    "GroupID": 40,
+    "GridPrefabType": 0,
+    "GridExploreCost": 1,
+    "ExploreSubHpRatio": 300,
+    "Name": {
+      "hash": -1800024826
+    },
+    "UnlockID": 101203,
+    "PreDungeonID": 30,
+    "InitialExplore": 25,
+    "DungeonID": 40,
+    "Desc": {
+      "hash": -628567876
+    },
+    "MaxExplore": 30
+  },
+  {
+    "SpecialAvatarIDList": [
+      3021205,
+      3021203
+    ],
+    "EntranceIconPath": "SpriteOutput/UI/Quest/TreasureDungeon/TGEntrance04Hard.png",
+    "ImgPath": "UI/UI3D/TreasureDungeon/_dependencies/Materials/TreasureDungeonBGLv4.mat",
+    "RecommendNature": [
+      "Wind",
+      "Physical",
+      "Fire",
+      "Thunder",
+      "Quantum"
+    ],
+    "DisplayMonsterIDList": [
+      8003030,
+      8003040
+    ],
+    "DisplayEventID": 306013,
+    "GroupID": 40,
+    "GridPrefabType": 0,
+    "GridExploreCost": 1,
+    "ExploreSubHpRatio": 500,
+    "Name": {
+      "hash": -1800024825
+    },
+    "UnlockID": 101204,
+    "PreDungeonID": 40,
+    "InitialExplore": 25,
+    "DungeonID": 41,
+    "Desc": {
+      "hash": -628567875
+    },
+    "MaxExplore": 30
+  },
+  {
+    "SpecialAvatarIDList": [
+      3021005,
+      3021009
+    ],
+    "EntranceIconPath": "SpriteOutput/UI/Quest/TreasureDungeon/TGEntranceLv05.png",
+    "ImgPath": "UI/UI3D/TreasureDungeon/_dependencies/Materials/TreasureDungeonBGLv5.mat",
+    "RecommendNature": [
+      "Fire",
+      "Thunder",
+      "Wind"
+    ],
+    "DisplayMonsterIDList": [
+      101401006
+    ],
+    "DisplayEventID": 306010,
+    "GroupID": 50,
+    "GridPrefabType": 1,
+    "GridExploreCost": 1,
+    "ExploreSubHpRatio": 300,
+    "Name": {
+      "hash": -233940885
+    },
+    "UnlockID": 101204,
+    "PreDungeonID": 40,
+    "InitialExplore": 25,
+    "DungeonID": 50,
+    "Desc": {
+      "hash": 937516065
+    },
+    "MaxExplore": 30
+  },
+  {
+    "SpecialAvatarIDList": [
+      3021005,
+      3021009
+    ],
+    "EntranceIconPath": "SpriteOutput/UI/Quest/TreasureDungeon/TGEntranceLv05Hard.png",
+    "ImgPath": "UI/UI3D/TreasureDungeon/_dependencies/Materials/TreasureDungeonBGLv5.mat",
+    "RecommendNature": [
+      "Fire",
+      "Thunder",
+      "Wind"
+    ],
+    "DisplayMonsterIDList": [
+      101401006,
+      1013010,
+      1013020
+    ],
+    "DisplayEventID": 306013,
+    "GroupID": 50,
+    "GridPrefabType": 1,
+    "GridExploreCost": 1,
+    "ExploreSubHpRatio": 500,
+    "Name": {
+      "hash": -233940884
+    },
+    "UnlockID": 101205,
+    "PreDungeonID": 50,
+    "InitialExplore": 25,
+    "DungeonID": 51,
+    "Desc": {
+      "hash": 937516066
+    },
+    "MaxExplore": 30
+  }
+]

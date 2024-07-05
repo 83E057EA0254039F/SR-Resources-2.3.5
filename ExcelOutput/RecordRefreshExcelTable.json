@@ -1,0 +1,130 @@
+[
+  {
+    "RefreshTime": [
+      0
+    ],
+    "RefreshType": "Unknown",
+    "IsInteract": false,
+    "RefreshID": 1
+  },
+  {
+    "RefreshTime": [
+      3600
+    ],
+    "RefreshType": "Countdown",
+    "IsInteract": false,
+    "RefreshID": 10001
+  },
+  {
+    "RefreshTime": [
+      86400
+    ],
+    "RefreshType": "Countdown",
+    "IsInteract": false,
+    "RefreshID": 10002
+  },
+  {
+    "RefreshTime": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RefreshType": "Weekly",
+    "IsInteract": false,
+    "RefreshID": 10003
+  },
+  {
+    "RefreshTime": [
+      1
+    ],
+    "RefreshType": "Weekly",
+    "IsInteract": false,
+    "RefreshID": 10004
+  },
+  {
+    "RefreshTime": [],
+    "RefreshType": "Countdown",
+    "IsInteract": false,
+    "RefreshID": 10005
+  },
+  {
+    "RefreshTime": [
+      30
+    ],
+    "RefreshType": "Countdown",
+    "IsInteract": false,
+    "RefreshID": 10006
+  },
+  {
+    "RefreshTime": [
+      60
+    ],
+    "RefreshType": "Countdown",
+    "IsInteract": false,
+    "RefreshID": 10007
+  },
+  {
+    "RefreshTime": [
+      300
+    ],
+    "RefreshType": "Countdown",
+    "IsInteract": false,
+    "RefreshID": 10008
+  },
+  {
+    "RefreshTime": [
+      600
+    ],
+    "RefreshType": "Countdown",
+    "IsInteract": false,
+    "RefreshID": 10009
+  },
+  {
+    "RefreshTime": [
+      0
+    ],
+    "RefreshType": "Immediately",
+    "IsInteract": false,
+    "RefreshID": 19999
+  },
+  {
+    "RefreshTime": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RefreshType": "Weekly",
+    "IsInteract": false,
+    "RefreshID": 1001
+  },
+  {
+    "RefreshTime": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RefreshType": "Weekly",
+    "IsInteract": false,
+    "RefreshID": 1002
+  },
+  {
+    "RefreshTime": [
+      20
+    ],
+    "RefreshType": "Countdown",
+    "IsInteract": false,
+    "RefreshID": 1003
+  }
+]

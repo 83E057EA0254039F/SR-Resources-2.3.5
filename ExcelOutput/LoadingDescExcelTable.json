@@ -1,0 +1,1136 @@
+[
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10121,
+    "MinLevel": 1,
+    "ImageID": 10006,
+    "MinWorldLevel": 0,
+    "Group": "World201",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 1243853925
+    },
+    "TitleTextmapID": {
+      "hash": -218710034
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10122,
+    "MinLevel": 1,
+    "ImageID": 10003,
+    "MinWorldLevel": 0,
+    "Group": "World201",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 1243853922
+    },
+    "TitleTextmapID": {
+      "hash": 1347373907
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10124,
+    "MinLevel": 1,
+    "ImageID": 10007,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 1243853928
+    },
+    "TitleTextmapID": {
+      "hash": 184574493
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10126,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 1243853926
+    },
+    "TitleTextmapID": {
+      "hash": -978224921
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10127,
+    "MinLevel": 1,
+    "ImageID": 10003,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 1243853927
+    },
+    "TitleTextmapID": {
+      "hash": 587859020
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10128,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 1243853932
+    },
+    "TitleTextmapID": {
+      "hash": -1428563615
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10129,
+    "MinLevel": 1,
+    "ImageID": 10003,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 1243853933
+    },
+    "TitleTextmapID": {
+      "hash": 137520326
+    }
+  },
+  {
+    "UnlockParamForOr": [
+      {
+        "FJOJLFMCPKP": 43201001,
+        "EEOLCCFMJFF": "EntranceID"
+      },
+      {
+        "FJOJLFMCPKP": 43201002,
+        "EEOLCCFMJFF": "EntranceID"
+      },
+      {
+        "FJOJLFMCPKP": 43201003,
+        "EEOLCCFMJFF": "EntranceID"
+      },
+      {
+        "FJOJLFMCPKP": 43201004,
+        "EEOLCCFMJFF": "EntranceID"
+      },
+      {
+        "FJOJLFMCPKP": 43201005,
+        "EEOLCCFMJFF": "EntranceID"
+      }
+    ],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [
+      {
+        "FJOJLFMCPKP": 43201001,
+        "EEOLCCFMJFF": "EntranceID"
+      },
+      {
+        "FJOJLFMCPKP": 43201002,
+        "EEOLCCFMJFF": "EntranceID"
+      },
+      {
+        "FJOJLFMCPKP": 43201003,
+        "EEOLCCFMJFF": "EntranceID"
+      },
+      {
+        "FJOJLFMCPKP": 43201004,
+        "EEOLCCFMJFF": "EntranceID"
+      },
+      {
+        "FJOJLFMCPKP": 43201005,
+        "EEOLCCFMJFF": "EntranceID"
+      }
+    ],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10130,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1485029431
+    },
+    "TitleTextmapID": {
+      "hash": -1784793976
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10131,
+    "MinLevel": 1,
+    "ImageID": 10004,
+    "MinWorldLevel": 0,
+    "Group": "NormalIP",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1485029430
+    },
+    "TitleTextmapID": {
+      "hash": -218710035
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10132,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "NormalIP",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1485029433
+    },
+    "TitleTextmapID": {
+      "hash": 1347373906
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10133,
+    "MinLevel": 1,
+    "ImageID": 10006,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1485029432
+    },
+    "TitleTextmapID": {
+      "hash": -1381509449
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10134,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World201",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1485029427
+    },
+    "TitleTextmapID": {
+      "hash": 184574492
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10135,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World201",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1485029426
+    },
+    "TitleTextmapID": {
+      "hash": 1750658433
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10136,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1485029429
+    },
+    "TitleTextmapID": {
+      "hash": -978224922
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10141,
+    "MinLevel": 1,
+    "ImageID": 10005,
+    "MinWorldLevel": 0,
+    "Group": "World100",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 81054511
+    },
+    "TitleTextmapID": {
+      "hash": -218710028
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10142,
+    "MinLevel": 1,
+    "ImageID": 10004,
+    "MinWorldLevel": 0,
+    "Group": "World100",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 81054508
+    },
+    "TitleTextmapID": {
+      "hash": 1347373913
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10143,
+    "MinLevel": 1,
+    "ImageID": 10002,
+    "MinWorldLevel": 0,
+    "Group": "NormalIP",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 81054509
+    },
+    "TitleTextmapID": {
+      "hash": -1381509442
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10144,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "NormalIP",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 81054514
+    },
+    "TitleTextmapID": {
+      "hash": 184574499
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10175,
+    "MinLevel": 1,
+    "ImageID": 10005,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 484339042
+    },
+    "TitleTextmapID": {
+      "hash": 1750658437
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10149,
+    "MinLevel": 1,
+    "ImageID": 10001,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 81054519
+    },
+    "TitleTextmapID": {
+      "hash": 137520332
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10151,
+    "MinLevel": 1,
+    "ImageID": 10007,
+    "MinWorldLevel": 0,
+    "Group": "NormalIP",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 1647138452
+    },
+    "TitleTextmapID": {
+      "hash": -218710029
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 20014,
+    "MinLevel": 1,
+    "ImageID": 10002,
+    "MinWorldLevel": 0,
+    "Group": "NormalIP",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -322235295
+    },
+    "TitleTextmapID": {
+      "hash": -311526712
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10156,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 1647138453
+    },
+    "TitleTextmapID": {
+      "hash": -978224916
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10157,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 1647138454
+    },
+    "TitleTextmapID": {
+      "hash": 587859025
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10158,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 1647138459
+    },
+    "TitleTextmapID": {
+      "hash": -1428563610
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10159,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 1647138460
+    },
+    "TitleTextmapID": {
+      "hash": 137520331
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10163,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "NormalIP",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1081744905
+    },
+    "TitleTextmapID": {
+      "hash": -1381509444
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10164,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "NormalIP",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1081744900
+    },
+    "TitleTextmapID": {
+      "hash": 184574497
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10165,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1081744899
+    },
+    "TitleTextmapID": {
+      "hash": 1750658438
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10166,
+    "MinLevel": 1,
+    "ImageID": 10005,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1081744902
+    },
+    "TitleTextmapID": {
+      "hash": -978224917
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10167,
+    "MinLevel": 1,
+    "ImageID": 10005,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1081744901
+    },
+    "TitleTextmapID": {
+      "hash": 587859024
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10170,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 484339037
+    },
+    "TitleTextmapID": {
+      "hash": -1784793972
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10171,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 484339038
+    },
+    "TitleTextmapID": {
+      "hash": -218710031
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10172,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 484339035
+    },
+    "TitleTextmapID": {
+      "hash": 1347373910
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10173,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 484339036
+    },
+    "TitleTextmapID": {
+      "hash": -1381509445
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10174,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": 484339041
+    },
+    "TitleTextmapID": {
+      "hash": 184574496
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 20015,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -322235294
+    },
+    "TitleTextmapID": {
+      "hash": 1254557229
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 20016,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -322235293
+    },
+    "TitleTextmapID": {
+      "hash": 851272702
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 20017,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -322235292
+    },
+    "TitleTextmapID": {
+      "hash": -1877610653
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 20019,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -322235290
+    },
+    "TitleTextmapID": {
+      "hash": -358580879
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10182,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1532083600
+    },
+    "TitleTextmapID": {
+      "hash": 1347373917
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10183,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1532083599
+    },
+    "TitleTextmapID": {
+      "hash": -1381509438
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10184,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1532083594
+    },
+    "TitleTextmapID": {
+      "hash": 184574503
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10185,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1532083593
+    },
+    "TitleTextmapID": {
+      "hash": 1750658444
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10186,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World401",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1532083596
+    },
+    "TitleTextmapID": {
+      "hash": -978224911
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10200,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1888313927
+    },
+    "TitleTextmapID": {
+      "hash": 1488536410
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10201,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1888313928
+    },
+    "TitleTextmapID": {
+      "hash": -77547531
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10202,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1888313925
+    },
+    "TitleTextmapID": {
+      "hash": -1643631472
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10203,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1888313926
+    },
+    "TitleTextmapID": {
+      "hash": 1085251883
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10204,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1888313923
+    },
+    "TitleTextmapID": {
+      "hash": -837062418
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10205,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1888313924
+    },
+    "TitleTextmapID": {
+      "hash": 1891820937
+    }
+  },
+  {
+    "UnlockParamForOr": [],
+    "LockParamForOr": [],
+    "UnlockParam": [],
+    "ForceParamForOr": [],
+    "LockParam": [],
+    "ForceParam": [],
+    "ID": 10206,
+    "MinLevel": 1,
+    "ImageID": 10008,
+    "MinWorldLevel": 0,
+    "Group": "World301",
+    "Weight": 20,
+    "MaxLevel": 80,
+    "DescTextmapID": {
+      "hash": -1888313921
+    },
+    "TitleTextmapID": {
+      "hash": 325736996
+    }
+  }
+]

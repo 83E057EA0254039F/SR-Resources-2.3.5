@@ -1,0 +1,241 @@
+[
+  {
+    "DiceIcon": "SpriteOutput/UI/Rogue/DLC/Dice/DiceIcon/IconRogueDlcDice1.png",
+    "DiceModel": "Effects/Eff_Prefab/Eff_Scene/InteractiveProp/Eff_Rogue_Prop_DicePreservation_01_Idel_Lod0.prefab",
+    "StartDescParam": [
+      2
+    ],
+    "SoundSuspensionStart": "Ev_sfx_rogue_dice_idle_preservation",
+    "SoundSuspensionStop": "Ev_sfx_rogue_dice_idle_preservation_stop",
+    "ExtraEffect": [
+      61000002,
+      61000018,
+      61000019
+    ],
+    "DescParam": [
+      {
+        "RawValue": 171798692
+      },
+      {
+        "RawValue": 4294967296
+      }
+    ],
+    "SoundRoll": "Ev_sfx_rogue_dice_spawn_preservation",
+    "SoundReRoll": "Ev_sfx_rogue_dice_reroll_preservation",
+    "DiceShortDesc": {
+      "hash": 1168787700
+    },
+    "DiceStartEffectDesc": {
+      "hash": 575418883
+    },
+    "DiceCountDesc": {
+      "hash": 371857150
+    },
+    "AeonDiceID": 1
+  },
+  {
+    "DiceIcon": "SpriteOutput/UI/Rogue/DLC/Dice/DiceIcon/IconRogueDlcDice2.png",
+    "DiceModel": "Effects/Eff_Prefab/Eff_Scene/InteractiveProp/Eff_Rogue_Prop_DiceRemembrance_01_Idel_Lod0.prefab",
+    "StartDescParam": [
+      2
+    ],
+    "SoundSuspensionStart": "Ev_sfx_rogue_dice_idle_remembrance",
+    "SoundSuspensionStop": "Ev_sfx_rogue_dice_idle_remembrance_stop",
+    "ExtraEffect": [
+      61000004
+    ],
+    "DescParam": [
+      {
+        "RawValue": 1073741825
+      }
+    ],
+    "SoundRoll": "Ev_sfx_rogue_dice_spawn_remembrance",
+    "SoundReRoll": "Ev_sfx_rogue_dice_reroll_remembrance",
+    "DiceShortDesc": {
+      "hash": 765503173
+    },
+    "DiceStartEffectDesc": {
+      "hash": -990665058
+    },
+    "DiceCountDesc": {
+      "hash": 371857150
+    },
+    "AeonDiceID": 2
+  },
+  {
+    "DiceIcon": "SpriteOutput/UI/Rogue/DLC/Dice/DiceIcon/IconRogueDlcDice3.png",
+    "DiceModel": "Effects/Eff_Prefab/Eff_Scene/InteractiveProp/Eff_Rogue_Prop_DiceNihility_01_Idel_Lod0.prefab",
+    "StartDescParam": [
+      2
+    ],
+    "SoundSuspensionStart": "Ev_sfx_rogue_dice_idle_nihility",
+    "SoundSuspensionStop": "Ev_sfx_rogue_dice_idle_nihility_stop",
+    "ExtraEffect": [
+      61000009
+    ],
+    "DescParam": [
+      {
+        "RawValue": 773094114
+      }
+    ],
+    "SoundRoll": "Ev_sfx_rogue_dice_spawn_nihility",
+    "SoundReRoll": "Ev_sfx_rogue_dice_reroll_nihility",
+    "DiceShortDesc": {
+      "hash": -1963380182
+    },
+    "DiceStartEffectDesc": {
+      "hash": 1738218297
+    },
+    "DiceCountDesc": {
+      "hash": 371857150
+    },
+    "AeonDiceID": 3
+  },
+  {
+    "DiceIcon": "SpriteOutput/UI/Rogue/DLC/Dice/DiceIcon/IconRogueDlcDice4.png",
+    "DiceModel": "Effects/Eff_Prefab/Eff_Scene/InteractiveProp/Eff_Rogue_Prop_DiceAbundance_01_Idel_Lod0.prefab",
+    "StartDescParam": [
+      2
+    ],
+    "SoundSuspensionStart": "Ev_sfx_rogue_dice_idle_abundance",
+    "SoundSuspensionStop": "Ev_sfx_rogue_dice_idle_abundance_stop",
+    "ExtraEffect": [
+      61000003
+    ],
+    "DescParam": [
+      {
+        "RawValue": 214748365
+      },
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 8589934592
+      }
+    ],
+    "SoundRoll": "Ev_sfx_rogue_dice_spawn_abundance",
+    "SoundReRoll": "Ev_sfx_rogue_dice_reroll_abundance",
+    "DiceShortDesc": {
+      "hash": 1928302587
+    },
+    "DiceStartEffectDesc": {
+      "hash": 172134356
+    },
+    "DiceCountDesc": {
+      "hash": 371857150
+    },
+    "AeonDiceID": 4
+  },
+  {
+    "DiceIcon": "SpriteOutput/UI/Rogue/DLC/Dice/DiceIcon/IconRogueDlcDice5.png",
+    "DiceModel": "Effects/Eff_Prefab/Eff_Scene/InteractiveProp/Eff_Rogue_Prop_DiceTheHunt_01_Idel_Lod0.prefab",
+    "StartDescParam": [],
+    "SoundSuspensionStart": "Ev_sfx_rogue_dice_idle_thehunt",
+    "SoundSuspensionStop": "Ev_sfx_rogue_dice_idle_thehunt_stop",
+    "ExtraEffect": [
+      61000007,
+      61000008
+    ],
+    "DescParam": [
+      {
+        "RawValue": 1288490190
+      }
+    ],
+    "SoundRoll": "Ev_sfx_rogue_dice_spawn_thehunt",
+    "SoundReRoll": "Ev_sfx_rogue_dice_reroll_thehunt",
+    "DiceShortDesc": {
+      "hash": -800580768
+    },
+    "DiceStartEffectDesc": {
+      "hash": -1393949585
+    },
+    "DiceCountDesc": {
+      "hash": 371857150
+    },
+    "AeonDiceID": 5
+  },
+  {
+    "DiceIcon": "SpriteOutput/UI/Rogue/DLC/Dice/DiceIcon/IconRogueDlcDice6.png",
+    "DiceModel": "Effects/Eff_Prefab/Eff_Scene/InteractiveProp/Eff_Rogue_Prop_DiceDestruction_01_Idel_Lod0.prefab",
+    "StartDescParam": [
+      2
+    ],
+    "SoundSuspensionStart": "Ev_sfx_rogue_dice_idle_destruction",
+    "SoundSuspensionStop": "Ev_sfx_rogue_dice_idle_destruction_stop",
+    "ExtraEffect": [
+      61000013
+    ],
+    "DescParam": [
+      {
+        "RawValue": 343597384
+      },
+      {
+        "RawValue": 4294967296
+      }
+    ],
+    "SoundRoll": "Ev_sfx_rogue_dice_spawn_destruction",
+    "SoundReRoll": "Ev_sfx_rogue_dice_reroll_destruction",
+    "DiceShortDesc": {
+      "hash": -1203865295
+    },
+    "DiceStartEffectDesc": {
+      "hash": 1334933770
+    },
+    "DiceCountDesc": {
+      "hash": 371857150
+    },
+    "AeonDiceID": 6
+  },
+  {
+    "DiceIcon": "SpriteOutput/UI/Rogue/DLC/Dice/DiceIcon/IconRogueDlcDice7.png",
+    "DiceModel": "Effects/Eff_Prefab/Eff_Scene/InteractiveProp/Eff_Rogue_Prop_DiceElation_01_Idel_Lod0.prefab",
+    "StartDescParam": [],
+    "SoundSuspensionStart": "Ev_sfx_rogue_dice_idle_elation",
+    "SoundSuspensionStop": "Ev_sfx_rogue_dice_idle_elation_stop",
+    "ExtraEffect": [
+      61000018,
+      61000019
+    ],
+    "DescParam": [],
+    "SoundRoll": "Ev_sfx_rogue_dice_spawn_elation",
+    "SoundReRoll": "Ev_sfx_rogue_dice_reroll_elation",
+    "DiceShortDesc": {
+      "hash": 362218646
+    },
+    "DiceStartEffectDesc": {
+      "hash": -231150171
+    },
+    "DiceCountDesc": {
+      "hash": 371857150
+    },
+    "AeonDiceID": 7
+  },
+  {
+    "DiceIcon": "SpriteOutput/UI/Rogue/DLC/Dice/DiceIcon/IconRogueDlcDice8.png",
+    "DiceModel": "Effects/Eff_Prefab/Eff_Scene/InteractiveProp/Eff_Rogue_Prop_DicePropagation_01_Idel_Lod0.prefab",
+    "StartDescParam": [],
+    "SoundSuspensionStart": "Ev_sfx_rogue_dice_idle_propagation",
+    "SoundSuspensionStop": "Ev_sfx_rogue_dice_idle_propagation_stop",
+    "ExtraEffect": [
+      61000012,
+      61000017
+    ],
+    "DescParam": [
+      {
+        "RawValue": 858993460
+      }
+    ],
+    "SoundRoll": "Ev_sfx_rogue_dice_spawn_propagation",
+    "SoundReRoll": "Ev_sfx_rogue_dice_reroll_propagation",
+    "DiceShortDesc": {
+      "hash": -753526601
+    },
+    "DiceStartEffectDesc": {
+      "hash": -1797234112
+    },
+    "DiceCountDesc": {
+      "hash": 371857150
+    },
+    "AeonDiceID": 8
+  }
+]

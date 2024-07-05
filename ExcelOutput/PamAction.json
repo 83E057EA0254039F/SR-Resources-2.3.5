@@ -1,0 +1,240 @@
+[
+  {
+    "Settle": [
+      20,
+      -10
+    ],
+    "AnimGroupName": "Music01_StandBy",
+    "MaxStrengthPoint": 100,
+    "MinStrengthPoint": 20,
+    "PamMood": "None",
+    "PamAction": "Music",
+    "MaxMoodPoint": 100,
+    "PerformanceID": 501020101,
+    "Weight": 0.5,
+    "WithoutAnchor": false,
+    "AnyDirection": false,
+    "MinMoodPoint": 60
+  },
+  {
+    "Settle": [
+      -10,
+      -20
+    ],
+    "AnimGroupName": "Cleaning01_StandBy",
+    "MaxStrengthPoint": 100,
+    "MinStrengthPoint": 40,
+    "PamMood": "None",
+    "PamAction": "Cleaning",
+    "MaxMoodPoint": 100,
+    "PerformanceID": 501020102,
+    "Weight": 1.0,
+    "WithoutAnchor": false,
+    "AnyDirection": true,
+    "MinMoodPoint": 60
+  },
+  {
+    "Settle": [
+      10,
+      0
+    ],
+    "AnimGroupName": "LookOut01_StandBy",
+    "MaxStrengthPoint": 100,
+    "MinStrengthPoint": 20,
+    "PamMood": "None",
+    "PamAction": "Window",
+    "MaxMoodPoint": 100,
+    "PerformanceID": 501020103,
+    "Weight": 0.5,
+    "WithoutAnchor": false,
+    "AnyDirection": false,
+    "MinMoodPoint": 0
+  },
+  {
+    "Settle": [
+      0,
+      -10
+    ],
+    "AnimGroupName": "UseProp02_StandBy",
+    "MaxStrengthPoint": 100,
+    "MinStrengthPoint": 0,
+    "PamMood": "None",
+    "PamAction": "Vending",
+    "MaxMoodPoint": 100,
+    "PerformanceID": 501020122,
+    "Weight": 0.5,
+    "WithoutAnchor": false,
+    "AnyDirection": false,
+    "MinMoodPoint": 20
+  },
+  {
+    "Settle": [
+      10,
+      -10
+    ],
+    "AnimGroupName": "Plant01_StandBy",
+    "MaxStrengthPoint": 100,
+    "MinStrengthPoint": 40,
+    "PamMood": "None",
+    "PamAction": "Plant",
+    "MaxMoodPoint": 100,
+    "PerformanceID": 501020105,
+    "Weight": 1.0,
+    "WithoutAnchor": false,
+    "AnyDirection": false,
+    "MinMoodPoint": 40
+  },
+  {
+    "Settle": [
+      0,
+      40
+    ],
+    "AnimGroupName": "ASleep01_StandBy",
+    "MaxStrengthPoint": 80,
+    "MinStrengthPoint": 0,
+    "PamMood": "None",
+    "PamAction": "Sleep",
+    "MaxMoodPoint": 100,
+    "PerformanceID": 501020106,
+    "Weight": 1.0,
+    "WithoutAnchor": true,
+    "AnyDirection": true,
+    "MinMoodPoint": 0
+  },
+  {
+    "Settle": [
+      -10,
+      -10
+    ],
+    "AnimGroupName": "Sad01_StandBy",
+    "MaxStrengthPoint": 100,
+    "MinStrengthPoint": 0,
+    "PamMood": "Sad",
+    "PamAction": "Sad",
+    "MaxMoodPoint": 50,
+    "PerformanceID": 501020107,
+    "Weight": 1.0,
+    "WithoutAnchor": true,
+    "AnyDirection": true,
+    "MinMoodPoint": 0
+  },
+  {
+    "Settle": [
+      -10,
+      -10
+    ],
+    "AnimGroupName": "Confuse01_StandBy",
+    "MaxStrengthPoint": 100,
+    "MinStrengthPoint": 0,
+    "PamMood": "Confuse",
+    "PamAction": "Confuse",
+    "MaxMoodPoint": 50,
+    "PerformanceID": 501020108,
+    "Weight": 1.0,
+    "WithoutAnchor": true,
+    "AnyDirection": true,
+    "MinMoodPoint": 0
+  },
+  {
+    "Settle": [
+      -10,
+      -10
+    ],
+    "AnimGroupName": "Angry01_StandBy",
+    "MaxStrengthPoint": 100,
+    "MinStrengthPoint": 0,
+    "PamMood": "Angry",
+    "PamAction": "Angry",
+    "MaxMoodPoint": 50,
+    "PerformanceID": 501020109,
+    "Weight": 1.0,
+    "WithoutAnchor": true,
+    "AnyDirection": true,
+    "MinMoodPoint": 0
+  },
+  {
+    "Settle": [
+      10,
+      0
+    ],
+    "AnimGroupName": "IdleShow01_StandBy",
+    "MaxStrengthPoint": 100,
+    "MinStrengthPoint": 0,
+    "PamMood": "None",
+    "PamAction": "IdleShow01",
+    "MaxMoodPoint": 100,
+    "PerformanceID": 501020110,
+    "Weight": 0.5,
+    "WithoutAnchor": true,
+    "AnyDirection": true,
+    "MinMoodPoint": 0
+  },
+  {
+    "Settle": [
+      -10,
+      0
+    ],
+    "AnimGroupName": "IdleShow02_StandBy",
+    "MaxStrengthPoint": 100,
+    "MinStrengthPoint": 0,
+    "PamMood": "None",
+    "PamAction": "IdleShow02",
+    "MaxMoodPoint": 100,
+    "PerformanceID": 501020111,
+    "Weight": 0.5,
+    "WithoutAnchor": true,
+    "AnyDirection": true,
+    "MinMoodPoint": 0
+  },
+  {
+    "Settle": [
+      10,
+      10
+    ],
+    "AnimGroupName": "Happy01_StandBy",
+    "MaxStrengthPoint": 100,
+    "MinStrengthPoint": 0,
+    "PamMood": "Happy",
+    "PamAction": "Happy",
+    "MaxMoodPoint": 100,
+    "PerformanceID": 501020121,
+    "Weight": 1.0,
+    "WithoutAnchor": true,
+    "AnyDirection": true,
+    "MinMoodPoint": 50
+  },
+  {
+    "Settle": [
+      10,
+      10
+    ],
+    "AnimGroupName": "Like01_StandBy",
+    "MaxStrengthPoint": 100,
+    "MinStrengthPoint": 0,
+    "PamMood": "Like",
+    "PamAction": "Like",
+    "MaxMoodPoint": 100,
+    "PerformanceID": 501020112,
+    "Weight": 1.0,
+    "WithoutAnchor": true,
+    "AnyDirection": true,
+    "MinMoodPoint": 50
+  },
+  {
+    "Settle": [
+      10,
+      10
+    ],
+    "AnimGroupName": "Pleasure01_StandBy",
+    "MaxStrengthPoint": 100,
+    "MinStrengthPoint": 0,
+    "PamMood": "Pleasure",
+    "PamAction": "Pleasure",
+    "MaxMoodPoint": 100,
+    "PerformanceID": 501020113,
+    "Weight": 1.0,
+    "WithoutAnchor": true,
+    "AnyDirection": true,
+    "MinMoodPoint": 50
+  }
+]

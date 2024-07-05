@@ -1,0 +1,83 @@
+[
+  {
+    "Desc03": "",
+    "Desc01": "SpecialMode_Desc01_1017",
+    "Desc02": "",
+    "Title": "SpecialMode_Title_1017",
+    "PuzzleType": 0,
+    "SpecialModeID": 1017,
+    "IsUImode": false
+  },
+  {
+    "Desc03": "",
+    "Desc01": "SpecialMode_Desc01_1018",
+    "Desc02": "",
+    "Title": "SpecialMode_Title_1018",
+    "PuzzleType": 1,
+    "SpecialModeID": 1018,
+    "IsUImode": true
+  },
+  {
+    "Desc03": "",
+    "Desc01": "SpecialMode_Desc01_1019",
+    "Desc02": "",
+    "Title": "SpecialMode_Title_1019",
+    "PuzzleType": 2,
+    "SpecialModeID": 1019,
+    "IsUImode": false
+  },
+  {
+    "Desc03": "",
+    "Desc01": "SpecialMode_Desc01_1020",
+    "Desc02": "",
+    "Title": "SpecialMode_Title_1020",
+    "PuzzleType": 3,
+    "SpecialModeID": 1020,
+    "IsUImode": true
+  },
+  {
+    "Desc03": "",
+    "Desc01": "SpecialMode_Desc01_1028",
+    "Desc02": "",
+    "Title": "SpecialMode_Title_1028",
+    "PuzzleType": 4,
+    "SpecialModeID": 1028,
+    "IsUImode": false
+  },
+  {
+    "Desc03": "",
+    "Desc01": "SpecialMode_Desc01_1031",
+    "Desc02": "",
+    "Title": "SpecialMode_Title_1031",
+    "PuzzleType": 5,
+    "SpecialModeID": 1031,
+    "IsUImode": false
+  },
+  {
+    "Desc03": "",
+    "Desc01": "SpecialMode_Desc01_1033",
+    "Desc02": "",
+    "Title": "SpecialMode_Title_1033",
+    "PuzzleType": 6,
+    "SpecialModeID": 1033,
+    "IsUImode": false
+  },
+  {
+    "Desc03": "",
+    "Desc01": "SpecialMode_Desc01_1034",
+    "Desc02": "",
+    "Title": "SpecialMode_Title_1034",
+    "PuzzleType": 7,
+    "SpecialModeID": 1034,
+    "IsUImode": false
+  },
+  {
+    "Desc03": "",
+    "Desc01": "SpecialMode_Desc01_1041",
+    "Desc02": "",
+    "Title": "SpecialMode_Title_1041",
+    "PuzzleType": 8,
+    "SpecialModeID": 1041,
+    "IsUImode": false
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "PhyParam": [
+      0.8,
+      0.0,
+      0.0,
+      0.3
+    ],
+    "EffParam": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Soda03.png",
+    "Color": [
+      199,
+      112,
+      186
+    ],
+    "UnlockParam": [
+      1
+    ],
+    "IncludeTagList": [
+      3,
+      22
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Soda03.png",
+    "IngredientDesc": {
+      "hash": 890328762
+    },
+    "ID": 1,
+    "IsMission": false,
+    "IngredientName": {
+      "hash": 1541151388
+    },
+    "UnlockType": "Level"
+  },
+  {
+    "PhyParam": [
+      0.3,
+      1.0,
+      0.8,
+      1.0
+    ],
+    "EffParam": [
+      0.0,
+      0.5,
+      0.7,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Juice05.png",
+    "Color": [
+      206,
+      143,
+      156
+    ],
+    "UnlockParam": [
+      1
+    ],
+    "IncludeTagList": [
+      7,
+      25
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Juice05.png",
+    "IngredientDesc": {
+      "hash": 890328761
+    },
+    "ID": 2,
+    "IsMission": false,
+    "IngredientName": {
+      "hash": 1541151391
+    },
+    "UnlockType": "Level"
+  },
+  {
+    "PhyParam": [
+      0.8,
+      0.0,
+      0.0,
+      0.3
+    ],
+    "EffParam": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Soda01.png",
+    "Color": [
+      74,
+      168,
+      192
+    ],
+    "UnlockParam": [
+      1
+    ],
+    "IncludeTagList": [
+      3,
+      21
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Soda01.png",
+    "IngredientDesc": {
+      "hash": 890328760
+    },
+    "ID": 3,
+    "IsMission": false,
+    "IngredientName": {
+      "hash": 1541151390
+    },
+    "UnlockType": "Level"
+  },
+  {
+    "PhyParam": [
+      0.3,
+      1.0,
+      0.8,
+      1.0
+    ],
+    "EffParam": [
+      0.0,
+      0.5,
+      1.0,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Juice03.png",
+    "Color": [
+      111,
+      0,
+      0
+    ],
+    "UnlockParam": [
+      1
+    ],
+    "IncludeTagList": [
+      6,
+      24
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Juice03.png",
+    "IngredientDesc": {
+      "hash": 890328767
+    },
+    "ID": 4,
+    "IsMission": false,
+    "IngredientName": {
+      "hash": 1541151393
+    },
+    "UnlockType": "Level"
+  },
+  {
+    "PhyParam": [
+      0.8,
+      0.0,
+      0.0,
+      0.3
+    ],
+    "EffParam": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Soda02.png",
+    "Color": [
+      28,
+      81,
+      255
+    ],
+    "UnlockParam": [
+      1
+    ],
+    "IncludeTagList": [
+      2,
+      22
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Soda02.png",
+    "IngredientDesc": {
+      "hash": 890328766
+    },
+    "ID": 5,
+    "IsMission": false,
+    "IngredientName": {
+      "hash": 1541151392
+    },
+    "UnlockType": "Level"
+  },
+  {
+    "PhyParam": [
+      0.3,
+      1.0,
+      0.8,
+      1.0
+    ],
+    "EffParam": [
+      0.0,
+      0.5,
+      1.0,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Juice04.png",
+    "Color": [
+      237,
+      143,
+      3
+    ],
+    "UnlockParam": [
+      1
+    ],
+    "IncludeTagList": [
+      8,
+      24
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Juice04.png",
+    "IngredientDesc": {
+      "hash": 890328765
+    },
+    "ID": 6,
+    "IsMission": false,
+    "IngredientName": {
+      "hash": 1541151395
+    },
+    "UnlockType": "Level"
+  },
+  {
+    "PhyParam": [
+      1.0,
+      1.0,
+      0.0,
+      0.6
+    ],
+    "EffParam": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Wine03.png",
+    "Color": [
+      182,
+      230,
+      10
+    ],
+    "UnlockParam": [
+      802110208
+    ],
+    "IncludeTagList": [
+      6,
+      23
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Wine03.png",
+    "IngredientDesc": {
+      "hash": 890328764
+    },
+    "ID": 7,
+    "IsMission": false,
+    "IngredientName": {
+      "hash": 1541151394
+    },
+    "UnlockType": "SubMission"
+  },
+  {
+    "PhyParam": [
+      1.0,
+      1.0,
+      0.0,
+      0.6
+    ],
+    "EffParam": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Wine02.png",
+    "Color": [
+      204,
+      200,
+      143
+    ],
+    "UnlockParam": [
+      802110208
+    ],
+    "IncludeTagList": [
+      7,
+      22
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Wine02.png",
+    "IngredientDesc": {
+      "hash": 890328755
+    },
+    "ID": 8,
+    "IsMission": false,
+    "IngredientName": {
+      "hash": 1541151381
+    },
+    "UnlockType": "SubMission"
+  },
+  {
+    "PhyParam": [
+      0.3,
+      1.0,
+      0.8,
+      1.0
+    ],
+    "EffParam": [
+      0.0,
+      0.5,
+      1.0,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Juice06.png",
+    "Color": [
+      32,
+      1,
+      34
+    ],
+    "UnlockParam": [
+      802110208
+    ],
+    "IncludeTagList": [
+      1,
+      24
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Juice06.png",
+    "IngredientDesc": {
+      "hash": 890328754
+    },
+    "ID": 9,
+    "IsMission": false,
+    "IngredientName": {
+      "hash": 1541151380
+    },
+    "UnlockType": "SubMission"
+  },
+  {
+    "PhyParam": [
+      0.0,
+      0.0,
+      1.0,
+      1.0
+    ],
+    "EffParam": [
+      0.0,
+      1.0,
+      0.8,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Juice01.png",
+    "Color": [
+      184,
+      184,
+      184
+    ],
+    "UnlockParam": [
+      802110208
+    ],
+    "IncludeTagList": [
+      4,
+      25
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Juice01.png",
+    "IngredientDesc": {
+      "hash": -571747926
+    },
+    "ID": 10,
+    "IsMission": false,
+    "IngredientName": {
+      "hash": 855350636
+    },
+    "UnlockType": "SubMission"
+  },
+  {
+    "PhyParam": [
+      0.4,
+      0.0,
+      0.3,
+      0.8
+    ],
+    "EffParam": [
+      1.0,
+      0.0,
+      0.5,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Soda04.png",
+    "Color": [
+      159,
+      88,
+      33
+    ],
+    "UnlockParam": [
+      802110404
+    ],
+    "IncludeTagList": [
+      2,
+      21
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Soda04.png",
+    "IngredientDesc": {
+      "hash": 994336015
+    },
+    "ID": 11,
+    "IsMission": false,
+    "IngredientName": {
+      "hash": -1873532719
+    },
+    "UnlockType": "SubMission"
+  },
+  {
+    "PhyParam": [
+      1.0,
+      0.0,
+      0.0,
+      0.2
+    ],
+    "EffParam": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Wine01.png",
+    "Color": [
+      188,
+      199,
+      198
+    ],
+    "UnlockParam": [
+      802110404
+    ],
+    "IncludeTagList": [
+      3,
+      23
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Wine01.png",
+    "IngredientDesc": {
+      "hash": -1734547340
+    },
+    "ID": 12,
+    "IsMission": false,
+    "IngredientName": {
+      "hash": -307448778
+    },
+    "UnlockType": "SubMission"
+  },
+  {
+    "PhyParam": [
+      0.5,
+      0.0,
+      0.8,
+      1.0
+    ],
+    "EffParam": [
+      0.0,
+      0.5,
+      0.5,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Juice02.png",
+    "Color": [
+      168,
+      178,
+      161
+    ],
+    "UnlockParam": [
+      802110404
+    ],
+    "IncludeTagList": [
+      5,
+      25
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Juice02.png",
+    "IngredientDesc": {
+      "hash": -168463399
+    },
+    "ID": 13,
+    "IsMission": false,
+    "IngredientName": {
+      "hash": 1258635163
+    },
+    "UnlockType": "SubMission"
+  },
+  {
+    "PhyParam": [
+      0.8,
+      1.0,
+      2.0,
+      0.2
+    ],
+    "EffParam": [
+      0.0,
+      0.0,
+      0.2,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Juice07.png",
+    "Color": [
+      180,
+      90,
+      37
+    ],
+    "UnlockParam": [
+      1
+    ],
+    "IncludeTagList": [
+      1,
+      23
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Juice07.png",
+    "IngredientDesc": {
+      "hash": 371857150
+    },
+    "ID": 20,
+    "IsMission": true,
+    "IngredientName": {
+      "hash": 855350639
+    },
+    "UnlockType": "Level"
+  },
+  {
+    "PhyParam": [
+      0.5,
+      0.0,
+      0.8,
+      1.0
+    ],
+    "EffParam": [
+      0.0,
+      0.8,
+      0.5,
+      0.0
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Juice08.png",
+    "Color": [
+      207,
+      204,
+      197
+    ],
+    "UnlockParam": [
+      1
+    ],
+    "IncludeTagList": [
+      4,
+      25
+    ],
+    "SmallIconPath": "SpriteOutput/Quest/DrinkMaker/ItemIconLite/Juice08.png",
+    "IngredientDesc": {
+      "hash": 371857150
+    },
+    "ID": 21,
+    "IsMission": true,
+    "IngredientName": {
+      "hash": -1873532716
+    },
+    "UnlockType": "Level"
+  }
+]

@@ -1,0 +1,285 @@
+[
+  {
+    "MultipleDropTypeList": [
+      "COCOON",
+      "COCOON3"
+    ],
+    "ActivityThemeID": 0,
+    "Type": "VersionLimited",
+    "LabelText": {
+      "hash": -694231489
+    },
+    "BannerText": {
+      "hash": -426216603
+    },
+    "NameText": {
+      "hash": 1665986012
+    },
+    "HintText": {
+      "hash": 678326234
+    },
+    "CountValue": 12,
+    "ActivityPanelBannerText": {
+      "hash": -1047120418
+    },
+    "DropMultiple": 2,
+    "ID": 10001,
+    "CountRefreshType": "DailyRefresh",
+    "ActivityModuleID": 1002001,
+    "Priority": 2,
+    "MappingInfoBannerText": {
+      "hash": -488842733
+    }
+  },
+  {
+    "MultipleDropTypeList": [
+      "COCOON",
+      "COCOON3"
+    ],
+    "ActivityThemeID": 0,
+    "Type": "PlayerReturn",
+    "LabelText": {
+      "hash": 903285210
+    },
+    "BannerText": {
+      "hash": -426221980
+    },
+    "NameText": {
+      "hash": 1665982809
+    },
+    "HintText": {
+      "hash": 678320857
+    },
+    "CountValue": 12,
+    "ActivityPanelBannerText": {
+      "hash": 2003977229
+    },
+    "DropMultiple": 2,
+    "ID": 20001,
+    "CountRefreshType": "DailyRefresh",
+    "ActivityModuleID": 0,
+    "Priority": 1,
+    "MappingInfoBannerText": {
+      "hash": -133904028
+    }
+  },
+  {
+    "MultipleDropTypeList": [
+      "RELIC"
+    ],
+    "ActivityThemeID": 0,
+    "Type": "VersionLimited",
+    "LabelText": {
+      "hash": -1421021963
+    },
+    "BannerText": {
+      "hash": -426218781
+    },
+    "NameText": {
+      "hash": 1665983834
+    },
+    "HintText": {
+      "hash": 678324056
+    },
+    "CountValue": 3,
+    "ActivityPanelBannerText": {
+      "hash": -320329944
+    },
+    "DropMultiple": 2,
+    "ID": 30001,
+    "CountRefreshType": "DailyRefresh",
+    "ActivityModuleID": 1002101,
+    "Priority": 1,
+    "MappingInfoBannerText": {
+      "hash": -1215633207
+    }
+  },
+  {
+    "MultipleDropTypeList": [
+      "ROGUE"
+    ],
+    "ActivityThemeID": 0,
+    "Type": "VersionLimited",
+    "LabelText": {
+      "hash": -1017737436
+    },
+    "BannerText": {
+      "hash": -426218778
+    },
+    "NameText": {
+      "hash": 1665983835
+    },
+    "HintText": {
+      "hash": 678324059
+    },
+    "CountValue": 2,
+    "ActivityPanelBannerText": {
+      "hash": 371857150
+    },
+    "DropMultiple": 2,
+    "ID": 30002,
+    "CountRefreshType": "DailyRefresh",
+    "ActivityModuleID": 1002401,
+    "Priority": 1,
+    "MappingInfoBannerText": {
+      "hash": 371857150
+    }
+  },
+  {
+    "MultipleDropTypeList": [
+      "ROGUE"
+    ],
+    "ActivityThemeID": 0,
+    "Type": "VersionLimited",
+    "LabelText": {
+      "hash": 1711145919
+    },
+    "BannerText": {
+      "hash": -426218779
+    },
+    "NameText": {
+      "hash": 1665983836
+    },
+    "HintText": {
+      "hash": 678324058
+    },
+    "CountValue": 12,
+    "ActivityPanelBannerText": {
+      "hash": 842469470
+    },
+    "DropMultiple": 2,
+    "ID": 30003,
+    "CountRefreshType": "NoRefresh",
+    "ActivityModuleID": 1002601,
+    "Priority": 1,
+    "MappingInfoBannerText": {
+      "hash": 1916534675
+    }
+  },
+  {
+    "MultipleDropTypeList": [
+      "RELIC"
+    ],
+    "ActivityThemeID": 1001,
+    "Type": "VersionLimited",
+    "LabelText": {
+      "hash": -1824306490
+    },
+    "BannerText": {
+      "hash": -426218776
+    },
+    "NameText": {
+      "hash": 1665983837
+    },
+    "HintText": {
+      "hash": 678324061
+    },
+    "CountValue": 3,
+    "ActivityPanelBannerText": {
+      "hash": -723614471
+    },
+    "DropMultiple": 3,
+    "ID": 30004,
+    "CountRefreshType": "DailyRefresh",
+    "ActivityModuleID": 1005201,
+    "Priority": 2,
+    "MappingInfoBannerText": {
+      "hash": -812348680
+    }
+  },
+  {
+    "MultipleDropTypeList": [
+      "ROGUE"
+    ],
+    "ActivityThemeID": 1001,
+    "Type": "VersionLimited",
+    "LabelText": {
+      "hash": 904576865
+    },
+    "BannerText": {
+      "hash": -426218777
+    },
+    "NameText": {
+      "hash": 1665983838
+    },
+    "HintText": {
+      "hash": 678324060
+    },
+    "CountValue": 12,
+    "ActivityPanelBannerText": {
+      "hash": 2005268884
+    },
+    "DropMultiple": 3,
+    "ID": 30005,
+    "CountRefreshType": "NoRefresh",
+    "ActivityModuleID": 1005301,
+    "Priority": 2,
+    "MappingInfoBannerText": {
+      "hash": 753735261
+    }
+  },
+  {
+    "MultipleDropTypeList": [
+      "COCOON",
+      "COCOON3"
+    ],
+    "ActivityThemeID": 0,
+    "Type": "Gameplay",
+    "LabelText": {
+      "hash": -1825598145
+    },
+    "BannerText": {
+      "hash": -426221979
+    },
+    "NameText": {
+      "hash": 1665982812
+    },
+    "HintText": {
+      "hash": 678320858
+    },
+    "CountValue": 42,
+    "ActivityPanelBannerText": {
+      "hash": 1600692702
+    },
+    "DropMultiple": 2,
+    "ID": 20002,
+    "CountRefreshType": "NoRefresh",
+    "ActivityModuleID": 0,
+    "Priority": 1,
+    "MappingInfoBannerText": {
+      "hash": 269380499
+    }
+  },
+  {
+    "MultipleDropTypeList": [
+      "RELIC",
+      "ROGUE"
+    ],
+    "ActivityThemeID": 0,
+    "Type": "Gameplay",
+    "LabelText": {
+      "hash": -259514204
+    },
+    "BannerText": {
+      "hash": -426221978
+    },
+    "NameText": {
+      "hash": 1665982811
+    },
+    "HintText": {
+      "hash": 678320859
+    },
+    "CountValue": 4,
+    "ActivityPanelBannerText": {
+      "hash": -1128190653
+    },
+    "DropMultiple": 2,
+    "ID": 20003,
+    "CountRefreshType": "NoRefresh",
+    "ActivityModuleID": 0,
+    "Priority": 1,
+    "MappingInfoBannerText": {
+      "hash": -1296703442
+    }
+  }
+]

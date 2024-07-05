@@ -1,0 +1,686 @@
+[
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106001.png",
+    "TagList": [
+      3
+    ],
+    "DamageTag": "EvoBuildWeapon_01_Base",
+    "ElementList": [],
+    "LvMax": 8,
+    "ID": 3106001,
+    "Type": "Tool",
+    "Name": {
+      "hash": -231426354
+    },
+    "UnlockQuest": 0
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106901.png",
+    "TagList": [
+      3
+    ],
+    "DamageTag": "EvoBuildWeapon_01_Max",
+    "ElementList": [],
+    "LvMax": 1,
+    "ID": 3106901,
+    "Type": "Forge",
+    "Name": {
+      "hash": 1388359969
+    },
+    "UnlockQuest": 6020108
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106002.png",
+    "TagList": [
+      1,
+      4
+    ],
+    "DamageTag": "EvoBuildWeapon_02_Base",
+    "ElementList": [
+      "Fire"
+    ],
+    "LvMax": 8,
+    "ID": 3106002,
+    "Type": "Tool",
+    "Name": {
+      "hash": 1334657587
+    },
+    "UnlockQuest": 0
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106902.png",
+    "TagList": [
+      1,
+      2,
+      4
+    ],
+    "DamageTag": "EvoBuildWeapon_02_Max",
+    "ElementList": [
+      "Fire",
+      "Ice"
+    ],
+    "LvMax": 1,
+    "ID": 3106902,
+    "Type": "Forge",
+    "Name": {
+      "hash": 1791644496
+    },
+    "UnlockQuest": 6020108
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106003.png",
+    "TagList": [
+      2,
+      4
+    ],
+    "DamageTag": "EvoBuildWeapon_03_Base",
+    "ElementList": [
+      "Wind"
+    ],
+    "LvMax": 8,
+    "ID": 3106003,
+    "Type": "Tool",
+    "Name": {
+      "hash": -1394225768
+    },
+    "UnlockQuest": 0
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106903.png",
+    "TagList": [
+      2,
+      4
+    ],
+    "DamageTag": "EvoBuildWeapon_03_Max",
+    "ElementList": [
+      "Wind",
+      "Thunder"
+    ],
+    "LvMax": 1,
+    "ID": 3106903,
+    "Type": "Forge",
+    "Name": {
+      "hash": 225560555
+    },
+    "UnlockQuest": 0
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106004.png",
+    "TagList": [
+      4
+    ],
+    "DamageTag": "EvoBuildWeapon_04_Base",
+    "ElementList": [
+      "Thunder"
+    ],
+    "LvMax": 8,
+    "ID": 3106004,
+    "Type": "Tool",
+    "Name": {
+      "hash": 528088533
+    },
+    "UnlockQuest": 6020110
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106904.png",
+    "TagList": [
+      4
+    ],
+    "DamageTag": "EvoBuildWeapon_04_Max",
+    "ElementList": [
+      "Wind",
+      "Thunder"
+    ],
+    "LvMax": 1,
+    "ID": 3106904,
+    "Type": "Forge",
+    "Name": {
+      "hash": 985075442
+    },
+    "UnlockQuest": 6020110
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106005.png",
+    "TagList": [
+      2
+    ],
+    "DamageTag": "EvoBuildWeapon_05_Base",
+    "ElementList": [
+      "Quantum"
+    ],
+    "LvMax": 8,
+    "ID": 3106005,
+    "Type": "Tool",
+    "Name": {
+      "hash": 2094172474
+    },
+    "UnlockQuest": 6020110
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106905.png",
+    "TagList": [
+      2
+    ],
+    "DamageTag": "EvoBuildWeapon_05_Max",
+    "ElementList": [
+      "Quantum",
+      "Imaginary"
+    ],
+    "LvMax": 1,
+    "ID": 3106905,
+    "Type": "Forge",
+    "Name": {
+      "hash": -581008499
+    },
+    "UnlockQuest": 6020110
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106006.png",
+    "TagList": [
+      3
+    ],
+    "DamageTag": "EvoBuildWeapon_06_Base",
+    "ElementList": [
+      "Physical"
+    ],
+    "LvMax": 8,
+    "ID": 3106006,
+    "Type": "Tool",
+    "Name": {
+      "hash": -634710881
+    },
+    "UnlockQuest": 6020112
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106906.png",
+    "TagList": [
+      3
+    ],
+    "DamageTag": "EvoBuildWeapon_06_Max",
+    "ElementList": [
+      "Physical"
+    ],
+    "LvMax": 1,
+    "ID": 3106906,
+    "Type": "Forge",
+    "Name": {
+      "hash": -177723972
+    },
+    "UnlockQuest": 6020112
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106007.png",
+    "TagList": [
+      4
+    ],
+    "DamageTag": "EvoBuildWeapon_07_Base",
+    "ElementList": [
+      "Ice"
+    ],
+    "LvMax": 8,
+    "ID": 3106007,
+    "Type": "Tool",
+    "Name": {
+      "hash": 931373060
+    },
+    "UnlockQuest": 6020112
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106907.png",
+    "TagList": [
+      3,
+      4
+    ],
+    "DamageTag": "EvoBuildWeapon_07_Max",
+    "ElementList": [
+      "Fire",
+      "Ice"
+    ],
+    "LvMax": 1,
+    "ID": 3106907,
+    "Type": "Forge",
+    "Name": {
+      "hash": -1743807913
+    },
+    "UnlockQuest": 6020112
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106008.png",
+    "TagList": [
+      1,
+      4
+    ],
+    "DamageTag": "EvoBuildWeapon_08_Base",
+    "ElementList": [
+      "Imaginary"
+    ],
+    "LvMax": 8,
+    "ID": 3106008,
+    "Type": "Tool",
+    "Name": {
+      "hash": -1441279935
+    },
+    "UnlockQuest": 6020111
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106908.png",
+    "TagList": [
+      1,
+      4
+    ],
+    "DamageTag": "EvoBuildWeapon_08_Max",
+    "ElementList": [
+      "Quantum",
+      "Imaginary"
+    ],
+    "LvMax": 1,
+    "ID": 3106908,
+    "Type": "Forge",
+    "Name": {
+      "hash": -1696753746
+    },
+    "UnlockQuest": 6020111
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106009.png",
+    "TagList": [
+      1
+    ],
+    "DamageTag": "EvoBuildWeapon_09_Base",
+    "ElementList": [],
+    "LvMax": 8,
+    "ID": 3106009,
+    "Type": "Tool",
+    "Name": {
+      "hash": 124804006
+    },
+    "UnlockQuest": 6020111
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106909.png",
+    "TagList": [
+      1
+    ],
+    "DamageTag": "EvoBuildWeapon_09_Max",
+    "ElementList": [],
+    "LvMax": 1,
+    "ID": 3106909,
+    "Type": "Forge",
+    "Name": {
+      "hash": 1032129609
+    },
+    "UnlockQuest": 6020111
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106010.png",
+    "TagList": [
+      1,
+      2
+    ],
+    "DamageTag": "EvoBuildWeapon_10_Base",
+    "ElementList": [
+      "Ice"
+    ],
+    "LvMax": 8,
+    "ID": 3106010,
+    "Type": "Tool",
+    "Name": {
+      "hash": -1797510296
+    },
+    "UnlockQuest": 6020108
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106910.png",
+    "TagList": [
+      1,
+      2
+    ],
+    "DamageTag": "EvoBuildWeapon_10_Max",
+    "ElementList": [
+      "Fire",
+      "Ice"
+    ],
+    "LvMax": 1,
+    "ID": 3106910,
+    "Type": "Forge",
+    "Name": {
+      "hash": -1340523387
+    },
+    "UnlockQuest": 6020108
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106011.png",
+    "TagList": [
+      1,
+      3
+    ],
+    "DamageTag": "EvoBuildWeapon_11_Base",
+    "ElementList": [
+      "Wind"
+    ],
+    "LvMax": 8,
+    "ID": 3106011,
+    "Type": "Tool",
+    "Name": {
+      "hash": -231426355
+    },
+    "UnlockQuest": 6020108
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106911.png",
+    "TagList": [
+      1,
+      3
+    ],
+    "DamageTag": "EvoBuildWeapon_11_Max",
+    "ElementList": [
+      "Wind",
+      "Thunder"
+    ],
+    "LvMax": 1,
+    "ID": 3106911,
+    "Type": "Forge",
+    "Name": {
+      "hash": 1388359968
+    },
+    "UnlockQuest": 6020108
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106012.png",
+    "TagList": [
+      3
+    ],
+    "DamageTag": "EvoBuildWeapon_12_Base",
+    "ElementList": [
+      "Quantum"
+    ],
+    "LvMax": 8,
+    "ID": 3106012,
+    "Type": "Tool",
+    "Name": {
+      "hash": 1334657586
+    },
+    "UnlockQuest": 6020113
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106912.png",
+    "TagList": [
+      3
+    ],
+    "DamageTag": "EvoBuildWeapon_12_Max",
+    "ElementList": [
+      "Quantum",
+      "Imaginary"
+    ],
+    "LvMax": 1,
+    "ID": 3106912,
+    "Type": "Forge",
+    "Name": {
+      "hash": 1791644495
+    },
+    "UnlockQuest": 6020113
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106013.png",
+    "TagList": [
+      1,
+      2
+    ],
+    "DamageTag": "EvoBuildWeapon_13_Base",
+    "ElementList": [
+      "Fire"
+    ],
+    "LvMax": 8,
+    "ID": 3106013,
+    "Type": "Tool",
+    "Name": {
+      "hash": -1394225769
+    },
+    "UnlockQuest": 6020108
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106913.png",
+    "TagList": [
+      1,
+      2
+    ],
+    "DamageTag": "EvoBuildWeapon_13_Max",
+    "ElementList": [
+      "Fire",
+      "Ice"
+    ],
+    "LvMax": 1,
+    "ID": 3106913,
+    "Type": "Forge",
+    "Name": {
+      "hash": 225560554
+    },
+    "UnlockQuest": 6020108
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106111.png",
+    "TagList": [
+      4
+    ],
+    "DamageTag": "",
+    "ElementList": [],
+    "LvMax": 4,
+    "ID": 3106111,
+    "Type": "Plugin",
+    "Name": {
+      "hash": -1777307320
+    },
+    "UnlockQuest": 0
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106112.png",
+    "TagList": [
+      2
+    ],
+    "DamageTag": "",
+    "ElementList": [],
+    "LvMax": 4,
+    "ID": 3106112,
+    "Type": "Plugin",
+    "Name": {
+      "hash": -1374022793
+    },
+    "UnlockQuest": 0
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106113.png",
+    "TagList": [
+      1
+    ],
+    "DamageTag": "",
+    "ElementList": [],
+    "LvMax": 4,
+    "ID": 3106113,
+    "Type": "Plugin",
+    "Name": {
+      "hash": 1354860562
+    },
+    "UnlockQuest": 6020108
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106121.png",
+    "TagList": [],
+    "DamageTag": "",
+    "ElementList": [
+      "Wind",
+      "Thunder"
+    ],
+    "LvMax": 4,
+    "ID": 3106121,
+    "Type": "Plugin",
+    "Name": {
+      "hash": -1777307317
+    },
+    "UnlockQuest": 0
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106122.png",
+    "TagList": [],
+    "DamageTag": "",
+    "ElementList": [
+      "Ice",
+      "Fire"
+    ],
+    "LvMax": 4,
+    "ID": 3106122,
+    "Type": "Plugin",
+    "Name": {
+      "hash": -1374022790
+    },
+    "UnlockQuest": 6020108
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106123.png",
+    "TagList": [],
+    "DamageTag": "",
+    "ElementList": [
+      "Imaginary",
+      "Quantum",
+      "Physical"
+    ],
+    "LvMax": 4,
+    "ID": 3106123,
+    "Type": "Plugin",
+    "Name": {
+      "hash": 1354860565
+    },
+    "UnlockQuest": 0
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106124.png",
+    "TagList": [],
+    "DamageTag": "",
+    "ElementList": [],
+    "LvMax": 4,
+    "ID": 3106124,
+    "Type": "Plugin",
+    "Name": {
+      "hash": 2114375452
+    },
+    "UnlockQuest": 6020108
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106131.png",
+    "TagList": [],
+    "DamageTag": "",
+    "ElementList": [],
+    "LvMax": 4,
+    "ID": 3106131,
+    "Type": "Plugin",
+    "Name": {
+      "hash": -1777307318
+    },
+    "UnlockQuest": 6020112
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106132.png",
+    "TagList": [],
+    "DamageTag": "",
+    "ElementList": [],
+    "LvMax": 4,
+    "ID": 3106132,
+    "Type": "Plugin",
+    "Name": {
+      "hash": -1374022791
+    },
+    "UnlockQuest": 6020110
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106133.png",
+    "TagList": [],
+    "DamageTag": "",
+    "ElementList": [],
+    "LvMax": 4,
+    "ID": 3106133,
+    "Type": "Plugin",
+    "Name": {
+      "hash": 1354860564
+    },
+    "UnlockQuest": 0
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106134.png",
+    "TagList": [],
+    "DamageTag": "",
+    "ElementList": [],
+    "LvMax": 4,
+    "ID": 3106134,
+    "Type": "Plugin",
+    "Name": {
+      "hash": 2114375451
+    },
+    "UnlockQuest": 6020108
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106135.png",
+    "TagList": [],
+    "DamageTag": "",
+    "ElementList": [],
+    "LvMax": 4,
+    "ID": 3106135,
+    "Type": "Plugin",
+    "Name": {
+      "hash": 548291510
+    },
+    "UnlockQuest": 6020111
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106136.png",
+    "TagList": [
+      3
+    ],
+    "DamageTag": "",
+    "ElementList": [],
+    "LvMax": 4,
+    "ID": 3106136,
+    "Type": "Plugin",
+    "Name": {
+      "hash": 951576037
+    },
+    "UnlockQuest": 6020113
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106141.png",
+    "TagList": [],
+    "DamageTag": "",
+    "ElementList": [],
+    "LvMax": 4,
+    "ID": 3106141,
+    "Type": "Plugin",
+    "Name": {
+      "hash": -1777307323
+    },
+    "UnlockQuest": 6020111
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106142.png",
+    "TagList": [],
+    "DamageTag": "",
+    "ElementList": [],
+    "LvMax": 4,
+    "ID": 3106142,
+    "Type": "Plugin",
+    "Name": {
+      "hash": -1374022796
+    },
+    "UnlockQuest": 6020112
+  },
+  {
+    "ItemIcon": "SpriteOutput/Quest/EvolveBuild/EvoLveBuildIcon/3106143.png",
+    "TagList": [],
+    "DamageTag": "",
+    "ElementList": [],
+    "LvMax": 4,
+    "ID": 3106143,
+    "Type": "Plugin",
+    "Name": {
+      "hash": 1354860559
+    },
+    "UnlockQuest": 6020115
+  }
+]

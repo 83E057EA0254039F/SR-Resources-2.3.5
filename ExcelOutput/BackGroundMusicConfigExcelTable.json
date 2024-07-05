@@ -1,0 +1,1974 @@
+[
+  {
+    "MusicSwitchName": "BGM_Spacetrain",
+    "UnlockDesc": {
+      "hash": -548174191
+    },
+    "GroupID": 1,
+    "ID": 210000,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 112,
+    "Unlock": true,
+    "BGMDesc": {
+      "hash": 1623867961
+    },
+    "MusicName": {
+      "hash": 138524970
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Herta_Space_Station_Suppy_Zone_Combat_Beast",
+    "UnlockDesc": {
+      "hash": -548174190
+    },
+    "GroupID": 1,
+    "ID": 210001,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 130,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 57784020
+    },
+    "MusicName": {
+      "hash": 1704608911
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Herta_Space_Station_Base_Zone",
+    "UnlockDesc": {
+      "hash": -548174189
+    },
+    "GroupID": 1,
+    "ID": 210002,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 128,
+    "Unlock": true,
+    "BGMDesc": {
+      "hash": 461068547
+    },
+    "MusicName": {
+      "hash": 1301324384
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Herta_Space_Station_Base_Zone_Combat",
+    "UnlockDesc": {
+      "hash": -548174188
+    },
+    "GroupID": 1,
+    "ID": 210003,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 128,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1105015394
+    },
+    "MusicName": {
+      "hash": -1427558971
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Herta_Space_Station_Storage_Zone_D",
+    "UnlockDesc": {
+      "hash": -548174195
+    },
+    "GroupID": 1,
+    "ID": 210004,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 80,
+    "Unlock": true,
+    "BGMDesc": {
+      "hash": -701730867
+    },
+    "MusicName": {
+      "hash": -1830843498
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Herta_Space_Station_Storage_Zone_E2_4",
+    "UnlockDesc": {
+      "hash": -548174194
+    },
+    "GroupID": 1,
+    "ID": 210005,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 80,
+    "Unlock": true,
+    "BGMDesc": {
+      "hash": 2027152488
+    },
+    "MusicName": {
+      "hash": -264759557
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Herta_Space_Station_Storage_Zone_E3_5",
+    "UnlockDesc": {
+      "hash": -548174193
+    },
+    "GroupID": 1,
+    "ID": 210006,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 122,
+    "Unlock": true,
+    "BGMDesc": {
+      "hash": -1864530281
+    },
+    "MusicName": {
+      "hash": -668044084
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Herta_Space_Station_Ending",
+    "UnlockDesc": {
+      "hash": -548174192
+    },
+    "GroupID": 1,
+    "ID": 210007,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 74,
+    "Unlock": true,
+    "BGMDesc": {
+      "hash": 864353074
+    },
+    "MusicName": {
+      "hash": 898039857
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Herta_Space_Station_Storage_Zone_Combat_full",
+    "UnlockDesc": {
+      "hash": -548174199
+    },
+    "GroupID": 1,
+    "ID": 210008,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 134,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1267637601
+    },
+    "MusicName": {
+      "hash": 494755330
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Herta_Space_Station_Base_Zone_Combat_High",
+    "UnlockDesc": {
+      "hash": -2114258132
+    },
+    "GroupID": 1,
+    "ID": 210010,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 141,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1623867962
+    },
+    "MusicName": {
+      "hash": 138524971
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Spacetrain_Combat",
+    "UnlockDesc": {
+      "hash": -1710973545
+    },
+    "GroupID": 1,
+    "ID": 210226,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 120,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 743393551
+    },
+    "MusicName": {
+      "hash": 1018999384
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Spacetrain_Combat_Argenti",
+    "UnlockDesc": {
+      "hash": -1710973544
+    },
+    "GroupID": 1,
+    "ID": 210227,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 84,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -822690390
+    },
+    "MusicName": {
+      "hash": -1709883971
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Overworld_Battle_Low",
+    "UnlockDesc": {
+      "hash": -548174222
+    },
+    "GroupID": 2,
+    "ID": 210100,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 109,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 37581044
+    },
+    "MusicName": {
+      "hash": -1165436945
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Underworld_Combat_Low",
+    "UnlockDesc": {
+      "hash": -548174223
+    },
+    "GroupID": 2,
+    "ID": 210101,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 159,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1603664985
+    },
+    "MusicName": {
+      "hash": 1563446410
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Underworld_Combat_High",
+    "UnlockDesc": {
+      "hash": -548174220
+    },
+    "GroupID": 2,
+    "ID": 210102,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 124,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1125218370
+    },
+    "MusicName": {
+      "hash": -2637531
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Underworld_Combat_Svarog",
+    "UnlockDesc": {
+      "hash": -548174221
+    },
+    "GroupID": 2,
+    "ID": 210103,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 130,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 440865571
+    },
+    "MusicName": {
+      "hash": -1568721472
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Combat_Cocolia_Low",
+    "UnlockDesc": {
+      "hash": -548174226
+    },
+    "GroupID": 2,
+    "ID": 210104,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 114,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 2006949512
+    },
+    "MusicName": {
+      "hash": 1160161883
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Combat_Cocolia_High_01",
+    "UnlockDesc": {
+      "hash": -548174227
+    },
+    "GroupID": 2,
+    "ID": 210105,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 72,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -721933843
+    },
+    "MusicName": {
+      "hash": -405922058
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Belobog_Cocolia_Vocal",
+    "UnlockDesc": {
+      "hash": -548174224
+    },
+    "GroupID": 2,
+    "ID": 210106,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 72,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 844150098
+    },
+    "MusicName": {
+      "hash": -1972005999
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Underworld_M2_1A",
+    "UnlockDesc": {
+      "hash": -548174225
+    },
+    "GroupID": 2,
+    "ID": 210107,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 104,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1884733257
+    },
+    "MusicName": {
+      "hash": 756877356
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Underworld_M2_2A",
+    "UnlockDesc": {
+      "hash": -548174230
+    },
+    "GroupID": 2,
+    "ID": 210108,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 77,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -318649316
+    },
+    "MusicName": {
+      "hash": -809206585
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Maze_M3_3_EverwinterHill",
+    "UnlockDesc": {
+      "hash": -548174231
+    },
+    "GroupID": 2,
+    "ID": 210109,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 68,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1247434625
+    },
+    "MusicName": {
+      "hash": 1919676770
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Maze_M3_3_PathSpace",
+    "UnlockDesc": {
+      "hash": -2114258163
+    },
+    "GroupID": 2,
+    "ID": 210110,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 65,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 37581045
+    },
+    "MusicName": {
+      "hash": -1165436944
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Overworld_Hollowing",
+    "UnlockDesc": {
+      "hash": -2114258164
+    },
+    "GroupID": 2,
+    "ID": 210111,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 98,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1603664986
+    },
+    "MusicName": {
+      "hash": 1563446411
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Overworld_Relaxing",
+    "UnlockDesc": {
+      "hash": -2114258161
+    },
+    "GroupID": 2,
+    "ID": 210112,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 99,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1125218369
+    },
+    "MusicName": {
+      "hash": -2637530
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Overworld_Flowershop",
+    "UnlockDesc": {
+      "hash": -2114258162
+    },
+    "GroupID": 2,
+    "ID": 210113,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 96,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 440865572
+    },
+    "MusicName": {
+      "hash": -1568721471
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Belobog_Underworld_Joyful",
+    "UnlockDesc": {
+      "hash": -2114258167
+    },
+    "GroupID": 2,
+    "ID": 210114,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 120,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 2006949513
+    },
+    "MusicName": {
+      "hash": 1160161884
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Belobog_Overworld_Grandhotel",
+    "UnlockDesc": {
+      "hash": -2114258168
+    },
+    "GroupID": 2,
+    "ID": 210115,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 70,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -721933842
+    },
+    "MusicName": {
+      "hash": -405922057
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Maze_Cloudford",
+    "UnlockDesc": {
+      "hash": -548174125
+    },
+    "GroupID": 3,
+    "ID": 210200,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 118,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1906192963
+    },
+    "MusicName": {
+      "hash": -143800032
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Maze_Stargazer_Navalia",
+    "UnlockDesc": {
+      "hash": -548174124
+    },
+    "GroupID": 3,
+    "ID": 210201,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 84,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 340109022
+    },
+    "MusicName": {
+      "hash": 1422283909
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Maze_Divination_Commission",
+    "UnlockDesc": {
+      "hash": -548174127
+    },
+    "GroupID": 3,
+    "ID": 210202,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 68,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1225974919
+    },
+    "MusicName": {
+      "hash": -1306599446
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Maze_Artisanship_Commission",
+    "UnlockDesc": {
+      "hash": -548174126
+    },
+    "GroupID": 3,
+    "ID": 210203,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 74,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1502908436
+    },
+    "MusicName": {
+      "hash": 259484495
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Starskiff_Haven",
+    "UnlockDesc": {
+      "hash": -548174129
+    },
+    "GroupID": 3,
+    "ID": 210204,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 108,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -419405865
+    },
+    "MusicName": {
+      "hash": -2113168500
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Palace_of_Astrum",
+    "UnlockDesc": {
+      "hash": -548174128
+    },
+    "GroupID": 3,
+    "ID": 210205,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 68,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1985489806
+    },
+    "MusicName": {
+      "hash": -547084559
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Maze_X2_1_Combat_Low",
+    "UnlockDesc": {
+      "hash": -548174131
+    },
+    "GroupID": 3,
+    "ID": 210206,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 145,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 743393549
+    },
+    "MusicName": {
+      "hash": 1018999382
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Maze_X2_1_Combat_High",
+    "UnlockDesc": {
+      "hash": -548174130
+    },
+    "GroupID": 3,
+    "ID": 210207,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 145,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -822690392
+    },
+    "MusicName": {
+      "hash": -1709883973
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Exalting_Sanctum_Combat_Abundant_Ebon_Deer",
+    "UnlockDesc": {
+      "hash": -548174133
+    },
+    "GroupID": 3,
+    "ID": 210208,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 170,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1549962603
+    },
+    "MusicName": {
+      "hash": 212430328
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Exalting_Sanctum",
+    "UnlockDesc": {
+      "hash": -548174132
+    },
+    "GroupID": 3,
+    "ID": 210209,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 102,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -16121338
+    },
+    "MusicName": {
+      "hash": 1778514269
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Seat_of_Divine_Foresight",
+    "UnlockDesc": {
+      "hash": -2114258066
+    },
+    "GroupID": 3,
+    "ID": 210210,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 104,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1906192964
+    },
+    "MusicName": {
+      "hash": -143800031
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Maze_X1_1_Combat_High",
+    "UnlockDesc": {
+      "hash": -2114258065
+    },
+    "GroupID": 3,
+    "ID": 210211,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 116,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 340109023
+    },
+    "MusicName": {
+      "hash": 1422283910
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Combat_Kafuka",
+    "UnlockDesc": {
+      "hash": -2114258068
+    },
+    "GroupID": 3,
+    "ID": 210212,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 143,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1225974918
+    },
+    "MusicName": {
+      "hash": -1306599445
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Xianzhou_Maze_X1_1_Combat_Low",
+    "UnlockDesc": {
+      "hash": -2114258067
+    },
+    "GroupID": 3,
+    "ID": 210213,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 128,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1502908437
+    },
+    "MusicName": {
+      "hash": 259484496
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Maze_X3_Combat_Low",
+    "UnlockDesc": {
+      "hash": -2114258070
+    },
+    "GroupID": 3,
+    "ID": 210214,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 134,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -419405864
+    },
+    "MusicName": {
+      "hash": -2113168499
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Maze_X3_Combat_High",
+    "UnlockDesc": {
+      "hash": -2114258069
+    },
+    "GroupID": 3,
+    "ID": 210215,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 146,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1985489805
+    },
+    "MusicName": {
+      "hash": -547084558
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Combat_Yanqing_Stinger",
+    "UnlockDesc": {
+      "hash": -2114258072
+    },
+    "GroupID": 3,
+    "ID": 210216,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 170,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 743393550
+    },
+    "MusicName": {
+      "hash": 1018999383
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Maze_Alchemy_Commission",
+    "UnlockDesc": {
+      "hash": -2114258071
+    },
+    "GroupID": 3,
+    "ID": 210217,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 105,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -822690391
+    },
+    "MusicName": {
+      "hash": -1709883972
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Maze_Scalegorge_Waterscape",
+    "UnlockDesc": {
+      "hash": -2114258074
+    },
+    "GroupID": 3,
+    "ID": 210218,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 150,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1549962604
+    },
+    "MusicName": {
+      "hash": 212430329
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Danheng_Vocal",
+    "UnlockDesc": {
+      "hash": -2114258073
+    },
+    "GroupID": 3,
+    "ID": 210219,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 95,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -16121337
+    },
+    "MusicName": {
+      "hash": 1778514270
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Maze_Scalegorge_Waterscape_OpenSea",
+    "UnlockDesc": {
+      "hash": -1710973539
+    },
+    "GroupID": 3,
+    "ID": 210220,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 64,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1906192965
+    },
+    "MusicName": {
+      "hash": -143800030
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Maze_Arteria_Inceptionis",
+    "UnlockDesc": {
+      "hash": -1710973538
+    },
+    "GroupID": 3,
+    "ID": 210221,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 60,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 340109024
+    },
+    "MusicName": {
+      "hash": 1422283911
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Combat_Phantylia_01",
+    "UnlockDesc": {
+      "hash": -1710973541
+    },
+    "GroupID": 3,
+    "ID": 210222,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 130,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1225974917
+    },
+    "MusicName": {
+      "hash": -1306599444
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Combat_Phantylia_02",
+    "UnlockDesc": {
+      "hash": -1710973540
+    },
+    "GroupID": 3,
+    "ID": 210223,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 140,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1502908438
+    },
+    "MusicName": {
+      "hash": 259484497
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Combat_Phantylia_03",
+    "UnlockDesc": {
+      "hash": -1710973543
+    },
+    "GroupID": 3,
+    "ID": 210224,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 160,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -419405863
+    },
+    "MusicName": {
+      "hash": -2113168498
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Sanctum_Alley",
+    "UnlockDesc": {
+      "hash": -1710973542
+    },
+    "GroupID": 3,
+    "ID": 210225,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 94,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1985489804
+    },
+    "MusicName": {
+      "hash": -547084557
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Combat_Fuyan",
+    "UnlockDesc": {
+      "hash": -1710973547
+    },
+    "GroupID": 3,
+    "ID": 210228,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 147,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1549962605
+    },
+    "MusicName": {
+      "hash": 212430330
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Maze_SuiGarden",
+    "UnlockDesc": {
+      "hash": -1710973546
+    },
+    "GroupID": 3,
+    "ID": 210229,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 98,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -16121336
+    },
+    "MusicName": {
+      "hash": 1778514271
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_P01_OutDoor_High",
+    "UnlockDesc": {
+      "hash": -548174156
+    },
+    "GroupID": 4,
+    "ID": 210300,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 157,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 319906046
+    },
+    "MusicName": {
+      "hash": -1447761947
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_P01_OutDoor_low",
+    "UnlockDesc": {
+      "hash": -548174157
+    },
+    "GroupID": 4,
+    "ID": 210301,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 122,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1885989987
+    },
+    "MusicName": {
+      "hash": 1281121408
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_P01_InDoor_High",
+    "UnlockDesc": {
+      "hash": -548174158
+    },
+    "GroupID": 4,
+    "ID": 210302,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 130,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1482705460
+    },
+    "MusicName": {
+      "hash": 1684405935
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_P01_InDoor_Low",
+    "UnlockDesc": {
+      "hash": -548174159
+    },
+    "GroupID": 4,
+    "ID": 210303,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 177,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1246177895
+    },
+    "MusicName": {
+      "hash": 118321994
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_Death",
+    "UnlockDesc": {
+      "hash": -548174160
+    },
+    "GroupID": 4,
+    "ID": 210304,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 106,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -2005692782
+    },
+    "MusicName": {
+      "hash": 877836881
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_Sam",
+    "UnlockDesc": {
+      "hash": -548174161
+    },
+    "GroupID": 4,
+    "ID": 210305,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 95,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -439608841
+    },
+    "MusicName": {
+      "hash": -688247060
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_P01_MainSt",
+    "UnlockDesc": {
+      "hash": -548174162
+    },
+    "GroupID": 4,
+    "ID": 210306,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 140,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -842893368
+    },
+    "MusicName": {
+      "hash": -284962533
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_P01_MarketSt",
+    "UnlockDesc": {
+      "hash": -548174163
+    },
+    "GroupID": 4,
+    "ID": 210307,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 140,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 723190573
+    },
+    "MusicName": {
+      "hash": -1851046474
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_P01_ArcadeSq",
+    "UnlockDesc": {
+      "hash": -548174164
+    },
+    "GroupID": 4,
+    "ID": 210308,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 140,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -36324314
+    },
+    "MusicName": {
+      "hash": -1091531587
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P101_MainTheme",
+    "UnlockDesc": {
+      "hash": -548174165
+    },
+    "GroupID": 4,
+    "ID": 210309,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 92,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1529759627
+    },
+    "MusicName": {
+      "hash": 1637351768
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_P05_Lobby",
+    "UnlockDesc": {
+      "hash": -2114258097
+    },
+    "GroupID": 4,
+    "ID": 210310,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 126,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 319906047
+    },
+    "MusicName": {
+      "hash": -1447761946
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_P05_CommonRoom",
+    "UnlockDesc": {
+      "hash": -2114258098
+    },
+    "GroupID": 4,
+    "ID": 210311,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 95,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1885989988
+    },
+    "MusicName": {
+      "hash": 1281121409
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P103_MainTheme",
+    "UnlockDesc": {
+      "hash": -2114258099
+    },
+    "GroupID": 4,
+    "ID": 210312,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 120,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1482705461
+    },
+    "MusicName": {
+      "hash": 1684405936
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P103_Terrace_Vocal",
+    "UnlockDesc": {
+      "hash": -2114258100
+    },
+    "GroupID": 4,
+    "ID": 210313,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 80,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1246177894
+    },
+    "MusicName": {
+      "hash": 118321995
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P102_MainTheme",
+    "UnlockDesc": {
+      "hash": -2114258101
+    },
+    "GroupID": 4,
+    "ID": 210314,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 65,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -2005692781
+    },
+    "MusicName": {
+      "hash": 877836882
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P102_Study",
+    "UnlockDesc": {
+      "hash": -2114258102
+    },
+    "GroupID": 4,
+    "ID": 210315,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 126,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -439608840
+    },
+    "MusicName": {
+      "hash": -688247059
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_P01_NearOpera",
+    "UnlockDesc": {
+      "hash": -2114258103
+    },
+    "GroupID": 4,
+    "ID": 210316,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 110,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -842893367
+    },
+    "MusicName": {
+      "hash": -284962532
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_P01_Prop_DreamShop",
+    "UnlockDesc": {
+      "hash": -2114258104
+    },
+    "GroupID": 4,
+    "ID": 210317,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 216,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 723190574
+    },
+    "MusicName": {
+      "hash": -1851046473
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_Prop_JazzBand1",
+    "UnlockDesc": {
+      "hash": -2114258105
+    },
+    "GroupID": 4,
+    "ID": 210318,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 160,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -36324313
+    },
+    "MusicName": {
+      "hash": -1091531586
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_Prop_JazzBand2",
+    "UnlockDesc": {
+      "hash": -2114258106
+    },
+    "GroupID": 4,
+    "ID": 210319,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 125,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1529759628
+    },
+    "MusicName": {
+      "hash": 1637351769
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_Prop_JazzBand3",
+    "UnlockDesc": {
+      "hash": -1710973570
+    },
+    "GroupID": 4,
+    "ID": 210320,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 84,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 319906048
+    },
+    "MusicName": {
+      "hash": -1447761945
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_Prop_JazzBand4",
+    "UnlockDesc": {
+      "hash": -1710973571
+    },
+    "GroupID": 4,
+    "ID": 210321,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 82,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1885989989
+    },
+    "MusicName": {
+      "hash": 1281121410
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Gameplay_ClockBoy",
+    "UnlockDesc": {
+      "hash": -1710973572
+    },
+    "GroupID": 4,
+    "ID": 210322,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 80,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1482705462
+    },
+    "MusicName": {
+      "hash": 1684405937
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Gameplay_WolfBro",
+    "UnlockDesc": {
+      "hash": -1710973573
+    },
+    "GroupID": 4,
+    "ID": 210323,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 150,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1246177893
+    },
+    "MusicName": {
+      "hash": 118321996
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_Aventurine",
+    "UnlockDesc": {
+      "hash": -1710973574
+    },
+    "GroupID": 4,
+    "ID": 210324,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 126,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -2005692780
+    },
+    "MusicName": {
+      "hash": 877836883
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P201_MainTheme",
+    "UnlockDesc": {
+      "hash": -1710973575
+    },
+    "GroupID": 4,
+    "ID": 210325,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 103,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -439608839
+    },
+    "MusicName": {
+      "hash": -688247058
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P201_Hamster",
+    "UnlockDesc": {
+      "hash": -1710973576
+    },
+    "GroupID": 4,
+    "ID": 210326,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 120,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -842893366
+    },
+    "MusicName": {
+      "hash": -284962531
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P201_Gangster",
+    "UnlockDesc": {
+      "hash": -1710973577
+    },
+    "GroupID": 4,
+    "ID": 210327,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 145,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 723190575
+    },
+    "MusicName": {
+      "hash": -1851046472
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P202_MainTheme",
+    "UnlockDesc": {
+      "hash": -1710973578
+    },
+    "GroupID": 4,
+    "ID": 210328,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 80,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -36324312
+    },
+    "MusicName": {
+      "hash": -1091531585
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P203_MainTheme",
+    "UnlockDesc": {
+      "hash": -1710973579
+    },
+    "GroupID": 4,
+    "ID": 210329,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 120,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1529759629
+    },
+    "MusicName": {
+      "hash": 1637351770
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Gameplay_MovieGame_Race",
+    "UnlockDesc": {
+      "hash": 1017909785
+    },
+    "GroupID": 4,
+    "ID": 210330,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 144,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 319906049
+    },
+    "MusicName": {
+      "hash": -1447761944
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Gameplay_MovieGame_Shoot",
+    "UnlockDesc": {
+      "hash": 1017909784
+    },
+    "GroupID": 4,
+    "ID": 210331,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 144,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1885989990
+    },
+    "MusicName": {
+      "hash": 1281121411
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_Clock_A",
+    "UnlockDesc": {
+      "hash": 1017909783
+    },
+    "GroupID": 4,
+    "ID": 210332,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 140,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1482705463
+    },
+    "MusicName": {
+      "hash": 1684405938
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_Clock_BC",
+    "UnlockDesc": {
+      "hash": 1017909782
+    },
+    "GroupID": 4,
+    "ID": 210333,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 140,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1246177892
+    },
+    "MusicName": {
+      "hash": 118321997
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_Clock_P2P3_SongVocal",
+    "UnlockDesc": {
+      "hash": 1017909781
+    },
+    "GroupID": 4,
+    "ID": 210334,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 128,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -2005692779
+    },
+    "MusicName": {
+      "hash": 877836884
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_P03_OutDoor_High",
+    "UnlockDesc": {
+      "hash": 1017909780
+    },
+    "GroupID": 4,
+    "ID": 210335,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 135,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -439608838
+    },
+    "MusicName": {
+      "hash": -688247057
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_P03_OutDoor_Low",
+    "UnlockDesc": {
+      "hash": 1017909779
+    },
+    "GroupID": 4,
+    "ID": 210336,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 135,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -842893365
+    },
+    "MusicName": {
+      "hash": -284962530
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_P03_InDoor_High",
+    "UnlockDesc": {
+      "hash": 1017909778
+    },
+    "GroupID": 4,
+    "ID": 210337,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 170,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 723190576
+    },
+    "MusicName": {
+      "hash": -1851046471
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_P03_InDoor_Low",
+    "UnlockDesc": {
+      "hash": 1017909777
+    },
+    "GroupID": 4,
+    "ID": 210338,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 75,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -36324311
+    },
+    "MusicName": {
+      "hash": -1091531584
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_P02_Terrace",
+    "UnlockDesc": {
+      "hash": 1017909776
+    },
+    "GroupID": 4,
+    "ID": 210339,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 120,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1529759630
+    },
+    "MusicName": {
+      "hash": 1637351771
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P301_MainTheme_Ver1",
+    "UnlockDesc": {
+      "hash": 1421194312
+    },
+    "GroupID": 4,
+    "ID": 210340,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 128,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 319906042
+    },
+    "MusicName": {
+      "hash": -1447761951
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P301_A1A2",
+    "UnlockDesc": {
+      "hash": 1421194311
+    },
+    "GroupID": 4,
+    "ID": 210341,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 120,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1885989983
+    },
+    "MusicName": {
+      "hash": 1281121404
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P301_B1",
+    "UnlockDesc": {
+      "hash": 1421194310
+    },
+    "GroupID": 4,
+    "ID": 210342,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 115,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1482705456
+    },
+    "MusicName": {
+      "hash": 1684405931
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P301_B2",
+    "UnlockDesc": {
+      "hash": 1421194309
+    },
+    "GroupID": 4,
+    "ID": 210343,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 85,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1246177899
+    },
+    "MusicName": {
+      "hash": 118321990
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P301_MainTheme_Ver3",
+    "UnlockDesc": {
+      "hash": 1421194308
+    },
+    "GroupID": 4,
+    "ID": 210344,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 160,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -2005692786
+    },
+    "MusicName": {
+      "hash": 877836877
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P302_MainTheme_Ver1",
+    "UnlockDesc": {
+      "hash": 1421194307
+    },
+    "GroupID": 4,
+    "ID": 210345,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 105,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -439608845
+    },
+    "MusicName": {
+      "hash": -688247064
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P302_MainTheme_Ver2",
+    "UnlockDesc": {
+      "hash": 1421194306
+    },
+    "GroupID": 4,
+    "ID": 210346,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 115,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -842893372
+    },
+    "MusicName": {
+      "hash": -284962537
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P302_Chaos",
+    "UnlockDesc": {
+      "hash": 1421194305
+    },
+    "GroupID": 4,
+    "ID": 210347,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 90,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 723190569
+    },
+    "MusicName": {
+      "hash": -1851046478
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P302_Norm",
+    "UnlockDesc": {
+      "hash": 1421194304
+    },
+    "GroupID": 4,
+    "ID": 210348,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 60,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -36324318
+    },
+    "MusicName": {
+      "hash": -1091531591
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_MAZ_P302_Order",
+    "UnlockDesc": {
+      "hash": 1421194303
+    },
+    "GroupID": 4,
+    "ID": 210349,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 56,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1529759623
+    },
+    "MusicName": {
+      "hash": 1637351764
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Combat_Avatar_Robin_Vocal",
+    "UnlockDesc": {
+      "hash": -144889629
+    },
+    "GroupID": 4,
+    "ID": 210350,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 100,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 319906043
+    },
+    "MusicName": {
+      "hash": -1447761950
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_Clock_SongIntro",
+    "UnlockDesc": {
+      "hash": -144889630
+    },
+    "GroupID": 4,
+    "ID": 210351,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 128,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1885989984
+    },
+    "MusicName": {
+      "hash": 1281121405
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_Combat_Clock_SongOutro",
+    "UnlockDesc": {
+      "hash": -144889631
+    },
+    "GroupID": 4,
+    "ID": 210352,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 128,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1482705457
+    },
+    "MusicName": {
+      "hash": 1684405932
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_P401_Current",
+    "UnlockDesc": {
+      "hash": -144889632
+    },
+    "GroupID": 4,
+    "ID": 210353,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 73,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -1246177898
+    },
+    "MusicName": {
+      "hash": 118321991
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_ADV_P401_Bridge",
+    "UnlockDesc": {
+      "hash": -144889633
+    },
+    "GroupID": 4,
+    "ID": 210354,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 73,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -2005692785
+    },
+    "MusicName": {
+      "hash": 877836878
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Penocony_P4_Song_Vocal",
+    "UnlockDesc": {
+      "hash": -144889634
+    },
+    "GroupID": 4,
+    "ID": 210355,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 58,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -439608844
+    },
+    "MusicName": {
+      "hash": -688247063
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_MAZ_X401_Fire",
+    "UnlockDesc": {
+      "hash": -144889635
+    },
+    "GroupID": 3,
+    "ID": 210356,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 80,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -842893371
+    },
+    "MusicName": {
+      "hash": -284962536
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_MAZ_X401_Ice",
+    "UnlockDesc": {
+      "hash": -144889636
+    },
+    "GroupID": 3,
+    "ID": 210357,
+    "RhythmColour": "TYPE_EASY",
+    "BPM": 80,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 723190570
+    },
+    "MusicName": {
+      "hash": -1851046477
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Combat_X401_High",
+    "UnlockDesc": {
+      "hash": -144889637
+    },
+    "GroupID": 3,
+    "ID": 210358,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 190,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": -36324317
+    },
+    "MusicName": {
+      "hash": -1091531590
+    }
+  },
+  {
+    "MusicSwitchName": "BGM_Jukebox_Xianzhou_Combat_X401_Low",
+    "UnlockDesc": {
+      "hash": -144889638
+    },
+    "GroupID": 3,
+    "ID": 210359,
+    "RhythmColour": "TYPE_TENSE",
+    "BPM": 122,
+    "Unlock": false,
+    "BGMDesc": {
+      "hash": 1529759624
+    },
+    "MusicName": {
+      "hash": 1637351765
+    }
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg000.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg000.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/8001.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon000.png",
+    "Color": "#dbc291",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8001.png",
+    "Gender": "GENDER_MAN",
+    "Name": {
+      "hash": -558385206
+    },
+    "StoryLineID": 0
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg003.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg003.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/8002.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon000.png",
+    "Color": "#dbc291",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/8002.png",
+    "Gender": "GENDER_WOMAN",
+    "Name": {
+      "hash": -961669733
+    },
+    "StoryLineID": 0
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg001.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg001.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/1304.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon001.png",
+    "Color": "#3badb2",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1304.png",
+    "Gender": "GENDER_NONE",
+    "Name": {
+      "hash": 639687002
+    },
+    "StoryLineID": 1031101
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg001.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg001.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/1304.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon001.png",
+    "Color": "#3badb2",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1304.png",
+    "Gender": "GENDER_NONE",
+    "Name": {
+      "hash": -381949911
+    },
+    "StoryLineID": 1031102
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg001.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg001.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/1304.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon001.png",
+    "Color": "#3badb2",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1304.png",
+    "Gender": "GENDER_NONE",
+    "Name": {
+      "hash": -1838304109
+    },
+    "StoryLineID": 1031401
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg002.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg002.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/1308.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon002.png",
+    "Color": "#7b75fd",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1308.png",
+    "Gender": "GENDER_NONE",
+    "Name": {
+      "hash": -1111513635
+    },
+    "StoryLineID": 1031601
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg001.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg001.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/1304.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon001.png",
+    "Color": "#3badb2",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1304.png",
+    "Gender": "GENDER_NONE",
+    "Name": {
+      "hash": -1474908872
+    },
+    "StoryLineID": 1031701
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg004.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg004.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/1309.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon004.png",
+    "Color": "#6b7bed",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1309.png",
+    "Gender": "GENDER_NONE",
+    "Name": {
+      "hash": -1111510436
+    },
+    "StoryLineID": 1032601
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg005.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg005.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/1315.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon005.png",
+    "Color": "#fb8c8c",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1315.png",
+    "Gender": "GENDER_NONE",
+    "Name": {
+      "hash": 1314844941
+    },
+    "StoryLineID": 1032602
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg004.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg004.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/1309.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon004.png",
+    "Color": "#6b7bed",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1309.png",
+    "Gender": "GENDER_NONE",
+    "Name": {
+      "hash": 1366480675
+    },
+    "StoryLineID": 1032301
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg007.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg007.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/1112.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon007.png",
+    "Color": "#4e66bb",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1112.png",
+    "Gender": "GENDER_NONE",
+    "Name": {
+      "hash": 639683679
+    },
+    "StoryLineID": 1034101
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg008.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg008.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/1314.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon007.png",
+    "Color": "#4e66bb",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "Gender": "GENDER_NONE",
+    "Name": {
+      "hash": -381953234
+    },
+    "StoryLineID": 1034102
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg006.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg006.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/1310.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon006.png",
+    "Color": "#7a8d52",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1310.png",
+    "Gender": "GENDER_NONE",
+    "Name": {
+      "hash": 922008681
+    },
+    "StoryLineID": 1034103
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg010.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg010.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/1224.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon010.png",
+    "Color": "#bc6f8f",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1224.png",
+    "Gender": "GENDER_NONE",
+    "Name": {
+      "hash": 759301763
+    },
+    "StoryLineID": 2022101
+  },
+  {
+    "LargeImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg009.png",
+    "MediumImgPath": "SpriteOutput/StoryLine/StoryLineChapterImg/StoryLineImg009.png",
+    "IconPath": "SpriteOutput/AvatarIcon/Avatar/1218.png",
+    "FigurePath": "SpriteOutput/StoryLine/StoryLineChapterIcon/StoryLineIcon009.png",
+    "Color": "#487fbd",
+    "ChronicleIconPath": "SpriteOutput/AvatarRoundIcon/Avatar/1218.png",
+    "Gender": "GENDER_NONE",
+    "Name": {
+      "hash": 2063263678
+    },
+    "StoryLineID": 2022102
+  }
+]

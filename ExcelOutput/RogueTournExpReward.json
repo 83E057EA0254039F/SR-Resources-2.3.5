@@ -1,0 +1,362 @@
+[
+  {
+    "Level": 1,
+    "Exp": 800,
+    "MainTournID": 1,
+    "RewardID": 110901
+  },
+  {
+    "Level": 2,
+    "Exp": 1600,
+    "MainTournID": 1,
+    "RewardID": 110902
+  },
+  {
+    "Level": 3,
+    "Exp": 2400,
+    "MainTournID": 1,
+    "RewardID": 110903
+  },
+  {
+    "Level": 4,
+    "Exp": 3200,
+    "MainTournID": 1,
+    "RewardID": 110904
+  },
+  {
+    "Level": 5,
+    "Exp": 4000,
+    "MainTournID": 1,
+    "RewardID": 110905
+  },
+  {
+    "Level": 6,
+    "Exp": 4800,
+    "MainTournID": 1,
+    "RewardID": 110906
+  },
+  {
+    "Level": 7,
+    "Exp": 5600,
+    "MainTournID": 1,
+    "RewardID": 110907
+  },
+  {
+    "Level": 8,
+    "Exp": 6400,
+    "MainTournID": 1,
+    "RewardID": 110908
+  },
+  {
+    "Level": 9,
+    "Exp": 7200,
+    "MainTournID": 1,
+    "RewardID": 110909
+  },
+  {
+    "Level": 10,
+    "Exp": 8000,
+    "MainTournID": 1,
+    "RewardID": 110910
+  },
+  {
+    "Level": 11,
+    "Exp": 8800,
+    "MainTournID": 1,
+    "RewardID": 110911
+  },
+  {
+    "Level": 12,
+    "Exp": 9600,
+    "MainTournID": 1,
+    "RewardID": 110912
+  },
+  {
+    "Level": 13,
+    "Exp": 10400,
+    "MainTournID": 1,
+    "RewardID": 110913
+  },
+  {
+    "Level": 14,
+    "Exp": 11200,
+    "MainTournID": 1,
+    "RewardID": 110914
+  },
+  {
+    "Level": 15,
+    "Exp": 12000,
+    "MainTournID": 1,
+    "RewardID": 110915
+  },
+  {
+    "Level": 16,
+    "Exp": 12800,
+    "MainTournID": 1,
+    "RewardID": 110916
+  },
+  {
+    "Level": 17,
+    "Exp": 13600,
+    "MainTournID": 1,
+    "RewardID": 110917
+  },
+  {
+    "Level": 18,
+    "Exp": 14400,
+    "MainTournID": 1,
+    "RewardID": 110918
+  },
+  {
+    "Level": 19,
+    "Exp": 15200,
+    "MainTournID": 1,
+    "RewardID": 110919
+  },
+  {
+    "Level": 20,
+    "Exp": 16000,
+    "MainTournID": 1,
+    "RewardID": 110920
+  },
+  {
+    "Level": 21,
+    "Exp": 16800,
+    "MainTournID": 1,
+    "RewardID": 110921
+  },
+  {
+    "Level": 22,
+    "Exp": 17600,
+    "MainTournID": 1,
+    "RewardID": 110922
+  },
+  {
+    "Level": 23,
+    "Exp": 18400,
+    "MainTournID": 1,
+    "RewardID": 110923
+  },
+  {
+    "Level": 24,
+    "Exp": 19200,
+    "MainTournID": 1,
+    "RewardID": 110924
+  },
+  {
+    "Level": 25,
+    "Exp": 20000,
+    "MainTournID": 1,
+    "RewardID": 110925
+  },
+  {
+    "Level": 26,
+    "Exp": 20800,
+    "MainTournID": 1,
+    "RewardID": 110926
+  },
+  {
+    "Level": 27,
+    "Exp": 21600,
+    "MainTournID": 1,
+    "RewardID": 110927
+  },
+  {
+    "Level": 28,
+    "Exp": 22400,
+    "MainTournID": 1,
+    "RewardID": 110928
+  },
+  {
+    "Level": 29,
+    "Exp": 23200,
+    "MainTournID": 1,
+    "RewardID": 110929
+  },
+  {
+    "Level": 30,
+    "Exp": 24000,
+    "MainTournID": 1,
+    "RewardID": 110930
+  },
+  {
+    "Level": 31,
+    "Exp": 24800,
+    "MainTournID": 1,
+    "RewardID": 110931
+  },
+  {
+    "Level": 32,
+    "Exp": 25600,
+    "MainTournID": 1,
+    "RewardID": 110932
+  },
+  {
+    "Level": 33,
+    "Exp": 26400,
+    "MainTournID": 1,
+    "RewardID": 110933
+  },
+  {
+    "Level": 34,
+    "Exp": 27200,
+    "MainTournID": 1,
+    "RewardID": 110934
+  },
+  {
+    "Level": 35,
+    "Exp": 28000,
+    "MainTournID": 1,
+    "RewardID": 110935
+  },
+  {
+    "Level": 36,
+    "Exp": 28800,
+    "MainTournID": 1,
+    "RewardID": 110936
+  },
+  {
+    "Level": 37,
+    "Exp": 29600,
+    "MainTournID": 1,
+    "RewardID": 110937
+  },
+  {
+    "Level": 38,
+    "Exp": 30400,
+    "MainTournID": 1,
+    "RewardID": 110938
+  },
+  {
+    "Level": 39,
+    "Exp": 31200,
+    "MainTournID": 1,
+    "RewardID": 110939
+  },
+  {
+    "Level": 40,
+    "Exp": 32000,
+    "MainTournID": 1,
+    "RewardID": 110940
+  },
+  {
+    "Level": 41,
+    "Exp": 32800,
+    "MainTournID": 1,
+    "RewardID": 110941
+  },
+  {
+    "Level": 42,
+    "Exp": 33600,
+    "MainTournID": 1,
+    "RewardID": 110942
+  },
+  {
+    "Level": 43,
+    "Exp": 34400,
+    "MainTournID": 1,
+    "RewardID": 110943
+  },
+  {
+    "Level": 44,
+    "Exp": 35200,
+    "MainTournID": 1,
+    "RewardID": 110944
+  },
+  {
+    "Level": 45,
+    "Exp": 36000,
+    "MainTournID": 1,
+    "RewardID": 110945
+  },
+  {
+    "Level": 46,
+    "Exp": 36800,
+    "MainTournID": 1,
+    "RewardID": 110946
+  },
+  {
+    "Level": 47,
+    "Exp": 37600,
+    "MainTournID": 1,
+    "RewardID": 110947
+  },
+  {
+    "Level": 48,
+    "Exp": 38400,
+    "MainTournID": 1,
+    "RewardID": 110948
+  },
+  {
+    "Level": 49,
+    "Exp": 39200,
+    "MainTournID": 1,
+    "RewardID": 110949
+  },
+  {
+    "Level": 50,
+    "Exp": 40000,
+    "MainTournID": 1,
+    "RewardID": 110950
+  },
+  {
+    "Level": 51,
+    "Exp": 40800,
+    "MainTournID": 1,
+    "RewardID": 110951
+  },
+  {
+    "Level": 52,
+    "Exp": 41600,
+    "MainTournID": 1,
+    "RewardID": 110952
+  },
+  {
+    "Level": 53,
+    "Exp": 42400,
+    "MainTournID": 1,
+    "RewardID": 110953
+  },
+  {
+    "Level": 54,
+    "Exp": 43200,
+    "MainTournID": 1,
+    "RewardID": 110954
+  },
+  {
+    "Level": 55,
+    "Exp": 44000,
+    "MainTournID": 1,
+    "RewardID": 110955
+  },
+  {
+    "Level": 56,
+    "Exp": 44800,
+    "MainTournID": 1,
+    "RewardID": 110956
+  },
+  {
+    "Level": 57,
+    "Exp": 45600,
+    "MainTournID": 1,
+    "RewardID": 110957
+  },
+  {
+    "Level": 58,
+    "Exp": 46400,
+    "MainTournID": 1,
+    "RewardID": 110958
+  },
+  {
+    "Level": 59,
+    "Exp": 47200,
+    "MainTournID": 1,
+    "RewardID": 110959
+  },
+  {
+    "Level": 60,
+    "Exp": 48000,
+    "MainTournID": 1,
+    "RewardID": 110960
+  }
+]

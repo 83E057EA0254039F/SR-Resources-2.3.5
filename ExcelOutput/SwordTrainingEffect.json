@@ -1,0 +1,7984 @@
+[
+  {
+    "ParamList": [
+      9,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 111
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 112
+  },
+  {
+    "ParamList": [
+      12,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 121
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 122
+  },
+  {
+    "ParamList": [
+      16,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 131
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 132
+  },
+  {
+    "ParamList": [
+      20,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 141
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 142
+  },
+  {
+    "ParamList": [
+      25,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 151
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 152
+  },
+  {
+    "ParamList": [
+      0,
+      9,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212
+  },
+  {
+    "ParamList": [
+      0,
+      12,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 221
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 222
+  },
+  {
+    "ParamList": [
+      0,
+      16,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 231
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 232
+  },
+  {
+    "ParamList": [
+      0,
+      20,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 241
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 242
+  },
+  {
+    "ParamList": [
+      0,
+      25,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 251
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 252
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      9,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 311
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 312
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      12,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 321
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 322
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      16,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 331
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 332
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      20,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 341
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 342
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      25,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 351
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 352
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      9
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 411
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 412
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      12
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 421
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 422
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 431
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 432
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 441
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 442
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      25
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 451
+  },
+  {
+    "ParamList": [
+      16
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 452
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 511
+  },
+  {
+    "ParamList": [
+      40
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 512
+  },
+  {
+    "ParamList": [
+      8,
+      0,
+      8,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 611
+  },
+  {
+    "ParamList": [
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 612
+  },
+  {
+    "ParamList": [
+      6,
+      6,
+      6,
+      6
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 711
+  },
+  {
+    "ParamList": [
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 712
+  },
+  {
+    "ParamList": [
+      30,
+      30,
+      30,
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 21010
+  },
+  {
+    "ParamList": [
+      50,
+      50,
+      50,
+      50
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 21020
+  },
+  {
+    "ParamList": [
+      80,
+      80,
+      80,
+      80
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 21030
+  },
+  {
+    "ParamList": [
+      40,
+      40,
+      40,
+      40
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 22010
+  },
+  {
+    "ParamList": [
+      60,
+      60,
+      60,
+      60
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 22020
+  },
+  {
+    "ParamList": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 22030
+  },
+  {
+    "ParamList": [
+      60,
+      60,
+      60,
+      60
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 23010
+  },
+  {
+    "ParamList": [
+      80,
+      80,
+      80,
+      80
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 23020
+  },
+  {
+    "ParamList": [
+      120,
+      120,
+      120,
+      120
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 23030
+  },
+  {
+    "ParamList": [
+      80,
+      80,
+      80,
+      80
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 24010
+  },
+  {
+    "ParamList": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 24020
+  },
+  {
+    "ParamList": [
+      150,
+      150,
+      150,
+      150
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 24030
+  },
+  {
+    "ParamList": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 21011
+  },
+  {
+    "ParamList": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 21012
+  },
+  {
+    "ParamList": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 21013
+  },
+  {
+    "ParamList": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 21021
+  },
+  {
+    "ParamList": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 21022
+  },
+  {
+    "ParamList": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 21023
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 21031
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 21032
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 21033
+  },
+  {
+    "ParamList": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 22011
+  },
+  {
+    "ParamList": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 22012
+  },
+  {
+    "ParamList": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 22013
+  },
+  {
+    "ParamList": [
+      30,
+      30,
+      30,
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 22021
+  },
+  {
+    "ParamList": [
+      30,
+      30,
+      30,
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 22022
+  },
+  {
+    "ParamList": [
+      30,
+      30,
+      30,
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 22023
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 22031
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 22032
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 22033
+  },
+  {
+    "ParamList": [
+      30,
+      30,
+      30,
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 23011
+  },
+  {
+    "ParamList": [
+      30,
+      30,
+      30,
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 23012
+  },
+  {
+    "ParamList": [
+      30,
+      30,
+      30,
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 23013
+  },
+  {
+    "ParamList": [
+      50,
+      50,
+      50,
+      50
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 23021
+  },
+  {
+    "ParamList": [
+      50,
+      50,
+      50,
+      50
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 23022
+  },
+  {
+    "ParamList": [
+      50,
+      50,
+      50,
+      50
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 23023
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 23031
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 23032
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 23033
+  },
+  {
+    "ParamList": [
+      50,
+      50,
+      50,
+      50
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 24011
+  },
+  {
+    "ParamList": [
+      50,
+      50,
+      50,
+      50
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 24012
+  },
+  {
+    "ParamList": [
+      50,
+      50,
+      50,
+      50
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 24013
+  },
+  {
+    "ParamList": [
+      80,
+      80,
+      80,
+      80
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 24021
+  },
+  {
+    "ParamList": [
+      80,
+      80,
+      80,
+      80
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 24022
+  },
+  {
+    "ParamList": [
+      80,
+      80,
+      80,
+      80
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 24023
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 24031
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 24032
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 24033
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 25001
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 25002
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 34031
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 34032
+  },
+  {
+    "ParamList": [
+      3,
+      5
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 34033
+  },
+  {
+    "ParamList": [
+      4,
+      5
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 34034
+  },
+  {
+    "ParamList": [
+      80
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubTrainRatio",
+    "Count": 0,
+    "Condition": 1,
+    "ID": 40001
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubTrainRatio",
+    "Count": 0,
+    "Condition": 1,
+    "ID": 40002
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 4,
+    "ID": 40004
+  },
+  {
+    "ParamList": [
+      150
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SetMoodLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 51001
+  },
+  {
+    "ParamList": [
+      0,
+      26,
+      22,
+      31
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 51002
+  },
+  {
+    "ParamList": [
+      1,
+      1
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 51003
+  },
+  {
+    "ParamList": [
+      2,
+      1
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 51004
+  },
+  {
+    "ParamList": [
+      3,
+      1
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 51005
+  },
+  {
+    "ParamList": [
+      4,
+      1
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 51006
+  },
+  {
+    "ParamList": [
+      1,
+      1
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevelLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 51007
+  },
+  {
+    "ParamList": [
+      2,
+      1
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevelLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 51008
+  },
+  {
+    "ParamList": [
+      3,
+      1
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevelLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 51009
+  },
+  {
+    "ParamList": [
+      4,
+      1
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevelLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 51010
+  },
+  {
+    "ParamList": [
+      150
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SetMoodLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 52001
+  },
+  {
+    "ParamList": [
+      50,
+      76,
+      72,
+      81
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 52002
+  },
+  {
+    "ParamList": [
+      1,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 52003
+  },
+  {
+    "ParamList": [
+      2,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 52004
+  },
+  {
+    "ParamList": [
+      3,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 52005
+  },
+  {
+    "ParamList": [
+      4,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 52006
+  },
+  {
+    "ParamList": [
+      1,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevelLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 52007
+  },
+  {
+    "ParamList": [
+      2,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevelLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 52008
+  },
+  {
+    "ParamList": [
+      3,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevelLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 52009
+  },
+  {
+    "ParamList": [
+      4,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevelLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 52010
+  },
+  {
+    "ParamList": [
+      150
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SetMoodLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 53001
+  },
+  {
+    "ParamList": [
+      150,
+      176,
+      172,
+      181
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 53002
+  },
+  {
+    "ParamList": [
+      1,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 53003
+  },
+  {
+    "ParamList": [
+      2,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 53004
+  },
+  {
+    "ParamList": [
+      3,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 53005
+  },
+  {
+    "ParamList": [
+      4,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevel",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 53006
+  },
+  {
+    "ParamList": [
+      1,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevelLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 53007
+  },
+  {
+    "ParamList": [
+      2,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevelLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 53008
+  },
+  {
+    "ParamList": [
+      3,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevelLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 53009
+  },
+  {
+    "ParamList": [
+      4,
+      2
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddActionLevelLimit",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 53010
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 1011,
+    "ID": 1110101
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 1021,
+    "ID": 1110201
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 1031,
+    "ID": 1110301
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 1041,
+    "ID": 1110401
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 1051,
+    "ID": 1110501
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 1051,
+    "ID": 1110502
+  },
+  {
+    "ParamList": [
+      6
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddMoodIncreaseValue",
+    "Count": 0,
+    "Condition": 1051,
+    "ID": 1110503
+  },
+  {
+    "ParamList": [
+      1110602
+    ],
+    "EnhanceActionList": [
+      5,
+      6
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 0,
+    "Condition": 1061,
+    "ID": 1110601
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 1062,
+    "ID": 1110602
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1071,
+    "ID": 1110701
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1071,
+    "ID": 1110702
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1072,
+    "ID": 1110703
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1072,
+    "ID": 1110704
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1073,
+    "ID": 1110705
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1073,
+    "ID": 1110706
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1074,
+    "ID": 1110707
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1074,
+    "ID": 1110708
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      5
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1075,
+    "ID": 1110709
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      5
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1075,
+    "ID": 1110710
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1076,
+    "ID": 1110711
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1076,
+    "ID": 1110712
+  },
+  {
+    "ParamList": [
+      400
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 1081,
+    "ID": 1110801
+  },
+  {
+    "ParamList": [
+      200
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 1,
+    "Condition": 1081,
+    "ID": 1110802
+  },
+  {
+    "ParamList": [
+      80
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 1011,
+    "ID": 1120101
+  },
+  {
+    "ParamList": [
+      80
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 1021,
+    "ID": 1120201
+  },
+  {
+    "ParamList": [
+      80
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 1031,
+    "ID": 1120301
+  },
+  {
+    "ParamList": [
+      80
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 1041,
+    "ID": 1120401
+  },
+  {
+    "ParamList": [
+      1,
+      8
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 1051,
+    "ID": 1120501
+  },
+  {
+    "ParamList": [
+      2,
+      8
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 1051,
+    "ID": 1120502
+  },
+  {
+    "ParamList": [
+      10
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddMoodIncreaseValue",
+    "Count": 0,
+    "Condition": 1051,
+    "ID": 1120503
+  },
+  {
+    "ParamList": [
+      1120602
+    ],
+    "EnhanceActionList": [
+      5,
+      6
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 0,
+    "Condition": 1061,
+    "ID": 1120601
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 1062,
+    "ID": 1120602
+  },
+  {
+    "ParamList": [
+      1,
+      9
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1071,
+    "ID": 1120701
+  },
+  {
+    "ParamList": [
+      2,
+      9
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1071,
+    "ID": 1120702
+  },
+  {
+    "ParamList": [
+      1,
+      9
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1072,
+    "ID": 1120703
+  },
+  {
+    "ParamList": [
+      2,
+      9
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1072,
+    "ID": 1120704
+  },
+  {
+    "ParamList": [
+      1,
+      9
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1073,
+    "ID": 1120705
+  },
+  {
+    "ParamList": [
+      2,
+      9
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1073,
+    "ID": 1120706
+  },
+  {
+    "ParamList": [
+      1,
+      9
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1074,
+    "ID": 1120707
+  },
+  {
+    "ParamList": [
+      2,
+      9
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1074,
+    "ID": 1120708
+  },
+  {
+    "ParamList": [
+      1,
+      9
+    ],
+    "EnhanceActionList": [
+      5
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1075,
+    "ID": 1120709
+  },
+  {
+    "ParamList": [
+      2,
+      9
+    ],
+    "EnhanceActionList": [
+      5
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1075,
+    "ID": 1120710
+  },
+  {
+    "ParamList": [
+      1,
+      9
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1076,
+    "ID": 1120711
+  },
+  {
+    "ParamList": [
+      2,
+      9
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1076,
+    "ID": 1120712
+  },
+  {
+    "ParamList": [
+      500
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 1081,
+    "ID": 1120801
+  },
+  {
+    "ParamList": [
+      300
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 1,
+    "Condition": 1081,
+    "ID": 1120802
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 1011,
+    "ID": 1130101
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 1021,
+    "ID": 1130201
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 1031,
+    "ID": 1130301
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 1041,
+    "ID": 1130401
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 1051,
+    "ID": 1130501
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 1051,
+    "ID": 1130502
+  },
+  {
+    "ParamList": [
+      10
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddMoodIncreaseValue",
+    "Count": 0,
+    "Condition": 1051,
+    "ID": 1130503
+  },
+  {
+    "ParamList": [
+      1130602
+    ],
+    "EnhanceActionList": [
+      5,
+      6
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 0,
+    "Condition": 1061,
+    "ID": 1130601
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 1062,
+    "ID": 1130602
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1071,
+    "ID": 1130701
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1071,
+    "ID": 1130702
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1072,
+    "ID": 1130703
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1072,
+    "ID": 1130704
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1073,
+    "ID": 1130705
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1073,
+    "ID": 1130706
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1074,
+    "ID": 1130707
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1074,
+    "ID": 1130708
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      5
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1075,
+    "ID": 1130709
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      5
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1075,
+    "ID": 1130710
+  },
+  {
+    "ParamList": [
+      1,
+      5
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1076,
+    "ID": 1130711
+  },
+  {
+    "ParamList": [
+      2,
+      5
+    ],
+    "EnhanceActionList": [
+      6
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 1,
+    "Condition": 1076,
+    "ID": 1130712
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 1081,
+    "ID": 1130801
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 1,
+    "Condition": 1081,
+    "ID": 1130802
+  },
+  {
+    "ParamList": [
+      80
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2011,
+    "ID": 1210101
+  },
+  {
+    "ParamList": [
+      80
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2021,
+    "ID": 1210201
+  },
+  {
+    "ParamList": [
+      80
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2031,
+    "ID": 1210301
+  },
+  {
+    "ParamList": [
+      80
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2041,
+    "ID": 1210401
+  },
+  {
+    "ParamList": [
+      60
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2051,
+    "ID": 1210501
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 2051,
+    "ID": 1210502
+  },
+  {
+    "ParamList": [
+      1210602
+    ],
+    "EnhanceActionList": [
+      5,
+      6
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 0,
+    "Condition": 2061,
+    "ID": 1210601
+  },
+  {
+    "ParamList": [
+      180
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2062,
+    "ID": 1210602
+  },
+  {
+    "ParamList": [
+      1,
+      6
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 2071,
+    "ID": 1210701
+  },
+  {
+    "ParamList": [
+      2,
+      6
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 2071,
+    "ID": 1210702
+  },
+  {
+    "ParamList": [
+      3,
+      6
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 2081,
+    "ID": 1210801
+  },
+  {
+    "ParamList": [
+      4,
+      6
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 2081,
+    "ID": 1210802
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2091,
+    "ID": 1210901
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 1,
+    "Condition": 2091,
+    "ID": 1210902
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2092,
+    "ID": 1210903
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 1,
+    "Condition": 2092,
+    "ID": 1210904
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2093,
+    "ID": 1210905
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 1,
+    "Condition": 2093,
+    "ID": 1210906
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2094,
+    "ID": 1210907
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 1,
+    "Condition": 2094,
+    "ID": 1210908
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      20,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatusByRemainMood",
+    "Count": 0,
+    "Condition": 2101,
+    "ID": 1211001
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2011,
+    "ID": 1220101
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2021,
+    "ID": 1220201
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2031,
+    "ID": 1220301
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2041,
+    "ID": 1220401
+  },
+  {
+    "ParamList": [
+      80
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2051,
+    "ID": 1220501
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 2051,
+    "ID": 1220502
+  },
+  {
+    "ParamList": [
+      1220602
+    ],
+    "EnhanceActionList": [
+      5,
+      6
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 0,
+    "Condition": 2061,
+    "ID": 1220601
+  },
+  {
+    "ParamList": [
+      240
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2062,
+    "ID": 1220602
+  },
+  {
+    "ParamList": [
+      1,
+      10
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 2071,
+    "ID": 1220701
+  },
+  {
+    "ParamList": [
+      2,
+      10
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 2071,
+    "ID": 1220702
+  },
+  {
+    "ParamList": [
+      3,
+      10
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 2081,
+    "ID": 1220801
+  },
+  {
+    "ParamList": [
+      4,
+      10
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 2081,
+    "ID": 1220802
+  },
+  {
+    "ParamList": [
+      120
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2091,
+    "ID": 1220901
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 1,
+    "Condition": 2091,
+    "ID": 1220902
+  },
+  {
+    "ParamList": [
+      120
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2092,
+    "ID": 1220903
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 1,
+    "Condition": 2092,
+    "ID": 1220904
+  },
+  {
+    "ParamList": [
+      120
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2093,
+    "ID": 1220905
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 1,
+    "Condition": 2093,
+    "ID": 1220906
+  },
+  {
+    "ParamList": [
+      120
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2094,
+    "ID": 1220907
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 1,
+    "Condition": 2094,
+    "ID": 1220908
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      33,
+      33
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatusByRemainMood",
+    "Count": 0,
+    "Condition": 2101,
+    "ID": 1221001
+  },
+  {
+    "ParamList": [
+      160
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2011,
+    "ID": 1230101
+  },
+  {
+    "ParamList": [
+      160
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2021,
+    "ID": 1230201
+  },
+  {
+    "ParamList": [
+      160
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2031,
+    "ID": 1230301
+  },
+  {
+    "ParamList": [
+      160
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2041,
+    "ID": 1230401
+  },
+  {
+    "ParamList": [
+      120
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 2051,
+    "ID": 1230501
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 2051,
+    "ID": 1230502
+  },
+  {
+    "ParamList": [
+      1230602
+    ],
+    "EnhanceActionList": [
+      5,
+      6
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 0,
+    "Condition": 2061,
+    "ID": 1230601
+  },
+  {
+    "ParamList": [
+      360
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2062,
+    "ID": 1230602
+  },
+  {
+    "ParamList": [
+      1,
+      20
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 2071,
+    "ID": 1230701
+  },
+  {
+    "ParamList": [
+      2,
+      20
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 2071,
+    "ID": 1230702
+  },
+  {
+    "ParamList": [
+      3,
+      20
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 2081,
+    "ID": 1230801
+  },
+  {
+    "ParamList": [
+      4,
+      20
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 2081,
+    "ID": 1230802
+  },
+  {
+    "ParamList": [
+      200
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2091,
+    "ID": 1230901
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 1,
+    "Condition": 2091,
+    "ID": 1230902
+  },
+  {
+    "ParamList": [
+      200
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2092,
+    "ID": 1230903
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 1,
+    "Condition": 2092,
+    "ID": 1230904
+  },
+  {
+    "ParamList": [
+      200
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2093,
+    "ID": 1230905
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 1,
+    "Condition": 2093,
+    "ID": 1230906
+  },
+  {
+    "ParamList": [
+      200
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 1,
+    "Condition": 2094,
+    "ID": 1230907
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 1,
+    "Condition": 2094,
+    "ID": 1230908
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      50,
+      50
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatusByRemainMood",
+    "Count": 0,
+    "Condition": 2101,
+    "ID": 1231001
+  },
+  {
+    "ParamList": [
+      160
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3011,
+    "ID": 1310101
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 3011,
+    "ID": 1310102
+  },
+  {
+    "ParamList": [
+      160
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3012,
+    "ID": 1310103
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 3012,
+    "ID": 1310104
+  },
+  {
+    "ParamList": [
+      160
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3021,
+    "ID": 1310201
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 3021,
+    "ID": 1310202
+  },
+  {
+    "ParamList": [
+      160
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3022,
+    "ID": 1310203
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 3022,
+    "ID": 1310204
+  },
+  {
+    "ParamList": [
+      1,
+      18
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3031,
+    "ID": 1310301
+  },
+  {
+    "ParamList": [
+      2,
+      18
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3031,
+    "ID": 1310302
+  },
+  {
+    "ParamList": [
+      3,
+      18
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3041,
+    "ID": 1310401
+  },
+  {
+    "ParamList": [
+      4,
+      18
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3041,
+    "ID": 1310402
+  },
+  {
+    "ParamList": [
+      320
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3051,
+    "ID": 1310501
+  },
+  {
+    "ParamList": [
+      96
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddMoodIncreaseValue",
+    "Count": 0,
+    "Condition": 3061,
+    "ID": 1310601
+  },
+  {
+    "ParamList": [
+      24
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddMoodIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1310602
+  },
+  {
+    "ParamList": [
+      1,
+      14
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1310603
+  },
+  {
+    "ParamList": [
+      2,
+      14
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1310604
+  },
+  {
+    "ParamList": [
+      3,
+      14
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1310605
+  },
+  {
+    "ParamList": [
+      4,
+      14
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1310606
+  },
+  {
+    "ParamList": [
+      360
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3071,
+    "ID": 1310701
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3071,
+    "ID": 1310702
+  },
+  {
+    "ParamList": [
+      360
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3072,
+    "ID": 1310703
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3072,
+    "ID": 1310704
+  },
+  {
+    "ParamList": [
+      360
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3081,
+    "ID": 1310801
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3081,
+    "ID": 1310802
+  },
+  {
+    "ParamList": [
+      360
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3082,
+    "ID": 1310803
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3082,
+    "ID": 1310804
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3091,
+    "ID": 1310901
+  },
+  {
+    "ParamList": [
+      6
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddCurrentTrainRatioByRemainMood",
+    "Count": 0,
+    "Condition": 3091,
+    "ID": 1310902
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddMoodIncreaseValue",
+    "Count": 0,
+    "Condition": 3101,
+    "ID": 1311001
+  },
+  {
+    "ParamList": [
+      25,
+      25,
+      25,
+      25
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusByOverflowMood",
+    "Count": 0,
+    "Condition": 3101,
+    "ID": 1311002
+  },
+  {
+    "ParamList": [
+      200
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3011,
+    "ID": 1320101
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 3011,
+    "ID": 1320102
+  },
+  {
+    "ParamList": [
+      200
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3012,
+    "ID": 1320103
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 3012,
+    "ID": 1320104
+  },
+  {
+    "ParamList": [
+      200
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3021,
+    "ID": 1320201
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 3021,
+    "ID": 1320202
+  },
+  {
+    "ParamList": [
+      200
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3022,
+    "ID": 1320203
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 3022,
+    "ID": 1320204
+  },
+  {
+    "ParamList": [
+      1,
+      24
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3031,
+    "ID": 1320301
+  },
+  {
+    "ParamList": [
+      2,
+      24
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3031,
+    "ID": 1320302
+  },
+  {
+    "ParamList": [
+      3,
+      24
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3041,
+    "ID": 1320401
+  },
+  {
+    "ParamList": [
+      4,
+      24
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3041,
+    "ID": 1320402
+  },
+  {
+    "ParamList": [
+      500
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3051,
+    "ID": 1320501
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddMoodIncreaseValue",
+    "Count": 0,
+    "Condition": 3061,
+    "ID": 1320601
+  },
+  {
+    "ParamList": [
+      25
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddMoodIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1320602
+  },
+  {
+    "ParamList": [
+      1,
+      15
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1320603
+  },
+  {
+    "ParamList": [
+      2,
+      15
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1320604
+  },
+  {
+    "ParamList": [
+      3,
+      15
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1320605
+  },
+  {
+    "ParamList": [
+      4,
+      15
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1320606
+  },
+  {
+    "ParamList": [
+      500
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3071,
+    "ID": 1320701
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3071,
+    "ID": 1320702
+  },
+  {
+    "ParamList": [
+      500
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3072,
+    "ID": 1320703
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3072,
+    "ID": 1320704
+  },
+  {
+    "ParamList": [
+      500
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3081,
+    "ID": 1320801
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3081,
+    "ID": 1320802
+  },
+  {
+    "ParamList": [
+      500
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3082,
+    "ID": 1320803
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3082,
+    "ID": 1320804
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3091,
+    "ID": 1320901
+  },
+  {
+    "ParamList": [
+      7
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddCurrentTrainRatioByRemainMood",
+    "Count": 0,
+    "Condition": 3091,
+    "ID": 1320902
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddMoodIncreaseValue",
+    "Count": 0,
+    "Condition": 3101,
+    "ID": 1321001
+  },
+  {
+    "ParamList": [
+      35,
+      35,
+      35,
+      35
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusByOverflowMood",
+    "Count": 0,
+    "Condition": 3101,
+    "ID": 1321002
+  },
+  {
+    "ParamList": [
+      250
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3011,
+    "ID": 1330101
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 3011,
+    "ID": 1330102
+  },
+  {
+    "ParamList": [
+      250
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3012,
+    "ID": 1330103
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 3012,
+    "ID": 1330104
+  },
+  {
+    "ParamList": [
+      250
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3021,
+    "ID": 1330201
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 3021,
+    "ID": 1330202
+  },
+  {
+    "ParamList": [
+      250
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3022,
+    "ID": 1330203
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 3022,
+    "ID": 1330204
+  },
+  {
+    "ParamList": [
+      1,
+      36
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3031,
+    "ID": 1330301
+  },
+  {
+    "ParamList": [
+      2,
+      36
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3031,
+    "ID": 1330302
+  },
+  {
+    "ParamList": [
+      3,
+      36
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3041,
+    "ID": 1330401
+  },
+  {
+    "ParamList": [
+      4,
+      36
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3041,
+    "ID": 1330402
+  },
+  {
+    "ParamList": [
+      800
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3051,
+    "ID": 1330501
+  },
+  {
+    "ParamList": [
+      200
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddMoodIncreaseValue",
+    "Count": 0,
+    "Condition": 3061,
+    "ID": 1330601
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddMoodIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1330602
+  },
+  {
+    "ParamList": [
+      1,
+      30
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1330603
+  },
+  {
+    "ParamList": [
+      2,
+      30
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1330604
+  },
+  {
+    "ParamList": [
+      3,
+      30
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1330605
+  },
+  {
+    "ParamList": [
+      4,
+      30
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusIncreaseValue",
+    "Count": 0,
+    "Condition": 3062,
+    "ID": 1330606
+  },
+  {
+    "ParamList": [
+      600
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3071,
+    "ID": 1330701
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      1
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3071,
+    "ID": 1330702
+  },
+  {
+    "ParamList": [
+      600
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3072,
+    "ID": 1330703
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      2
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3072,
+    "ID": 1330704
+  },
+  {
+    "ParamList": [
+      600
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3081,
+    "ID": 1330801
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      3
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3081,
+    "ID": 1330802
+  },
+  {
+    "ParamList": [
+      600
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 3082,
+    "ID": 1330803
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      4
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3082,
+    "ID": 1330804
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddMoodCostRatio",
+    "Count": 0,
+    "Condition": 3091,
+    "ID": 1330901
+  },
+  {
+    "ParamList": [
+      8
+    ],
+    "EnhanceActionList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "EffectType": "AddCurrentTrainRatioByRemainMood",
+    "Count": 0,
+    "Condition": 3091,
+    "ID": 1330902
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddMoodIncreaseValue",
+    "Count": 0,
+    "Condition": 3101,
+    "ID": 1331001
+  },
+  {
+    "ParamList": [
+      50,
+      50,
+      50,
+      50
+    ],
+    "EnhanceActionList": [
+      5,
+      7
+    ],
+    "EffectType": "AddStatusByOverflowMood",
+    "Count": 0,
+    "Condition": 3101,
+    "ID": 1331002
+  },
+  {
+    "ParamList": [
+      1410102,
+      1410103
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4011,
+    "ID": 1410101
+  },
+  {
+    "ParamList": [
+      60,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1410102
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddMood",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1410103
+  },
+  {
+    "ParamList": [
+      1410202,
+      1410203
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4021,
+    "ID": 1410201
+  },
+  {
+    "ParamList": [
+      0,
+      60,
+      0,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1410202
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddMood",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1410203
+  },
+  {
+    "ParamList": [
+      1410302,
+      1410303
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4031,
+    "ID": 1410301
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      60,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1410302
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddMood",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1410303
+  },
+  {
+    "ParamList": [
+      1410402,
+      1410403
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4041,
+    "ID": 1410401
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      60
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1410402
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddMood",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1410403
+  },
+  {
+    "ParamList": [
+      1410502
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4051,
+    "ID": 1410501
+  },
+  {
+    "ParamList": [
+      60,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1410502
+  },
+  {
+    "ParamList": [
+      1410602
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4061,
+    "ID": 1410601
+  },
+  {
+    "ParamList": [
+      0,
+      60,
+      0,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1410602
+  },
+  {
+    "ParamList": [
+      1410702
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4071,
+    "ID": 1410701
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      60,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1410702
+  },
+  {
+    "ParamList": [
+      1410802
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4081,
+    "ID": 1410801
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      60
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1410802
+  },
+  {
+    "ParamList": [
+      80
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 4091,
+    "ID": 1410901
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 4091,
+    "ID": 1410902
+  },
+  {
+    "ParamList": [
+      1,
+      100
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4101,
+    "ID": 1411001
+  },
+  {
+    "ParamList": [
+      2,
+      100
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4101,
+    "ID": 1411002
+  },
+  {
+    "ParamList": [
+      3,
+      100
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4101,
+    "ID": 1411003
+  },
+  {
+    "ParamList": [
+      4,
+      100
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4101,
+    "ID": 1411004
+  },
+  {
+    "ParamList": [
+      1,
+      100
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4111,
+    "ID": 1411101
+  },
+  {
+    "ParamList": [
+      2,
+      100
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4111,
+    "ID": 1411102
+  },
+  {
+    "ParamList": [
+      3,
+      100
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4111,
+    "ID": 1411103
+  },
+  {
+    "ParamList": [
+      4,
+      100
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4111,
+    "ID": 1411104
+  },
+  {
+    "ParamList": [
+      1411202
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4121,
+    "ID": 1411201
+  },
+  {
+    "ParamList": [
+      30,
+      30,
+      30,
+      30
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1411202
+  },
+  {
+    "ParamList": [
+      1411302
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4131,
+    "ID": 1411301
+  },
+  {
+    "ParamList": [
+      20,
+      20,
+      20,
+      20
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1411302
+  },
+  {
+    "ParamList": [
+      1,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4141,
+    "ID": 1411401
+  },
+  {
+    "ParamList": [
+      2,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4141,
+    "ID": 1411402
+  },
+  {
+    "ParamList": [
+      3,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4141,
+    "ID": 1411403
+  },
+  {
+    "ParamList": [
+      4,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4141,
+    "ID": 1411404
+  },
+  {
+    "ParamList": [
+      1,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4151,
+    "ID": 1411501
+  },
+  {
+    "ParamList": [
+      2,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4151,
+    "ID": 1411502
+  },
+  {
+    "ParamList": [
+      3,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4151,
+    "ID": 1411503
+  },
+  {
+    "ParamList": [
+      4,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4151,
+    "ID": 1411504
+  },
+  {
+    "ParamList": [
+      1420102,
+      1420103
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4011,
+    "ID": 1420101
+  },
+  {
+    "ParamList": [
+      70,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1420102
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddMood",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1420103
+  },
+  {
+    "ParamList": [
+      1420202,
+      1420203
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4021,
+    "ID": 1420201
+  },
+  {
+    "ParamList": [
+      0,
+      70,
+      0,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1420202
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddMood",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1420203
+  },
+  {
+    "ParamList": [
+      1420302,
+      1420303
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4031,
+    "ID": 1420301
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      70,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1420302
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddMood",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1420303
+  },
+  {
+    "ParamList": [
+      1420402,
+      1420403
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4041,
+    "ID": 1420401
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      70
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1420402
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddMood",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1420403
+  },
+  {
+    "ParamList": [
+      1420502
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4051,
+    "ID": 1420501
+  },
+  {
+    "ParamList": [
+      70,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1420502
+  },
+  {
+    "ParamList": [
+      1420602
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4061,
+    "ID": 1420601
+  },
+  {
+    "ParamList": [
+      0,
+      70,
+      0,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1420602
+  },
+  {
+    "ParamList": [
+      1420702
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4071,
+    "ID": 1420701
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      70,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1420702
+  },
+  {
+    "ParamList": [
+      1420802
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4081,
+    "ID": 1420801
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      70
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1420802
+  },
+  {
+    "ParamList": [
+      100
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 4091,
+    "ID": 1420901
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 4091,
+    "ID": 1420902
+  },
+  {
+    "ParamList": [
+      1,
+      120
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4101,
+    "ID": 1421001
+  },
+  {
+    "ParamList": [
+      2,
+      120
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4101,
+    "ID": 1421002
+  },
+  {
+    "ParamList": [
+      3,
+      120
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4101,
+    "ID": 1421003
+  },
+  {
+    "ParamList": [
+      4,
+      120
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4101,
+    "ID": 1421004
+  },
+  {
+    "ParamList": [
+      1,
+      120
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4111,
+    "ID": 1421101
+  },
+  {
+    "ParamList": [
+      2,
+      120
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4111,
+    "ID": 1421102
+  },
+  {
+    "ParamList": [
+      3,
+      120
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4111,
+    "ID": 1421103
+  },
+  {
+    "ParamList": [
+      4,
+      120
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4111,
+    "ID": 1421104
+  },
+  {
+    "ParamList": [
+      1421202
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4121,
+    "ID": 1421201
+  },
+  {
+    "ParamList": [
+      45,
+      45,
+      45,
+      45
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1421202
+  },
+  {
+    "ParamList": [
+      1421302
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4131,
+    "ID": 1421301
+  },
+  {
+    "ParamList": [
+      25,
+      25,
+      25,
+      25
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1421302
+  },
+  {
+    "ParamList": [
+      1,
+      180
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4141,
+    "ID": 1421401
+  },
+  {
+    "ParamList": [
+      2,
+      180
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4141,
+    "ID": 1421402
+  },
+  {
+    "ParamList": [
+      3,
+      180
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4141,
+    "ID": 1421403
+  },
+  {
+    "ParamList": [
+      4,
+      180
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4141,
+    "ID": 1421404
+  },
+  {
+    "ParamList": [
+      1,
+      180
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4151,
+    "ID": 1421501
+  },
+  {
+    "ParamList": [
+      2,
+      180
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4151,
+    "ID": 1421502
+  },
+  {
+    "ParamList": [
+      3,
+      180
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4151,
+    "ID": 1421503
+  },
+  {
+    "ParamList": [
+      4,
+      180
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4151,
+    "ID": 1421504
+  },
+  {
+    "ParamList": [
+      1430102,
+      1430103
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4011,
+    "ID": 1430101
+  },
+  {
+    "ParamList": [
+      90,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1430102
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddMood",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1430103
+  },
+  {
+    "ParamList": [
+      1430202,
+      1430203
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4021,
+    "ID": 1430201
+  },
+  {
+    "ParamList": [
+      0,
+      90,
+      0,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1430202
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddMood",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1430203
+  },
+  {
+    "ParamList": [
+      1430302,
+      1430303
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4031,
+    "ID": 1430301
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      90,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1430302
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddMood",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1430303
+  },
+  {
+    "ParamList": [
+      1430402,
+      1430403
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4041,
+    "ID": 1430401
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      90
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1430402
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddMood",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1430403
+  },
+  {
+    "ParamList": [
+      1430502
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4051,
+    "ID": 1430501
+  },
+  {
+    "ParamList": [
+      90,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1430502
+  },
+  {
+    "ParamList": [
+      1430602
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4061,
+    "ID": 1430601
+  },
+  {
+    "ParamList": [
+      0,
+      90,
+      0,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1430602
+  },
+  {
+    "ParamList": [
+      1430702
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4071,
+    "ID": 1430701
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      90,
+      0
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1430702
+  },
+  {
+    "ParamList": [
+      1430802
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4081,
+    "ID": 1430801
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      90
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1430802
+  },
+  {
+    "ParamList": [
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddTrainRatio",
+    "Count": 0,
+    "Condition": 4091,
+    "ID": 1430901
+  },
+  {
+    "ParamList": [
+      999
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "SubMoodCostRatio",
+    "Count": 0,
+    "Condition": 4091,
+    "ID": 1430902
+  },
+  {
+    "ParamList": [
+      1,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4101,
+    "ID": 1431001
+  },
+  {
+    "ParamList": [
+      2,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4101,
+    "ID": 1431002
+  },
+  {
+    "ParamList": [
+      3,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4101,
+    "ID": 1431003
+  },
+  {
+    "ParamList": [
+      4,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4101,
+    "ID": 1431004
+  },
+  {
+    "ParamList": [
+      1,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4111,
+    "ID": 1431101
+  },
+  {
+    "ParamList": [
+      2,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4111,
+    "ID": 1431102
+  },
+  {
+    "ParamList": [
+      3,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4111,
+    "ID": 1431103
+  },
+  {
+    "ParamList": [
+      4,
+      150
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4111,
+    "ID": 1431104
+  },
+  {
+    "ParamList": [
+      1431202
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4121,
+    "ID": 1431201
+  },
+  {
+    "ParamList": [
+      60,
+      60,
+      60,
+      60
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1431202
+  },
+  {
+    "ParamList": [
+      1431302
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddEffectsPostAction",
+    "Count": 1,
+    "Condition": 4131,
+    "ID": 1431301
+  },
+  {
+    "ParamList": [
+      40,
+      40,
+      40,
+      40
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "AddStatus",
+    "Count": 1,
+    "Condition": 0,
+    "ID": 1431302
+  },
+  {
+    "ParamList": [
+      1,
+      200
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4141,
+    "ID": 1431401
+  },
+  {
+    "ParamList": [
+      2,
+      200
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4141,
+    "ID": 1431402
+  },
+  {
+    "ParamList": [
+      3,
+      200
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4141,
+    "ID": 1431403
+  },
+  {
+    "ParamList": [
+      4,
+      200
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4141,
+    "ID": 1431404
+  },
+  {
+    "ParamList": [
+      1,
+      200
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4151,
+    "ID": 1431501
+  },
+  {
+    "ParamList": [
+      2,
+      200
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4151,
+    "ID": 1431502
+  },
+  {
+    "ParamList": [
+      3,
+      200
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4151,
+    "ID": 1431503
+  },
+  {
+    "ParamList": [
+      4,
+      200
+    ],
+    "EnhanceActionList": [
+      0
+    ],
+    "EffectType": "ExtraTargetStatusGetRatio",
+    "Count": 1,
+    "Condition": 4151,
+    "ID": 1431504
+  },
+  {
+    "ParamList": [
+      40,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211111
+  },
+  {
+    "ParamList": [
+      0,
+      40,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211121
+  },
+  {
+    "ParamList": [
+      15,
+      15,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211131
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211132
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211211
+  },
+  {
+    "ParamList": [
+      40
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211212
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211221
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211222
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      40
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211231
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211311
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      15,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211321
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      15
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211331
+  },
+  {
+    "ParamList": [
+      15,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211411
+  },
+  {
+    "ParamList": [
+      0,
+      15,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211421
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211431
+  },
+  {
+    "ParamList": [
+      10,
+      0,
+      30,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211511
+  },
+  {
+    "ParamList": [
+      0,
+      10,
+      0,
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211521
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      10,
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211531
+  },
+  {
+    "ParamList": [
+      40
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211532
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      25
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211611
+  },
+  {
+    "ParamList": [
+      12,
+      0,
+      0,
+      12
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211621
+  },
+  {
+    "ParamList": [
+      25,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211631
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211711
+  },
+  {
+    "ParamList": [
+      7,
+      7,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211721
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211731
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      25,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211811
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      25
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211821
+  },
+  {
+    "ParamList": [
+      25,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211831
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      5
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211911
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211912
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211921
+  },
+  {
+    "ParamList": [
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211922
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      15
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 211931
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      15,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212011
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      15
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212021
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      7,
+      7
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212031
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      15
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212111
+  },
+  {
+    "ParamList": [
+      15,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212121
+  },
+  {
+    "ParamList": [
+      0,
+      15,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212131
+  },
+  {
+    "ParamList": [
+      15,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212211
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      15,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212221
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212231
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212311
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      10,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212321
+  },
+  {
+    "ParamList": [
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212322
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      15,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212331
+  },
+  {
+    "ParamList": [
+      25,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212411
+  },
+  {
+    "ParamList": [
+      12,
+      12,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212421
+  },
+  {
+    "ParamList": [
+      0,
+      25,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212431
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      25,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212511
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      12,
+      12
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212521
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      25
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212531
+  },
+  {
+    "ParamList": [
+      25,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212611
+  },
+  {
+    "ParamList": [
+      20,
+      0,
+      20,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212621
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212622
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      25,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212631
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212711
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      15
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212721
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      25,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212731
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212732
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212811
+  },
+  {
+    "ParamList": [
+      5,
+      5,
+      0,
+      5
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212821
+  },
+  {
+    "ParamList": [
+      5,
+      5,
+      5,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212831
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      25,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212911
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      25
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212921
+  },
+  {
+    "ParamList": [
+      12,
+      12,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 212931
+  },
+  {
+    "ParamList": [
+      30,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213011
+  },
+  {
+    "ParamList": [
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213012
+  },
+  {
+    "ParamList": [
+      0,
+      30,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213021
+  },
+  {
+    "ParamList": [
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213022
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213031
+  },
+  {
+    "ParamList": [
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213032
+  },
+  {
+    "ParamList": [
+      25,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213111
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      25
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213121
+  },
+  {
+    "ParamList": [
+      10,
+      0,
+      0,
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213131
+  },
+  {
+    "ParamList": [
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213132
+  },
+  {
+    "ParamList": [
+      10,
+      0,
+      30,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213211
+  },
+  {
+    "ParamList": [
+      0,
+      10,
+      0,
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213221
+  },
+  {
+    "ParamList": [
+      20,
+      20,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213231
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      20,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213311
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      25,
+      25
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213321
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213322
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      30,
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213331
+  },
+  {
+    "ParamList": [
+      40
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213332
+  },
+  {
+    "ParamList": [
+      15,
+      0,
+      15,
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213411
+  },
+  {
+    "ParamList": [
+      0,
+      15,
+      10,
+      15
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213421
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      15,
+      15
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213431
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213432
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      40
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213511
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      20,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213521
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      40,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213531
+  },
+  {
+    "ParamList": [
+      0,
+      40,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213611
+  },
+  {
+    "ParamList": [
+      40,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213621
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      20,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213631
+  },
+  {
+    "ParamList": [
+      30,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213711
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213712
+  },
+  {
+    "ParamList": [
+      0,
+      30,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213721
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213722
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213731
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213732
+  },
+  {
+    "ParamList": [
+      40,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213811
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      40,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213821
+  },
+  {
+    "ParamList": [
+      20,
+      0,
+      20,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213831
+  },
+  {
+    "ParamList": [
+      40,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213911
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      40,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213921
+  },
+  {
+    "ParamList": [
+      0,
+      40,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 213931
+  },
+  {
+    "ParamList": [
+      20,
+      0,
+      20,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214011
+  },
+  {
+    "ParamList": [
+      0,
+      20,
+      0,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214021
+  },
+  {
+    "ParamList": [
+      10,
+      10,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214031
+  },
+  {
+    "ParamList": [
+      40
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214032
+  },
+  {
+    "ParamList": [
+      30,
+      0,
+      10,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214111
+  },
+  {
+    "ParamList": [
+      0,
+      30,
+      0,
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214121
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      10,
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214131
+  },
+  {
+    "ParamList": [
+      40
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214132
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      40
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214211
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214221
+  },
+  {
+    "ParamList": [
+      40
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214222
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      60
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214231
+  },
+  {
+    "ParamList": [
+      40
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214232
+  },
+  {
+    "ParamList": [
+      0,
+      15,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214311
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      15,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214321
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214331
+  },
+  {
+    "ParamList": [
+      30
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214411
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      15
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214421
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      25,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214431
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214432
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      25,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214511
+  },
+  {
+    "ParamList": [
+      0,
+      25,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214521
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214531
+  },
+  {
+    "ParamList": [
+      25,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214611
+  },
+  {
+    "ParamList": [
+      12,
+      0,
+      0,
+      12
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214621
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      25
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214631
+  },
+  {
+    "ParamList": [
+      12,
+      12,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214711
+  },
+  {
+    "ParamList": [
+      50
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214721
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      12,
+      12
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214731
+  },
+  {
+    "ParamList": [
+      15,
+      15,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214811
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214812
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      50,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214821
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214822
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      50
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214831
+  },
+  {
+    "ParamList": [
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "SubMood",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214832
+  },
+  {
+    "ParamList": [
+      30,
+      0,
+      10,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214911
+  },
+  {
+    "ParamList": [
+      0,
+      30,
+      0,
+      10
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214921
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      20,
+      20
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 214931
+  },
+  {
+    "ParamList": [
+      40,
+      0,
+      0,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 215011
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      0,
+      40
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 215021
+  },
+  {
+    "ParamList": [
+      0,
+      0,
+      40,
+      0
+    ],
+    "EnhanceActionList": [],
+    "EffectType": "AddStatus",
+    "Count": 0,
+    "Condition": 0,
+    "ID": 215031
+  }
+]

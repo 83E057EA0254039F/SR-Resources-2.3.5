@@ -1,0 +1,842 @@
+[
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281014.png",
+    "Name": {
+      "hash": 1822943568
+    },
+    "GoodsID": 1001,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 382469690
+    },
+    "Cost": 1200,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281014.png",
+    "Name": {
+      "hash": 1822943567
+    },
+    "GoodsID": 1002,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 382469689
+    },
+    "Cost": 7500,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281014.png",
+    "Name": {
+      "hash": 1822943566
+    },
+    "GoodsID": 1003,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 382469688
+    },
+    "Cost": 12500,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281014.png",
+    "Name": {
+      "hash": 1822943573
+    },
+    "GoodsID": 1004,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 382469687
+    },
+    "Cost": 18000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281014.png",
+    "Name": {
+      "hash": 1822943572
+    },
+    "GoodsID": 1005,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 382469686
+    },
+    "Cost": 24000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281017.png",
+    "Name": {
+      "hash": -905939787
+    },
+    "GoodsID": 1011,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 1948553631
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281017.png",
+    "Name": {
+      "hash": -905939788
+    },
+    "GoodsID": 1012,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 1948553630
+    },
+    "Cost": 2000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281017.png",
+    "Name": {
+      "hash": -905939789
+    },
+    "GoodsID": 1013,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 1948553629
+    },
+    "Cost": 5000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281017.png",
+    "Name": {
+      "hash": -905939782
+    },
+    "GoodsID": 1014,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 1948553628
+    },
+    "Cost": 9000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281017.png",
+    "Name": {
+      "hash": -905939783
+    },
+    "GoodsID": 1015,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 1948553627
+    },
+    "Cost": 13000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281016.png",
+    "Name": {
+      "hash": -1309224314
+    },
+    "GoodsID": 1021,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": -780329724
+    },
+    "Cost": 30000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281016.png",
+    "Name": {
+      "hash": -1309224315
+    },
+    "GoodsID": 1022,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": -780329725
+    },
+    "Cost": 60000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281016.png",
+    "Name": {
+      "hash": -1309224316
+    },
+    "GoodsID": 1023,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": -780329726
+    },
+    "Cost": 80000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281016.png",
+    "Name": {
+      "hash": -1309224309
+    },
+    "GoodsID": 1024,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": -780329727
+    },
+    "Cost": 110000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281016.png",
+    "Name": {
+      "hash": -1309224310
+    },
+    "GoodsID": 1025,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": -780329728
+    },
+    "Cost": 140000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408601.png",
+    "Name": {
+      "hash": 236656651
+    },
+    "GoodsID": 2001,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 1,
+    "Desc": {
+      "hash": -639167223
+    },
+    "Cost": 9400,
+    "TextDisplayParam1": 100
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408603.png",
+    "Name": {
+      "hash": 236656650
+    },
+    "GoodsID": 2002,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 2,
+    "Desc": {
+      "hash": -639167224
+    },
+    "Cost": 7400,
+    "TextDisplayParam1": 50
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/401019.png",
+    "Name": {
+      "hash": 236656649
+    },
+    "GoodsID": 2003,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 3,
+    "Desc": {
+      "hash": -639167225
+    },
+    "Cost": 5500,
+    "TextDisplayParam1": 33
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408611.png",
+    "Name": {
+      "hash": 236656656
+    },
+    "GoodsID": 2004,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 4,
+    "Desc": {
+      "hash": -639167226
+    },
+    "Cost": 3500,
+    "TextDisplayParam1": 25
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/401025.png",
+    "Name": {
+      "hash": 236656655
+    },
+    "GoodsID": 2005,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 5,
+    "Desc": {
+      "hash": -639167227
+    },
+    "Cost": 1200,
+    "TextDisplayParam1": 20
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408610.png",
+    "Name": {
+      "hash": -1329427290
+    },
+    "GoodsID": 2011,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 1,
+    "Desc": {
+      "hash": 2089716132
+    },
+    "Cost": 16000,
+    "TextDisplayParam1": 200
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408606.png",
+    "Name": {
+      "hash": -1329427291
+    },
+    "GoodsID": 2012,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 2,
+    "Desc": {
+      "hash": 2089716131
+    },
+    "Cost": 14000,
+    "TextDisplayParam1": 100
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408609.png",
+    "Name": {
+      "hash": -1329427292
+    },
+    "GoodsID": 2013,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 3,
+    "Desc": {
+      "hash": 2089716130
+    },
+    "Cost": 11000,
+    "TextDisplayParam1": 67
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408604.png",
+    "Name": {
+      "hash": -1329427285
+    },
+    "GoodsID": 2014,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 4,
+    "Desc": {
+      "hash": 2089716129
+    },
+    "Cost": 8000,
+    "TextDisplayParam1": 50
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/401020.png",
+    "Name": {
+      "hash": -1329427286
+    },
+    "GoodsID": 2015,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 5,
+    "Desc": {
+      "hash": 2089716128
+    },
+    "Cost": 8600,
+    "TextDisplayParam1": 40
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/401022.png",
+    "Name": {
+      "hash": -926142763
+    },
+    "GoodsID": 2021,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 1,
+    "Desc": {
+      "hash": 523632191
+    },
+    "Cost": 50000,
+    "TextDisplayParam1": 400
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/401023.png",
+    "Name": {
+      "hash": -926142764
+    },
+    "GoodsID": 2022,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 2,
+    "Desc": {
+      "hash": 523632190
+    },
+    "Cost": 45000,
+    "TextDisplayParam1": 200
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/401024.png",
+    "Name": {
+      "hash": -926142765
+    },
+    "GoodsID": 2023,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 3,
+    "Desc": {
+      "hash": 523632189
+    },
+    "Cost": 38000,
+    "TextDisplayParam1": 133
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408602.png",
+    "Name": {
+      "hash": -926142758
+    },
+    "GoodsID": 2024,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 4,
+    "Desc": {
+      "hash": 523632188
+    },
+    "Cost": 30000,
+    "TextDisplayParam1": 100
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/402023.png",
+    "Name": {
+      "hash": -926142759
+    },
+    "GoodsID": 2025,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 5,
+    "Desc": {
+      "hash": 523632187
+    },
+    "Cost": 23000,
+    "TextDisplayParam1": 80
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281014.png",
+    "Name": {
+      "hash": 417717829
+    },
+    "GoodsID": 11001,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": -397008401
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281014.png",
+    "Name": {
+      "hash": 14433302
+    },
+    "GoodsID": 11002,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 1169075540
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281014.png",
+    "Name": {
+      "hash": 1580517243
+    },
+    "GoodsID": 11003,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": -1559807815
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281014.png",
+    "Name": {
+      "hash": 1177232716
+    },
+    "GoodsID": 11004,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 362506486
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281014.png",
+    "Name": {
+      "hash": -1551650639
+    },
+    "GoodsID": 11005,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 1928590427
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281017.png",
+    "Name": {
+      "hash": 417717830
+    },
+    "GoodsID": 11011,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": -397008400
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281017.png",
+    "Name": {
+      "hash": 14433303
+    },
+    "GoodsID": 11012,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 1169075541
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281017.png",
+    "Name": {
+      "hash": 1580517244
+    },
+    "GoodsID": 11013,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": -1559807814
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281017.png",
+    "Name": {
+      "hash": 1177232717
+    },
+    "GoodsID": 11014,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 362506487
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281017.png",
+    "Name": {
+      "hash": -1551650638
+    },
+    "GoodsID": 11015,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 1928590428
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281016.png",
+    "Name": {
+      "hash": 417717827
+    },
+    "GoodsID": 11021,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": -397008403
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281016.png",
+    "Name": {
+      "hash": 14433300
+    },
+    "GoodsID": 11022,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 1169075538
+    },
+    "Cost": 30000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281016.png",
+    "Name": {
+      "hash": 1580517241
+    },
+    "GoodsID": 11023,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": -1559807817
+    },
+    "Cost": 56000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281016.png",
+    "Name": {
+      "hash": 1177232714
+    },
+    "GoodsID": 11024,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 362506484
+    },
+    "Cost": 86000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/281016.png",
+    "Name": {
+      "hash": -1551650641
+    },
+    "GoodsID": 11025,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 0,
+    "Desc": {
+      "hash": 1928590425
+    },
+    "Cost": 116000,
+    "TextDisplayParam1": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408601.png",
+    "Name": {
+      "hash": 417717732
+    },
+    "GoodsID": 12001,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 1,
+    "Desc": {
+      "hash": -397008498
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 100
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408603.png",
+    "Name": {
+      "hash": 14433205
+    },
+    "GoodsID": 12002,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 2,
+    "Desc": {
+      "hash": 1169075443
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 50
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/401019.png",
+    "Name": {
+      "hash": 1580517146
+    },
+    "GoodsID": 12003,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 3,
+    "Desc": {
+      "hash": -1559807912
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 33
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408611.png",
+    "Name": {
+      "hash": 1177232619
+    },
+    "GoodsID": 12004,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 4,
+    "Desc": {
+      "hash": 362506389
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 25
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/401025.png",
+    "Name": {
+      "hash": -1551650736
+    },
+    "GoodsID": 12005,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 5,
+    "Desc": {
+      "hash": 1928590330
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 20
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408610.png",
+    "Name": {
+      "hash": 417717731
+    },
+    "GoodsID": 12011,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 1,
+    "Desc": {
+      "hash": -397008499
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 200
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408606.png",
+    "Name": {
+      "hash": 14433204
+    },
+    "GoodsID": 12012,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 2,
+    "Desc": {
+      "hash": 1169075442
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 100
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408609.png",
+    "Name": {
+      "hash": 1580517145
+    },
+    "GoodsID": 12013,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 3,
+    "Desc": {
+      "hash": -1559807913
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 67
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408604.png",
+    "Name": {
+      "hash": 1177232618
+    },
+    "GoodsID": 12014,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 4,
+    "Desc": {
+      "hash": 362506388
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 50
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/401020.png",
+    "Name": {
+      "hash": -1551650737
+    },
+    "GoodsID": 12015,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 5,
+    "Desc": {
+      "hash": 1928590329
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 40
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/401022.png",
+    "Name": {
+      "hash": 417717734
+    },
+    "GoodsID": 12021,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 1,
+    "Desc": {
+      "hash": -397008496
+    },
+    "Cost": 50000,
+    "TextDisplayParam1": 400
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/401023.png",
+    "Name": {
+      "hash": 14433207
+    },
+    "GoodsID": 12022,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 2,
+    "Desc": {
+      "hash": 1169075445
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 200
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/401024.png",
+    "Name": {
+      "hash": 1580517148
+    },
+    "GoodsID": 12023,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 3,
+    "Desc": {
+      "hash": -1559807910
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 133
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/408602.png",
+    "Name": {
+      "hash": 1177232621
+    },
+    "GoodsID": 12024,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 4,
+    "Desc": {
+      "hash": 362506391
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 100
+  },
+  {
+    "IconPath": "SpriteOutput/ItemFigures/402023.png",
+    "Name": {
+      "hash": -1551650734
+    },
+    "GoodsID": 12025,
+    "GoodsType": "Buff",
+    "TextDisplayParam2": 5,
+    "Desc": {
+      "hash": 1928590332
+    },
+    "Cost": 0,
+    "TextDisplayParam1": 80
+  }
+]

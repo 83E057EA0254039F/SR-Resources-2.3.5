@@ -1,0 +1,114 @@
+[
+  {
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 122000
+      }
+    ],
+    "MiniMapID": 192,
+    "HeartDialEmotion": "Peace",
+    "FloorID": 10301001,
+    "MapInfoID": 2383,
+    "HeartDialStep": "Missing",
+    "HeartDialTraceID": 1
+  },
+  {
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 122000
+      }
+    ],
+    "MiniMapID": 192,
+    "HeartDialEmotion": "Happy",
+    "FloorID": 10301001,
+    "MapInfoID": 2383,
+    "HeartDialStep": "Missing",
+    "HeartDialTraceID": 2
+  },
+  {
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 122000
+      }
+    ],
+    "MiniMapID": 192,
+    "HeartDialEmotion": "Sad",
+    "FloorID": 10301001,
+    "MapInfoID": 2383,
+    "HeartDialStep": "Missing",
+    "HeartDialTraceID": 3
+  },
+  {
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 122000
+      }
+    ],
+    "MiniMapID": 192,
+    "HeartDialEmotion": "Anger",
+    "FloorID": 10301001,
+    "MapInfoID": 2383,
+    "HeartDialStep": "Missing",
+    "HeartDialTraceID": 4
+  },
+  {
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 122000
+      }
+    ],
+    "MiniMapID": 192,
+    "HeartDialEmotion": "Peace",
+    "FloorID": 20313001,
+    "MapInfoID": 2383,
+    "HeartDialStep": "Missing",
+    "HeartDialTraceID": 5
+  },
+  {
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 122000
+      }
+    ],
+    "MiniMapID": 192,
+    "HeartDialEmotion": "Happy",
+    "FloorID": 20313001,
+    "MapInfoID": 2383,
+    "HeartDialStep": "Missing",
+    "HeartDialTraceID": 6
+  },
+  {
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 122000
+      }
+    ],
+    "MiniMapID": 192,
+    "HeartDialEmotion": "Sad",
+    "FloorID": 20313001,
+    "MapInfoID": 2383,
+    "HeartDialStep": "Missing",
+    "HeartDialTraceID": 7
+  },
+  {
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 122000
+      }
+    ],
+    "MiniMapID": 192,
+    "HeartDialEmotion": "Anger",
+    "FloorID": 20313001,
+    "MapInfoID": 2383,
+    "HeartDialStep": "Missing",
+    "HeartDialTraceID": 8
+  }
+]

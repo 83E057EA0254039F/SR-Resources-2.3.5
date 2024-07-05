@@ -1,0 +1,772 @@
+[
+  {
+    "PreConditions": [],
+    "GuideConditions": [
+      {
+        "Param": "8002100",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 30006,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [],
+    "GuideConditions": [
+      {
+        "Param": "2000701",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 5000102,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 5000108,
+    "GuideGoto": 0,
+    "PanelID": 50001,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [],
+    "GuideConditions": [],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 50003,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [],
+    "GuideConditions": [],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 150003,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "2010203",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8014101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 50005,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "2010203",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8014101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 150005,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1021702",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8015191",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 50006,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1021702",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8015191",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 150006,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "8013103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8014161",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 60006,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "2001001",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8016201",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "8016202",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "8016210",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "8016203",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 30008,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "2001001",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8016201",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "8016202",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "8016210",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "8016203",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 130008,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1021501",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8002211",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 40002,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1021501",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8002211",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 140002,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "8013101",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "8013102",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "8013104",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8016101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 60007,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "4030009",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "1034109",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "802340110",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 845,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 850,
+    "PanelID": 60011,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1011503",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8016301",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 40004,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1021501",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "3",
+        "Type": "WorldLevel"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "801710102",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 10042,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1030501",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8020219",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 50007,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1030501",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8020219",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 150007,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1030801",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8020300",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 40005,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1030302",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 30009,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1021702",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 30010,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1011503",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8021201",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 50010,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1030302",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8022201",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 28002,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 6202,
+    "PanelID": 50011,
+    "ActivityGotoStoryLineRestore": true
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1033101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8022101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 28001,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 6201,
+    "PanelID": 50012,
+    "ActivityGotoStoryLineRestore": true
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1033101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8022101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 28001,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 6201,
+    "PanelID": 150012,
+    "ActivityGotoStoryLineRestore": true
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1032101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8021100",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 27001,
+    "GuideTakeMission": 8021100,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 6200,
+    "PanelID": 50009,
+    "ActivityGotoStoryLineRestore": true
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1032101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8021100",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 27001,
+    "GuideTakeMission": 8021100,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 6200,
+    "PanelID": 150009,
+    "ActivityGotoStoryLineRestore": true
+  },
+  {
+    "PreConditions": [],
+    "GuideConditions": [
+      {
+        "Param": "8021301",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 6203,
+    "PanelID": 50008,
+    "ActivityGotoStoryLineRestore": true
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1034109",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8023101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 29001,
+    "GuideTakeMission": 8023101,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 6205,
+    "PanelID": 50014,
+    "ActivityGotoStoryLineRestore": true
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1034109",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8023101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 29001,
+    "GuideTakeMission": 8023101,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 6205,
+    "PanelID": 150014,
+    "ActivityGotoStoryLineRestore": true
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "2022101",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "2021701",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8024101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 29011,
+    "GuideTakeMission": 8024101,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 6208,
+    "PanelID": 50015,
+    "ActivityGotoStoryLineRestore": true
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "2022101",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "2021701",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8024101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 29011,
+    "GuideTakeMission": 8024101,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 6208,
+    "PanelID": 150015,
+    "ActivityGotoStoryLineRestore": true
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "4020103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 0,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 0,
+    "PanelID": 10061,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [],
+    "GuideConditions": [
+      {
+        "Param": "8023201",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 6700,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 6204,
+    "PanelID": 50016,
+    "ActivityGotoStoryLineRestore": false
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1030302",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8024301",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 30001,
+    "GuideTakeMission": 0,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 6206,
+    "PanelID": 50017,
+    "ActivityGotoStoryLineRestore": true
+  },
+  {
+    "PreConditions": [
+      {
+        "Param": "1011503",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "GuideConditions": [
+      {
+        "Param": "8024201",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "ActivityOpenActivityModule": 0,
+    "ActivityGoto": 30015,
+    "GuideTakeMission": 8024201,
+    "ShopOnlyActivityModule": 0,
+    "GuideGoto": 6207,
+    "PanelID": 50020,
+    "ActivityGotoStoryLineRestore": true
+  }
+]

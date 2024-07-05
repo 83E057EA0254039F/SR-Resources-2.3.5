@@ -1,0 +1,42 @@
+[
+  {
+    "HandBookIconPath": "SpriteOutput/Rogue/Cover/RogueCoverBuff.png",
+    "RogueHandBookDesc": {
+      "hash": -1664610224
+    },
+    "HandBookType": 1,
+    "RogueHandBookType": {
+      "hash": -583971891
+    }
+  },
+  {
+    "HandBookIconPath": "SpriteOutput/Rogue/Cover/RogueCoverPath.png",
+    "RogueHandBookDesc": {
+      "hash": -98526283
+    },
+    "HandBookType": 2,
+    "RogueHandBookType": {
+      "hash": -583971888
+    }
+  },
+  {
+    "HandBookIconPath": "SpriteOutput/Rogue/Cover/RogueCoverRelic.png",
+    "RogueHandBookDesc": {
+      "hash": 1064273131
+    },
+    "HandBookType": 3,
+    "RogueHandBookType": {
+      "hash": -583971889
+    }
+  },
+  {
+    "HandBookIconPath": "SpriteOutput/Rogue/Cover/RogueCoverRelic.png",
+    "RogueHandBookDesc": {
+      "hash": -501810810
+    },
+    "HandBookType": 4,
+    "RogueHandBookType": {
+      "hash": -583971894
+    }
+  }
+]

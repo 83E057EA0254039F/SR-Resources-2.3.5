@@ -1,0 +1,57 @@
+[
+  {
+    "ItemShowBgPath": "",
+    "FrameItemRarityBgPath": "SpriteOutput/ItemIcon/Rarity/FrameItemRarityBg01.png",
+    "AvatarShowBgPath": "",
+    "ItemRarityStarImgPath": "SpriteOutput/ItemIcon/Rarity/ItemRarityStar1.png",
+    "LineItemRarityColor": "#8f8f9a",
+    "FrameItemRarityColor": "#cdcdd8",
+    "FrameIconRarityPath": "SpriteOutput/ItemIcon/Rarity/FrameIconRarity01.png",
+    "FrameItemRarityPath": "SpriteOutput/ItemIcon/Rarity/FrameItemRarity01.png",
+    "Rarity": "Normal"
+  },
+  {
+    "ItemShowBgPath": "SpriteOutput/UI/BattlePass/GreenPanel2.png",
+    "FrameItemRarityBgPath": "SpriteOutput/ItemIcon/Rarity/FrameItemRarityBg02.png",
+    "AvatarShowBgPath": "SpriteOutput/UI/BattlePass/GreenPanel1.png",
+    "ItemRarityStarImgPath": "SpriteOutput/ItemIcon/Rarity/ItemRarityStar2.png",
+    "LineItemRarityColor": "#427f80",
+    "FrameItemRarityColor": "#8ae1e3",
+    "FrameIconRarityPath": "SpriteOutput/ItemIcon/Rarity/FrameIconRarity02.png",
+    "FrameItemRarityPath": "SpriteOutput/ItemIcon/Rarity/FrameItemRarity02.png",
+    "Rarity": "NotNormal"
+  },
+  {
+    "ItemShowBgPath": "SpriteOutput/UI/BattlePass/BluePanel2.png",
+    "FrameItemRarityBgPath": "SpriteOutput/ItemIcon/Rarity/FrameItemRarityBg03.png",
+    "AvatarShowBgPath": "SpriteOutput/UI/BattlePass/BluePanel.png",
+    "ItemRarityStarImgPath": "SpriteOutput/ItemIcon/Rarity/ItemRarityStar3.png",
+    "LineItemRarityColor": "#537bbb",
+    "FrameItemRarityColor": "#73b0f4",
+    "FrameIconRarityPath": "SpriteOutput/ItemIcon/Rarity/FrameIconRarity03.png",
+    "FrameItemRarityPath": "SpriteOutput/ItemIcon/Rarity/FrameItemRarity03.png",
+    "Rarity": "Rare"
+  },
+  {
+    "ItemShowBgPath": "SpriteOutput/UI/BattlePass/PurplePanel2.png",
+    "FrameItemRarityBgPath": "SpriteOutput/ItemIcon/Rarity/FrameItemRarityBg04.png",
+    "AvatarShowBgPath": "SpriteOutput/UI/BattlePass/PurplePanel.png",
+    "ItemRarityStarImgPath": "SpriteOutput/ItemIcon/Rarity/ItemRarityStar4.png",
+    "LineItemRarityColor": "#8b65c5",
+    "FrameItemRarityColor": "#c199fd",
+    "FrameIconRarityPath": "SpriteOutput/ItemIcon/Rarity/FrameIconRarity04.png",
+    "FrameItemRarityPath": "SpriteOutput/ItemIcon/Rarity/FrameItemRarity04.png",
+    "Rarity": "VeryRare"
+  },
+  {
+    "ItemShowBgPath": "SpriteOutput/UI/BattlePass/GoldenPanel2.png",
+    "FrameItemRarityBgPath": "SpriteOutput/ItemIcon/Rarity/FrameItemRarityBg05.png",
+    "AvatarShowBgPath": "SpriteOutput/UI/BattlePass/GoldenPanel.png",
+    "ItemRarityStarImgPath": "SpriteOutput/ItemIcon/Rarity/ItemRarityStar5.png",
+    "LineItemRarityColor": "#b78d61",
+    "FrameItemRarityColor": "#ffc870",
+    "FrameIconRarityPath": "SpriteOutput/ItemIcon/Rarity/FrameIconRarity05.png",
+    "FrameItemRarityPath": "SpriteOutput/ItemIcon/Rarity/FrameItemRarity05.png",
+    "Rarity": "SuperRare"
+  }
+]

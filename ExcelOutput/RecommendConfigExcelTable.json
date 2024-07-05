@@ -1,0 +1,12 @@
+[
+  {
+    "NameText": "ShopRecommend_1",
+    "ImagePath": "SpriteOutput/TabIcon/Shop/ShopMaterialsIcon.png",
+    "ShopID": 0,
+    "GoodsID": 0,
+    "Order": 3,
+    "Type": 1,
+    "ID": 1,
+    "Schedule": 0
+  }
+]

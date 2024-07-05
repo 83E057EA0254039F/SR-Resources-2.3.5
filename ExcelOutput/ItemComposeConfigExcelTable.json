@@ -1,0 +1,7716 @@
+[
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110111
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 2,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110112,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 201,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110121
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 4,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110122,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 202,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110131
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 6,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110132,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 203,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110141
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 8,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110142,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 204,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110151
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 10,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110152,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 205,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110161
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 12,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110162,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 206,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110171
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 14,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110172,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 207,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110112
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 1,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110113,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 211,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110122
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 3,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110123,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 212,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110132
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 5,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110133,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 213,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110142
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 7,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110143,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 214,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110152
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 9,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110153,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 215,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110162
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 11,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110163,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 216,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110172
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 13,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110173,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 217,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110181
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 16,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110182,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 221,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110191
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 18,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110192,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 222,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110201
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 20,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110202,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 223,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110211
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 22,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110212,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 224,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110221
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 24,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110222,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 225,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110231
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 26,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110232,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 226,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110241
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 28,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110242,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 227,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110182
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 15,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110183,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 231,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110192
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 17,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110193,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 232,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110202
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 19,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110203,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 233,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110212
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 21,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110213,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 234,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110222
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 23,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110223,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 235,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110232
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 25,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110233,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 236,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 110242
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 27,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110243,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 237,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 111001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 101,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 111002,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 301,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 111002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 100,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 111003,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 302,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 111011
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 103,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 111012,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 303,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 111012
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 102,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 111013,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 304,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 112001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 105,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 112002,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 305,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 112002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 104,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 112003,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 306,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 112011
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 107,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 112012,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 307,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 112012
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 106,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 112013,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 308,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 113001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 109,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 113002,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 309,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 113002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 108,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 113003,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 310,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 113011
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 111,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 113012,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 311,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 113012
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 110,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 113013,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 312,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 114001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 113,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 114002,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 313,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 114002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 112,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 114003,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 314,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 114011
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 115,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 114012,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 315,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      10
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 114012
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 114,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 114013,
+    "IsShowHoldNumber": true,
+    "Type": 12,
+    "FormulaType": "Normal",
+    "CoinCost": 20,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 316,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [
+      111011,
+      112001,
+      112011,
+      113001,
+      113011,
+      114001,
+      114011
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 3,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 111001,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 501,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111001,
+      112001,
+      112011,
+      113001,
+      113011,
+      114001,
+      114011
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 6,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 111011,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 502,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111001,
+      111011,
+      112011,
+      113001,
+      113011,
+      114001,
+      114011
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 9,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 112001,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 503,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111001,
+      111011,
+      112001,
+      113001,
+      113011,
+      114001,
+      114011
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 12,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 112011,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 504,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111001,
+      111011,
+      112001,
+      112011,
+      113011,
+      114001,
+      114011
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 15,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 113001,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 505,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111001,
+      111011,
+      112001,
+      112011,
+      113001,
+      114001,
+      114011
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 18,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 113011,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 506,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111001,
+      111011,
+      112001,
+      112011,
+      113001,
+      113011,
+      114011
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 21,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 114001,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 507,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111001,
+      111011,
+      112001,
+      112011,
+      113001,
+      113011,
+      114001
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 24,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 114011,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 508,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 2,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 111002,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 601,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111002,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 5,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 111012,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 602,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111002,
+      111012,
+      112012,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 8,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 112002,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 603,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111002,
+      111012,
+      112002,
+      113002,
+      113012,
+      114002,
+      114012
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 11,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 112012,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 604,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111002,
+      111012,
+      112002,
+      112012,
+      113012,
+      114002,
+      114012
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 14,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 113002,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 605,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      114002,
+      114012
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 17,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 113012,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 606,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114012
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 20,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 114002,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 607,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111002,
+      111012,
+      112002,
+      112012,
+      113002,
+      113012,
+      114002
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 23,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 114012,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 608,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 1,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 111003,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 701,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111003,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 4,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 111013,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 702,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111003,
+      111013,
+      112013,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 7,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 112003,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 703,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111003,
+      111013,
+      112003,
+      113003,
+      113013,
+      114003,
+      114013
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 10,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 112013,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 704,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111003,
+      111013,
+      112003,
+      112013,
+      113013,
+      114003,
+      114013
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 13,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 113003,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 705,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      114003,
+      114013
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 16,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 113013,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 706,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114013
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 19,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 114003,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 707,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      111003,
+      111013,
+      112003,
+      112013,
+      113003,
+      113013,
+      114003
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      30
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 22,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 114013,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 708,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110402,
+      110403,
+      110404,
+      110405,
+      110406,
+      110407,
+      110413,
+      110414,
+      110415,
+      110416,
+      110417,
+      110412,
+      110411,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110401,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 801,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110403,
+      110404,
+      110405,
+      110406,
+      110407,
+      110413,
+      110414,
+      110415,
+      110416,
+      110417,
+      110412,
+      110411,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110402,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 802,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110404,
+      110405,
+      110406,
+      110407,
+      110413,
+      110414,
+      110415,
+      110416,
+      110417,
+      110412,
+      110411,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110403,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 803,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110405,
+      110406,
+      110407,
+      110413,
+      110414,
+      110415,
+      110416,
+      110417,
+      110412,
+      110411,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110404,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 804,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110406,
+      110407,
+      110413,
+      110414,
+      110415,
+      110416,
+      110417,
+      110412,
+      110411,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110405,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 805,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110405,
+      110407,
+      110413,
+      110414,
+      110415,
+      110416,
+      110417,
+      110412,
+      110411,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110406,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 806,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110405,
+      110406,
+      110413,
+      110414,
+      110415,
+      110416,
+      110417,
+      110412,
+      110411,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110407,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 807,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110405,
+      110406,
+      110407,
+      110414,
+      110415,
+      110416,
+      110417,
+      110412,
+      110411,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110413,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 808,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110405,
+      110406,
+      110407,
+      110413,
+      110415,
+      110416,
+      110417,
+      110412,
+      110411,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110414,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 809,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110405,
+      110406,
+      110407,
+      110413,
+      110414,
+      110416,
+      110417,
+      110412,
+      110411,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110415,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 810,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110405,
+      110406,
+      110407,
+      110413,
+      110414,
+      110415,
+      110417,
+      110412,
+      110411,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110416,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 811,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110405,
+      110406,
+      110407,
+      110413,
+      110414,
+      110415,
+      110416,
+      110412,
+      110411,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110417,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 812,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110405,
+      110406,
+      110407,
+      110413,
+      110414,
+      110415,
+      110416,
+      110417,
+      110411,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110412,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 813,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110405,
+      110406,
+      110407,
+      110413,
+      110414,
+      110415,
+      110416,
+      110417,
+      110412,
+      110423,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110411,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 814,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110405,
+      110406,
+      110407,
+      110413,
+      110414,
+      110415,
+      110416,
+      110417,
+      110412,
+      110411,
+      110426,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110423,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 815,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110405,
+      110406,
+      110407,
+      110413,
+      110414,
+      110415,
+      110416,
+      110417,
+      110412,
+      110411,
+      110423,
+      110422,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110426,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 816,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110405,
+      110406,
+      110407,
+      110413,
+      110414,
+      110415,
+      110416,
+      110417,
+      110412,
+      110411,
+      110423,
+      110426,
+      110421
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110422,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 817,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110401,
+      110402,
+      110403,
+      110404,
+      110405,
+      110406,
+      110407,
+      110413,
+      110414,
+      110415,
+      110416,
+      110417,
+      110412,
+      110411,
+      110423,
+      110426,
+      110422
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      31
+    ],
+    "MaterialCost": [],
+    "LimitType": "Weekly",
+    "Order": 300,
+    "FormulaRequire": 0,
+    "LimitValue": 20,
+    "ItemID": 110421,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 818,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110121,
+      110131,
+      110141,
+      110151,
+      110161,
+      110171,
+      110181,
+      110191,
+      110201,
+      110211,
+      110221,
+      110231,
+      110241
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 103,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110111,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 901,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110122,
+      110132,
+      110142,
+      110152,
+      110162,
+      110172,
+      110182,
+      110192,
+      110202,
+      110212,
+      110222,
+      110232,
+      110242
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 102,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110112,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 902,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110123,
+      110133,
+      110143,
+      110153,
+      110163,
+      110173,
+      110183,
+      110193,
+      110203,
+      110213,
+      110223,
+      110233,
+      110243
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 101,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110113,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 903,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110111,
+      110131,
+      110141,
+      110151,
+      110161,
+      110171,
+      110181,
+      110191,
+      110201,
+      110211,
+      110221,
+      110231,
+      110241
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 106,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110121,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 904,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110112,
+      110132,
+      110142,
+      110152,
+      110162,
+      110172,
+      110182,
+      110192,
+      110202,
+      110212,
+      110222,
+      110232,
+      110242
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 105,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110122,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 905,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110113,
+      110133,
+      110143,
+      110153,
+      110163,
+      110173,
+      110183,
+      110193,
+      110203,
+      110213,
+      110223,
+      110233,
+      110243
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 104,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110123,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 906,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110111,
+      110121,
+      110141,
+      110151,
+      110161,
+      110171,
+      110181,
+      110191,
+      110201,
+      110211,
+      110221,
+      110231,
+      110241
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 109,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110131,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 907,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110112,
+      110122,
+      110142,
+      110152,
+      110162,
+      110172,
+      110182,
+      110192,
+      110202,
+      110212,
+      110222,
+      110232,
+      110242
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 108,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110132,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 908,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110113,
+      110123,
+      110143,
+      110153,
+      110163,
+      110173,
+      110183,
+      110193,
+      110203,
+      110213,
+      110223,
+      110233,
+      110243
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 107,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110133,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 909,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110111,
+      110121,
+      110131,
+      110151,
+      110161,
+      110171,
+      110181,
+      110191,
+      110201,
+      110211,
+      110221,
+      110231,
+      110241
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 112,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110141,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 910,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110112,
+      110122,
+      110132,
+      110152,
+      110162,
+      110172,
+      110182,
+      110192,
+      110202,
+      110212,
+      110222,
+      110232,
+      110242
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 111,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110142,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 911,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110113,
+      110123,
+      110133,
+      110153,
+      110163,
+      110173,
+      110183,
+      110193,
+      110203,
+      110213,
+      110223,
+      110233,
+      110243
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 110,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110143,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 912,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110111,
+      110121,
+      110131,
+      110141,
+      110161,
+      110171,
+      110181,
+      110191,
+      110201,
+      110211,
+      110221,
+      110231,
+      110241
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 115,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110151,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 913,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110112,
+      110122,
+      110132,
+      110142,
+      110162,
+      110172,
+      110182,
+      110192,
+      110202,
+      110212,
+      110222,
+      110232,
+      110242
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 114,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110152,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 914,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110113,
+      110123,
+      110133,
+      110143,
+      110163,
+      110173,
+      110183,
+      110193,
+      110203,
+      110213,
+      110223,
+      110233,
+      110243
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 113,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110153,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 915,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110111,
+      110121,
+      110131,
+      110141,
+      110151,
+      110171,
+      110181,
+      110191,
+      110201,
+      110211,
+      110221,
+      110231,
+      110241
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 118,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110161,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 916,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110112,
+      110122,
+      110132,
+      110142,
+      110152,
+      110172,
+      110182,
+      110192,
+      110202,
+      110212,
+      110222,
+      110232,
+      110242
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 117,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110162,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 917,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110113,
+      110123,
+      110133,
+      110143,
+      110153,
+      110173,
+      110183,
+      110193,
+      110203,
+      110213,
+      110223,
+      110233,
+      110243
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 116,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110163,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 918,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110111,
+      110121,
+      110131,
+      110141,
+      110151,
+      110161,
+      110181,
+      110191,
+      110201,
+      110211,
+      110221,
+      110231,
+      110241
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 121,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110171,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 919,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110112,
+      110122,
+      110132,
+      110142,
+      110152,
+      110162,
+      110182,
+      110192,
+      110202,
+      110212,
+      110222,
+      110232,
+      110242
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 120,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110172,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 920,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110113,
+      110123,
+      110133,
+      110143,
+      110153,
+      110163,
+      110183,
+      110193,
+      110203,
+      110213,
+      110223,
+      110233,
+      110243
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 119,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110173,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 921,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110111,
+      110121,
+      110131,
+      110141,
+      110151,
+      110161,
+      110171,
+      110191,
+      110201,
+      110211,
+      110221,
+      110231,
+      110241
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 124,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110181,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 922,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110112,
+      110122,
+      110132,
+      110142,
+      110152,
+      110162,
+      110172,
+      110192,
+      110202,
+      110212,
+      110222,
+      110232,
+      110242
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 123,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110182,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 923,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110113,
+      110123,
+      110133,
+      110143,
+      110153,
+      110163,
+      110173,
+      110193,
+      110203,
+      110213,
+      110223,
+      110233,
+      110243
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 122,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110183,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 924,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110111,
+      110121,
+      110131,
+      110141,
+      110151,
+      110161,
+      110171,
+      110181,
+      110201,
+      110211,
+      110221,
+      110231,
+      110241
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 127,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110191,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 925,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110112,
+      110122,
+      110132,
+      110142,
+      110152,
+      110162,
+      110172,
+      110182,
+      110202,
+      110212,
+      110222,
+      110232,
+      110242
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 126,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110192,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 926,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110113,
+      110123,
+      110133,
+      110143,
+      110153,
+      110163,
+      110173,
+      110183,
+      110203,
+      110213,
+      110223,
+      110233,
+      110243
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 125,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110193,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 927,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110111,
+      110121,
+      110131,
+      110141,
+      110151,
+      110161,
+      110171,
+      110181,
+      110191,
+      110211,
+      110221,
+      110231,
+      110241
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 130,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110201,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 928,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110112,
+      110122,
+      110132,
+      110142,
+      110152,
+      110162,
+      110172,
+      110182,
+      110192,
+      110212,
+      110222,
+      110232,
+      110242
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 129,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110202,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 929,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110113,
+      110123,
+      110133,
+      110143,
+      110153,
+      110163,
+      110173,
+      110183,
+      110193,
+      110213,
+      110223,
+      110233,
+      110243
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 128,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110203,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 930,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110111,
+      110121,
+      110131,
+      110141,
+      110151,
+      110161,
+      110171,
+      110181,
+      110191,
+      110201,
+      110221,
+      110231,
+      110241
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 133,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110211,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 931,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110112,
+      110122,
+      110132,
+      110142,
+      110152,
+      110162,
+      110172,
+      110182,
+      110192,
+      110202,
+      110222,
+      110232,
+      110242
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 132,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110212,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 932,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110113,
+      110123,
+      110133,
+      110143,
+      110153,
+      110163,
+      110173,
+      110183,
+      110193,
+      110203,
+      110223,
+      110233,
+      110243
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 131,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110213,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 933,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110111,
+      110121,
+      110131,
+      110141,
+      110151,
+      110161,
+      110171,
+      110181,
+      110191,
+      110201,
+      110211,
+      110231,
+      110241
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 136,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110221,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 934,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110112,
+      110122,
+      110132,
+      110142,
+      110152,
+      110162,
+      110172,
+      110182,
+      110192,
+      110202,
+      110212,
+      110232,
+      110242
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 135,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110222,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 935,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110113,
+      110123,
+      110133,
+      110143,
+      110153,
+      110163,
+      110173,
+      110183,
+      110193,
+      110203,
+      110213,
+      110233,
+      110243
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 134,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110223,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 936,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110111,
+      110121,
+      110131,
+      110141,
+      110151,
+      110161,
+      110171,
+      110181,
+      110191,
+      110201,
+      110211,
+      110221,
+      110241
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 139,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110231,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 937,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110112,
+      110122,
+      110132,
+      110142,
+      110152,
+      110162,
+      110172,
+      110182,
+      110192,
+      110202,
+      110212,
+      110222,
+      110242
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 138,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110232,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 938,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110113,
+      110123,
+      110133,
+      110143,
+      110153,
+      110163,
+      110173,
+      110183,
+      110193,
+      110203,
+      110213,
+      110223,
+      110243
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 137,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110233,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 939,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110111,
+      110121,
+      110131,
+      110141,
+      110151,
+      110161,
+      110171,
+      110181,
+      110191,
+      110201,
+      110211,
+      110221,
+      110231
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 142,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110241,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 940,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110112,
+      110122,
+      110132,
+      110142,
+      110152,
+      110162,
+      110172,
+      110182,
+      110192,
+      110202,
+      110212,
+      110222,
+      110232
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 141,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110242,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 2,
+    "ID": 941,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [
+      110113,
+      110123,
+      110133,
+      110143,
+      110153,
+      110163,
+      110173,
+      110183,
+      110193,
+      110203,
+      110213,
+      110223,
+      110233
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      11
+    ],
+    "MaterialCost": [],
+    "LimitType": "NotLimit",
+    "Order": 140,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 110243,
+    "IsShowHoldNumber": true,
+    "Type": 31,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 4,
+    "ID": 942,
+    "FuncType": "Replace",
+    "SpecialMaterialCostNumber": 2
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 180001
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 180002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 9,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 400004,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2101,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 408001
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 180002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 18,
+    "FormulaRequire": 404005,
+    "LimitValue": 0,
+    "ItemID": 400005,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2102,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 180006
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 180007
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 17,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 400006,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2103,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 180004
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 180005
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 8,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 400007,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2104,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 180001
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 408001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 16,
+    "FormulaRequire": 404008,
+    "LimitValue": 0,
+    "ItemID": 400008,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2105,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 180001
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181003
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 7,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 401003,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2201,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 408001
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 181003
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 46,
+    "FormulaRequire": 405004,
+    "LimitValue": 0,
+    "ItemID": 401004,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2202,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 408001
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 181002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 15,
+    "FormulaRequire": 405005,
+    "LimitValue": 0,
+    "ItemID": 401005,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2203,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 180004
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 14,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 401006,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2204,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 180006
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 6,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 401007,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2205,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 180006
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 180001
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 181002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 67,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 401008,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2206,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 180005
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 66,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 401009,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2207,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 180007
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 181003
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 65,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 401010,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2208,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      3
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 180001
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 69,
+    "FormulaRequire": 405011,
+    "LimitValue": 0,
+    "ItemID": 401011,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2209,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 180006
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181003
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 5,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 401012,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2210,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 180004
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 45,
+    "FormulaRequire": 405013,
+    "LimitValue": 0,
+    "ItemID": 401013,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2211,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 181004
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 180002
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 180001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 44,
+    "FormulaRequire": 405014,
+    "LimitValue": 0,
+    "ItemID": 401014,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2212,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 181004
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 180009
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 64,
+    "FormulaRequire": 405015,
+    "LimitValue": 0,
+    "ItemID": 401015,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2213,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 180009
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 180008
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 43,
+    "FormulaRequire": 405016,
+    "LimitValue": 0,
+    "ItemID": 401016,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2214,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 180002
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 180001
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181006
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 42,
+    "FormulaRequire": 405017,
+    "LimitValue": 0,
+    "ItemID": 401017,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2217,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 180009
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181012
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 63,
+    "FormulaRequire": 405018,
+    "LimitValue": 0,
+    "ItemID": 401018,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2218,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 180004
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 180002
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181003
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 13,
+    "FormulaRequire": 405019,
+    "LimitValue": 0,
+    "ItemID": 401019,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2219,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 180009
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181009
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 41,
+    "FormulaRequire": 405020,
+    "LimitValue": 0,
+    "ItemID": 401020,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2220,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 181015
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 180012
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 40,
+    "FormulaRequire": 405021,
+    "LimitValue": 0,
+    "ItemID": 401021,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2221,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 181015
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181014
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 12,
+    "FormulaRequire": 405022,
+    "LimitValue": 0,
+    "ItemID": 401022,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2222,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 181014
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 180011
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 62,
+    "FormulaRequire": 405023,
+    "LimitValue": 0,
+    "ItemID": 401023,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2223,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 181015
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181005
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 61,
+    "FormulaRequire": 405024,
+    "LimitValue": 0,
+    "ItemID": 401024,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2224,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 180010
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 180011
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 39,
+    "FormulaRequire": 405025,
+    "LimitValue": 0,
+    "ItemID": 401025,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2225,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 181008
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 180010
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 4,
+    "FormulaRequire": 405026,
+    "LimitValue": 0,
+    "ItemID": 401026,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2226,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 181015
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181007
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 60,
+    "FormulaRequire": 405027,
+    "LimitValue": 0,
+    "ItemID": 401027,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2227,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 181016
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 180012
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 59,
+    "FormulaRequire": 405028,
+    "LimitValue": 0,
+    "ItemID": 401028,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2228,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 5,
+        "ItemID": 180001
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 182002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 3,
+    "FormulaRequire": 406001,
+    "LimitValue": 0,
+    "ItemID": 402001,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2301,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 4,
+        "ItemID": 181001
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182004
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 182005
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 58,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 402002,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2302,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 4,
+        "ItemID": 180004
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181002
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182006
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 11,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 402003,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2303,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 4,
+        "ItemID": 181010
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 182001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 38,
+    "FormulaRequire": 406004,
+    "LimitValue": 0,
+    "ItemID": 402004,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2304,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 180005
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 181001
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182004
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 57,
+    "FormulaRequire": 406005,
+    "LimitValue": 0,
+    "ItemID": 402005,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2305,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 408001
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 181001
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182004
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 56,
+    "FormulaRequire": 406006,
+    "LimitValue": 0,
+    "ItemID": 402006,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2306,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 5,
+        "ItemID": 180002
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 181003
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 182002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 55,
+    "FormulaRequire": 406007,
+    "LimitValue": 0,
+    "ItemID": 402007,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2307,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 180007
+      },
+      {
+        "ItemNum": 5,
+        "ItemID": 181002
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 182003
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 37,
+    "FormulaRequire": 406008,
+    "LimitValue": 0,
+    "ItemID": 402008,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2308,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 5,
+        "ItemID": 180005
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181010
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182004
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 36,
+    "FormulaRequire": 406009,
+    "LimitValue": 0,
+    "ItemID": 402009,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2309,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 5,
+        "ItemID": 180006
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181007
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182003
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 35,
+    "FormulaRequire": 406010,
+    "LimitValue": 0,
+    "ItemID": 402010,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2310,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 5,
+        "ItemID": 180004
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181004
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 34,
+    "FormulaRequire": 406011,
+    "LimitValue": 0,
+    "ItemID": 402011,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2311,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 5,
+        "ItemID": 180001
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181005
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182006
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 33,
+    "FormulaRequire": 406012,
+    "LimitValue": 0,
+    "ItemID": 402012,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2312,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 5,
+        "ItemID": 180005
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181006
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 32,
+    "FormulaRequire": 406013,
+    "LimitValue": 0,
+    "ItemID": 402013,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2313,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 5,
+        "ItemID": 180006
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181008
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182007
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 31,
+    "FormulaRequire": 406014,
+    "LimitValue": 0,
+    "ItemID": 402014,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2314,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 5,
+        "ItemID": 180007
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181009
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182005
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 30,
+    "FormulaRequire": 406015,
+    "LimitValue": 0,
+    "ItemID": 402015,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2315,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [
+      182001,
+      182002,
+      182003,
+      182004,
+      182005,
+      182006,
+      182007
+    ],
+    "RelicList": [],
+    "ItemComposeTag": [
+      3
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 8,
+        "ItemID": 408001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 68,
+    "FormulaRequire": 406016,
+    "LimitValue": 0,
+    "ItemID": 402016,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Sepcial",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2316,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 180005
+      },
+      {
+        "ItemNum": 4,
+        "ItemID": 180002
+      },
+      {
+        "ItemNum": 4,
+        "ItemID": 181003
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 10,
+    "FormulaRequire": 406017,
+    "LimitValue": 0,
+    "ItemID": 402017,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2317,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 408409
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 408204
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 180001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 54,
+    "FormulaRequire": 406018,
+    "LimitValue": 0,
+    "ItemID": 402018,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2318,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 182002
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181011
+      },
+      {
+        "ItemNum": 5,
+        "ItemID": 180008
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 53,
+    "FormulaRequire": 406019,
+    "LimitValue": 0,
+    "ItemID": 402019,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2319,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 182003
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 408207
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 180009
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 29,
+    "FormulaRequire": 406020,
+    "LimitValue": 0,
+    "ItemID": 402020,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2320,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 182008
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 181013
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 181012
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 52,
+    "FormulaRequire": 406021,
+    "LimitValue": 0,
+    "ItemID": 402021,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2321,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 182006
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 181012
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 408206
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 51,
+    "FormulaRequire": 406022,
+    "LimitValue": 0,
+    "ItemID": 402022,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2322,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 401014
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 180002
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 180001
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 180004
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 28,
+    "FormulaRequire": 406023,
+    "LimitValue": 0,
+    "ItemID": 402023,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2323,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 408207
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 181013
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 182008
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 2,
+    "FormulaRequire": 406024,
+    "LimitValue": 0,
+    "ItemID": 402024,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2324,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 182009
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181015
+      },
+      {
+        "ItemNum": 5,
+        "ItemID": 180007
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 27,
+    "FormulaRequire": 406025,
+    "LimitValue": 0,
+    "ItemID": 402025,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2325,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 182009
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 181014
+      },
+      {
+        "ItemNum": 5,
+        "ItemID": 180011
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 26,
+    "FormulaRequire": 406026,
+    "LimitValue": 0,
+    "ItemID": 402026,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2326,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      4
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 182010
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 181016
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 180010
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 1,
+    "FormulaRequire": 406027,
+    "LimitValue": 0,
+    "ItemID": 402027,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2327,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 182010
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 180012
+      },
+      {
+        "ItemNum": 5,
+        "ItemID": 180011
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 50,
+    "FormulaRequire": 406028,
+    "LimitValue": 0,
+    "ItemID": 402028,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2328,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 4,
+        "ItemID": 180004
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181001
+      },
+      {
+        "ItemNum": 4,
+        "ItemID": 182001
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 183002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 25,
+    "FormulaRequire": 407001,
+    "LimitValue": 0,
+    "ItemID": 403001,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2401,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 181002
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182003
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 182005
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 183001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 24,
+    "FormulaRequire": 407002,
+    "LimitValue": 0,
+    "ItemID": 403002,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2402,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 4,
+        "ItemID": 180004
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 181004
+      },
+      {
+        "ItemNum": 4,
+        "ItemID": 182001
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 183002
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 23,
+    "FormulaRequire": 407003,
+    "LimitValue": 0,
+    "ItemID": 403003,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2403,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 3,
+        "ItemID": 181005
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 182004
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182005
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 183003
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 49,
+    "FormulaRequire": 407004,
+    "LimitValue": 0,
+    "ItemID": 403004,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2404,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 6,
+        "ItemID": 180006
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182003
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 182007
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 183004
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 22,
+    "FormulaRequire": 407005,
+    "LimitValue": 0,
+    "ItemID": 403005,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2405,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 5,
+        "ItemID": 180007
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182002
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182005
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 182004
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 183001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 48,
+    "FormulaRequire": 407006,
+    "LimitValue": 0,
+    "ItemID": 403006,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2406,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 402012
+      },
+      {
+        "ItemNum": 2,
+        "ItemID": 180002
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 180001
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 21,
+    "FormulaRequire": 407007,
+    "LimitValue": 0,
+    "ItemID": 403007,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2407,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 183001
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 182007
+      },
+      {
+        "ItemNum": 4,
+        "ItemID": 181011
+      },
+      {
+        "ItemNum": 5,
+        "ItemID": 180008
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 20,
+    "FormulaRequire": 407008,
+    "LimitValue": 0,
+    "ItemID": 403008,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2408,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      2
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 183005
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 181014
+      },
+      {
+        "ItemNum": 4,
+        "ItemID": 181016
+      },
+      {
+        "ItemNum": 5,
+        "ItemID": 180010
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 47,
+    "FormulaRequire": 407009,
+    "LimitValue": 0,
+    "ItemID": 403009,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2409,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 2,
+        "ItemID": 183006
+      },
+      {
+        "ItemNum": 1,
+        "ItemID": 182009
+      },
+      {
+        "ItemNum": 5,
+        "ItemID": 180012
+      },
+      {
+        "ItemNum": 4,
+        "ItemID": 180011
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 19,
+    "FormulaRequire": 407010,
+    "LimitValue": 0,
+    "ItemID": 403010,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2410,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [],
+    "RelicList": [],
+    "ItemComposeTag": [
+      1
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 1,
+        "ItemID": 183006
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 182010
+      },
+      {
+        "ItemNum": 3,
+        "ItemID": 180012
+      },
+      {
+        "ItemNum": 4,
+        "ItemID": 180011
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 19,
+    "FormulaRequire": 407011,
+    "LimitValue": 0,
+    "ItemID": 403011,
+    "IsShowHoldNumber": true,
+    "Type": 2,
+    "FormulaType": "Normal",
+    "CoinCost": 0,
+    "MaxCount": 9999,
+    "WorldLevelRequire": 0,
+    "ID": 2411,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 0
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61011,
+      61012,
+      61013,
+      61014
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 1,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81014,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9001,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61021,
+      61022,
+      61023,
+      61024
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 2,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81024,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9002,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61031,
+      61032,
+      61033,
+      61034
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 3,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81034,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9003,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61041,
+      61042,
+      61043,
+      61044
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 4,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81044,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9004,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61051,
+      61052,
+      61053,
+      61054
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 5,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81054,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9005,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61061,
+      61062,
+      61063,
+      61064
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 6,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81064,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9006,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61071,
+      61072,
+      61073,
+      61074
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 7,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81074,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9007,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61081,
+      61082,
+      61083,
+      61084
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 8,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81084,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9008,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61091,
+      61092,
+      61093,
+      61094
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 9,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81094,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9009,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61101,
+      61102,
+      61103,
+      61104
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 10,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81104,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9010,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61111,
+      61112,
+      61113,
+      61114
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 11,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81114,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9011,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61121,
+      61122,
+      61123,
+      61124
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 12,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81124,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9012,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63015,
+      63016
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 21,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83014,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9013,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63025,
+      63026
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 22,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83024,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9014,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63035,
+      63036
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 23,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83034,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9015,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63045,
+      63046
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 24,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83044,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9016,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63055,
+      63056
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 25,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83054,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9017,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63065,
+      63066
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 26,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83064,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9018,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63075,
+      63076
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 27,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83074,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9019,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63085,
+      63086
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 28,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83084,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9020,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61131,
+      61132,
+      61133,
+      61134
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 13,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81134,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9101,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61141,
+      61142,
+      61143,
+      61144
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 14,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81144,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9102,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61151,
+      61152,
+      61153,
+      61154
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 15,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81154,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9103,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61161,
+      61162,
+      61163,
+      61164
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 16,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81164,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9104,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61171,
+      61172,
+      61173,
+      61174
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 17,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81174,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9105,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61181,
+      61182,
+      61183,
+      61184
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 18,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81184,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9106,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61191,
+      61192,
+      61193,
+      61194
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 19,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81194,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9107,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      61201,
+      61202,
+      61203,
+      61204
+    ],
+    "ItemComposeTag": [
+      21
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 20,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 81204,
+    "IsShowHoldNumber": false,
+    "Type": 21,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9108,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63095,
+      63096
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 29,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83094,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9301,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63105,
+      63106
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 30,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83104,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9302,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63115,
+      63116
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 31,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83114,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9303,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63125,
+      63126
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 32,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83124,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9304,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63135,
+      63136
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 33,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83134,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9305,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63145,
+      63146
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 34,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83144,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9306,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63155,
+      63156
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 35,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83154,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9307,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  },
+  {
+    "SpecialMaterialCost": [
+      236
+    ],
+    "RelicList": [
+      63165,
+      63166
+    ],
+    "ItemComposeTag": [
+      20
+    ],
+    "MaterialCost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 235
+      }
+    ],
+    "LimitType": "NotLimit",
+    "Order": 36,
+    "FormulaRequire": 0,
+    "LimitValue": 0,
+    "ItemID": 83164,
+    "IsShowHoldNumber": false,
+    "Type": 22,
+    "FormulaType": "SelectedRelic",
+    "CoinCost": 1000,
+    "MaxCount": 20,
+    "WorldLevelRequire": 3,
+    "ID": 9308,
+    "FuncType": "Compose",
+    "SpecialMaterialCostNumber": 1
+  }
+]

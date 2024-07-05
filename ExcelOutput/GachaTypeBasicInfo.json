@@ -1,0 +1,50 @@
+[
+  {
+    "BuyPos": {
+      "ShopID": 1000,
+      "ShopGoodID": 1000001
+    },
+    "GachaBar": "StandardGachaPage",
+    "DiamondID": 1,
+    "GachaTypeID": "Normal",
+    "ItemCosume": 101,
+    "ItemPrice": 160,
+    "UpPropability": 0
+  },
+  {
+    "BuyPos": {
+      "ShopID": 1000,
+      "ShopGoodID": 1000001
+    },
+    "GachaBar": "StandardGachaPage",
+    "DiamondID": 1,
+    "GachaTypeID": "Newbie",
+    "ItemCosume": 101,
+    "ItemPrice": 160,
+    "UpPropability": 0
+  },
+  {
+    "BuyPos": {
+      "ShopID": 1000,
+      "ShopGoodID": 1000002
+    },
+    "GachaBar": "CharacterGachaPage",
+    "DiamondID": 1,
+    "GachaTypeID": "AvatarUp",
+    "ItemCosume": 102,
+    "ItemPrice": 160,
+    "UpPropability": 50
+  },
+  {
+    "BuyPos": {
+      "ShopID": 1000,
+      "ShopGoodID": 1000002
+    },
+    "GachaBar": "LightconeGachaPage",
+    "DiamondID": 1,
+    "GachaTypeID": "WeaponUp",
+    "ItemCosume": 102,
+    "ItemPrice": 160,
+    "UpPropability": 75
+  }
+]

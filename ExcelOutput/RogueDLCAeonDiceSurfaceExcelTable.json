@@ -1,0 +1,1164 @@
+[
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000002,
+      61000018,
+      61000019
+    ],
+    "Dice3DSurfaceList": [
+      1
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceE1.png",
+    "DiceEffectParam": [
+      11,
+      12
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055059
+    },
+    "DiceEffectType": "SelectCellToProtect",
+    "DiceSurfaceDesc": {
+      "hash": 67257205
+    },
+    "DiceActiveStage": 1,
+    "Sort": 3,
+    "AeonDiceID": 1,
+    "AeonSurfaceDiceID": 101,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000002
+    ],
+    "Dice3DSurfaceList": [
+      2
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceE2.png",
+    "DiceEffectParam": [
+      0
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055056
+    },
+    "DiceEffectType": "ProtectCollaspeCell",
+    "DiceSurfaceDesc": {
+      "hash": 67257206
+    },
+    "DiceActiveStage": 2,
+    "Sort": 1,
+    "AeonDiceID": 1,
+    "AeonSurfaceDiceID": 102,
+    "Rarity": 3
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 4294967296
+      }
+    ],
+    "ExtraEffect": [
+      61000002
+    ],
+    "Dice3DSurfaceList": [
+      3
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceE3.png",
+    "DiceEffectParam": [
+      1
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055057
+    },
+    "DiceEffectType": "ProtectCollaspeCell",
+    "DiceSurfaceDesc": {
+      "hash": 67257207
+    },
+    "DiceActiveStage": 2,
+    "Sort": 4,
+    "AeonDiceID": 1,
+    "AeonSurfaceDiceID": 103,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 107374182400
+      }
+    ],
+    "ExtraEffect": [
+      61000002
+    ],
+    "Dice3DSurfaceList": [
+      4
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceE4.png",
+    "DiceEffectParam": [
+      25
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055062
+    },
+    "DiceEffectType": "GetMoneyByProtectCell",
+    "DiceSurfaceDesc": {
+      "hash": 67257208
+    },
+    "DiceActiveStage": 1,
+    "Sort": 2,
+    "AeonDiceID": 1,
+    "AeonSurfaceDiceID": 104,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ],
+    "ExtraEffect": [],
+    "Dice3DSurfaceList": [
+      5
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceE5.png",
+    "DiceEffectParam": [
+      641201
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055063
+    },
+    "DiceEffectType": "AddMazeBuff",
+    "DiceSurfaceDesc": {
+      "hash": 67257209
+    },
+    "DiceActiveStage": 3,
+    "Sort": 5,
+    "AeonDiceID": 1,
+    "AeonSurfaceDiceID": 105,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 8589934592
+      }
+    ],
+    "ExtraEffect": [],
+    "Dice3DSurfaceList": [
+      2
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceA2.png",
+    "DiceEffectParam": [
+      641211
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143054960
+    },
+    "DiceEffectType": "AddMazeBuff",
+    "DiceSurfaceDesc": {
+      "hash": 67257238
+    },
+    "DiceActiveStage": 3,
+    "Sort": 5,
+    "AeonDiceID": 2,
+    "AeonSurfaceDiceID": 201,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000004
+    ],
+    "Dice3DSurfaceList": [
+      3
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceA3.png",
+    "DiceEffectParam": [
+      11,
+      12
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143054963
+    },
+    "DiceEffectType": "ReplicateLastCell",
+    "DiceSurfaceDesc": {
+      "hash": 67257237
+    },
+    "DiceActiveStage": 1,
+    "Sort": 4,
+    "AeonDiceID": 2,
+    "AeonSurfaceDiceID": 202,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000004
+    ],
+    "Dice3DSurfaceList": [
+      1
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceA1.png",
+    "DiceEffectParam": [
+      11,
+      12
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143054962
+    },
+    "DiceEffectType": "ReplicateCellToAround",
+    "DiceSurfaceDesc": {
+      "hash": 67257236
+    },
+    "DiceActiveStage": 1,
+    "Sort": 3,
+    "AeonDiceID": 2,
+    "AeonSurfaceDiceID": 203,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000004
+    ],
+    "Dice3DSurfaceList": [
+      4
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceA4.png",
+    "DiceEffectParam": [],
+    "DiceSurfaceName": {
+      "hash": 2143054965
+    },
+    "DiceEffectType": "ReplicateAllAroundCell",
+    "DiceSurfaceDesc": {
+      "hash": 67257243
+    },
+    "DiceActiveStage": 1,
+    "Sort": 1,
+    "AeonDiceID": 2,
+    "AeonSurfaceDiceID": 204,
+    "Rarity": 3
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000004
+    ],
+    "Dice3DSurfaceList": [
+      5
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceA5.png",
+    "DiceEffectParam": [],
+    "DiceSurfaceName": {
+      "hash": 2143054964
+    },
+    "DiceEffectType": "AllowMoveToReplicateCell",
+    "DiceSurfaceDesc": {
+      "hash": 67257242
+    },
+    "DiceActiveStage": 2,
+    "Sort": 2,
+    "AeonDiceID": 2,
+    "AeonSurfaceDiceID": 205,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000009,
+      61000015
+    ],
+    "Dice3DSurfaceList": [
+      1
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceD1.png",
+    "DiceEffectParam": [
+      7,
+      20002,
+      3
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143054993
+    },
+    "DiceEffectType": "SelectMiracleToEmpty",
+    "DiceSurfaceDesc": {
+      "hash": 67257271
+    },
+    "DiceActiveStage": 1,
+    "Sort": 2,
+    "AeonDiceID": 3,
+    "AeonSurfaceDiceID": 301,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000009,
+      61000013
+    ],
+    "Dice3DSurfaceList": [
+      2
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceD2.png",
+    "DiceEffectParam": [
+      5,
+      200620,
+      3,
+      10001
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143054994
+    },
+    "DiceEffectType": "SelectBuffToEmpty",
+    "DiceSurfaceDesc": {
+      "hash": 67257268
+    },
+    "DiceActiveStage": 1,
+    "Sort": 3,
+    "AeonDiceID": 3,
+    "AeonSurfaceDiceID": 302,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000009,
+      61000011
+    ],
+    "Dice3DSurfaceList": [
+      3
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceD3.png",
+    "DiceEffectParam": [],
+    "DiceSurfaceName": {
+      "hash": 2143054995
+    },
+    "DiceEffectType": "TurnFightCellToEmpty",
+    "DiceSurfaceDesc": {
+      "hash": 67257269
+    },
+    "DiceActiveStage": 1,
+    "Sort": 4,
+    "AeonDiceID": 3,
+    "AeonSurfaceDiceID": 303,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000009,
+      61000016
+    ],
+    "Dice3DSurfaceList": [
+      4
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceD4.png",
+    "DiceEffectParam": [],
+    "DiceSurfaceName": {
+      "hash": 2143054996
+    },
+    "DiceEffectType": "TurnEventCellToEmpty",
+    "DiceSurfaceDesc": {
+      "hash": 67257274
+    },
+    "DiceActiveStage": 1,
+    "Sort": 5,
+    "AeonDiceID": 3,
+    "AeonSurfaceDiceID": 304,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000009,
+      61000015
+    ],
+    "Dice3DSurfaceList": [
+      5
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceD5.png",
+    "DiceEffectParam": [],
+    "DiceSurfaceName": {
+      "hash": 2143054997
+    },
+    "DiceEffectType": "TrunEmptyToReward",
+    "DiceSurfaceDesc": {
+      "hash": 67257275
+    },
+    "DiceActiveStage": 2,
+    "Sort": 1,
+    "AeonDiceID": 3,
+    "AeonSurfaceDiceID": 305,
+    "Rarity": 3
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 42949672960
+      }
+    ],
+    "ExtraEffect": [
+      61000009
+    ],
+    "Dice3DSurfaceList": [
+      6
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceD6.png",
+    "DiceEffectParam": [
+      10
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143054998
+    },
+    "DiceEffectType": "EnterEmptyGetMoney",
+    "DiceSurfaceDesc": {
+      "hash": 67257272
+    },
+    "DiceActiveStage": 2,
+    "Sort": 6,
+    "AeonDiceID": 3,
+    "AeonSurfaceDiceID": 306,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 128849019
+      },
+      {
+        "RawValue": 2576980380
+      }
+    ],
+    "ExtraEffect": [],
+    "Dice3DSurfaceList": [
+      6
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceG6.png",
+    "DiceEffectParam": [
+      641231
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055158
+    },
+    "DiceEffectType": "AddMazeBuff",
+    "DiceSurfaceDesc": {
+      "hash": 67257304
+    },
+    "DiceActiveStage": 3,
+    "Sort": 5,
+    "AeonDiceID": 4,
+    "AeonSurfaceDiceID": 401,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000003
+    ],
+    "Dice3DSurfaceList": [
+      2
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceG2.png",
+    "DiceEffectParam": [
+      4
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055157
+    },
+    "DiceEffectType": "SetSpecialType",
+    "DiceSurfaceDesc": {
+      "hash": 67257307
+    },
+    "DiceActiveStage": 1,
+    "Sort": 4,
+    "AeonDiceID": 4,
+    "AeonSurfaceDiceID": 402,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 21474836480
+      }
+    ],
+    "ExtraEffect": [
+      61000003
+    ],
+    "Dice3DSurfaceList": [
+      3
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceG3.png",
+    "DiceEffectParam": [
+      1,
+      5
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055156
+    },
+    "DiceEffectType": "BenefitsBySeed",
+    "DiceSurfaceDesc": {
+      "hash": 67257306
+    },
+    "DiceActiveStage": 1,
+    "Sort": 2,
+    "AeonDiceID": 4,
+    "AeonSurfaceDiceID": 403,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 4294967296
+      }
+    ],
+    "ExtraEffect": [
+      61000003
+    ],
+    "Dice3DSurfaceList": [
+      4
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceG4.png",
+    "DiceEffectParam": [
+      1,
+      4
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055155
+    },
+    "DiceEffectType": "RandomSetSpecialType",
+    "DiceSurfaceDesc": {
+      "hash": 67257301
+    },
+    "DiceActiveStage": 1,
+    "Sort": 6,
+    "AeonDiceID": 4,
+    "AeonSurfaceDiceID": 404,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 4294967296
+      }
+    ],
+    "ExtraEffect": [
+      61000003
+    ],
+    "Dice3DSurfaceList": [
+      5
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceG5.png",
+    "DiceEffectParam": [
+      4
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055154
+    },
+    "DiceEffectType": "RandomNeighborSpecialType",
+    "DiceSurfaceDesc": {
+      "hash": 67257300
+    },
+    "DiceActiveStage": 1,
+    "Sort": 1,
+    "AeonDiceID": 4,
+    "AeonSurfaceDiceID": 405,
+    "Rarity": 3
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000003
+    ],
+    "Dice3DSurfaceList": [
+      1
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceG1.png",
+    "DiceEffectParam": [
+      4
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055153
+    },
+    "DiceEffectType": "SetNeighborSpecialType",
+    "DiceSurfaceDesc": {
+      "hash": 67257303
+    },
+    "DiceActiveStage": 2,
+    "Sort": 3,
+    "AeonDiceID": 4,
+    "AeonSurfaceDiceID": 406,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 4294967296
+      }
+    ],
+    "ExtraEffect": [
+      61000001,
+      61000007,
+      61000008
+    ],
+    "Dice3DSurfaceList": [
+      1
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceF1.png",
+    "DiceEffectParam": [
+      2,
+      5
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055191
+    },
+    "DiceEffectType": "LockMarkCell",
+    "DiceSurfaceDesc": {
+      "hash": 67257337
+    },
+    "DiceActiveStage": 1,
+    "Sort": 4,
+    "AeonDiceID": 5,
+    "AeonSurfaceDiceID": 501,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000007,
+      61000008
+    ],
+    "Dice3DSurfaceList": [
+      5
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceF2.png",
+    "DiceEffectParam": [
+      2,
+      5
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055188
+    },
+    "DiceEffectType": "MoveMarkCellUpgradeReward",
+    "DiceSurfaceDesc": {
+      "hash": 67257338
+    },
+    "DiceActiveStage": 1,
+    "Sort": 1,
+    "AeonDiceID": 5,
+    "AeonSurfaceDiceID": 502,
+    "Rarity": 3
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 12884901888
+      }
+    ],
+    "ExtraEffect": [],
+    "Dice3DSurfaceList": [
+      3
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceF3.png",
+    "DiceEffectParam": [
+      3
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055189
+    },
+    "DiceEffectType": "SetColCanMove",
+    "DiceSurfaceDesc": {
+      "hash": 67257339
+    },
+    "DiceActiveStage": 2,
+    "Sort": 3,
+    "AeonDiceID": 5,
+    "AeonSurfaceDiceID": 503,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000007,
+      61000011,
+      61000012,
+      61000013
+    ],
+    "Dice3DSurfaceList": [
+      4
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceF4.png",
+    "DiceEffectParam": [
+      3,
+      4,
+      5
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055186
+    },
+    "DiceEffectType": "SetMarkToRandomCell",
+    "DiceSurfaceDesc": {
+      "hash": 67257332
+    },
+    "DiceActiveStage": 1,
+    "Sort": 2,
+    "AeonDiceID": 5,
+    "AeonSurfaceDiceID": 504,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 2147483650
+      },
+      {
+        "RawValue": 12884901888
+      }
+    ],
+    "ExtraEffect": [],
+    "Dice3DSurfaceList": [
+      2
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceF5.png",
+    "DiceEffectParam": [
+      641241
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055187
+    },
+    "DiceEffectType": "AddMazeBuff",
+    "DiceSurfaceDesc": {
+      "hash": 67257333
+    },
+    "DiceActiveStage": 3,
+    "Sort": 5,
+    "AeonDiceID": 5,
+    "AeonSurfaceDiceID": 505,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000009,
+      61000011,
+      61000012,
+      61000013
+    ],
+    "Dice3DSurfaceList": [
+      1
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceB1.png",
+    "DiceEffectParam": [
+      3,
+      4,
+      5
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055092
+    },
+    "DiceEffectType": "SetCellTypeAndTakeReward",
+    "DiceSurfaceDesc": {
+      "hash": 67257370
+    },
+    "DiceActiveStage": 1,
+    "Sort": 1,
+    "AeonDiceID": 6,
+    "AeonSurfaceDiceID": 601,
+    "Rarity": 3
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000005,
+      61000011,
+      61000012,
+      61000013
+    ],
+    "Dice3DSurfaceList": [
+      2
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceB2.png",
+    "DiceEffectParam": [
+      3,
+      4,
+      5
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055095
+    },
+    "DiceEffectType": "SetMarkType",
+    "DiceSurfaceDesc": {
+      "hash": 67257369
+    },
+    "DiceActiveStage": 1,
+    "Sort": 2,
+    "AeonDiceID": 6,
+    "AeonSurfaceDiceID": 602,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000011,
+      61000018,
+      61000019
+    ],
+    "Dice3DSurfaceList": [
+      5
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceB5.png",
+    "DiceEffectParam": [
+      3
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055094
+    },
+    "DiceEffectType": "SelectAndToFightCell",
+    "DiceSurfaceDesc": {
+      "hash": 67257368
+    },
+    "DiceActiveStage": 1,
+    "Sort": 5,
+    "AeonDiceID": 6,
+    "AeonSurfaceDiceID": 603,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 4294967296
+      }
+    ],
+    "ExtraEffect": [
+      61000011,
+      61000012,
+      61000013
+    ],
+    "Dice3DSurfaceList": [
+      3
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceB3.png",
+    "DiceEffectParam": [
+      3,
+      4,
+      5
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055089
+    },
+    "DiceEffectType": "EnterCellTriggerBuff",
+    "DiceSurfaceDesc": {
+      "hash": 67257367
+    },
+    "DiceActiveStage": 2,
+    "Sort": 3,
+    "AeonDiceID": 6,
+    "AeonSurfaceDiceID": 604,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 2147483650
+      }
+    ],
+    "ExtraEffect": [],
+    "Dice3DSurfaceList": [
+      4
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceB4.png",
+    "DiceEffectParam": [
+      641251
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055088
+    },
+    "DiceEffectType": "AddMazeBuff",
+    "DiceSurfaceDesc": {
+      "hash": 67257366
+    },
+    "DiceActiveStage": 3,
+    "Sort": 4,
+    "AeonDiceID": 6,
+    "AeonSurfaceDiceID": 605,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000011
+    ],
+    "Dice3DSurfaceList": [
+      2
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceC2.png",
+    "DiceEffectParam": [
+      3
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055125
+    },
+    "DiceEffectType": "SelectCellGetHelp",
+    "DiceSurfaceDesc": {
+      "hash": 67257403
+    },
+    "DiceActiveStage": 1,
+    "Sort": 3,
+    "AeonDiceID": 7,
+    "AeonSurfaceDiceID": 701,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000013
+    ],
+    "Dice3DSurfaceList": [
+      1
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceC1.png",
+    "DiceEffectParam": [
+      5
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055126
+    },
+    "DiceEffectType": "SelectCellGetHelp",
+    "DiceSurfaceDesc": {
+      "hash": 67257400
+    },
+    "DiceActiveStage": 1,
+    "Sort": 4,
+    "AeonDiceID": 7,
+    "AeonSurfaceDiceID": 702,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000016
+    ],
+    "Dice3DSurfaceList": [
+      3
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceC3.png",
+    "DiceEffectParam": [
+      8
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055127
+    },
+    "DiceEffectType": "SelectCellGetHelp",
+    "DiceSurfaceDesc": {
+      "hash": 67257401
+    },
+    "DiceActiveStage": 1,
+    "Sort": 5,
+    "AeonDiceID": 7,
+    "AeonSurfaceDiceID": 703,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 8589934592
+      }
+    ],
+    "ExtraEffect": [],
+    "Dice3DSurfaceList": [
+      4
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceC4.png",
+    "DiceEffectParam": [
+      641261
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055121
+    },
+    "DiceEffectType": "AddMazeBuff",
+    "DiceSurfaceDesc": {
+      "hash": 67257399
+    },
+    "DiceActiveStage": 3,
+    "Sort": 2,
+    "AeonDiceID": 7,
+    "AeonSurfaceDiceID": 705,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000018,
+      61000019
+    ],
+    "Dice3DSurfaceList": [
+      5
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceC5.png",
+    "DiceEffectParam": [
+      11,
+      12
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055122
+    },
+    "DiceEffectType": "SelectExceptCellGetHelp",
+    "DiceSurfaceDesc": {
+      "hash": 67257396
+    },
+    "DiceActiveStage": 1,
+    "Sort": 1,
+    "AeonDiceID": 7,
+    "AeonSurfaceDiceID": 706,
+    "Rarity": 3
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000012,
+      61000017
+    ],
+    "Dice3DSurfaceList": [
+      1
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceH1.png",
+    "DiceEffectParam": [
+      4,
+      9
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055290
+    },
+    "DiceEffectType": "SetAroundBlockType",
+    "DiceSurfaceDesc": {
+      "hash": 67257436
+    },
+    "DiceActiveStage": 1,
+    "Sort": 2,
+    "AeonDiceID": 8,
+    "AeonSurfaceDiceID": 801,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 4294967296
+      }
+    ],
+    "ExtraEffect": [
+      61000012
+    ],
+    "Dice3DSurfaceList": [
+      5
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceH2.png",
+    "DiceEffectParam": [
+      4
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055289
+    },
+    "DiceEffectType": "TriggerMark",
+    "DiceSurfaceDesc": {
+      "hash": 67257439
+    },
+    "DiceActiveStage": 1,
+    "Sort": 3,
+    "AeonDiceID": 8,
+    "AeonSurfaceDiceID": 802,
+    "Rarity": 2
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 12884901888
+      }
+    ],
+    "ExtraEffect": [],
+    "Dice3DSurfaceList": [
+      4
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceH3.png",
+    "DiceEffectParam": [
+      641271
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055288
+    },
+    "DiceEffectType": "AddMazeBuff",
+    "DiceSurfaceDesc": {
+      "hash": 67257438
+    },
+    "DiceActiveStage": 3,
+    "Sort": 4,
+    "AeonDiceID": 8,
+    "AeonSurfaceDiceID": 803,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [
+      {
+        "RawValue": 4294967296
+      }
+    ],
+    "ExtraEffect": [
+      61000012,
+      61000017
+    ],
+    "Dice3DSurfaceList": [
+      2
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceH4.png",
+    "DiceEffectParam": [
+      1
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055295
+    },
+    "DiceEffectType": "ToRandomBlockType",
+    "DiceSurfaceDesc": {
+      "hash": 67257441
+    },
+    "DiceActiveStage": 1,
+    "Sort": 5,
+    "AeonDiceID": 8,
+    "AeonSurfaceDiceID": 804,
+    "Rarity": 1
+  },
+  {
+    "DescParam": [],
+    "ExtraEffect": [
+      61000012,
+      61000017,
+      61000018,
+      61000019
+    ],
+    "Dice3DSurfaceList": [
+      3
+    ],
+    "DiceSurfaceIcon": "SpriteOutput/Rogue/DLC/Dice/SurfaceIcon/IconRogueDlcDiceFaceH5.png",
+    "DiceEffectParam": [
+      1270
+    ],
+    "DiceSurfaceName": {
+      "hash": 2143055294
+    },
+    "DiceEffectType": "MoveToSwarmGetBuff",
+    "DiceSurfaceDesc": {
+      "hash": 67257440
+    },
+    "DiceActiveStage": 1,
+    "Sort": 1,
+    "AeonDiceID": 8,
+    "AeonSurfaceDiceID": 805,
+    "Rarity": 3
+  }
+]

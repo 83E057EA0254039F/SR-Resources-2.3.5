@@ -1,0 +1,30 @@
+[
+  {
+    "IconPath": "SpriteOutput/ItemIcon/110501.png",
+    "ResBarKey": "",
+    "ID": 1001,
+    "Desc": {
+      "hash": 371857150
+    },
+    "GuideType": "RogueRelease",
+    "Priority": 1,
+    "Name": {
+      "hash": 746677850
+    },
+    "IntroID": 0
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/110501.png",
+    "ResBarKey": "",
+    "ID": 1002,
+    "Desc": {
+      "hash": 371857150
+    },
+    "GuideType": "RogueBeta",
+    "Priority": 2,
+    "Name": {
+      "hash": 746677847
+    },
+    "IntroID": 0
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 8001,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 1006517534
+    },
+    "ID": 1
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 30,
+    "LimitType": "TeamLevel",
+    "LimitDesc": {
+      "hash": 1409802061
+    },
+    "ID": 2
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1209,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": -156281880
+    },
+    "ID": 3
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1002,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 603233007
+    },
+    "ID": 4
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 4,
+    "LimitType": "TeamAvatarMinCount",
+    "LimitDesc": {
+      "hash": -962850934
+    },
+    "ID": 5
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1204,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": -559566407
+    },
+    "ID": 6
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1208,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": -2125650348
+    },
+    "ID": 7
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1213,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": -1366135461
+    },
+    "ID": 8
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1212,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 1362747894
+    },
+    "ID": 9
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1217,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 1543211342
+    },
+    "ID": 10
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1305,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 1543211343
+    },
+    "ID": 11
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1307,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 1543211340
+    },
+    "ID": 12
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 8005,
+    "LimitType": "IncludeMultiPathAvatar",
+    "LimitDesc": {
+      "hash": 1543211341
+    },
+    "ID": 13
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 0,
+    "LimitType": "ForbidReplace",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 14
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1224,
+    "LimitType": "IncludeMultiPathAvatar",
+    "LimitDesc": {
+      "hash": 1543211347
+    },
+    "ID": 15
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1203,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 16
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1006,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 17
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1111,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 18
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1304,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 19
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1308,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 20
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1309,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 21
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1315,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 22
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1112,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 23
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1314,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 24
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1310,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 25
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1218,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 26
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 1003,
+    "LimitType": "IncludeAvatar",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 31
+  },
+  {
+    "ParamIntList": [],
+    "ParamInt2": 0,
+    "ParamInt1": 8003,
+    "LimitType": "IncludeMultiPathAvatar",
+    "LimitDesc": {
+      "hash": 371857150
+    },
+    "ID": 32
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "IconPath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideMonsterAppearGymIcon1.png",
+    "DisplayMonsterMap": {
+      "7003030": 1,
+      "7003010": 1,
+      "7002070": 1,
+      "7002080": 1,
+      "7002060": 1
+    },
+    "TabIconPath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideAtlasGymIcon1.png",
+    "BGPath": "SpriteOutput/Quest/AetherDivide/AetherDivideGymEntryPageBg2.png",
+    "ChallengeQuestList": [
+      6023603,
+      6023601,
+      6023602
+    ],
+    "Description": {
+      "hash": -1457526020
+    },
+    "Name": {
+      "hash": 1722264163
+    },
+    "UnlockID": 100001,
+    "BadgeUnlockID": 100006,
+    "SpiritQuest": 6023601,
+    "TrainerQuest": 6023602,
+    "ActivityModuleID": 5000501,
+    "ID": 1,
+    "EntranceID": 43103001,
+    "Rule": {
+      "hash": 371857150
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideMonsterAppearGymIcon2.png",
+    "DisplayMonsterMap": {
+      "7003020": 2,
+      "7002010": 2,
+      "7002050": 2,
+      "7001010": 2
+    },
+    "TabIconPath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideAtlasGymIcon2.png",
+    "BGPath": "SpriteOutput/Quest/AetherDivide/AetherDivideGymEntryPageBg4.png",
+    "ChallengeQuestList": [
+      6023606,
+      6023604,
+      6023605
+    ],
+    "Description": {
+      "hash": -1457526023
+    },
+    "Name": {
+      "hash": 1318979636
+    },
+    "UnlockID": 100002,
+    "BadgeUnlockID": 100007,
+    "SpiritQuest": 6023604,
+    "TrainerQuest": 6023605,
+    "ActivityModuleID": 5000502,
+    "ID": 2,
+    "EntranceID": 43103002,
+    "Rule": {
+      "hash": 371857150
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideMonsterAppearGymIcon3.png",
+    "DisplayMonsterMap": {
+      "7003040": 3,
+      "7001012": 3,
+      "7001011": 3
+    },
+    "TabIconPath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideAtlasGymIcon3.png",
+    "BGPath": "SpriteOutput/Quest/AetherDivide/AetherDivideGymEntryPageBg1.png",
+    "ChallengeQuestList": [
+      6023609,
+      6023607,
+      6023608
+    ],
+    "Description": {
+      "hash": -1457526022
+    },
+    "Name": {
+      "hash": -1409903719
+    },
+    "UnlockID": 100003,
+    "BadgeUnlockID": 100008,
+    "SpiritQuest": 6023607,
+    "TrainerQuest": 6023608,
+    "ActivityModuleID": 5000503,
+    "ID": 3,
+    "EntranceID": 43103003,
+    "Rule": {
+      "hash": 371857150
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideMonsterAppearGymIcon4.png",
+    "DisplayMonsterMap": {
+      "7003060": 4,
+      "7002020": 4,
+      "7002100": 4,
+      "7002090": 4
+    },
+    "TabIconPath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideAtlasGymIcon4.png",
+    "BGPath": "SpriteOutput/Quest/AetherDivide/AetherDivideGymEntryPageBg3.png",
+    "ChallengeQuestList": [
+      6023612,
+      6023610,
+      6023611
+    ],
+    "Description": {
+      "hash": -1457526017
+    },
+    "Name": {
+      "hash": 2125548690
+    },
+    "UnlockID": 100004,
+    "BadgeUnlockID": 100009,
+    "SpiritQuest": 6023610,
+    "TrainerQuest": 6023611,
+    "ActivityModuleID": 5000503,
+    "ID": 4,
+    "EntranceID": 43103004,
+    "Rule": {
+      "hash": 371857150
+    }
+  }
+]

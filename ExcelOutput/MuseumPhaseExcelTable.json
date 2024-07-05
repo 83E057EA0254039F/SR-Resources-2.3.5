@@ -1,0 +1,77 @@
+[
+  {
+    "PhaseIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon1.png",
+    "UnlockMissionID": 8001266,
+    "PhaseQuestID": 6000101,
+    "PhaseName": {
+      "hash": 1499998498
+    },
+    "MuseumPhaseID": 1,
+    "PhaseTextID": {
+      "hash": 234739018
+    },
+    "UnlockAreaID": 1,
+    "PhaseFund": 0,
+    "RenewPointCost": 4000
+  },
+  {
+    "PhaseIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon2.png",
+    "UnlockMissionID": 2011902,
+    "PhaseQuestID": 6000102,
+    "PhaseName": {
+      "hash": 1499998495
+    },
+    "MuseumPhaseID": 2,
+    "PhaseTextID": {
+      "hash": 234739015
+    },
+    "UnlockAreaID": 2,
+    "PhaseFund": 15000,
+    "RenewPointCost": 55000
+  },
+  {
+    "PhaseIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon3.png",
+    "UnlockMissionID": 2011903,
+    "PhaseQuestID": 6000103,
+    "PhaseName": {
+      "hash": 1499998496
+    },
+    "MuseumPhaseID": 3,
+    "PhaseTextID": {
+      "hash": 234739016
+    },
+    "UnlockAreaID": 3,
+    "PhaseFund": 50000,
+    "RenewPointCost": 400000
+  },
+  {
+    "PhaseIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon4.png",
+    "UnlockMissionID": 2011905,
+    "PhaseQuestID": 6000104,
+    "PhaseName": {
+      "hash": 1499998501
+    },
+    "MuseumPhaseID": 4,
+    "PhaseTextID": {
+      "hash": 234739021
+    },
+    "UnlockAreaID": 4,
+    "PhaseFund": 150000,
+    "RenewPointCost": 1600000
+  },
+  {
+    "PhaseIconPath": "SpriteOutput/Quest/Museum/MuseumPhaseIcon/MuseumPhaseIcon5.png",
+    "UnlockMissionID": 0,
+    "PhaseQuestID": 6000105,
+    "PhaseName": {
+      "hash": 1499998502
+    },
+    "MuseumPhaseID": 5,
+    "PhaseTextID": {
+      "hash": 234739022
+    },
+    "UnlockAreaID": 0,
+    "PhaseFund": 400000,
+    "RenewPointCost": 4000000
+  }
+]

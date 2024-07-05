@@ -1,0 +1,156 @@
+[
+  {
+    "RaidCollectionID": 10101,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430113,
+    "SubMissionID": 802021301,
+    "GuideID": 6064
+  },
+  {
+    "RaidCollectionID": 10102,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430114,
+    "SubMissionID": 802021401,
+    "GuideID": 6064
+  },
+  {
+    "RaidCollectionID": 10103,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430115,
+    "SubMissionID": 802021501,
+    "GuideID": 6064
+  },
+  {
+    "RaidCollectionID": 10201,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430107,
+    "SubMissionID": 802020701,
+    "GuideID": 6051
+  },
+  {
+    "RaidCollectionID": 10202,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430108,
+    "SubMissionID": 802020801,
+    "GuideID": 6051
+  },
+  {
+    "RaidCollectionID": 10203,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430109,
+    "SubMissionID": 802020901,
+    "GuideID": 6051
+  },
+  {
+    "RaidCollectionID": 10301,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430104,
+    "SubMissionID": 802020401,
+    "GuideID": 6057
+  },
+  {
+    "RaidCollectionID": 10302,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430105,
+    "SubMissionID": 802020501,
+    "GuideID": 6057
+  },
+  {
+    "RaidCollectionID": 10303,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430106,
+    "SubMissionID": 802020601,
+    "GuideID": 6057
+  },
+  {
+    "RaidCollectionID": 10401,
+    "PrepareType": "EditTeam",
+    "RaidID": 4430102,
+    "SubMissionID": 802020201,
+    "GuideID": 6090
+  },
+  {
+    "RaidCollectionID": 10402,
+    "PrepareType": "EditTeam",
+    "RaidID": 4430103,
+    "SubMissionID": 802020301,
+    "GuideID": 6090
+  },
+  {
+    "RaidCollectionID": 10403,
+    "PrepareType": "EditTeam",
+    "RaidID": 4430101,
+    "SubMissionID": 802020101,
+    "GuideID": 6090
+  },
+  {
+    "RaidCollectionID": 10501,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430116,
+    "SubMissionID": 802021601,
+    "GuideID": 6064
+  },
+  {
+    "RaidCollectionID": 10502,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430117,
+    "SubMissionID": 802021701,
+    "GuideID": 6064
+  },
+  {
+    "RaidCollectionID": 10503,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430118,
+    "SubMissionID": 802021801,
+    "GuideID": 6064
+  },
+  {
+    "RaidCollectionID": 10601,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430110,
+    "SubMissionID": 802021001,
+    "GuideID": 6051
+  },
+  {
+    "RaidCollectionID": 10602,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430111,
+    "SubMissionID": 802021101,
+    "GuideID": 6051
+  },
+  {
+    "RaidCollectionID": 10603,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430112,
+    "SubMissionID": 802021201,
+    "GuideID": 6051
+  },
+  {
+    "RaidCollectionID": 10104,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430122,
+    "SubMissionID": 802022401,
+    "GuideID": 6064
+  },
+  {
+    "RaidCollectionID": 10204,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430121,
+    "SubMissionID": 802022301,
+    "GuideID": 6051
+  },
+  {
+    "RaidCollectionID": 10304,
+    "PrepareType": "DirectStart",
+    "RaidID": 4430120,
+    "SubMissionID": 802022201,
+    "GuideID": 6057
+  },
+  {
+    "RaidCollectionID": 10404,
+    "PrepareType": "EditTeam",
+    "RaidID": 4430119,
+    "SubMissionID": 802022101,
+    "GuideID": 6090
+  }
+]

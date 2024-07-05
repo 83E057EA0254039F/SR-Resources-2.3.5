@@ -1,0 +1,66 @@
+[
+  {
+    "ParamList": [
+      "MatchThree_Tag_GemPackPieceCount"
+    ],
+    "ImagePath": "SpriteOutput/Quest/MatchThree/SpecialChessIcon/SpecialChessIcon6.png",
+    "IconPath": "SpriteOutput/Quest/MatchThree/SpecialChessIcon/SpecialChessIcon6.png",
+    "Desc": {
+      "hash": -1291886936
+    },
+    "Name": {
+      "hash": -723645538
+    },
+    "EnvironmentID": 201
+  },
+  {
+    "ParamList": [],
+    "ImagePath": "SpriteOutput/Quest/MatchThree/SpecialChessIcon/SpecialChessIcon2.png",
+    "IconPath": "SpriteOutput/Quest/MatchThree/SpecialChessIcon/SpecialChessIcon2.png",
+    "Desc": {
+      "hash": 274197005
+    },
+    "Name": {
+      "hash": -1126930065
+    },
+    "EnvironmentID": 202
+  },
+  {
+    "ParamList": [],
+    "ImagePath": "SpriteOutput/Quest/MatchThree/SpecialChessIcon/SpecialChessIcon5.png",
+    "IconPath": "SpriteOutput/Quest/MatchThree/SpecialChessIcon/SpecialChessIcon5.png",
+    "Desc": {
+      "hash": 1840280946
+    },
+    "Name": {
+      "hash": 439153876
+    },
+    "EnvironmentID": 203
+  },
+  {
+    "ParamList": [
+      "MatchThree_Tag_MelodyStepBonus"
+    ],
+    "ImagePath": "SpriteOutput/Quest/MatchThree/SpecialChessIcon/SpecialChessIcon1.png",
+    "IconPath": "SpriteOutput/Quest/MatchThree/SpecialChessIcon/SpecialChessIcon1.png",
+    "Desc": {
+      "hash": -532372049
+    },
+    "Name": {
+      "hash": 35869349
+    },
+    "EnvironmentID": 204
+  },
+  {
+    "ParamList": [],
+    "ImagePath": "SpriteOutput/Quest/MatchThree/SpecialChessIcon/SpecialChessIcon3.png",
+    "IconPath": "SpriteOutput/Quest/MatchThree/SpecialChessIcon/SpecialChessIcon3.png",
+    "Desc": {
+      "hash": 1033711892
+    },
+    "Name": {
+      "hash": 1601953290
+    },
+    "EnvironmentID": 205
+  }
+]

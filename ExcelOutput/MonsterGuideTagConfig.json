@@ -1,0 +1,272 @@
+[
+  {
+    "ParameterList": [
+      0.6,
+      1.25,
+      1.0
+    ],
+    "EffectID": [],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": 973484248
+    },
+    "TagID": 100101,
+    "SkillID": 100401410,
+    "TagBriefDescription": {
+      "hash": 479821435
+    }
+  },
+  {
+    "ParameterList": [],
+    "EffectID": [
+      70000304
+    ],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": 1376768775
+    },
+    "TagID": 100102,
+    "SkillID": 0,
+    "TagBriefDescription": {
+      "hash": -1086262506
+    }
+  },
+  {
+    "ParameterList": [],
+    "EffectID": [
+      70000302
+    ],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": -189315166
+    },
+    "TagID": 100103,
+    "SkillID": 0,
+    "TagBriefDescription": {
+      "hash": 1642620849
+    }
+  },
+  {
+    "ParameterList": [],
+    "EffectID": [],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": 570199721
+    },
+    "TagID": 100104,
+    "SkillID": 0,
+    "TagBriefDescription": {
+      "hash": 76536908
+    }
+  },
+  {
+    "ParameterList": [
+      0.6,
+      1.25,
+      1.0
+    ],
+    "EffectID": [],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": 1396971751
+    },
+    "TagID": 100201,
+    "SkillID": 100401410,
+    "TagBriefDescription": {
+      "hash": 1743377398
+    }
+  },
+  {
+    "ParameterList": [],
+    "EffectID": [
+      70000303
+    ],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": 993687224
+    },
+    "TagID": 100202,
+    "SkillID": 0,
+    "TagBriefDescription": {
+      "hash": -985505957
+    }
+  },
+  {
+    "ParameterList": [],
+    "EffectID": [],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": -1735196131
+    },
+    "TagID": 100203,
+    "SkillID": 0,
+    "TagBriefDescription": {
+      "hash": 580577984
+    }
+  },
+  {
+    "ParameterList": [
+      0.25
+    ],
+    "EffectID": [],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": -2138480658
+    },
+    "TagID": 100204,
+    "SkillID": 302401325,
+    "TagBriefDescription": {
+      "hash": -1792075011
+    }
+  },
+  {
+    "ParameterList": [
+      0.6,
+      1.25,
+      1.0
+    ],
+    "EffectID": [
+      70000306
+    ],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": 1255809250
+    },
+    "TagID": 100301,
+    "SkillID": 801501201,
+    "TagBriefDescription": {
+      "hash": 197496433
+    }
+  },
+  {
+    "ParameterList": [],
+    "EffectID": [
+      70000304
+    ],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": -310274691
+    },
+    "TagID": 100302,
+    "SkillID": 0,
+    "TagBriefDescription": {
+      "hash": 600780960
+    }
+  },
+  {
+    "ParameterList": [],
+    "EffectID": [],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": -1876358632
+    },
+    "TagID": 100303,
+    "SkillID": 0,
+    "TagBriefDescription": {
+      "hash": -965302981
+    }
+  },
+  {
+    "ParameterList": [],
+    "EffectID": [],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": 852524723
+    },
+    "TagID": 100304,
+    "SkillID": 0,
+    "TagBriefDescription": {
+      "hash": -205788094
+    }
+  },
+  {
+    "ParameterList": [
+      0.5,
+      1.0,
+      1.5
+    ],
+    "EffectID": [],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": 549996745
+    },
+    "TagID": 100401,
+    "SkillID": 200401410,
+    "TagBriefDescription": {
+      "hash": 1461052396
+    }
+  },
+  {
+    "ParameterList": [],
+    "EffectID": [
+      70000307
+    ],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": 2116080686
+    },
+    "TagID": 100402,
+    "SkillID": 0,
+    "TagBriefDescription": {
+      "hash": 1057767869
+    }
+  },
+  {
+    "ParameterList": [],
+    "EffectID": [],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": -612802669
+    },
+    "TagID": 100403,
+    "SkillID": 0,
+    "TagBriefDescription": {
+      "hash": -1671115486
+    }
+  },
+  {
+    "ParameterList": [],
+    "EffectID": [],
+    "TagDetailDescription": {
+      "hash": 371857150
+    },
+    "TagName": {
+      "hash": 953281272
+    },
+    "TagID": 100404,
+    "SkillID": 0,
+    "TagBriefDescription": {
+      "hash": 1864336923
+    }
+  }
+]

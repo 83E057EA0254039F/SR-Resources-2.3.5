@@ -1,0 +1,278 @@
+[
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [
+      1
+    ],
+    "Right3": [],
+    "Left2": [
+      11
+    ],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [
+      5
+    ],
+    "GameMode": "Town"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [
+      1
+    ],
+    "Right3": [],
+    "Left2": [
+      11
+    ],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [
+      5
+    ],
+    "GameMode": "Maze"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [
+      1
+    ],
+    "Right3": [],
+    "Left2": [
+      11
+    ],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [
+      5
+    ],
+    "GameMode": "Train"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [],
+    "Right3": [],
+    "Left2": [],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [],
+    "GameMode": "Challenge"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [],
+    "Right3": [],
+    "Left2": [
+      3
+    ],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [],
+    "GameMode": "RogueExplore"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [],
+    "Right3": [],
+    "Left2": [
+      3
+    ],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [],
+    "GameMode": "RogueChallenge"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [
+      1
+    ],
+    "Right3": [],
+    "Left2": [
+      11
+    ],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [
+      5
+    ],
+    "GameMode": "TownRoom"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [],
+    "Right3": [],
+    "Left2": [],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [],
+    "GameMode": "Raid"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [],
+    "Right3": [],
+    "Left2": [],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [],
+    "GameMode": "FarmRelic"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [],
+    "Right3": [],
+    "Left2": [],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [],
+    "GameMode": "Client"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [],
+    "Right3": [],
+    "Left2": [],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [],
+    "GameMode": "ChallengeActivity"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [],
+    "Right3": [],
+    "Left2": [],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [],
+    "GameMode": "ActivityPunkLord"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [],
+    "Right3": [],
+    "Left2": [],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [],
+    "GameMode": "RogueAeonRoom"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [],
+    "Right3": [],
+    "Left2": [],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [],
+    "GameMode": "TrialActivity"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [],
+    "Right3": [
+      8
+    ],
+    "Left2": [],
+    "Right4": [],
+    "Right2": [
+      7
+    ],
+    "Right1": [
+      6
+    ],
+    "GameMode": "AetherDivide"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [
+      10
+    ],
+    "Left1": [],
+    "Right3": [],
+    "Left2": [
+      9
+    ],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [],
+    "GameMode": "ChessRogue"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [],
+    "Right3": [],
+    "Left2": [
+      9
+    ],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [],
+    "GameMode": "TournRogue"
+  },
+  {
+    "Left4": [
+      4
+    ],
+    "Left3": [],
+    "Left1": [],
+    "Right3": [],
+    "Left2": [
+      12
+    ],
+    "Right4": [],
+    "Right2": [],
+    "Right1": [],
+    "GameMode": "RelicRogue"
+  }
+]

@@ -1,0 +1,3238 @@
+[
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 2,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100046,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 3,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100023,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 3,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 4,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100013,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 5,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100030,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 6,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100032,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 7,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100040,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 8,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100041,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 9,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100043,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 10,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100046,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 11,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100050,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 12,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100049,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemFigures/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 13,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100023,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemFigures/140025.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 14,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100023,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemFigures/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 15,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100023,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemFigures/140025.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 16,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100023,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemFigures/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 17,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100023,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/Treasure_Attack.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 5000401,
+    "BuffID": 18,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 3,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 31001001,
+    "BattleTargetBouns": {
+      "hash": 1559868319
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/Treasure_Buff.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 5000402,
+    "BuffID": 19,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 12,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 31001002,
+    "BattleTargetBouns": {
+      "hash": -1169015036
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/Treasure_Buff.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 5000403,
+    "BuffID": 20,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 25,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 31001003,
+    "BattleTargetBouns": {
+      "hash": 1203637956
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/Treasure_Buff.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 5000404,
+    "BuffID": 21,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 3,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 31001004,
+    "BattleTargetBouns": {
+      "hash": -1525245399
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/Treasure_Debuff.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 5000405,
+    "BuffID": 22,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 3,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 31001005,
+    "BattleTargetBouns": {
+      "hash": 40838542
+    },
+    "UseTime": 1,
+    "IsSaveNextFloor": true,
+    "BuffGroupID": 3,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 30,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100007,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 9,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 10,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 31,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100037,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 9,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 11,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 32,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100045,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 9,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 12,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/ItemIcon/140140.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "BattleAddMazeBuff",
+    "BattleTargetID": 0,
+    "BuffID": 33,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 371857150
+    },
+    "ParamInt": 3100046,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 9,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 13,
+    "Desc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TypeParam": [
+      2
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 101,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1896729442
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1344147485
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 102,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -832153913
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -221936456
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 103,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 733930028
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1788020397
+    }
+  },
+  {
+    "TypeParam": [
+      2,
+      502,
+      16
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 104,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1994953327
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 940862958
+    }
+  },
+  {
+    "TypeParam": [
+      2,
+      4
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 105,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -428869386
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -625220983
+    }
+  },
+  {
+    "TypeParam": [
+      400,
+      27
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 106,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1137214555
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 2103662372
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 107,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1591668800
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 537578431
+    }
+  },
+  {
+    "TypeParam": [
+      31,
+      16
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 108,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -25584859
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1740966230
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 109,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1540499082
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 987917125
+    }
+  },
+  {
+    "TypeParam": [
+      20,
+      27,
+      301,
+      401
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 110,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 330645500
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1384735871
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 201,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 633173479
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1687263848
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 202,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -932910462
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -121179907
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 203,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1795972893
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1444904034
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 204,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -126341408
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -927748961
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 205,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1692425349
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 638334980
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 206,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1036458006
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2090548375
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 207,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -529625935
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -524464434
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 208,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1843027060
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 685389147
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 209,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 276943119
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2043494208
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 210,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -2095709877
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1041619506
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 301,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -2115912852
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1061822483
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 302,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1775769917
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1465107010
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 303,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -953113438
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -100976931
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 304,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1712628325
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 658537956
+    }
+  },
+  {
+    "TypeParam": [
+      28,
+      23,
+      34
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 305,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -146544384
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -907545985
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 306,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -549828911
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -504261458
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 307,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1016255030
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2070345399
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 308,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 256740143
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2023291232
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 309,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1822824084
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 705592123
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 310,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 612970502
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1667060873
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 401,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 915498481
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1969588850
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 402,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1318783008
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1922093919
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 403,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -247300933
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -806789436
+    }
+  },
+  {
+    "TypeParam": [
+      4,
+      340
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 404,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 512213954
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1566304323
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 405,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1053869987
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -220382
+    }
+  },
+  {
+    "TypeParam": [
+      21
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 406,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -650585460
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -403504909
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 407,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 2078297895
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1162579032
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 408,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 2125352062
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 403064145
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 409,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 559268121
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1969148086
+    }
+  },
+  {
+    "TypeParam": [
+      20,
+      21,
+      304
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 410,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1813384875
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 759294504
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 501,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1833587850
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 779497481
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 502,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -267503909
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -786586460
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 503,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1298580032
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1942296895
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 504,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1074072963
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 19982594
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 505,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 492010978
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1546101347
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 506,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 2058094919
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1182782008
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 507,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -670788436
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -383301933
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 508,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 539065145
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1989351062
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 509,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 2105149086
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 423267121
+    }
+  },
+  {
+    "TypeParam": [
+      20
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 510,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 895295504
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1949385875
+    }
+  },
+  {
+    "TypeParam": [
+      20,
+      401,
+      90
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 1101,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1131239245
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1758265518
+    }
+  },
+  {
+    "TypeParam": [
+      4,
+      27
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 1102,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1131239246
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1758265521
+    }
+  },
+  {
+    "TypeParam": [
+      4,
+      27
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 1103,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1131239247
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1758265520
+    }
+  },
+  {
+    "TypeParam": [
+      4
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 1104,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1131239240
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1758265523
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 1105,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1131239241
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1758265522
+    }
+  },
+  {
+    "TypeParam": [
+      31
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 1106,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1131239242
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1758265525
+    }
+  },
+  {
+    "TypeParam": [
+      90
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 1107,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1131239243
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1758265524
+    }
+  },
+  {
+    "TypeParam": [
+      31
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 1108,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1131239236
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1758265527
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 1109,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1131239237
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -1758265526
+    }
+  },
+  {
+    "TypeParam": [
+      20,
+      27,
+      301,
+      401
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 1110,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1597644111
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 970617836
+    }
+  },
+  {
+    "TypeParam": [
+      21,
+      2,
+      4,
+      320
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 2101,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1295116132
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 668089859
+    }
+  },
+  {
+    "TypeParam": [
+      21
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 2102,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1295116131
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 668089856
+    }
+  },
+  {
+    "TypeParam": [
+      21
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 2103,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1295116130
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 668089857
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 2104,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1295116137
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 668089854
+    }
+  },
+  {
+    "TypeParam": [
+      28,
+      34
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 2105,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1295116136
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 668089855
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 2106,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1295116135
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 668089852
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 2107,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1295116134
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 668089853
+    }
+  },
+  {
+    "TypeParam": [
+      21,
+      31,
+      321
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 2108,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1295116141
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 668089850
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 2109,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1295116140
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 668089851
+    }
+  },
+  {
+    "TypeParam": [
+      21
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 2110,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1433767222
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2060793497
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 3101,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1413564247
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2040590520
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 3102,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1413564248
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2040590523
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 3103,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1413564249
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2040590522
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 3104,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1413564242
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2040590525
+    }
+  },
+  {
+    "TypeParam": [
+      28,
+      23,
+      34
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 3105,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1413564243
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2040590524
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 3106,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1413564244
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2040590527
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 3107,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1413564245
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2040590526
+    }
+  },
+  {
+    "TypeParam": [
+      31,
+      331
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 3108,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1413564238
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2040590529
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 3109,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1413564239
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": -2040590528
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 3110,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1315319109
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 688292834
+    }
+  },
+  {
+    "TypeParam": [
+      21
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 4101,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1012791130
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 385764857
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 4102,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1012791129
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 385764854
+    }
+  },
+  {
+    "TypeParam": [
+      21
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 4103,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1012791128
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 385764855
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 4104,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1012791135
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 385764852
+    }
+  },
+  {
+    "TypeParam": [
+      28,
+      34
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 4105,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1012791134
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 385764853
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 4106,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1012791133
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 385764850
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 4107,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1012791132
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 385764851
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 4108,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1012791139
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 385764848
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 4109,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1012791138
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 385764849
+    }
+  },
+  {
+    "TypeParam": [
+      304
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 4110,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1716092224
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1951848797
+    }
+  },
+  {
+    "TypeParam": [
+      4,
+      350
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 5101,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1695889249
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1972051774
+    }
+  },
+  {
+    "TypeParam": [
+      404,
+      301
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 5102,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1695889250
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1972051771
+    }
+  },
+  {
+    "TypeParam": [
+      2,
+      21
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 5103,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1695889251
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1972051772
+    }
+  },
+  {
+    "TypeParam": [
+      20,
+      21
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 5104,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1695889244
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1972051769
+    }
+  },
+  {
+    "TypeParam": [
+      31,
+      352
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 5105,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1695889245
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1972051770
+    }
+  },
+  {
+    "TypeParam": [
+      21
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 5106,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1695889246
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1972051767
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 5107,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1695889247
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1972051768
+    }
+  },
+  {
+    "TypeParam": [
+      302
+    ],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "ShowGridsAtBegining",
+    "BattleTargetID": 0,
+    "BuffID": 5108,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1695889240
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1972051765
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 5109,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": 1695889241
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 1972051766
+    }
+  },
+  {
+    "TypeParam": [],
+    "FigurePath": "SpriteOutput/Rogue/Buff/IconRogueRogue01.png",
+    "Name": {
+      "hash": 371857150
+    },
+    "Type": "None",
+    "BattleTargetID": 0,
+    "BuffID": 5110,
+    "DisplayRarity": 1,
+    "TargetBounsParam": 0,
+    "BgDesc": {
+      "hash": -1032994107
+    },
+    "ParamInt": 0,
+    "BattleTargetBouns": {
+      "hash": 371857150
+    },
+    "UseTime": 0,
+    "IsSaveNextFloor": false,
+    "BuffGroupID": 0,
+    "Desc": {
+      "hash": 405967832
+    }
+  }
+]

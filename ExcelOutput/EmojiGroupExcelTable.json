@@ -1,0 +1,122 @@
+[
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji001.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 101,
+    "GroupName": {
+      "hash": 1147958483
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji002.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 102,
+    "GroupName": {
+      "hash": -418125458
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji003.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 103,
+    "GroupName": {
+      "hash": -1984209399
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji004.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 104,
+    "GroupName": {
+      "hash": 744673956
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji006.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 105,
+    "GroupName": {
+      "hash": -821409985
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji005.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 106,
+    "GroupName": {
+      "hash": 1907473370
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji007.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 107,
+    "GroupName": {
+      "hash": 341389429
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji008.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 108,
+    "GroupName": {
+      "hash": -1937155232
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji009.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 109,
+    "GroupName": {
+      "hash": 791728123
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji010.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 110,
+    "GroupName": {
+      "hash": -1580924873
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji011.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 111,
+    "GroupName": {
+      "hash": 1147958482
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji012.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 112,
+    "GroupName": {
+      "hash": -418125459
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji013.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 113,
+    "GroupName": {
+      "hash": -1984209400
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji014.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 114,
+    "GroupName": {
+      "hash": 744673955
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji015.png",
+    "EmojiGroupType": "All",
+    "EmojiGroupID": 115,
+    "GroupName": {
+      "hash": -821409986
+    }
+  }
+]

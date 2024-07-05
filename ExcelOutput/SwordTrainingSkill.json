@@ -1,0 +1,928 @@
+[
+  {
+    "NextSkillIDList": [
+      102
+    ],
+    "SkillIcon": "SpriteOutput/UI/Avatar/Icon/IconAttack.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      200.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 1,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112001,
+    "SkillID": 101,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 1,
+    "SkillName": {
+      "hash": 872904880
+    },
+    "SkillRank": 1,
+    "Condition": 101,
+    "SkillTag": {
+      "hash": 914714091
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      103
+    ],
+    "SkillIcon": "SpriteOutput/UI/Avatar/Icon/IconImmuneDefenceDown.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      0.1,
+      99.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 2,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112002,
+    "SkillID": 102,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 1,
+    "SkillName": {
+      "hash": -1855978475
+    },
+    "SkillRank": 2,
+    "Condition": 102,
+    "SkillTag": {
+      "hash": 914714094
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      104
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_101.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      2.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 6,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112003,
+    "SkillID": 103,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 1,
+    "SkillName": {
+      "hash": -289894534
+    },
+    "SkillRank": 3,
+    "Condition": 103,
+    "SkillTag": {
+      "hash": 914714093
+    },
+    "Rare": 2
+  },
+  {
+    "NextSkillIDList": [
+      105
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_102.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      0.3
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 4,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112004,
+    "SkillID": 104,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 1,
+    "SkillName": {
+      "hash": 1276189407
+    },
+    "SkillRank": 5,
+    "Condition": 104,
+    "SkillTag": {
+      "hash": 914714088
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      106
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_103.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      100.0,
+      3.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 10,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112005,
+    "SkillID": 105,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 1,
+    "SkillName": {
+      "hash": -1452693948
+    },
+    "SkillRank": 7,
+    "Condition": 105,
+    "SkillTag": {
+      "hash": 914714087
+    },
+    "Rare": 2
+  },
+  {
+    "NextSkillIDList": [
+      107
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_102.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 7,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112006,
+    "SkillID": 106,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 1,
+    "SkillName": {
+      "hash": 113389993
+    },
+    "SkillRank": 10,
+    "Condition": 106,
+    "SkillTag": {
+      "hash": 914714090
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      501
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_103.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 20,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112007,
+    "SkillID": 107,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 1,
+    "SkillName": {
+      "hash": 1679473934
+    },
+    "SkillRank": 13,
+    "Condition": 107,
+    "SkillTag": {
+      "hash": 914714089
+    },
+    "Rare": 2
+  },
+  {
+    "NextSkillIDList": [
+      202
+    ],
+    "SkillIcon": "SpriteOutput/UI/Avatar/Icon/IconAttack.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      100.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 1,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112101,
+    "SkillID": 201,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 3,
+    "SkillName": {
+      "hash": -390651083
+    },
+    "SkillRank": 1,
+    "Condition": 201,
+    "SkillTag": {
+      "hash": 914714190
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      203
+    ],
+    "SkillIcon": "SpriteOutput/UI/Avatar/Icon/IconSpeed.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      5.0,
+      15.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 2,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112102,
+    "SkillID": 202,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 3,
+    "SkillName": {
+      "hash": -1956735024
+    },
+    "SkillRank": 2,
+    "Condition": 202,
+    "SkillTag": {
+      "hash": 914714187
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      204
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_201.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      0.5
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 6,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112103,
+    "SkillID": 203,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 3,
+    "SkillName": {
+      "hash": 772148331
+    },
+    "SkillRank": 3,
+    "Condition": 203,
+    "SkillTag": {
+      "hash": 914714188
+    },
+    "Rare": 2
+  },
+  {
+    "NextSkillIDList": [
+      205
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_202.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      0.5
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 4,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112104,
+    "SkillID": 204,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 3,
+    "SkillName": {
+      "hash": -1150165970
+    },
+    "SkillRank": 5,
+    "Condition": 204,
+    "SkillTag": {
+      "hash": 914714185
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      206
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_203.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      0.5,
+      50.0,
+      8.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 10,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112105,
+    "SkillID": 205,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 3,
+    "SkillName": {
+      "hash": 1578717385
+    },
+    "SkillRank": 7,
+    "Condition": 205,
+    "SkillTag": {
+      "hash": 914714186
+    },
+    "Rare": 2
+  },
+  {
+    "NextSkillIDList": [
+      207
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_202.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      8.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 7,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112106,
+    "SkillID": 206,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 3,
+    "SkillName": {
+      "hash": 12633444
+    },
+    "SkillRank": 10,
+    "Condition": 206,
+    "SkillTag": {
+      "hash": 914714183
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      502
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_203.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      0.4
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 20,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112107,
+    "SkillID": 207,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 3,
+    "SkillName": {
+      "hash": -1553450497
+    },
+    "SkillRank": 13,
+    "Condition": 207,
+    "SkillTag": {
+      "hash": 914714184
+    },
+    "Rare": 2
+  },
+  {
+    "NextSkillIDList": [
+      302
+    ],
+    "SkillIcon": "SpriteOutput/UI/Avatar/Icon/IconMaxHP.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      100.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 1,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112201,
+    "SkillID": 301,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 2,
+    "SkillName": {
+      "hash": 1155229882
+    },
+    "SkillRank": 1,
+    "Condition": 301,
+    "SkillTag": {
+      "hash": 914714157
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      303
+    ],
+    "SkillIcon": "SpriteOutput/UI/Avatar/Icon/IconCriticalDamage.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      1.0,
+      50.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 2,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112202,
+    "SkillID": 302,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 2,
+    "SkillName": {
+      "hash": 751945355
+    },
+    "SkillRank": 2,
+    "Condition": 302,
+    "SkillTag": {
+      "hash": 914714156
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      304
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_301.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      0.1,
+      1.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 6,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112203,
+    "SkillID": 303,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 2,
+    "SkillName": {
+      "hash": -1976938000
+    },
+    "SkillRank": 3,
+    "Condition": 303,
+    "SkillTag": {
+      "hash": 914714155
+    },
+    "Rare": 2
+  },
+  {
+    "NextSkillIDList": [
+      305
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_302.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      1.0,
+      0.5
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 4,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112204,
+    "SkillID": 304,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 2,
+    "SkillName": {
+      "hash": 1558514409
+    },
+    "SkillRank": 5,
+    "Condition": 304,
+    "SkillTag": {
+      "hash": 914714154
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      306
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_303.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      10.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 10,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112205,
+    "SkillID": 305,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 2,
+    "SkillName": {
+      "hash": -1170368946
+    },
+    "SkillRank": 7,
+    "Condition": 305,
+    "SkillTag": {
+      "hash": 914714153
+    },
+    "Rare": 2
+  },
+  {
+    "NextSkillIDList": [
+      307
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_302.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      5.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 7,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112206,
+    "SkillID": 306,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 2,
+    "SkillName": {
+      "hash": -1573653473
+    },
+    "SkillRank": 10,
+    "Condition": 306,
+    "SkillTag": {
+      "hash": 914714152
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      501
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_303.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      0.5,
+      0.5
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 20,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112207,
+    "SkillID": 307,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 2,
+    "SkillName": {
+      "hash": -7569532
+    },
+    "SkillRank": 13,
+    "Condition": 307,
+    "SkillTag": {
+      "hash": 914714151
+    },
+    "Rare": 2
+  },
+  {
+    "NextSkillIDList": [
+      402
+    ],
+    "SkillIcon": "SpriteOutput/UI/Avatar/Icon/IconMaxHP.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      100.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 1,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112301,
+    "SkillID": 401,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 4,
+    "SkillName": {
+      "hash": -108326081
+    },
+    "SkillRank": 1,
+    "Condition": 401,
+    "SkillTag": {
+      "hash": 914713992
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      403
+    ],
+    "SkillIcon": "SpriteOutput/UI/Avatar/Icon/IconLevelLimit.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      10.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 2,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112302,
+    "SkillID": 402,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 4,
+    "SkillName": {
+      "hash": 294958446
+    },
+    "SkillRank": 2,
+    "Condition": 402,
+    "SkillTag": {
+      "hash": 914713993
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      404
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_401.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      4.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 6,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112303,
+    "SkillID": 403,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 4,
+    "SkillName": {
+      "hash": -1271125495
+    },
+    "SkillRank": 3,
+    "Condition": 403,
+    "SkillTag": {
+      "hash": 914713994
+    },
+    "Rare": 2
+  },
+  {
+    "NextSkillIDList": [
+      405
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_402.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      0.3
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 4,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112304,
+    "SkillID": 404,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 4,
+    "SkillName": {
+      "hash": -511610608
+    },
+    "SkillRank": 5,
+    "Condition": 404,
+    "SkillTag": {
+      "hash": 914713995
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      406
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_403.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [
+      100.0,
+      50.0,
+      10.0,
+      1.0
+    ],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 10,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112305,
+    "SkillID": 405,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 4,
+    "SkillName": {
+      "hash": -2077694549
+    },
+    "SkillRank": 7,
+    "Condition": 405,
+    "SkillTag": {
+      "hash": 914713996
+    },
+    "Rare": 2
+  },
+  {
+    "NextSkillIDList": [
+      407
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_402.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 7,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112306,
+    "SkillID": 406,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 4,
+    "SkillName": {
+      "hash": -1674410022
+    },
+    "SkillRank": 10,
+    "Condition": 406,
+    "SkillTag": {
+      "hash": 914713997
+    },
+    "Rare": 1
+  },
+  {
+    "NextSkillIDList": [
+      502
+    ],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_403.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 20,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112307,
+    "SkillID": 407,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 4,
+    "SkillName": {
+      "hash": 1054473333
+    },
+    "SkillRank": 13,
+    "Condition": 407,
+    "SkillTag": {
+      "hash": 914713998
+    },
+    "Rare": 2
+  },
+  {
+    "NextSkillIDList": [],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_501.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 50,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112401,
+    "SkillID": 501,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 2,
+    "SkillName": {
+      "hash": 1437554884
+    },
+    "SkillRank": 16,
+    "Condition": 501,
+    "SkillTag": {
+      "hash": 914713959
+    },
+    "Rare": 3
+  },
+  {
+    "NextSkillIDList": [],
+    "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_502.png",
+    "AvatarStatusAddList": [],
+    "ParamList": [],
+    "Cost": {
+      "ItemNum": 0,
+      "ItemID": 281023
+    },
+    "SkillPower": 50,
+    "SkillStatusLevel": 0,
+    "MazeBuffID": 3112402,
+    "SkillID": 502,
+    "SkillDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeID": 3,
+    "SkillName": {
+      "hash": -1291328471
+    },
+    "SkillRank": 16,
+    "Condition": 502,
+    "SkillTag": {
+      "hash": 914713962
+    },
+    "Rare": 3
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "AreaID": 1,
+    "PhaseLimit": 1,
+    "RequireStatsB": 65,
+    "RequireStatsA": 65,
+    "RequireStatsC": 65,
+    "FundCost": 200,
+    "Level": 1,
+    "RenewPoint": 80
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 1,
+    "RequireStatsB": 85,
+    "RequireStatsA": 85,
+    "RequireStatsC": 85,
+    "FundCost": 300,
+    "Level": 2,
+    "RenewPoint": 180
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 1,
+    "RequireStatsB": 100,
+    "RequireStatsA": 115,
+    "RequireStatsC": 100,
+    "FundCost": 400,
+    "Level": 3,
+    "RenewPoint": 300
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 1,
+    "RequireStatsB": 120,
+    "RequireStatsA": 140,
+    "RequireStatsC": 115,
+    "FundCost": 1700,
+    "Level": 4,
+    "RenewPoint": 400
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 1,
+    "RequireStatsB": 135,
+    "RequireStatsA": 170,
+    "RequireStatsC": 145,
+    "FundCost": 3000,
+    "Level": 5,
+    "RenewPoint": 600
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 1,
+    "RequireStatsB": 165,
+    "RequireStatsA": 200,
+    "RequireStatsC": 160,
+    "FundCost": 7000,
+    "Level": 6,
+    "RenewPoint": 950
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 2,
+    "RequireStatsB": 185,
+    "RequireStatsA": 220,
+    "RequireStatsC": 195,
+    "FundCost": 12000,
+    "Level": 7,
+    "RenewPoint": 1400
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 2,
+    "RequireStatsB": 195,
+    "RequireStatsA": 245,
+    "RequireStatsC": 235,
+    "FundCost": 20000,
+    "Level": 8,
+    "RenewPoint": 2000
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 2,
+    "RequireStatsB": 220,
+    "RequireStatsA": 275,
+    "RequireStatsC": 255,
+    "FundCost": 40000,
+    "Level": 9,
+    "RenewPoint": 3200
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 2,
+    "RequireStatsB": 250,
+    "RequireStatsA": 290,
+    "RequireStatsC": 285,
+    "FundCost": 70000,
+    "Level": 10,
+    "RenewPoint": 4800
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 3,
+    "RequireStatsB": 260,
+    "RequireStatsA": 310,
+    "RequireStatsC": 325,
+    "FundCost": 120000,
+    "Level": 11,
+    "RenewPoint": 7000
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 3,
+    "RequireStatsB": 270,
+    "RequireStatsA": 325,
+    "RequireStatsC": 370,
+    "FundCost": 200000,
+    "Level": 12,
+    "RenewPoint": 11000
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 3,
+    "RequireStatsB": 285,
+    "RequireStatsA": 345,
+    "RequireStatsC": 400,
+    "FundCost": 320000,
+    "Level": 13,
+    "RenewPoint": 17000
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 4,
+    "RequireStatsB": 290,
+    "RequireStatsA": 375,
+    "RequireStatsC": 430,
+    "FundCost": 500000,
+    "Level": 14,
+    "RenewPoint": 26000
+  },
+  {
+    "AreaID": 1,
+    "PhaseLimit": 4,
+    "RequireStatsB": 295,
+    "RequireStatsA": 400,
+    "RequireStatsC": 460,
+    "FundCost": 0,
+    "Level": 15,
+    "RenewPoint": 40000
+  },
+  {
+    "AreaID": 2,
+    "PhaseLimit": 2,
+    "RequireStatsB": 150,
+    "RequireStatsA": 130,
+    "RequireStatsC": 95,
+    "FundCost": 1500,
+    "Level": 1,
+    "RenewPoint": 400
+  },
+  {
+    "AreaID": 2,
+    "PhaseLimit": 2,
+    "RequireStatsB": 190,
+    "RequireStatsA": 155,
+    "RequireStatsC": 105,
+    "FundCost": 3000,
+    "Level": 2,
+    "RenewPoint": 600
+  },
+  {
+    "AreaID": 2,
+    "PhaseLimit": 2,
+    "RequireStatsB": 220,
+    "RequireStatsA": 170,
+    "RequireStatsC": 135,
+    "FundCost": 7000,
+    "Level": 3,
+    "RenewPoint": 950
+  },
+  {
+    "AreaID": 2,
+    "PhaseLimit": 2,
+    "RequireStatsB": 245,
+    "RequireStatsA": 205,
+    "RequireStatsC": 150,
+    "FundCost": 12000,
+    "Level": 4,
+    "RenewPoint": 1400
+  },
+  {
+    "AreaID": 2,
+    "PhaseLimit": 2,
+    "RequireStatsB": 255,
+    "RequireStatsA": 245,
+    "RequireStatsC": 175,
+    "FundCost": 20000,
+    "Level": 5,
+    "RenewPoint": 2000
+  },
+  {
+    "AreaID": 2,
+    "PhaseLimit": 3,
+    "RequireStatsB": 275,
+    "RequireStatsA": 285,
+    "RequireStatsC": 190,
+    "FundCost": 40000,
+    "Level": 6,
+    "RenewPoint": 3200
+  },
+  {
+    "AreaID": 2,
+    "PhaseLimit": 3,
+    "RequireStatsB": 300,
+    "RequireStatsA": 310,
+    "RequireStatsC": 215,
+    "FundCost": 70000,
+    "Level": 7,
+    "RenewPoint": 4800
+  },
+  {
+    "AreaID": 2,
+    "PhaseLimit": 3,
+    "RequireStatsB": 325,
+    "RequireStatsA": 345,
+    "RequireStatsC": 225,
+    "FundCost": 120000,
+    "Level": 8,
+    "RenewPoint": 7000
+  },
+  {
+    "AreaID": 2,
+    "PhaseLimit": 4,
+    "RequireStatsB": 345,
+    "RequireStatsA": 385,
+    "RequireStatsC": 235,
+    "FundCost": 200000,
+    "Level": 9,
+    "RenewPoint": 11000
+  },
+  {
+    "AreaID": 2,
+    "PhaseLimit": 4,
+    "RequireStatsB": 365,
+    "RequireStatsA": 405,
+    "RequireStatsC": 260,
+    "FundCost": 320000,
+    "Level": 10,
+    "RenewPoint": 17000
+  },
+  {
+    "AreaID": 2,
+    "PhaseLimit": 4,
+    "RequireStatsB": 375,
+    "RequireStatsA": 430,
+    "RequireStatsC": 290,
+    "FundCost": 500000,
+    "Level": 11,
+    "RenewPoint": 26000
+  },
+  {
+    "AreaID": 2,
+    "PhaseLimit": 5,
+    "RequireStatsB": 400,
+    "RequireStatsA": 460,
+    "RequireStatsC": 295,
+    "FundCost": 0,
+    "Level": 12,
+    "RenewPoint": 40000
+  },
+  {
+    "AreaID": 3,
+    "PhaseLimit": 3,
+    "RequireStatsB": 195,
+    "RequireStatsA": 170,
+    "RequireStatsC": 235,
+    "FundCost": 12000,
+    "Level": 1,
+    "RenewPoint": 1400
+  },
+  {
+    "AreaID": 3,
+    "PhaseLimit": 3,
+    "RequireStatsB": 220,
+    "RequireStatsA": 180,
+    "RequireStatsC": 275,
+    "FundCost": 20000,
+    "Level": 2,
+    "RenewPoint": 2000
+  },
+  {
+    "AreaID": 3,
+    "PhaseLimit": 3,
+    "RequireStatsB": 250,
+    "RequireStatsA": 205,
+    "RequireStatsC": 295,
+    "FundCost": 40000,
+    "Level": 3,
+    "RenewPoint": 3200
+  },
+  {
+    "AreaID": 3,
+    "PhaseLimit": 3,
+    "RequireStatsB": 280,
+    "RequireStatsA": 225,
+    "RequireStatsC": 320,
+    "FundCost": 70000,
+    "Level": 4,
+    "RenewPoint": 4800
+  },
+  {
+    "AreaID": 3,
+    "PhaseLimit": 4,
+    "RequireStatsB": 330,
+    "RequireStatsA": 235,
+    "RequireStatsC": 330,
+    "FundCost": 120000,
+    "Level": 5,
+    "RenewPoint": 7000
+  },
+  {
+    "AreaID": 3,
+    "PhaseLimit": 4,
+    "RequireStatsB": 360,
+    "RequireStatsA": 255,
+    "RequireStatsC": 350,
+    "FundCost": 200000,
+    "Level": 6,
+    "RenewPoint": 11000
+  },
+  {
+    "AreaID": 3,
+    "PhaseLimit": 4,
+    "RequireStatsB": 390,
+    "RequireStatsA": 285,
+    "RequireStatsC": 355,
+    "FundCost": 320000,
+    "Level": 7,
+    "RenewPoint": 17000
+  },
+  {
+    "AreaID": 3,
+    "PhaseLimit": 5,
+    "RequireStatsB": 420,
+    "RequireStatsA": 290,
+    "RequireStatsC": 385,
+    "FundCost": 500000,
+    "Level": 8,
+    "RenewPoint": 26000
+  },
+  {
+    "AreaID": 3,
+    "PhaseLimit": 5,
+    "RequireStatsB": 460,
+    "RequireStatsA": 295,
+    "RequireStatsC": 400,
+    "FundCost": 0,
+    "Level": 9,
+    "RenewPoint": 40000
+  },
+  {
+    "AreaID": 4,
+    "PhaseLimit": 4,
+    "RequireStatsB": 275,
+    "RequireStatsA": 275,
+    "RequireStatsC": 285,
+    "FundCost": 70000,
+    "Level": 1,
+    "RenewPoint": 4800
+  },
+  {
+    "AreaID": 4,
+    "PhaseLimit": 4,
+    "RequireStatsB": 300,
+    "RequireStatsA": 300,
+    "RequireStatsC": 300,
+    "FundCost": 120000,
+    "Level": 2,
+    "RenewPoint": 7000
+  },
+  {
+    "AreaID": 4,
+    "PhaseLimit": 4,
+    "RequireStatsB": 315,
+    "RequireStatsA": 305,
+    "RequireStatsC": 345,
+    "FundCost": 200000,
+    "Level": 3,
+    "RenewPoint": 11000
+  },
+  {
+    "AreaID": 4,
+    "PhaseLimit": 5,
+    "RequireStatsB": 360,
+    "RequireStatsA": 320,
+    "RequireStatsC": 350,
+    "FundCost": 320000,
+    "Level": 4,
+    "RenewPoint": 17000
+  },
+  {
+    "AreaID": 4,
+    "PhaseLimit": 5,
+    "RequireStatsB": 365,
+    "RequireStatsA": 365,
+    "RequireStatsC": 365,
+    "FundCost": 500000,
+    "Level": 5,
+    "RenewPoint": 26000
+  },
+  {
+    "AreaID": 4,
+    "PhaseLimit": 5,
+    "RequireStatsB": 385,
+    "RequireStatsA": 385,
+    "RequireStatsC": 385,
+    "FundCost": 0,
+    "Level": 6,
+    "RenewPoint": 40000
+  }
+]

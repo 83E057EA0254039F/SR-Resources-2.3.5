@@ -1,0 +1,1244 @@
+[
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconMaxHP.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "MaxHP",
+    "PropertyNameRelic": {
+      "hash": -1544419067
+    },
+    "PropertyName": {
+      "hash": -1544419067
+    },
+    "Order": 1,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -1544419067
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconAttack.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "Attack",
+    "PropertyNameRelic": {
+      "hash": -1194485631
+    },
+    "PropertyName": {
+      "hash": -1194485631
+    },
+    "Order": 2,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -1194485631
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconDefence.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "Defence",
+    "PropertyNameRelic": {
+      "hash": -615378225
+    },
+    "PropertyName": {
+      "hash": -615378225
+    },
+    "Order": 3,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -615378225
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconSpeed.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 30000008,
+    "PropertyType": "Speed",
+    "PropertyNameRelic": {
+      "hash": 461357812
+    },
+    "PropertyName": {
+      "hash": 461357812
+    },
+    "Order": 4,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 461357812
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconCriticalChance.png",
+    "PropertyNameSkillTree": {
+      "hash": -242785393
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "CriticalChance",
+    "PropertyNameRelic": {
+      "hash": 528301800
+    },
+    "PropertyName": {
+      "hash": 528301800
+    },
+    "Order": 5,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 528301800
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconCriticalDamage.png",
+    "PropertyNameSkillTree": {
+      "hash": 475799362
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "CriticalDamage",
+    "PropertyNameRelic": {
+      "hash": -220753499
+    },
+    "PropertyName": {
+      "hash": -220753499
+    },
+    "Order": 6,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -220753499
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconBreakUp.png",
+    "PropertyNameSkillTree": {
+      "hash": 1953548979
+    },
+    "PropertyInstructionID": 30000006,
+    "PropertyType": "BreakDamageAddedRatio",
+    "PropertyNameRelic": {
+      "hash": -1886906656
+    },
+    "PropertyName": {
+      "hash": -1886906656
+    },
+    "Order": 7,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -1886906656
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconBreakUp.png",
+    "PropertyNameSkillTree": {
+      "hash": 1953548979
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "BreakDamageAddedRatioBase",
+    "PropertyNameRelic": {
+      "hash": -1886906656
+    },
+    "PropertyName": {
+      "hash": -1886906656
+    },
+    "Order": 8,
+    "MainRelicFilter": 9,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 10,
+    "PropertyNameFilter": {
+      "hash": -1886906656
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconHealRatio.png",
+    "PropertyNameSkillTree": {
+      "hash": 1688162395
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "HealRatio",
+    "PropertyNameRelic": {
+      "hash": 799727458
+    },
+    "PropertyName": {
+      "hash": 799727458
+    },
+    "Order": 9,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 799727458
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconEnergyLimit.png",
+    "PropertyNameSkillTree": {
+      "hash": 1059776006
+    },
+    "PropertyInstructionID": 30000009,
+    "PropertyType": "MaxSP",
+    "PropertyNameRelic": {
+      "hash": 1059776006
+    },
+    "PropertyName": {
+      "hash": 1059776006
+    },
+    "Order": 10,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 1059776006
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconEnergy_1308.png",
+    "PropertyNameSkillTree": {
+      "hash": -1112402245
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "SpecialMaxSP",
+    "PropertyNameRelic": {
+      "hash": -1112402245
+    },
+    "PropertyName": {
+      "hash": -1112402245
+    },
+    "Order": 10,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -1112402245
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconEnergyRecovery.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 30000007,
+    "PropertyType": "SPRatio",
+    "PropertyNameRelic": {
+      "hash": -1155541365
+    },
+    "PropertyName": {
+      "hash": -1155541365
+    },
+    "Order": 11,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -1155541365
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconStatusProbability.png",
+    "PropertyNameSkillTree": {
+      "hash": 747727875
+    },
+    "PropertyInstructionID": 30000004,
+    "PropertyType": "StatusProbability",
+    "PropertyNameRelic": {
+      "hash": 284076746
+    },
+    "PropertyName": {
+      "hash": 284076746
+    },
+    "Order": 12,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 284076746
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconStatusResistance.png",
+    "PropertyNameSkillTree": {
+      "hash": -613602727
+    },
+    "PropertyInstructionID": 30000003,
+    "PropertyType": "StatusResistance",
+    "PropertyNameRelic": {
+      "hash": -952827954
+    },
+    "PropertyName": {
+      "hash": -952827954
+    },
+    "Order": 13,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -952827954
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconCriticalChance.png",
+    "PropertyNameSkillTree": {
+      "hash": -242785393
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "CriticalChanceBase",
+    "PropertyNameRelic": {
+      "hash": 528301800
+    },
+    "PropertyName": {
+      "hash": 528301800
+    },
+    "Order": 14,
+    "MainRelicFilter": 7,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 8,
+    "PropertyNameFilter": {
+      "hash": 528301800
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconCriticalDamage.png",
+    "PropertyNameSkillTree": {
+      "hash": 475799362
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "CriticalDamageBase",
+    "PropertyNameRelic": {
+      "hash": -220753499
+    },
+    "PropertyName": {
+      "hash": -220753499
+    },
+    "Order": 15,
+    "MainRelicFilter": 8,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 9,
+    "PropertyNameFilter": {
+      "hash": -220753499
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconHealRatio.png",
+    "PropertyNameSkillTree": {
+      "hash": 1688162395
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "HealRatioBase",
+    "PropertyNameRelic": {
+      "hash": 799727458
+    },
+    "PropertyName": {
+      "hash": 799727458
+    },
+    "Order": 16,
+    "MainRelicFilter": 10,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 799727458
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "0",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "StanceBreakAddedRatio",
+    "PropertyNameRelic": {
+      "hash": 1965107273
+    },
+    "PropertyName": {
+      "hash": 1965107273
+    },
+    "Order": 17,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 1965107273
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconEnergyRecovery.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "SPRatioBase",
+    "PropertyNameRelic": {
+      "hash": -1155541365
+    },
+    "PropertyName": {
+      "hash": -1155541365
+    },
+    "Order": 18,
+    "MainRelicFilter": 11,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -1155541365
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconStatusProbability.png",
+    "PropertyNameSkillTree": {
+      "hash": 747727875
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "StatusProbabilityBase",
+    "PropertyNameRelic": {
+      "hash": 284076746
+    },
+    "PropertyName": {
+      "hash": 284076746
+    },
+    "Order": 19,
+    "MainRelicFilter": 12,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 11,
+    "PropertyNameFilter": {
+      "hash": 284076746
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconStatusResistance.png",
+    "PropertyNameSkillTree": {
+      "hash": -613602727
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "StatusResistanceBase",
+    "PropertyNameRelic": {
+      "hash": -952827954
+    },
+    "PropertyName": {
+      "hash": -952827954
+    },
+    "Order": 20,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 12,
+    "PropertyNameFilter": {
+      "hash": -952827954
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconPhysicalAddedRatio.png",
+    "PropertyNameSkillTree": {
+      "hash": 1673644670
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "PhysicalAddedRatio",
+    "PropertyNameRelic": {
+      "hash": -950888303
+    },
+    "PropertyName": {
+      "hash": -950888303
+    },
+    "Order": 21,
+    "MainRelicFilter": 13,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -950888303
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconPhysicalResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "PhysicalResistance",
+    "PropertyNameRelic": {
+      "hash": 214654939
+    },
+    "PropertyName": {
+      "hash": 214654939
+    },
+    "Order": 22,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 214654939
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconFireAddedRatio.png",
+    "PropertyNameSkillTree": {
+      "hash": 1846223231
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "FireAddedRatio",
+    "PropertyNameRelic": {
+      "hash": 1202183228
+    },
+    "PropertyName": {
+      "hash": 1202183228
+    },
+    "Order": 23,
+    "MainRelicFilter": 14,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 1202183228
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconFireResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "FireResistance",
+    "PropertyNameRelic": {
+      "hash": -757342856
+    },
+    "PropertyName": {
+      "hash": -757342856
+    },
+    "Order": 24,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -757342856
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconIceAddedRatio.png",
+    "PropertyNameSkillTree": {
+      "hash": 299673192
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "IceAddedRatio",
+    "PropertyNameRelic": {
+      "hash": 1448585423
+    },
+    "PropertyName": {
+      "hash": 1448585423
+    },
+    "Order": 25,
+    "MainRelicFilter": 15,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 1448585423
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconIceResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "IceResistance",
+    "PropertyNameRelic": {
+      "hash": -1877242639
+    },
+    "PropertyName": {
+      "hash": -1877242639
+    },
+    "Order": 26,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -1877242639
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconThunderAddedRatio.png",
+    "PropertyNameSkillTree": {
+      "hash": 907095083
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "ThunderAddedRatio",
+    "PropertyNameRelic": {
+      "hash": 235195444
+    },
+    "PropertyName": {
+      "hash": 235195444
+    },
+    "Order": 27,
+    "MainRelicFilter": 16,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 235195444
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconThunderResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "ThunderResistance",
+    "PropertyNameRelic": {
+      "hash": -567551348
+    },
+    "PropertyName": {
+      "hash": -567551348
+    },
+    "Order": 28,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -567551348
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconWindAddedRatio.png",
+    "PropertyNameSkillTree": {
+      "hash": -1997411121
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "WindAddedRatio",
+    "PropertyNameRelic": {
+      "hash": 2017136070
+    },
+    "PropertyName": {
+      "hash": 2017136070
+    },
+    "Order": 29,
+    "MainRelicFilter": 17,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 2017136070
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconWindResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "WindResistance",
+    "PropertyNameRelic": {
+      "hash": -1179693530
+    },
+    "PropertyName": {
+      "hash": -1179693530
+    },
+    "Order": 30,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -1179693530
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconQuantumAddedRatio.png",
+    "PropertyNameSkillTree": {
+      "hash": -1441211386
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "QuantumAddedRatio",
+    "PropertyNameRelic": {
+      "hash": 1819458027
+    },
+    "PropertyName": {
+      "hash": 1819458027
+    },
+    "Order": 31,
+    "MainRelicFilter": 18,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 1819458027
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconQuantumResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "QuantumResistance",
+    "PropertyNameRelic": {
+      "hash": -1565797131
+    },
+    "PropertyName": {
+      "hash": -1565797131
+    },
+    "Order": 32,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -1565797131
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconImaginaryAddedRatio.png",
+    "PropertyNameSkillTree": {
+      "hash": -1248895778
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "ImaginaryAddedRatio",
+    "PropertyNameRelic": {
+      "hash": 1031064451
+    },
+    "PropertyName": {
+      "hash": 1031064451
+    },
+    "Order": 33,
+    "MainRelicFilter": 19,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 1031064451
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconImaginaryResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "ImaginaryResistance",
+    "PropertyNameRelic": {
+      "hash": 512338013
+    },
+    "PropertyName": {
+      "hash": 512338013
+    },
+    "Order": 34,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 512338013
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconMaxHP.png",
+    "PropertyNameSkillTree": {
+      "hash": -2049337893
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "BaseHP",
+    "PropertyNameRelic": {
+      "hash": -2049337893
+    },
+    "PropertyName": {
+      "hash": -1633266744
+    },
+    "Order": 35,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -2049337893
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconMaxHP.png",
+    "PropertyNameSkillTree": {
+      "hash": -1207493856
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "HPDelta",
+    "PropertyNameRelic": {
+      "hash": 1661327008
+    },
+    "PropertyName": {
+      "hash": -2062625823
+    },
+    "Order": 36,
+    "MainRelicFilter": 1,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 1,
+    "PropertyNameFilter": {
+      "hash": 1661327008
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconMaxHP.png",
+    "PropertyNameSkillTree": {
+      "hash": 831717191
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "HPAddedRatio",
+    "PropertyNameRelic": {
+      "hash": 1661327008
+    },
+    "PropertyName": {
+      "hash": -1346382812
+    },
+    "Order": 37,
+    "MainRelicFilter": 2,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 2,
+    "PropertyNameFilter": {
+      "hash": 572535973
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconAttack.png",
+    "PropertyNameSkillTree": {
+      "hash": 179569395
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "BaseAttack",
+    "PropertyNameRelic": {
+      "hash": 179569395
+    },
+    "PropertyName": {
+      "hash": 481327068
+    },
+    "Order": 38,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 179569395
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconAttack.png",
+    "PropertyNameSkillTree": {
+      "hash": -1243590640
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "AttackDelta",
+    "PropertyNameRelic": {
+      "hash": 2001888886
+    },
+    "PropertyName": {
+      "hash": -1283504019
+    },
+    "Order": 39,
+    "MainRelicFilter": 3,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 3,
+    "PropertyNameFilter": {
+      "hash": 2001888886
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconAttack.png",
+    "PropertyNameSkillTree": {
+      "hash": 92176903
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "AttackAddedRatio",
+    "PropertyNameRelic": {
+      "hash": 2001888886
+    },
+    "PropertyName": {
+      "hash": 1352443712
+    },
+    "Order": 40,
+    "MainRelicFilter": 4,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 4,
+    "PropertyNameFilter": {
+      "hash": -1049418559
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconDefence.png",
+    "PropertyNameSkillTree": {
+      "hash": 821549929
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "BaseDefence",
+    "PropertyNameRelic": {
+      "hash": 821549929
+    },
+    "PropertyName": {
+      "hash": 488486100
+    },
+    "Order": 41,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 821549929
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconDefence.png",
+    "PropertyNameSkillTree": {
+      "hash": 740343068
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "DefenceDelta",
+    "PropertyNameRelic": {
+      "hash": -412481970
+    },
+    "PropertyName": {
+      "hash": -554844301
+    },
+    "Order": 42,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 5,
+    "PropertyNameFilter": {
+      "hash": -412481970
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconDefence.png",
+    "PropertyNameSkillTree": {
+      "hash": 1015286041
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "DefenceAddedRatio",
+    "PropertyNameRelic": {
+      "hash": -412481970
+    },
+    "PropertyName": {
+      "hash": 949399850
+    },
+    "Order": 43,
+    "MainRelicFilter": 5,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 6,
+    "PropertyNameFilter": {
+      "hash": 2072073407
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconSpeed.png",
+    "PropertyNameSkillTree": {
+      "hash": -1515739258
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "BaseSpeed",
+    "PropertyNameRelic": {
+      "hash": 461357812
+    },
+    "PropertyName": {
+      "hash": 807271375
+    },
+    "Order": 44,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 461357812
+    },
+    "PropertyClassify": 0
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconHealRatio.png",
+    "PropertyNameSkillTree": {
+      "hash": 371857150
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "HealTakenRatio",
+    "PropertyNameRelic": {
+      "hash": 799727458
+    },
+    "PropertyName": {
+      "hash": -56670514
+    },
+    "Order": 45,
+    "MainRelicFilter": 0,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 799727458
+    },
+    "PropertyClassify": 1
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconPhysicalResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": 657619096
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "PhysicalResistanceDelta",
+    "PropertyNameRelic": {
+      "hash": 214654939
+    },
+    "PropertyName": {
+      "hash": 214654939
+    },
+    "Order": 46,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 214654939
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconFireResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": 670685577
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "FireResistanceDelta",
+    "PropertyNameRelic": {
+      "hash": -757342856
+    },
+    "PropertyName": {
+      "hash": -757342856
+    },
+    "Order": 47,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -757342856
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconIceResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": 1284989126
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "IceResistanceDelta",
+    "PropertyNameRelic": {
+      "hash": -1877242639
+    },
+    "PropertyName": {
+      "hash": -1877242639
+    },
+    "Order": 48,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -1877242639
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconThunderResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": 322345645
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "ThunderResistanceDelta",
+    "PropertyNameRelic": {
+      "hash": -567551348
+    },
+    "PropertyName": {
+      "hash": -567551348
+    },
+    "Order": 49,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -567551348
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconWindResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": 1319137209
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "WindResistanceDelta",
+    "PropertyNameRelic": {
+      "hash": -1179693530
+    },
+    "PropertyName": {
+      "hash": -1179693530
+    },
+    "Order": 50,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -1179693530
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconQuantumResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": 1691079300
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "QuantumResistanceDelta",
+    "PropertyNameRelic": {
+      "hash": -1565797131
+    },
+    "PropertyName": {
+      "hash": -1565797131
+    },
+    "Order": 51,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": -1565797131
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconImaginaryResistanceDelta.png",
+    "PropertyNameSkillTree": {
+      "hash": -1527106884
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "ImaginaryResistanceDelta",
+    "PropertyNameRelic": {
+      "hash": 512338013
+    },
+    "PropertyName": {
+      "hash": 512338013
+    },
+    "Order": 52,
+    "MainRelicFilter": 0,
+    "IsDisplay": true,
+    "isBattleDisplay": true,
+    "SubRelicFilter": 0,
+    "PropertyNameFilter": {
+      "hash": 512338013
+    },
+    "PropertyClassify": 2
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Avatar/Icon/IconSpeed.png",
+    "PropertyNameSkillTree": {
+      "hash": -739566431
+    },
+    "PropertyInstructionID": 0,
+    "PropertyType": "SpeedDelta",
+    "PropertyNameRelic": {
+      "hash": 461357812
+    },
+    "PropertyName": {
+      "hash": -647246282
+    },
+    "Order": 54,
+    "MainRelicFilter": 6,
+    "IsDisplay": false,
+    "isBattleDisplay": false,
+    "SubRelicFilter": 7,
+    "PropertyNameFilter": {
+      "hash": 461357812
+    },
+    "PropertyClassify": 0
+  }
+]

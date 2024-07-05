@@ -1,0 +1,80 @@
+[
+  {
+    "HardLevel": 0,
+    "ActivityQuestID": 0,
+    "ActivityModuleID": 5000105,
+    "RaidID": 4000211
+  },
+  {
+    "HardLevel": 1,
+    "ActivityQuestID": 0,
+    "ActivityModuleID": 5000105,
+    "RaidID": 4000211
+  },
+  {
+    "HardLevel": 2,
+    "ActivityQuestID": 0,
+    "ActivityModuleID": 5000106,
+    "RaidID": 4000211
+  },
+  {
+    "HardLevel": 3,
+    "ActivityQuestID": 0,
+    "ActivityModuleID": 5000107,
+    "RaidID": 4000211
+  },
+  {
+    "HardLevel": 0,
+    "ActivityQuestID": 0,
+    "ActivityModuleID": 3000801,
+    "RaidID": 4400101
+  },
+  {
+    "HardLevel": 1,
+    "ActivityQuestID": 0,
+    "ActivityModuleID": 3000801,
+    "RaidID": 4400101
+  },
+  {
+    "HardLevel": 2,
+    "ActivityQuestID": 0,
+    "ActivityModuleID": 3000801,
+    "RaidID": 4400101
+  },
+  {
+    "HardLevel": 0,
+    "ActivityQuestID": 0,
+    "ActivityModuleID": 5001701,
+    "RaidID": 40237001
+  },
+  {
+    "HardLevel": 0,
+    "ActivityQuestID": 0,
+    "ActivityModuleID": 5001705,
+    "RaidID": 40237005
+  },
+  {
+    "HardLevel": 0,
+    "ActivityQuestID": 0,
+    "ActivityModuleID": 5001703,
+    "RaidID": 40237003
+  },
+  {
+    "HardLevel": 0,
+    "ActivityQuestID": 0,
+    "ActivityModuleID": 5001706,
+    "RaidID": 40237006
+  },
+  {
+    "HardLevel": 0,
+    "ActivityQuestID": 0,
+    "ActivityModuleID": 5001704,
+    "RaidID": 40237004
+  },
+  {
+    "HardLevel": 0,
+    "ActivityQuestID": 0,
+    "ActivityModuleID": 5001702,
+    "RaidID": 40237002
+  }
+]

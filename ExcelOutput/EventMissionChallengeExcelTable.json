@@ -1,0 +1,93 @@
+[
+  {
+    "ID": 900003,
+    "IsResetable": false,
+    "IsBeginPrepare": true,
+    "IsCancellable": true,
+    "LimitTime": 60
+  },
+  {
+    "ID": 900004,
+    "IsResetable": false,
+    "IsBeginPrepare": false,
+    "IsCancellable": true,
+    "LimitTime": 10
+  },
+  {
+    "ID": 900005,
+    "IsResetable": false,
+    "IsBeginPrepare": false,
+    "IsCancellable": true,
+    "LimitTime": 60
+  },
+  {
+    "ID": 900008,
+    "IsResetable": false,
+    "IsBeginPrepare": true,
+    "IsCancellable": true,
+    "LimitTime": 180
+  },
+  {
+    "ID": 900011,
+    "IsResetable": false,
+    "IsBeginPrepare": false,
+    "IsCancellable": false,
+    "LimitTime": 0
+  },
+  {
+    "ID": 900012,
+    "IsResetable": false,
+    "IsBeginPrepare": false,
+    "IsCancellable": false,
+    "LimitTime": 0
+  },
+  {
+    "ID": 900015,
+    "IsResetable": false,
+    "IsBeginPrepare": false,
+    "IsCancellable": false,
+    "LimitTime": 0
+  },
+  {
+    "ID": 900110,
+    "IsResetable": true,
+    "IsBeginPrepare": false,
+    "IsCancellable": true,
+    "LimitTime": 0
+  },
+  {
+    "ID": 900017,
+    "IsResetable": false,
+    "IsBeginPrepare": false,
+    "IsCancellable": true,
+    "LimitTime": 0
+  },
+  {
+    "ID": 900111,
+    "IsResetable": true,
+    "IsBeginPrepare": false,
+    "IsCancellable": true,
+    "LimitTime": 0
+  },
+  {
+    "ID": 900112,
+    "IsResetable": true,
+    "IsBeginPrepare": false,
+    "IsCancellable": true,
+    "LimitTime": 0
+  },
+  {
+    "ID": 900113,
+    "IsResetable": false,
+    "IsBeginPrepare": true,
+    "IsCancellable": false,
+    "LimitTime": 30
+  },
+  {
+    "ID": 900201,
+    "IsResetable": false,
+    "IsBeginPrepare": false,
+    "IsCancellable": false,
+    "LimitTime": 0
+  }
+]

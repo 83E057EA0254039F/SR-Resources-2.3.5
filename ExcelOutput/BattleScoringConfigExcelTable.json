@@ -1,0 +1,1494 @@
+[
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "FantasticStoryHard_Scoring_Ability_0001",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 10001,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "FantasticStoryHard_Scoring_Ability_0002",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 10002,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "FantasticStoryHard_Scoring_Ability_0003",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 10003,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20001",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20001,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20002",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20002,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20003",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20003,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20004",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20004,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20005",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20005,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20006",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20006,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20007",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20007,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20008",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20008,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20009",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20009,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20010",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20010,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20011",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20011,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20012",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20012,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20013",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20013,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20014",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20014,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20015",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20015,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20016",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20016,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20017",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20017,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20018",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20018,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20019",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20019,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20020",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20020,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20021",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20021,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20022",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20022,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20023",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20023,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20024",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20024,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20025",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20025,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20026",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20026,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20027",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20027,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20028",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20028,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20029",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20029,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "StageAbility_Scoring_20030",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 20030,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30001,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30002,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30003,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30004,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30005,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30006,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30007,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30008,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30009,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30010,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30011,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30012,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30014,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30015,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30016,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30017,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30018,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30019,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30020,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30021,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30022,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30024,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30025,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30026,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30027,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30029,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30030,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30033,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30034,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30036,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30037,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30038,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 30039,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [],
+    "ParamList": [],
+    "AbilityName": "",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 80001,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "RogueEndless_Scoring_Ability",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 80002,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "RogueEndless_Scoring_Empty_Ability",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 80003,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "Rogue_Scoring_Event_TV_Ability",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 80004,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "Rogue_Scoring_Event_Fantastic_Ability",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 80005,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "FantasticStory_Scoring_Ability_0001",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 90001,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "StrongChallenge_Scoring_Ability_0001",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 90004,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Countdown"
+    ],
+    "ParamList": [],
+    "AbilityName": "StrongChallenge_Scoring_Ability_0002",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 90005,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "ActivityTelevision_Scoring_Ability_0001",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 90006,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "ActivityTelevision_Scoring_Ability_0002",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 90007,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "ActivityTelevision_Scoring_Ability_0003",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 90008,
+    "GameModeGroup": 0,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "EvolveBuild_Scoring_Ability_0001",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 90009,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "EvolveBuild_Scoring_Ability_0002",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 90010,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "EvolveBuild_Scoring_Ability_0003",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 90011,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  },
+  {
+    "DisplayTypeList": [
+      "Normal"
+    ],
+    "ParamList": [],
+    "AbilityName": "Rogue_Scoring_Ability_S1",
+    "ScoreRuleDesc": {
+      "hash": 371857150
+    },
+    "BonusDesc": {
+      "hash": 371857150
+    },
+    "BonusScore": 0,
+    "ScoringID": 90012,
+    "GameModeGroup": 1001,
+    "BonusSimpleDesc": {
+      "hash": 371857150
+    },
+    "ScoringType": "Quest"
+  }
+]

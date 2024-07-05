@@ -1,0 +1,395 @@
+[
+  {
+    "WaveMonsterList_1": [
+      801301018,
+      800205044,
+      801201028,
+      201201008
+    ],
+    "P2AvailableBuffList": [
+      3107204,
+      3107205
+    ],
+    "ImagePath": "SpriteOutput/UI/Quest/FeverTime/Buff/IconFeverTime_Buff_03.png",
+    "SpecialAvatarList": [
+      3021308,
+      3021307,
+      3041005,
+      3021301,
+      3021106
+    ],
+    "WaveMonsterList_2": [
+      300301001,
+      800205044,
+      300203005,
+      300101002,
+      300102002
+    ],
+    "MonsterList": [
+      801301018,
+      300301001,
+      302402002
+    ],
+    "P3MazeBuffID": [
+      3107201
+    ],
+    "P1AvailableBuffList": [
+      3107202,
+      3107203
+    ],
+    "WaveMonsterList_3": [
+      302402002,
+      800205044,
+      300204001,
+      300203006,
+      300101003
+    ],
+    "RecommadNature": [
+      "Thunder",
+      "Wind"
+    ],
+    "StageName": {
+      "hash": 1517733738
+    },
+    "LevelSPDes": {
+      "hash": 371857150
+    },
+    "TutorialGuideGroupID": 8093,
+    "UIEnterBattleAreaID": 2000301,
+    "UnlockID": 0,
+    "ActivityModuleID": 5001001,
+    "FeverTimeID": 1,
+    "LevelDes1": {
+      "hash": 1999725706
+    },
+    "LevelDes2": {
+      "hash": 371857150
+    },
+    "ExtraEffectID": 0,
+    "EventID": 415003,
+    "QuestGroupID": 3
+  },
+  {
+    "WaveMonsterList_1": [
+      800305010,
+      801201026,
+      800105004
+    ],
+    "P2AvailableBuffList": [
+      3107105,
+      3107104
+    ],
+    "ImagePath": "SpriteOutput/UI/Quest/FeverTime/Buff/IconFeverTime_Buff_02.png",
+    "SpecialAvatarList": [
+      3041305,
+      3041112,
+      3021302,
+      3021304,
+      3021215
+    ],
+    "WaveMonsterList_2": [
+      300302002,
+      300203003,
+      300101004
+    ],
+    "MonsterList": [
+      800305010,
+      300302002,
+      100401006
+    ],
+    "P3MazeBuffID": [
+      3107101
+    ],
+    "P1AvailableBuffList": [
+      3107103,
+      3107102
+    ],
+    "WaveMonsterList_3": [
+      100401006,
+      100203013,
+      100205020
+    ],
+    "RecommadNature": [
+      "Quantum",
+      "Fire",
+      "Imaginary"
+    ],
+    "StageName": {
+      "hash": 1517733745
+    },
+    "LevelSPDes": {
+      "hash": 371857150
+    },
+    "TutorialGuideGroupID": 8092,
+    "UIEnterBattleAreaID": 2000301,
+    "UnlockID": 0,
+    "ActivityModuleID": 5001006,
+    "FeverTimeID": 6,
+    "LevelDes1": {
+      "hash": 1999725711
+    },
+    "LevelDes2": {
+      "hash": 371857150
+    },
+    "ExtraEffectID": 0,
+    "EventID": 415002,
+    "QuestGroupID": 6
+  },
+  {
+    "WaveMonsterList_1": [
+      800301016,
+      800305012,
+      801201029
+    ],
+    "P2AvailableBuffList": [
+      3107304,
+      3107305
+    ],
+    "ImagePath": "SpriteOutput/UI/Quest/FeverTime/Buff/IconFeverTime_Buff_04.png",
+    "SpecialAvatarList": [
+      3021303,
+      3021003,
+      3041006,
+      3021110,
+      3021214
+    ],
+    "WaveMonsterList_2": [
+      202302007,
+      202303010,
+      202202008
+    ],
+    "MonsterList": [
+      800301016,
+      202302007,
+      100403003
+    ],
+    "P3MazeBuffID": [
+      3107301
+    ],
+    "P1AvailableBuffList": [
+      3107302,
+      3107303
+    ],
+    "WaveMonsterList_3": [
+      100403003,
+      101302027,
+      100203016
+    ],
+    "RecommadNature": [
+      "Thunder",
+      "Wind"
+    ],
+    "StageName": {
+      "hash": 1517733743
+    },
+    "LevelSPDes": {
+      "hash": 371857150
+    },
+    "TutorialGuideGroupID": 8094,
+    "UIEnterBattleAreaID": 2000301,
+    "UnlockID": 0,
+    "ActivityModuleID": 5001004,
+    "FeverTimeID": 4,
+    "LevelDes1": {
+      "hash": 1999725709
+    },
+    "LevelDes2": {
+      "hash": 371857150
+    },
+    "ExtraEffectID": 0,
+    "EventID": 415004,
+    "QuestGroupID": 4
+  },
+  {
+    "WaveMonsterList_1": [
+      101302025,
+      101201017
+    ],
+    "P2AvailableBuffList": [
+      3107004,
+      3107005
+    ],
+    "ImagePath": "SpriteOutput/UI/Quest/FeverTime/Buff/IconFeverTime_Buff_01.png",
+    "SpecialAvatarList": [
+      3041102,
+      3041204,
+      3041208,
+      3021306,
+      3041202
+    ],
+    "WaveMonsterList_2": [
+      800301014,
+      102201013,
+      800102016
+    ],
+    "MonsterList": [
+      101302025,
+      800301014,
+      100402007
+    ],
+    "P3MazeBuffID": [
+      3107001
+    ],
+    "P1AvailableBuffList": [
+      3107002,
+      3107003
+    ],
+    "WaveMonsterList_3": [
+      100402007,
+      100204024,
+      100205019
+    ],
+    "RecommadNature": [
+      "Quantum",
+      "Thunder"
+    ],
+    "StageName": {
+      "hash": 1517733742
+    },
+    "LevelSPDes": {
+      "hash": 371857150
+    },
+    "TutorialGuideGroupID": 8091,
+    "UIEnterBattleAreaID": 2000301,
+    "UnlockID": 0,
+    "ActivityModuleID": 5001005,
+    "FeverTimeID": 5,
+    "LevelDes1": {
+      "hash": 1999725710
+    },
+    "LevelDes2": {
+      "hash": 371857150
+    },
+    "ExtraEffectID": 70000201,
+    "EventID": 415001,
+    "QuestGroupID": 1
+  },
+  {
+    "WaveMonsterList_1": [
+      800303017,
+      800201016,
+      102202024
+    ],
+    "P2AvailableBuffList": [
+      3107404,
+      3107405
+    ],
+    "ImagePath": "SpriteOutput/UI/Quest/FeverTime/Buff/IconFeverTime_Buff_05.png",
+    "SpecialAvatarList": [
+      3021205,
+      3021212,
+      3041101,
+      3021203,
+      3021110
+    ],
+    "WaveMonsterList_2": [
+      202303011,
+      202206005,
+      202202009
+    ],
+    "MonsterList": [
+      800303017,
+      202303011,
+      302401201
+    ],
+    "P3MazeBuffID": [
+      3107401
+    ],
+    "P1AvailableBuffList": [
+      3107403,
+      3107402
+    ],
+    "WaveMonsterList_3": [
+      302401201,
+      300203004,
+      300102003
+    ],
+    "RecommadNature": [
+      "Thunder",
+      "Wind"
+    ],
+    "StageName": {
+      "hash": 1517733741
+    },
+    "LevelSPDes": {
+      "hash": 371857150
+    },
+    "TutorialGuideGroupID": 8094,
+    "UIEnterBattleAreaID": 2000301,
+    "UnlockID": 0,
+    "ActivityModuleID": 5001002,
+    "FeverTimeID": 2,
+    "LevelDes1": {
+      "hash": 1999725707
+    },
+    "LevelDes2": {
+      "hash": 371857150
+    },
+    "ExtraEffectID": 0,
+    "EventID": 415005,
+    "QuestGroupID": 5
+  },
+  {
+    "WaveMonsterList_1": [
+      102301016,
+      800101018
+    ],
+    "P2AvailableBuffList": [
+      3107504,
+      3107505
+    ],
+    "ImagePath": "SpriteOutput/UI/Quest/FeverTime/Buff/IconFeverTime_Buff_06.png",
+    "SpecialAvatarList": [
+      3021213,
+      3021302,
+      3021306,
+      3021217,
+      3041202
+    ],
+    "WaveMonsterList_2": [
+      201302007,
+      202211004
+    ],
+    "MonsterList": [
+      102301016,
+      201302007,
+      200401005
+    ],
+    "P3MazeBuffID": [
+      3107501
+    ],
+    "P1AvailableBuffList": [
+      3107502,
+      3107503
+    ],
+    "WaveMonsterList_3": [
+      200401005,
+      803202004,
+      803201004
+    ],
+    "RecommadNature": [
+      "Thunder",
+      "Wind"
+    ],
+    "StageName": {
+      "hash": 1517733740
+    },
+    "LevelSPDes": {
+      "hash": 371857150
+    },
+    "TutorialGuideGroupID": 8094,
+    "UIEnterBattleAreaID": 2000301,
+    "UnlockID": 0,
+    "ActivityModuleID": 5001003,
+    "FeverTimeID": 3,
+    "LevelDes1": {
+      "hash": 1999725708
+    },
+    "LevelDes2": {
+      "hash": 371857150
+    },
+    "ExtraEffectID": 0,
+    "EventID": 415006,
+    "QuestGroupID": 2
+  }
+]

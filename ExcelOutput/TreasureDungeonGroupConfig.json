@@ -1,0 +1,122 @@
+[
+  {
+    "ImgPath": "",
+    "ATKExchangeIconPath": "SpriteOutput/BuffIcon/Inlevel/IconDeBuffDotDeepen.png",
+    "DungeonIDList": [
+      10,
+      11
+    ],
+    "MaxATK": 400,
+    "DEFExchangeRatio": 0,
+    "ATKExchangeName": {
+      "hash": 890003037
+    },
+    "GroupID": 10,
+    "DEFMazeBuffID": 3200005,
+    "ATKMazeBuffID": 31001009,
+    "Name": {
+      "hash": -1773140734
+    },
+    "ATKExchangeRatio": 80,
+    "HpConversionRate2": 1000,
+    "ActivityModuleID": 5000401,
+    "HpConversionRate": 200,
+    "MaxDEF": 40
+  },
+  {
+    "ImgPath": "",
+    "ATKExchangeIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffBreakDamage.png",
+    "DungeonIDList": [
+      20,
+      21
+    ],
+    "MaxATK": 400,
+    "DEFExchangeRatio": 0,
+    "ATKExchangeName": {
+      "hash": -1838880318
+    },
+    "GroupID": 20,
+    "DEFMazeBuffID": 3200005,
+    "ATKMazeBuffID": 31001006,
+    "Name": {
+      "hash": -1773140733
+    },
+    "ATKExchangeRatio": 200,
+    "HpConversionRate2": 1000,
+    "ActivityModuleID": 5000402,
+    "HpConversionRate": 200,
+    "MaxDEF": 40
+  },
+  {
+    "ImgPath": "",
+    "ATKExchangeIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "DungeonIDList": [
+      30,
+      31
+    ],
+    "MaxATK": 400,
+    "DEFExchangeRatio": 0,
+    "ATKExchangeName": {
+      "hash": -272796377
+    },
+    "GroupID": 30,
+    "DEFMazeBuffID": 3200005,
+    "ATKMazeBuffID": 31001007,
+    "Name": {
+      "hash": -1773140732
+    },
+    "ATKExchangeRatio": 80,
+    "HpConversionRate2": 1000,
+    "ActivityModuleID": 5000403,
+    "HpConversionRate": 200,
+    "MaxDEF": 40
+  },
+  {
+    "ImgPath": "",
+    "ATKExchangeIconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "DungeonIDList": [
+      40,
+      41
+    ],
+    "MaxATK": 400,
+    "DEFExchangeRatio": 0,
+    "ATKExchangeName": {
+      "hash": 1293287564
+    },
+    "GroupID": 40,
+    "DEFMazeBuffID": 3200005,
+    "ATKMazeBuffID": 31001008,
+    "Name": {
+      "hash": -1773140739
+    },
+    "ATKExchangeRatio": 80,
+    "HpConversionRate2": 1000,
+    "ActivityModuleID": 5000404,
+    "HpConversionRate": 200,
+    "MaxDEF": 40
+  },
+  {
+    "ImgPath": "",
+    "ATKExchangeIconPath": "SpriteOutput/BuffIcon/Inlevel/IconDeBuffDotDeepen.png",
+    "DungeonIDList": [
+      50,
+      51
+    ],
+    "MaxATK": 400,
+    "DEFExchangeRatio": 0,
+    "ATKExchangeName": {
+      "hash": -1435595791
+    },
+    "GroupID": 50,
+    "DEFMazeBuffID": 3200005,
+    "ATKMazeBuffID": 31001009,
+    "Name": {
+      "hash": -1773140738
+    },
+    "ATKExchangeRatio": 80,
+    "HpConversionRate2": 1000,
+    "ActivityModuleID": 5000405,
+    "HpConversionRate": 200,
+    "MaxDEF": 40
+  }
+]

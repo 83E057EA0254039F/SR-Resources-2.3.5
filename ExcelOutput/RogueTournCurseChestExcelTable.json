@@ -1,0 +1,135 @@
+[
+  {
+    "SubTitleDisplayID": 1002,
+    "ChestID": 1001,
+    "SubDescDisplayID": 1003,
+    "MainTitleDisplayID": 1101,
+    "ParamValue2": {
+      "RawValue": 0
+    },
+    "ParamValue3": {
+      "RawValue": 4294967296
+    },
+    "ParamValue4": {
+      "RawValue": 12884901888
+    },
+    "ParamValue1": {
+      "RawValue": 4294967296
+    },
+    "MainDescDisplayID": 1201
+  },
+  {
+    "SubTitleDisplayID": 1002,
+    "ChestID": 1002,
+    "SubDescDisplayID": 1003,
+    "MainTitleDisplayID": 1101,
+    "ParamValue2": {
+      "RawValue": 0
+    },
+    "ParamValue3": {
+      "RawValue": 214748364800
+    },
+    "ParamValue4": {
+      "RawValue": 2147483648000
+    },
+    "ParamValue1": {
+      "RawValue": 4294967296
+    },
+    "MainDescDisplayID": 1202
+  },
+  {
+    "SubTitleDisplayID": 1002,
+    "ChestID": 1003,
+    "SubDescDisplayID": 1003,
+    "MainTitleDisplayID": 1101,
+    "ParamValue2": {
+      "RawValue": 0
+    },
+    "ParamValue3": {
+      "RawValue": 4294967296
+    },
+    "ParamValue4": {
+      "RawValue": 12884901888
+    },
+    "ParamValue1": {
+      "RawValue": 4294967296
+    },
+    "MainDescDisplayID": 1203
+  },
+  {
+    "SubTitleDisplayID": 1002,
+    "ChestID": 1006,
+    "SubDescDisplayID": 1003,
+    "MainTitleDisplayID": 1102,
+    "ParamValue2": {
+      "RawValue": 2147483648000
+    },
+    "ParamValue3": {
+      "RawValue": 12884901888
+    },
+    "ParamValue4": {
+      "RawValue": 0
+    },
+    "ParamValue1": {
+      "RawValue": 429496729600
+    },
+    "MainDescDisplayID": 1204
+  },
+  {
+    "SubTitleDisplayID": 1002,
+    "ChestID": 1007,
+    "SubDescDisplayID": 1003,
+    "MainTitleDisplayID": 1102,
+    "ParamValue2": {
+      "RawValue": 2147483648000
+    },
+    "ParamValue3": {
+      "RawValue": 12884901888
+    },
+    "ParamValue4": {
+      "RawValue": 0
+    },
+    "ParamValue1": {
+      "RawValue": 429496729600
+    },
+    "MainDescDisplayID": 1205
+  },
+  {
+    "SubTitleDisplayID": 1002,
+    "ChestID": 1008,
+    "SubDescDisplayID": 1003,
+    "MainTitleDisplayID": 1102,
+    "ParamValue2": {
+      "RawValue": 2147483648000
+    },
+    "ParamValue3": {
+      "RawValue": 429496729600
+    },
+    "ParamValue4": {
+      "RawValue": 2147483648000
+    },
+    "ParamValue1": {
+      "RawValue": 429496729600
+    },
+    "MainDescDisplayID": 1206
+  },
+  {
+    "SubTitleDisplayID": 1002,
+    "ChestID": 1009,
+    "SubDescDisplayID": 1003,
+    "MainTitleDisplayID": 1103,
+    "ParamValue2": {
+      "RawValue": 0
+    },
+    "ParamValue3": {
+      "RawValue": 4294967296
+    },
+    "ParamValue4": {
+      "RawValue": 0
+    },
+    "ParamValue1": {
+      "RawValue": 21474836480
+    },
+    "MainDescDisplayID": 1207
+  }
+]

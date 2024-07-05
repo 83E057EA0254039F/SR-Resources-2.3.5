@@ -1,0 +1,200 @@
+[
+  {
+    "EmotionProblemList": [
+      {
+        "hash": 276806833
+      },
+      {
+        "hash": 680091360
+      },
+      {
+        "hash": -885992581
+      }
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DMkMonsterHeadIcon/3001010.png",
+    "LinePath": "SpriteOutput/Quest/DrinkMaker/DMEnterMonster/3001010Line.png",
+    "FavorTagList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "BigIconPath": "SpriteOutput/Quest/DrinkMaker/DMEnterMonster/3001010.png",
+    "BartenderGuestDesc": {
+      "hash": 371857150
+    },
+    "GuestID": 1,
+    "FinishQuestID": 6018115,
+    "FinishSubMissionID": 802112103,
+    "MaxFaithReward": 210110,
+    "BartenderGuestName": {
+      "hash": -217520139
+    },
+    "MaxFaith": 2
+  },
+  {
+    "EmotionProblemList": [
+      {
+        "hash": 268793074
+      },
+      {
+        "hash": 672077601
+      },
+      {
+        "hash": -894006340
+      }
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DMkMonsterHeadIcon/3002030.png",
+    "LinePath": "SpriteOutput/Quest/DrinkMaker/DMEnterMonster/3002030Line.png",
+    "FavorTagList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "BigIconPath": "SpriteOutput/Quest/DrinkMaker/DMEnterMonster/3002030.png",
+    "BartenderGuestDesc": {
+      "hash": 371857150
+    },
+    "GuestID": 2,
+    "FinishQuestID": 6018116,
+    "FinishSubMissionID": 802112203,
+    "MaxFaithReward": 210110,
+    "BartenderGuestName": {
+      "hash": 1348563802
+    },
+    "MaxFaith": 2
+  },
+  {
+    "EmotionProblemList": [
+      {
+        "hash": 269835187
+      },
+      {
+        "hash": 673119714
+      },
+      {
+        "hash": -892964227
+      }
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DMkMonsterHeadIcon/3003020.png",
+    "LinePath": "SpriteOutput/Quest/DrinkMaker/DMEnterMonster/3003020Line.png",
+    "FavorTagList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "BigIconPath": "SpriteOutput/Quest/DrinkMaker/DMEnterMonster/3003020.png",
+    "BartenderGuestDesc": {
+      "hash": 371857150
+    },
+    "GuestID": 3,
+    "FinishQuestID": 6018117,
+    "FinishSubMissionID": 802113113,
+    "MaxFaithReward": 210110,
+    "BartenderGuestName": {
+      "hash": -1380319553
+    },
+    "MaxFaith": 2
+  },
+  {
+    "EmotionProblemList": [
+      {
+        "hash": 271029492
+      },
+      {
+        "hash": 674314019
+      },
+      {
+        "hash": -891769922
+      }
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DMkMonsterHeadIcon/3002040.png",
+    "LinePath": "SpriteOutput/Quest/DrinkMaker/DMEnterMonster/3002040Line.png",
+    "FavorTagList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "BigIconPath": "SpriteOutput/Quest/DrinkMaker/DMEnterMonster/3002040.png",
+    "BartenderGuestDesc": {
+      "hash": 371857150
+    },
+    "GuestID": 4,
+    "FinishQuestID": 6018118,
+    "FinishSubMissionID": 802113005,
+    "MaxFaithReward": 210110,
+    "BartenderGuestName": {
+      "hash": 185764388
+    },
+    "MaxFaith": 2
+  },
+  {
+    "EmotionProblemList": [
+      {
+        "hash": 272071605
+      },
+      {
+        "hash": 675356132
+      },
+      {
+        "hash": -890727809
+      }
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DMkMonsterHeadIcon/3001020.png",
+    "LinePath": "SpriteOutput/Quest/DrinkMaker/DMEnterMonster/3001020Line.png",
+    "FavorTagList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "BigIconPath": "SpriteOutput/Quest/DrinkMaker/DMEnterMonster/3001020.png",
+    "BartenderGuestDesc": {
+      "hash": 371857150
+    },
+    "GuestID": 5,
+    "FinishQuestID": 6018119,
+    "FinishSubMissionID": 802112401,
+    "MaxFaithReward": 210110,
+    "BartenderGuestName": {
+      "hash": 1751848329
+    },
+    "MaxFaith": 2
+  },
+  {
+    "EmotionProblemList": [
+      {
+        "hash": 264057846
+      },
+      {
+        "hash": 667342373
+      },
+      {
+        "hash": -898741568
+      }
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DMkMonsterHeadIcon/3002010.png",
+    "LinePath": "SpriteOutput/Quest/DrinkMaker/DMEnterMonster/3002010Line.png",
+    "FavorTagList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "BigIconPath": "SpriteOutput/Quest/DrinkMaker/DMEnterMonster/3002010.png",
+    "BartenderGuestDesc": {
+      "hash": 371857150
+    },
+    "GuestID": 6,
+    "FinishQuestID": 6018120,
+    "FinishSubMissionID": 802112303,
+    "MaxFaithReward": 210110,
+    "BartenderGuestName": {
+      "hash": -977035026
+    },
+    "MaxFaith": 2
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "QuestList": [
+      6031051,
+      6031052,
+      6031053,
+      6031054
+    ],
+    "ChallengeRewardTabName": {
+      "hash": -493134566
+    },
+    "ChallengePhaseID": 1001,
+    "UnlockQuest": 6030006,
+    "ChallengeRewardTabID": 1
+  },
+  {
+    "QuestList": [
+      6031055,
+      6031056,
+      6031057,
+      6031058
+    ],
+    "ChallengeRewardTabName": {
+      "hash": -89850039
+    },
+    "ChallengePhaseID": 1002,
+    "UnlockQuest": 6030007,
+    "ChallengeRewardTabID": 2
+  },
+  {
+    "QuestList": [
+      6031059,
+      6031060,
+      6031061,
+      6031062
+    ],
+    "ChallengeRewardTabName": {
+      "hash": -1655933980
+    },
+    "ChallengePhaseID": 1003,
+    "UnlockQuest": 6030008,
+    "ChallengeRewardTabID": 3
+  },
+  {
+    "QuestList": [
+      6031063,
+      6031064,
+      6031065,
+      6031066
+    ],
+    "ChallengeRewardTabName": {
+      "hash": -896419093
+    },
+    "ChallengePhaseID": 1004,
+    "UnlockQuest": 6030009,
+    "ChallengeRewardTabID": 4
+  },
+  {
+    "QuestList": [
+      6031067,
+      6031068,
+      6031069,
+      6031070
+    ],
+    "ChallengeRewardTabName": {
+      "hash": 1832464262
+    },
+    "ChallengePhaseID": 0,
+    "UnlockQuest": 6030010,
+    "ChallengeRewardTabID": 5
+  }
+]

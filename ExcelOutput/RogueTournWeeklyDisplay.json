@@ -1,0 +1,383 @@
+[
+  {
+    "DescParams": [],
+    "WeeklyDisplayID": 1001,
+    "WeeklyDisplayContent": {
+      "hash": -394330307
+    }
+  },
+  {
+    "DescParams": [],
+    "WeeklyDisplayID": 1002,
+    "WeeklyDisplayContent": {
+      "hash": -394330310
+    }
+  },
+  {
+    "DescParams": [],
+    "WeeklyDisplayID": 1003,
+    "WeeklyDisplayContent": {
+      "hash": -394330309
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "140601",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "130603",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "120603",
+        "EEOLCCFMJFF": "Formula"
+      }
+    ],
+    "WeeklyDisplayID": 1011,
+    "WeeklyDisplayContent": {
+      "hash": 1171753634
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "6511",
+        "EEOLCCFMJFF": "Miracle"
+      }
+    ],
+    "WeeklyDisplayID": 1012,
+    "WeeklyDisplayContent": {
+      "hash": 1171753631
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "140508",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "130507",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "120501",
+        "EEOLCCFMJFF": "Formula"
+      }
+    ],
+    "WeeklyDisplayID": 1021,
+    "WeeklyDisplayContent": {
+      "hash": 768469107
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "6503",
+        "EEOLCCFMJFF": "Miracle"
+      }
+    ],
+    "WeeklyDisplayID": 1022,
+    "WeeklyDisplayContent": {
+      "hash": 768469104
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "6308",
+        "EEOLCCFMJFF": "Miracle"
+      },
+      {
+        "DIBKEHHCPAP": "6128",
+        "EEOLCCFMJFF": "Miracle"
+      }
+    ],
+    "WeeklyDisplayID": 1031,
+    "WeeklyDisplayContent": {
+      "hash": -1960414248
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "140907",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "130905",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "120907",
+        "EEOLCCFMJFF": "Formula"
+      }
+    ],
+    "WeeklyDisplayID": 1041,
+    "WeeklyDisplayContent": {
+      "hash": 1575038161
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "6512",
+        "EEOLCCFMJFF": "Miracle"
+      }
+    ],
+    "WeeklyDisplayID": 1042,
+    "WeeklyDisplayContent": {
+      "hash": 1575038158
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "140704",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "130708",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "120704",
+        "EEOLCCFMJFF": "Formula"
+      }
+    ],
+    "WeeklyDisplayID": 1051,
+    "WeeklyDisplayContent": {
+      "hash": -1153845194
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "6507",
+        "EEOLCCFMJFF": "Miracle"
+      }
+    ],
+    "WeeklyDisplayID": 1052,
+    "WeeklyDisplayContent": {
+      "hash": -1153845197
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "6304",
+        "EEOLCCFMJFF": "Miracle"
+      },
+      {
+        "DIBKEHHCPAP": "6125",
+        "EEOLCCFMJFF": "Miracle"
+      },
+      {
+        "DIBKEHHCPAP": "6115",
+        "EEOLCCFMJFF": "Miracle"
+      }
+    ],
+    "WeeklyDisplayID": 1061,
+    "WeeklyDisplayContent": {
+      "hash": -1557129721
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "140406",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "130405",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "120406",
+        "EEOLCCFMJFF": "Formula"
+      }
+    ],
+    "WeeklyDisplayID": 1071,
+    "WeeklyDisplayContent": {
+      "hash": 8954220
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "6509",
+        "EEOLCCFMJFF": "Miracle"
+      }
+    ],
+    "WeeklyDisplayID": 1072,
+    "WeeklyDisplayContent": {
+      "hash": 8954217
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "130708",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "130809",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "130906",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "130706",
+        "EEOLCCFMJFF": "Formula"
+      }
+    ],
+    "WeeklyDisplayID": 1081,
+    "WeeklyDisplayContent": {
+      "hash": -750560667
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "6504",
+        "EEOLCCFMJFF": "Miracle"
+      }
+    ],
+    "WeeklyDisplayID": 1082,
+    "WeeklyDisplayContent": {
+      "hash": -750560670
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "6301",
+        "EEOLCCFMJFF": "Miracle"
+      },
+      {
+        "DIBKEHHCPAP": "6204",
+        "EEOLCCFMJFF": "Miracle"
+      }
+    ],
+    "WeeklyDisplayID": 1091,
+    "WeeklyDisplayContent": {
+      "hash": 815523274
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "140205",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "130906",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "120209",
+        "EEOLCCFMJFF": "Formula"
+      }
+    ],
+    "WeeklyDisplayID": 1101,
+    "WeeklyDisplayContent": {
+      "hash": -394330340
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "6505",
+        "EEOLCCFMJFF": "Miracle"
+      }
+    ],
+    "WeeklyDisplayID": 1102,
+    "WeeklyDisplayContent": {
+      "hash": -394330341
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "140309",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "130307",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "120309",
+        "EEOLCCFMJFF": "Formula"
+      }
+    ],
+    "WeeklyDisplayID": 1111,
+    "WeeklyDisplayContent": {
+      "hash": 1171753601
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "6510",
+        "EEOLCCFMJFF": "Miracle"
+      }
+    ],
+    "WeeklyDisplayID": 1112,
+    "WeeklyDisplayContent": {
+      "hash": 1171753600
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "6306",
+        "EEOLCCFMJFF": "Miracle"
+      },
+      {
+        "DIBKEHHCPAP": "6407",
+        "EEOLCCFMJFF": "Miracle"
+      }
+    ],
+    "WeeklyDisplayID": 1121,
+    "WeeklyDisplayContent": {
+      "hash": 768469074
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "140704",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "130708",
+        "EEOLCCFMJFF": "Formula"
+      },
+      {
+        "DIBKEHHCPAP": "120704",
+        "EEOLCCFMJFF": "Formula"
+      }
+    ],
+    "WeeklyDisplayID": 1131,
+    "WeeklyDisplayContent": {
+      "hash": -1960414281
+    }
+  },
+  {
+    "DescParams": [
+      {
+        "DIBKEHHCPAP": "6507",
+        "EEOLCCFMJFF": "Miracle"
+      }
+    ],
+    "WeeklyDisplayID": 1132,
+    "WeeklyDisplayContent": {
+      "hash": -1960414282
+    }
+  }
+]

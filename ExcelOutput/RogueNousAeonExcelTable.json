@@ -1,0 +1,146 @@
+[
+  {
+    "EffectParam1": [
+      650100
+    ],
+    "EffectType1": "AddMazeBuff",
+    "BattleEventEnhanceBuffGroup": 12005,
+    "UnlockID": 0,
+    "BattleEventBuffGroup": 12004,
+    "RogueBuffType": 120,
+    "Sort": 1,
+    "EffectDesc1": {
+      "hash": 1827643964
+    },
+    "DisplayID": 1,
+    "AeonID": 1
+  },
+  {
+    "EffectParam1": [
+      650101
+    ],
+    "EffectType1": "AddMazeBuff",
+    "BattleEventEnhanceBuffGroup": 12105,
+    "UnlockID": 0,
+    "BattleEventBuffGroup": 12104,
+    "RogueBuffType": 121,
+    "Sort": 2,
+    "EffectDesc1": {
+      "hash": 1827643965
+    },
+    "DisplayID": 2,
+    "AeonID": 2
+  },
+  {
+    "EffectParam1": [
+      650102
+    ],
+    "EffectType1": "AddMazeBuff",
+    "BattleEventEnhanceBuffGroup": 12205,
+    "UnlockID": 0,
+    "BattleEventBuffGroup": 12204,
+    "RogueBuffType": 122,
+    "Sort": 6,
+    "EffectDesc1": {
+      "hash": 1827643966
+    },
+    "DisplayID": 3,
+    "AeonID": 3
+  },
+  {
+    "EffectParam1": [
+      650103
+    ],
+    "EffectType1": "AddMazeBuff",
+    "BattleEventEnhanceBuffGroup": 12305,
+    "UnlockID": 0,
+    "BattleEventBuffGroup": 12304,
+    "RogueBuffType": 123,
+    "Sort": 7,
+    "EffectDesc1": {
+      "hash": 1827643959
+    },
+    "DisplayID": 4,
+    "AeonID": 4
+  },
+  {
+    "EffectParam1": [
+      650104
+    ],
+    "EffectType1": "AddMazeBuff",
+    "BattleEventEnhanceBuffGroup": 12405,
+    "UnlockID": 0,
+    "BattleEventBuffGroup": 12404,
+    "RogueBuffType": 124,
+    "Sort": 4,
+    "EffectDesc1": {
+      "hash": 1827643960
+    },
+    "DisplayID": 5,
+    "AeonID": 5
+  },
+  {
+    "EffectParam1": [
+      650105
+    ],
+    "EffectType1": "AddMazeBuff",
+    "BattleEventEnhanceBuffGroup": 12505,
+    "UnlockID": 0,
+    "BattleEventBuffGroup": 12504,
+    "RogueBuffType": 125,
+    "Sort": 5,
+    "EffectDesc1": {
+      "hash": 1827643961
+    },
+    "DisplayID": 6,
+    "AeonID": 6
+  },
+  {
+    "EffectParam1": [
+      650106
+    ],
+    "EffectType1": "AddMazeBuff",
+    "BattleEventEnhanceBuffGroup": 12605,
+    "UnlockID": 0,
+    "BattleEventBuffGroup": 12604,
+    "RogueBuffType": 126,
+    "Sort": 3,
+    "EffectDesc1": {
+      "hash": 1827643962
+    },
+    "DisplayID": 7,
+    "AeonID": 7
+  },
+  {
+    "EffectParam1": [
+      650107
+    ],
+    "EffectType1": "AddMazeBuff",
+    "BattleEventEnhanceBuffGroup": 12705,
+    "UnlockID": 0,
+    "BattleEventBuffGroup": 12704,
+    "RogueBuffType": 127,
+    "Sort": 8,
+    "EffectDesc1": {
+      "hash": 1827643971
+    },
+    "DisplayID": 8,
+    "AeonID": 8
+  },
+  {
+    "EffectParam1": [
+      650108
+    ],
+    "EffectType1": "AddMazeBuff",
+    "BattleEventEnhanceBuffGroup": 12805,
+    "UnlockID": 0,
+    "BattleEventBuffGroup": 12804,
+    "RogueBuffType": 128,
+    "Sort": 9,
+    "EffectDesc1": {
+      "hash": 1827643972
+    },
+    "DisplayID": 9,
+    "AeonID": 9
+  }
+]

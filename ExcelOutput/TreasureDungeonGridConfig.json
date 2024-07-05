@@ -1,0 +1,2516 @@
+[
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 0,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Normal",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_KeyDoor_Lock.png",
+    "ParamInt": 0,
+    "GridID": 1,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "KeyDoor",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8010",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_Key.png",
+    "ParamInt": 0,
+    "GridID": 2,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Key",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8025",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_FinalDoor_Lock.png",
+    "ParamInt": 0,
+    "GridID": 3,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "FinalDoor",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8016",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 101,
+    "GridID": 4,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1960452000
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5059",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterADC.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterADC.png",
+    "ParamInt": 103,
+    "GridID": 5,
+    "OpenBuff": 1,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 94,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -768431355
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8018",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterCall.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterCall.png",
+    "ParamInt": 101,
+    "GridID": 6,
+    "OpenBuff": 2,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 94,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1171715882
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8011",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 83,
+    "GridID": 7,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [
+      91,
+      92
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 8,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8023",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_RandomRole.png",
+    "ParamInt": 0,
+    "GridID": 11,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Avatar",
+    "Name": {
+      "hash": 1559555178
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5055",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 2,
+    "GridID": 12,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5055",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 3,
+    "GridID": 13,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8012",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 81,
+    "GridID": 14,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 5,
+    "GridID": 15,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5054",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 6,
+    "GridID": 16,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8011",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 30,
+    "GridID": 17,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 18,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 19,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 20,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterADC.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterADC.png",
+    "ParamInt": 2,
+    "GridID": 21,
+    "OpenBuff": 11,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 95,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1156270651
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterStronger.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterStronger.png",
+    "ParamInt": 3,
+    "GridID": 22,
+    "OpenBuff": 3,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 96,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1156270648
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8021",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterSupport.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterSupport.png",
+    "ParamInt": 105,
+    "GridID": 23,
+    "OpenBuff": 5,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 94,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1156270649
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterDefence.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterDefence.png",
+    "ParamInt": 3,
+    "GridID": 24,
+    "OpenBuff": 4,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 2,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1156270646
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8022",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/SilverPig.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_SilverPig.png",
+    "ParamInt": 8,
+    "GridID": 25,
+    "OpenBuff": 6,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 105,
+    "GridSubType": 1,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1156270647
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterCall.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterCall.png",
+    "ParamInt": 2,
+    "GridID": 26,
+    "OpenBuff": 2,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 95,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1156270644
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8016",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 2,
+    "GridID": 27,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 95,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1156270645
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterStronger.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterStronger.png",
+    "ParamInt": 301,
+    "GridID": 28,
+    "OpenBuff": 3,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 96,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1156270642
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterDefence.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterDefence.png",
+    "ParamInt": 303,
+    "GridID": 29,
+    "OpenBuff": 4,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 2,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1156270643
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 3,
+    "GridID": 30,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 96,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1572612705
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8016",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 102,
+    "GridID": 31,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 94,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1572612704
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5059",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterADC.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterADC.png",
+    "ParamInt": 104,
+    "GridID": 32,
+    "OpenBuff": 1,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1572612707
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8018",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterCall.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterCall.png",
+    "ParamInt": 104,
+    "GridID": 33,
+    "OpenBuff": 2,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1572612706
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8019",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterStronger.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterStronger.png",
+    "ParamInt": 2,
+    "GridID": 34,
+    "OpenBuff": 3,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 95,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1572612709
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8020",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterDefence.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterDefence.png",
+    "ParamInt": 204,
+    "GridID": 35,
+    "OpenBuff": 4,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 2,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1572612708
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterCall.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterCall.png",
+    "ParamInt": 6,
+    "GridID": 36,
+    "OpenBuff": 8,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1572612711
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8022",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/SilverPig.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_SilverPig.png",
+    "ParamInt": 7,
+    "GridID": 40,
+    "OpenBuff": 10,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 20,
+    "GridSubType": 1,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1975897232
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8022",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/SilverPig.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_SilverPig.png",
+    "ParamInt": 9,
+    "GridID": 41,
+    "OpenBuff": 12,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 106,
+    "GridSubType": 1,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1975897231
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8022",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/SilverPig.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_SilverPig.png",
+    "ParamInt": 10,
+    "GridID": 42,
+    "OpenBuff": 13,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 96,
+    "GridSubType": 1,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1975897234
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8022",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/GoldPig.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_GoldPig.png",
+    "ParamInt": 5,
+    "GridID": 43,
+    "OpenBuff": 14,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 2,
+    "GridSubType": 2,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1975897233
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterSupport.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterSupport.png",
+    "ParamInt": 2,
+    "GridID": 44,
+    "OpenBuff": 5,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 95,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1975897236
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      11102,
+      11108,
+      11109
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 51,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [
+      11101,
+      11106,
+      11105
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 52,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      11104,
+      11103,
+      11107
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 53,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      21102,
+      21108,
+      21109
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 54,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      21101,
+      21106,
+      21105
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 55,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      21104,
+      21103,
+      21107
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 56,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      31102,
+      31108,
+      31109
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 57,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      31101,
+      31106,
+      31105
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 58,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      31104,
+      31103,
+      31107
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 59,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      41102,
+      41108,
+      41109,
+      41105
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 60,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      41101,
+      41106
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 61,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      41104,
+      41103,
+      41107
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 62,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      51108
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 63,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      51101,
+      51106,
+      51105,
+      51102,
+      51109
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 64,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      51104,
+      51103,
+      51107
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 65,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8012",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 81,
+    "GridID": 81,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8012",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 82,
+    "GridID": 82,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8011",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 83,
+    "GridID": 83,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [
+      82,
+      30
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 84,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      29,
+      31,
+      32,
+      33
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 85,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 34,
+    "GridID": 86,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 35,
+    "GridID": 87,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 36,
+    "GridID": 88,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 37,
+    "GridID": 89,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 38,
+    "GridID": 90,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8011",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 91,
+    "GridID": 91,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8012",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 92,
+    "GridID": 92,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [
+      2,
+      3
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 93,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      2,
+      91,
+      6
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 94,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      101,
+      102,
+      108,
+      110,
+      37,
+      38
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 95,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      103,
+      104
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 96,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      2,
+      91
+    ],
+    "TutorialTriggerString": "TreasureDungeon_8011",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 97,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5055",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 2,
+    "GridID": 100,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Item",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [
+      101,
+      108,
+      35,
+      37,
+      38
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 101,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      102,
+      108,
+      35,
+      37,
+      38
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 102,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      103
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 103,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      104
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 104,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      105
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 105,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      106,
+      107
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 106,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [
+      11108
+    ],
+    "TutorialTriggerString": "TreasureDungeon_8024",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/TrialRole.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 200,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [
+      51107
+    ],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/TrialRole.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_TrialRole.png",
+    "ParamInt": 0,
+    "GridID": 201,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "TrialAvatarRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8016",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 101,
+    "GridID": 300,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 100,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1463691057
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 301,
+    "GridID": 301,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 96,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1265192298
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterStronger.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterStronger.png",
+    "ParamInt": 302,
+    "GridID": 302,
+    "OpenBuff": 3,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 96,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1668476825
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterDefence.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterDefence.png",
+    "ParamInt": 303,
+    "GridID": 303,
+    "OpenBuff": 16,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 96,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 102392884
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterSupport.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterSupport.png",
+    "ParamInt": 304,
+    "GridID": 304,
+    "OpenBuff": 5,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 96,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 861907771
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterADC.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterADC.png",
+    "ParamInt": 305,
+    "GridID": 305,
+    "OpenBuff": 11,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 96,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -704176170
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 0
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8016",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 101,
+    "GridID": 310,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1463691056
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8016",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 103,
+    "GridID": 320,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 94,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1463691059
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8016",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 104,
+    "GridID": 321,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1265192296
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8016",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 105,
+    "GridID": 330,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 94,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1463691058
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8016",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 106,
+    "GridID": 331,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1265192297
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5059",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterADC.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterADC.png",
+    "ParamInt": 105,
+    "GridID": 332,
+    "OpenBuff": 1,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 94,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1668476824
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5059",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterADC.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterADC.png",
+    "ParamInt": 106,
+    "GridID": 333,
+    "OpenBuff": 1,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 102392883
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8021",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterSupport.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterSupport.png",
+    "ParamInt": 106,
+    "GridID": 334,
+    "OpenBuff": 5,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 861907770
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8018",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterCall.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterCall.png",
+    "ParamInt": 106,
+    "GridID": 335,
+    "OpenBuff": 2,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -704176171
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8016",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 107,
+    "GridID": 340,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 94,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1463691061
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8016",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 108,
+    "GridID": 341,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1265192294
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5059",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterADC.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterADC.png",
+    "ParamInt": 107,
+    "GridID": 342,
+    "OpenBuff": 1,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 94,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1668476821
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5059",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterADC.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterADC.png",
+    "ParamInt": 108,
+    "GridID": 343,
+    "OpenBuff": 1,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 102392880
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8021",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterSupport.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterSupport.png",
+    "ParamInt": 107,
+    "GridID": 344,
+    "OpenBuff": 5,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 94,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 861907767
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8021",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterSupport.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterSupport.png",
+    "ParamInt": 108,
+    "GridID": 345,
+    "OpenBuff": 5,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -704176174
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8018",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterCall.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterCall.png",
+    "ParamInt": 108,
+    "GridID": 346,
+    "OpenBuff": 2,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -300891647
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8016",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 109,
+    "GridID": 350,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 94,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1463691060
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8016",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 110,
+    "GridID": 351,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1265192295
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5059",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterADC.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterADC.png",
+    "ParamInt": 110,
+    "GridID": 352,
+    "OpenBuff": 1,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 1668476822
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8021",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterSupport.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterSupport.png",
+    "ParamInt": 110,
+    "GridID": 353,
+    "OpenBuff": 5,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 97,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 102392881
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [
+      36
+    ],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 400,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [
+      36,
+      37
+    ],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 401,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [
+      36,
+      38
+    ],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 402,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [
+      35,
+      36,
+      38
+    ],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 403,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [
+      34,
+      36
+    ],
+    "TutorialTriggerString": "TreasureDungeon_5060",
+    "IconPath2D": "",
+    "IconPath": "",
+    "ParamInt": 0,
+    "GridID": 404,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "ItemRandom",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 2
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5052",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/SilverPig.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_SilverPig.png",
+    "ParamInt": 7,
+    "GridID": 500,
+    "OpenBuff": 10,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 88,
+    "GridSubType": 1,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -1746016059
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8050",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/GoldPig.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_GoldPig.png",
+    "ParamInt": 5,
+    "GridID": 501,
+    "OpenBuff": 14,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 2,
+    "GridSubType": 2,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 982867296
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5053",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/MonsterBase.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_MonsterBase.png",
+    "ParamInt": 101,
+    "GridID": 502,
+    "OpenBuff": 99,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 12,
+    "GridSubType": 0,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": -583216645
+    },
+    "EffectType": "LockAround",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_8022",
+    "IconPath2D": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/SilverPig.png",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_SilverPig.png",
+    "ParamInt": 7,
+    "GridID": 503,
+    "OpenBuff": 10,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 88,
+    "GridSubType": 1,
+    "GridType": "Enemy",
+    "Name": {
+      "hash": 2145666710
+    },
+    "EffectType": "ShowAtBegining",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5057",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_KeyDoor_Lock.png",
+    "ParamInt": 0,
+    "GridID": 504,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "KeyDoor",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 1
+  },
+  {
+    "TypeParam": [],
+    "TutorialTriggerString": "TreasureDungeon_5058",
+    "IconPath2D": "",
+    "IconPath": "SpriteOutput/ItemFigures/Activity/TreasureDungeon/UI3D_KeyDoor_Lock.png",
+    "ParamInt": 0,
+    "GridID": 505,
+    "OpenBuff": 0,
+    "Desc": {
+      "hash": 371857150
+    },
+    "ReplaceGridID": 0,
+    "GridSubType": 0,
+    "GridType": "KeyDoor",
+    "Name": {
+      "hash": 371857150
+    },
+    "EffectType": "None",
+    "TutorialTriggerType": 1
+  }
+]

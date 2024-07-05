@@ -1,0 +1,65 @@
+[
+  {
+    "ThemePosterEffectPrefabPath": "UI/Abyss/ChallengeStoryPosterEffThemePanel/ChallengeStoryAlternationPanelEff_2001.prefab",
+    "ThemeToastPicPath": "SpriteOutput/ChallengeTheme/ThemePic/ChallengeThemePic_2001.png",
+    "ThemeIconPicPath": "SpriteOutput/ChallengeBoss/ChallengeBossIcon_3001.png",
+    "BossPositionPrefabPath1": "UI/UI3D/ChallengeBoss/Widget/CB_SmallBoss_W1_Cocolia_Left.prefab",
+    "BuffList2": [
+      3111008,
+      3111009,
+      3111012
+    ],
+    "ThemePosterTabPicPath": "SpriteOutput/Quest/TabIcon/BtnChallengeBoss.png",
+    "BossPositionPrefabPath2": "UI/UI3D/ChallengeBoss/Widget/CB_SmallBoss_W2_Argenti_Right.prefab",
+    "ThemePosterBgPicPath": "SpriteOutput/ChallengeTheme/ThemeBg/ChallengeThemeBg_2001.png",
+    "BuffList1": [
+      3111008,
+      3111010,
+      3111011
+    ],
+    "GroupID": 3001,
+    "BossPattern": "Small"
+  },
+  {
+    "ThemePosterEffectPrefabPath": "UI/Abyss/ChallengeStoryPosterEffThemePanel/ChallengeStoryAlternationPanelEff_2001.prefab",
+    "ThemeToastPicPath": "SpriteOutput/ChallengeTheme/ThemePic/ChallengeThemePic_2001.png",
+    "ThemeIconPicPath": "SpriteOutput/ChallengeBoss/ChallengeBossIcon_3002.png",
+    "BossPositionPrefabPath1": "UI/UI3D/ChallengeBoss/Widget/CB_SmallBoss_W2_Kafka_Left.prefab",
+    "BuffList2": [
+      3111015,
+      3111016,
+      3111017
+    ],
+    "ThemePosterTabPicPath": "SpriteOutput/Quest/TabIcon/BtnChallengeBoss.png",
+    "BossPositionPrefabPath2": "UI/UI3D/ChallengeBoss/Widget/CB_LargeBoss_AML_Boss_Right.prefab",
+    "ThemePosterBgPicPath": "SpriteOutput/ChallengeTheme/ThemeBg/ChallengeThemeBg_2001.png",
+    "BuffList1": [
+      3111015,
+      3111013,
+      3111014
+    ],
+    "GroupID": 3002,
+    "BossPattern": "SmallAndLarge"
+  },
+  {
+    "ThemePosterEffectPrefabPath": "UI/Abyss/ChallengeStoryPosterEffThemePanel/ChallengeStoryAlternationPanelEff_2001.prefab",
+    "ThemeToastPicPath": "SpriteOutput/ChallengeTheme/ThemePic/ChallengeThemePic_2001.png",
+    "ThemeIconPicPath": "SpriteOutput/ChallengeBoss/ChallengeBossIcon_3001.png",
+    "BossPositionPrefabPath1": "UI/UI3D/ChallengeBoss/Widget/CB_SmallBoss_W2_Kafka_Left.prefab",
+    "BuffList2": [
+      3111003,
+      3111004,
+      3111006
+    ],
+    "ThemePosterTabPicPath": "SpriteOutput/Quest/TabIcon/BtnChallengeBoss.png",
+    "BossPositionPrefabPath2": "UI/UI3D/ChallengeBoss/Widget/CB_LargeBoss_AML_Boss_Right.prefab",
+    "ThemePosterBgPicPath": "SpriteOutput/ChallengeTheme/ThemeBg/ChallengeThemeBg_2001.png",
+    "BuffList1": [
+      3111003,
+      3111004,
+      3111005
+    ],
+    "GroupID": 3003,
+    "BossPattern": "SmallAndLarge"
+  }
+]

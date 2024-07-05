@@ -1,0 +1,80 @@
+[
+  {
+    "SquareBombPath": "SpriteOutput/Quest/MatchThree/Chess/KiwiFive.png",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/Chess/Kiwi.png",
+    "RowBombPath": "SpriteOutput/Quest/MatchThree/Chess/KiwiFour.png",
+    "PieceID": 1
+  },
+  {
+    "SquareBombPath": "SpriteOutput/Quest/MatchThree/Chess/BlueberryFive.png",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/Chess/Blueberry.png",
+    "RowBombPath": "SpriteOutput/Quest/MatchThree/Chess/BlueberryFour.png",
+    "PieceID": 2
+  },
+  {
+    "SquareBombPath": "SpriteOutput/Quest/MatchThree/Chess/StrawberryFive.png",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/Chess/Strawberry.png",
+    "RowBombPath": "SpriteOutput/Quest/MatchThree/Chess/StrawberryFour.png",
+    "PieceID": 3
+  },
+  {
+    "SquareBombPath": "SpriteOutput/Quest/MatchThree/Chess/BananaFive.png",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/Chess/Banana.png",
+    "RowBombPath": "SpriteOutput/Quest/MatchThree/Chess/BananaFour.png",
+    "PieceID": 4
+  },
+  {
+    "SquareBombPath": "SpriteOutput/Quest/MatchThree/Chess/PeachFive.png",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/Chess/Peach.png",
+    "RowBombPath": "SpriteOutput/Quest/MatchThree/Chess/PeachFour.png",
+    "PieceID": 5
+  },
+  {
+    "SquareBombPath": "",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/Chess/MultiStyleBomb.png",
+    "RowBombPath": "",
+    "PieceID": 6
+  },
+  {
+    "SquareBombPath": "",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/Chess/SpecialCheatCode3.png",
+    "RowBombPath": "",
+    "PieceID": 7
+  },
+  {
+    "SquareBombPath": "",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/Chess/SpecialCheatCode2.png",
+    "RowBombPath": "",
+    "PieceID": 8
+  },
+  {
+    "SquareBombPath": "",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/Chess/SpecialEnergyCore1.png",
+    "RowBombPath": "",
+    "PieceID": 9
+  },
+  {
+    "SquareBombPath": "",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/Chess/SpecialEnergyCore2.png",
+    "RowBombPath": "",
+    "PieceID": 10
+  },
+  {
+    "SquareBombPath": "",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/Chess/SpecialEnergyCore3.png",
+    "RowBombPath": "",
+    "PieceID": 11
+  },
+  {
+    "SquareBombPath": "",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/Chess/SpecialIceBlock.png",
+    "RowBombPath": "",
+    "PieceID": 12
+  },
+  {
+    "SquareBombPath": "",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/Chess/SpecialCheatCode1.png",
+    "RowBombPath": "",
+    "PieceID": 13
+  }
+]

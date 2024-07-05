@@ -1,0 +1,32 @@
+[
+  {
+    "SkillIconPath": "SpriteOutput/Talk/ConvinceSkill/ConvinceSkill03.png",
+    "ID": 1,
+    "SkillDescriptionID": {
+      "hash": -1914485999
+    },
+    "SkillNameText": {
+      "hash": -1525679990
+    }
+  },
+  {
+    "SkillIconPath": "SpriteOutput/Talk/ConvinceSkill/ConvinceSkill01.png",
+    "ID": 2,
+    "SkillDescriptionID": {
+      "hash": 814397356
+    },
+    "SkillNameText": {
+      "hash": -1525679989
+    }
+  },
+  {
+    "SkillIconPath": "SpriteOutput/Talk/ConvinceSkill/ConvinceSkill02.png",
+    "ID": 3,
+    "SkillDescriptionID": {
+      "hash": -751686585
+    },
+    "SkillNameText": {
+      "hash": -1525679988
+    }
+  }
+]

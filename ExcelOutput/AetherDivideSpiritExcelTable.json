@@ -1,0 +1,1019 @@
+[
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1015.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W1_Soldier04_00/Avatar_AetherDivide_W1_Soldier04_00.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_1002030.png",
+    "SkillList": [
+      600101,
+      600102,
+      600103,
+      600104
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_1002030.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/W1_Soldier04_00/Manikin_Monster_W1_Soldier04_00.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6001.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_1002030.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_W1_Soldier04_00_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_1002030.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1015B.png",
+    "RecommendPassiveSkillList": [
+      250220,
+      250205,
+      250209,
+      250232
+    ],
+    "PassiveSkillSlotList": [
+      "Trick",
+      "Assist"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1015.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1015.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W1_Soldier04_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1015.prefab",
+    "ExpItemID": 250300,
+    "SpiritDescription": {
+      "hash": 1298302105
+    },
+    "GymLocation": 1,
+    "SpiritType": "Human",
+    "AvatarID": 6001,
+    "SpiritUnlockDescription": {
+      "hash": -1470493859
+    },
+    "AvatarName": {
+      "hash": 1495229318
+    },
+    "DamageType": "Physical",
+    "SPMax": {
+      "RawValue": 12884901888
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1014.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W1_Soldier01_03/Avatar_AetherDivide_W1_Soldier01_03.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_1002020.png",
+    "SkillList": [
+      600301,
+      600302,
+      600303,
+      600304
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_1002020.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/W1_Soldier01_03/Manikin_Monster_W1_Soldier01_03.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6003.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_1002020.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_W1_Soldier01_03_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_1002020.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1014B.png",
+    "RecommendPassiveSkillList": [
+      250210,
+      250205,
+      250220,
+      250232
+    ],
+    "PassiveSkillSlotList": [
+      "Assist",
+      "Defend"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1014.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1014.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W1_Soldier01_03_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1014.prefab",
+    "ExpItemID": 250302,
+    "SpiritDescription": {
+      "hash": 1298302103
+    },
+    "GymLocation": 4,
+    "SpiritType": "Human",
+    "AvatarID": 6003,
+    "SpiritUnlockDescription": {
+      "hash": -1470493857
+    },
+    "AvatarName": {
+      "hash": 332429904
+    },
+    "DamageType": "Physical",
+    "SPMax": {
+      "RawValue": 12884901888
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1002.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W1_Soldier03_00/Avatar_AetherDivide_W1_Soldier03_00.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_1003010.png",
+    "SkillList": [
+      600501,
+      600502,
+      600503,
+      600504
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_1003010.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/W1_Soldier03_00/Manikin_Monster_W1_Soldier03_00.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6005.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_1003010.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_W1_Soldier01_03_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_1003010.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1002B.png",
+    "RecommendPassiveSkillList": [
+      250214,
+      250208,
+      250215,
+      250231
+    ],
+    "PassiveSkillSlotList": [
+      "Defend",
+      "Trick",
+      "Assist"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1002.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1002.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W1_Soldier03_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1002.prefab",
+    "ExpItemID": 250304,
+    "SpiritDescription": {
+      "hash": 1298302109
+    },
+    "GymLocation": 1,
+    "SpiritType": "Human",
+    "AvatarID": 6005,
+    "SpiritUnlockDescription": {
+      "hash": -1470493855
+    },
+    "AvatarName": {
+      "hash": -474139150
+    },
+    "DamageType": "Physical",
+    "SPMax": {
+      "RawValue": 17179869184
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType5"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1003.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_XP_Elite01_00/Avatar_AetherDivide_XP_Elite01_00.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_8003020.png",
+    "SkillList": [
+      600601,
+      600602,
+      600603,
+      600604
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_8003020.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/XP_Elite01_00/Manikin_Monster_XP_Elite01_00.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6006.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_8003020.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_XP_Elite01_01_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_8003020.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1003B.png",
+    "RecommendPassiveSkillList": [
+      250223,
+      250227,
+      250229,
+      250225
+    ],
+    "PassiveSkillSlotList": [
+      "Trick",
+      "Defend",
+      "Trick"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1003.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1003.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_XP_Elite01_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1003.prefab",
+    "ExpItemID": 250305,
+    "SpiritDescription": {
+      "hash": 1298302106
+    },
+    "GymLocation": 1,
+    "SpiritType": "Abnormity",
+    "AvatarID": 6006,
+    "SpiritUnlockDescription": {
+      "hash": -1470493854
+    },
+    "AvatarName": {
+      "hash": 1091944791
+    },
+    "DamageType": "Fire",
+    "SPMax": {
+      "RawValue": 12884901888
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType5"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1016.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W2_Beast01_01/Avatar_AetherDivide_W2_Beast01_01.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_2022050.png",
+    "SkillList": [
+      600701,
+      600702,
+      600703,
+      600704
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_2022050.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/W2_Beast01_01/Manikin_Monster_W2_Beast01_01.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6007.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_2022050.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_W2_Beast01_01_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_2022050.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1016B.png",
+    "RecommendPassiveSkillList": [
+      250208,
+      250217,
+      250229,
+      250202
+    ],
+    "PassiveSkillSlotList": [
+      "Storm",
+      "Trick"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1016.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1016.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W2_Beast01_01_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1016.prefab",
+    "ExpItemID": 250306,
+    "SpiritDescription": {
+      "hash": 1298302107
+    },
+    "GymLocation": 2,
+    "SpiritType": "Abnormity",
+    "AvatarID": 6007,
+    "SpiritUnlockDescription": {
+      "hash": -1470493853
+    },
+    "AvatarName": {
+      "hash": -1636938564
+    },
+    "DamageType": "Thunder",
+    "SPMax": {
+      "RawValue": 12884901888
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1005.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W2_Mecha02_00/Avatar_AetherDivide_W2_Mecha02_00.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_2012010.png",
+    "SkillList": [
+      600801,
+      600802,
+      600803,
+      600804
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_2012010.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/W2_Mecha02_00/Manikin_Monster_W2_Mecha02_00.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6008.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_2012010.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_W2_Mecha02_00_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_2012010.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1005B.png",
+    "RecommendPassiveSkillList": [
+      250228,
+      250222,
+      250219,
+      250217
+    ],
+    "PassiveSkillSlotList": [
+      "Trick",
+      "Defend"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1005.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1005.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W2_Mecha02_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1005.prefab",
+    "ExpItemID": 250307,
+    "SpiritDescription": {
+      "hash": 1298302112
+    },
+    "GymLocation": 2,
+    "SpiritType": "Machine",
+    "AvatarID": 6008,
+    "SpiritUnlockDescription": {
+      "hash": -1470493868
+    },
+    "AvatarName": {
+      "hash": -427084983
+    },
+    "DamageType": "Fire",
+    "SPMax": {
+      "RawValue": 8589934592
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1004.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W1_Soldier01_01/Avatar_AetherDivide_W1_Soldier01_01.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_1022020.png",
+    "SkillList": [
+      600901,
+      600902,
+      600903,
+      600904
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_1022020.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/W1_Soldier01_01/Manikin_Monster_W1_Soldier01_01.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6009.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_1022020.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_W1_Soldier01_01_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_1022020.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1004B.png",
+    "RecommendPassiveSkillList": [
+      250210,
+      250211,
+      250218,
+      250214
+    ],
+    "PassiveSkillSlotList": [
+      "Defend",
+      "Assist"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1004.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1004.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W1_Soldier01_01_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1004.prefab",
+    "ExpItemID": 250308,
+    "SpiritDescription": {
+      "hash": 1298302113
+    },
+    "GymLocation": 5,
+    "SpiritType": "Abnormity",
+    "AvatarID": 6009,
+    "SpiritUnlockDescription": {
+      "hash": -1470493867
+    },
+    "AvatarName": {
+      "hash": 1138998958
+    },
+    "DamageType": "Fire",
+    "SPMax": {
+      "RawValue": 8589934592
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1019.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_XP_Minion04_01/Avatar_AetherDivide_XP_Minion04_01.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_8002050.png",
+    "SkillList": [
+      601001,
+      601002,
+      601003,
+      601004,
+      601008
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_8002050.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/XP_Minion04_01/Manikin_Monster_XP_Minion04_01.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6010.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_8002050.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_XP_Minion04_01_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_8002050.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1019B.png",
+    "RecommendPassiveSkillList": [
+      250204,
+      250222,
+      250232,
+      250223,
+      250211
+    ],
+    "PassiveSkillSlotList": [
+      "Trick",
+      "Storm",
+      "Assist",
+      "Defend"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1019.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1019.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_XP_Minion04_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1019.prefab",
+    "ExpItemID": 250309,
+    "SpiritDescription": {
+      "hash": -1430581251
+    },
+    "GymLocation": 5,
+    "SpiritType": "Abnormity",
+    "AvatarID": 6010,
+    "SpiritUnlockDescription": {
+      "hash": 95590081
+    },
+    "AvatarName": {
+      "hash": -70854624
+    },
+    "DamageType": "Imaginary",
+    "SPMax": {
+      "RawValue": 12884901888
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1006.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W2_Mecha03_00/Avatar_AetherDivide_W2_Mecha03_00.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_2013010.png",
+    "SkillList": [
+      601101,
+      601102,
+      601103,
+      601104,
+      601108
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_2013010.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/W2_Mecha03_00/Manikin_Monster_W2_Mecha03_00.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6011.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_2013010.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_W2_Mecha03_00_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_2013010.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1006B.png",
+    "RecommendPassiveSkillList": [
+      250215,
+      250217,
+      250223,
+      250233
+    ],
+    "PassiveSkillSlotList": [
+      "Defend",
+      "Trick",
+      "Assist"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1006.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1006.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W2_Mecha03_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1006.prefab",
+    "ExpItemID": 250310,
+    "SpiritDescription": {
+      "hash": -1430581250
+    },
+    "GymLocation": 2,
+    "SpiritType": "Machine",
+    "AvatarID": 6011,
+    "SpiritUnlockDescription": {
+      "hash": 95590082
+    },
+    "AvatarName": {
+      "hash": 1495229317
+    },
+    "DamageType": "Imaginary",
+    "SPMax": {
+      "RawValue": 12884901888
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType5"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1009.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_XP_Minion02_00/Avatar_AetherDivide_XP_Minion02_00.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_8002010.png",
+    "SkillList": [
+      601201,
+      601202,
+      601203,
+      601204
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_8002010.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/XP_Minion02_00/Manikin_Monster_XP_Minion02_00.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6012.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_8002010.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_XP_Minion02_00_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_8002010.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1009B.png",
+    "RecommendPassiveSkillList": [
+      250202,
+      250216,
+      250220,
+      250225
+    ],
+    "PassiveSkillSlotList": [
+      "Trick",
+      "Storm"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1009.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1009.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_XP_Minion02_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1009.prefab",
+    "ExpItemID": 250311,
+    "SpiritDescription": {
+      "hash": -1430581253
+    },
+    "GymLocation": 1,
+    "SpiritType": "Abnormity",
+    "AvatarID": 6012,
+    "SpiritUnlockDescription": {
+      "hash": 95590083
+    },
+    "AvatarName": {
+      "hash": -1233654038
+    },
+    "DamageType": "Imaginary",
+    "SPMax": {
+      "RawValue": 12884901888
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1007.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W2_Mecha01_00/Avatar_AetherDivide_W2_Mecha01_00.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_2011010.png",
+    "SkillList": [
+      601301,
+      601302,
+      601303,
+      601304
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_2011010.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/W2_Mecha01_00/Manikin_Monster_W2_Mecha01_00.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6013.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_2011010.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_W2_Mecha01_00_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_2011010.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1007B.png",
+    "RecommendPassiveSkillList": [
+      250210,
+      250214,
+      250220,
+      250230
+    ],
+    "PassiveSkillSlotList": [
+      "Assist",
+      "Trick"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1007.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1007.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W2_Mecha01_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1007.prefab",
+    "ExpItemID": 250312,
+    "SpiritDescription": {
+      "hash": -1430581252
+    },
+    "GymLocation": 2,
+    "SpiritType": "Machine",
+    "AvatarID": 6013,
+    "SpiritUnlockDescription": {
+      "hash": 95590084
+    },
+    "AvatarName": {
+      "hash": 332429903
+    },
+    "DamageType": "Fire",
+    "SPMax": {
+      "RawValue": 17179869184
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1011.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W1_Mecha03_01/Avatar_AetherDivide_W1_Mecha03_01.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_1023020.png",
+    "SkillList": [
+      601401,
+      601402,
+      601403,
+      601404
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_1023020.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/W1_Mecha03_01/Manikin_Monster_W1_Mecha03_01.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6014.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_1023020.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_W1_Mecha03_01_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_1023020.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1011B.png",
+    "RecommendPassiveSkillList": [
+      250203,
+      250208,
+      250216,
+      250233
+    ],
+    "PassiveSkillSlotList": [
+      "Defend",
+      "Defend",
+      "Storm"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1011.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1011.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W1_Mecha03_01_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1011.prefab",
+    "ExpItemID": 250313,
+    "SpiritDescription": {
+      "hash": -1430581247
+    },
+    "GymLocation": 4,
+    "SpiritType": "Machine",
+    "AvatarID": 6014,
+    "SpiritUnlockDescription": {
+      "hash": 95590085
+    },
+    "AvatarName": {
+      "hash": -2040223092
+    },
+    "DamageType": "Ice",
+    "SPMax": {
+      "RawValue": 12884901888
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType5"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1012.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_AML_Minion04_00/Avatar_AetherDivide_AML_Minion04_00.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_8012030.png",
+    "SkillList": [
+      601801,
+      601802,
+      601803,
+      601804
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_8012030.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/AML_Minion04_00/Manikin_Monster_AML_Minion04_00.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6018.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_8012030.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_AML_Minion04_00_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_8012030.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1012B.png",
+    "RecommendPassiveSkillList": [
+      250207,
+      250224,
+      250226,
+      250203
+    ],
+    "PassiveSkillSlotList": [
+      "Storm",
+      "Defend"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1012.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1012.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_AML_Minion04_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1012.prefab",
+    "ExpItemID": 250317,
+    "SpiritDescription": {
+      "hash": -1430581243
+    },
+    "GymLocation": 3,
+    "SpiritType": "Abnormity",
+    "AvatarID": 6018,
+    "SpiritUnlockDescription": {
+      "hash": 95590073
+    },
+    "AvatarName": {
+      "hash": -427084984
+    },
+    "DamageType": "Imaginary",
+    "SPMax": {
+      "RawValue": 12884901888
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1017.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_AML_Elite01_00/Avatar_AetherDivide_AML_Elite01_00.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_8013010.png",
+    "SkillList": [
+      601501,
+      601502,
+      601503,
+      601504
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_8013010.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/AML_Elite01_00/Manikin_Monster_AML_Elite01_00.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6015.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_8013010.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_AML_Elite01_00_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_8013010.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1017B.png",
+    "RecommendPassiveSkillList": [
+      250201,
+      250209,
+      250221,
+      250212
+    ],
+    "PassiveSkillSlotList": [
+      "Storm",
+      "Storm",
+      "Trick"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1017.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1017.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_AML_Elite01_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1017.prefab",
+    "ExpItemID": 250314,
+    "SpiritDescription": {
+      "hash": -1430581246
+    },
+    "GymLocation": 3,
+    "SpiritType": "Abnormity",
+    "AvatarID": 6015,
+    "SpiritUnlockDescription": {
+      "hash": 95590086
+    },
+    "AvatarName": {
+      "hash": -474139151
+    },
+    "DamageType": "Quantum",
+    "SPMax": {
+      "RawValue": 17179869184
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType5"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1013.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W1_Mecha01_00/Avatar_AetherDivide_W1_Mecha01_00.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_1012020.png",
+    "SkillList": [
+      601601,
+      601602,
+      601603,
+      601604
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_1012020.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/W1_Mecha01_00/Manikin_Monster_W1_Mecha01_00.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6016.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_1012020.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_W1_Mecha01_00_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_1012020.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1013B.png",
+    "RecommendPassiveSkillList": [
+      250201,
+      250209,
+      250216,
+      250212
+    ],
+    "PassiveSkillSlotList": [
+      "Storm",
+      "Trick"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1013.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1013.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W1_Mecha01_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1013.prefab",
+    "ExpItemID": 250315,
+    "SpiritDescription": {
+      "hash": -1430581249
+    },
+    "GymLocation": 4,
+    "SpiritType": "Machine",
+    "AvatarID": 6016,
+    "SpiritUnlockDescription": {
+      "hash": 95590087
+    },
+    "AvatarName": {
+      "hash": 1091944790
+    },
+    "DamageType": "Fire",
+    "SPMax": {
+      "RawValue": 8589934592
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1008.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_AML_Minion02_00/Avatar_AetherDivide_AML_Minion02_00.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_8012010.png",
+    "SkillList": [
+      601701,
+      601702,
+      601703,
+      601704
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_8012010.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/AML_Minion02_00/Manikin_Monster_AML_Minion02_00.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6017.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_8012010.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_AML_Minion02_00_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_8012010.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1008B.png",
+    "RecommendPassiveSkillList": [
+      250207,
+      250224,
+      250226,
+      250219
+    ],
+    "PassiveSkillSlotList": [
+      "Trick",
+      "Assist"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1008.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1008.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_AML_Minion02_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1008.prefab",
+    "ExpItemID": 250316,
+    "SpiritDescription": {
+      "hash": -1430581248
+    },
+    "GymLocation": 3,
+    "SpiritType": "Abnormity",
+    "AvatarID": 6017,
+    "SpiritUnlockDescription": {
+      "hash": 95590088
+    },
+    "AvatarName": {
+      "hash": -1636938565
+    },
+    "DamageType": "Imaginary",
+    "SPMax": {
+      "RawValue": 12884901888
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1010.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W1_Soldier01_00/Avatar_AetherDivide_W1_Soldier01_00.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_1002040.png",
+    "SkillList": [
+      601901,
+      601902,
+      601903,
+      601904
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_1002040.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/W1_Soldier01_00/Manikin_Monster_W1_Soldier01_00.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6019.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_1002040.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_W1_Soldier01_00_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_1002040.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1010B.png",
+    "RecommendPassiveSkillList": [
+      250205,
+      250210,
+      250211,
+      250219
+    ],
+    "PassiveSkillSlotList": [
+      "Trick",
+      "Assist"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1010.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1010.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W1_Soldier01_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1010.prefab",
+    "ExpItemID": 250318,
+    "SpiritDescription": {
+      "hash": -1430581242
+    },
+    "GymLocation": 4,
+    "SpiritType": "Human",
+    "AvatarID": 6019,
+    "SpiritUnlockDescription": {
+      "hash": 95590074
+    },
+    "AvatarName": {
+      "hash": 1138998957
+    },
+    "DamageType": "Physical",
+    "SPMax": {
+      "RawValue": 17179869184
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1001.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W1_Soldier02_00/Avatar_AetherDivide_W1_Soldier02_00.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_1001020.png",
+    "SkillList": [
+      602001,
+      602002,
+      602003,
+      602004
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_1002050.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/W1_Soldier02_00/Manikin_Monster_W1_Soldier02_00.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6020.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_1002050.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_W1_Soldier02_00_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_1001020.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1001B.png",
+    "RecommendPassiveSkillList": [
+      250202,
+      250207,
+      250221,
+      250231
+    ],
+    "PassiveSkillSlotList": [
+      "Storm",
+      "Defend"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1001.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1001.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W1_Soldier02_00_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1001.prefab",
+    "ExpItemID": 250319,
+    "SpiritDescription": {
+      "hash": -1833865778
+    },
+    "GymLocation": 1,
+    "SpiritType": "Human",
+    "AvatarID": 6020,
+    "SpiritUnlockDescription": {
+      "hash": 1661674022
+    },
+    "AvatarName": {
+      "hash": -70854621
+    },
+    "DamageType": "Physical",
+    "SPMax": {
+      "RawValue": 12884901888
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  },
+  {
+    "WaitingAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1018.png",
+    "DefaultAvatarModelPath": "Characters/CharacterPrefabs/Avatar/Activity/AetherDivide/AetherDivide_W1_Soldier01_02/Avatar_AetherDivide_W1_Soldier01_02.prefab",
+    "AvatarSideIconPath": "SpriteOutput/MonsterRoundIcon/Monster_1022010.png",
+    "SkillList": [
+      602101,
+      602102,
+      602103,
+      602104
+    ],
+    "AvatarVOTag": "test",
+    "MiddleAvatarHeadIconPath": "SpriteOutput/MonsterMiddleIcon/Monster_1022010.png",
+    "ManikinAvatarModelPath": "Characters/CharacterPrefabs/Manikin/Monster/W1_Soldier01_02/Manikin_Monster_W1_Soldier01_02.prefab",
+    "AIPath": "Config/ConfigAI/Avatar_ComplexSkilll_AutoFight_AI.json",
+    "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Team_6021.prefab",
+    "DefaultAvatarHeadIconPath": "SpriteOutput/MonsterFigure/Monster_1022010.png",
+    "ManikinJsonPath": "Config/ConfigCharacter/Manikin/Monster/Manikin_Monster_W1_Soldier01_02_Config.json",
+    "SideAvatarHeadIconPath": "SpriteOutput/MosterIcon/Monster_1022010.png",
+    "ActionAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/MonsterIcon/Monster_1018B.png",
+    "RecommendPassiveSkillList": [
+      250211,
+      250218,
+      250230,
+      250219
+    ],
+    "PassiveSkillSlotList": [
+      "Assist",
+      "Storm"
+    ],
+    "AtlasAvatarHeadIconPath": "SpriteOutput/Quest/AetherDivide/Monster/Monster_1018.png",
+    "TeamRightPrefabPath": "UI/Quest/AetherDivide/Monster/Monster_1018.prefab",
+    "JsonPath": "Config/ConfigCharacter/Avatar/Avatar_AetherDivide_W1_Soldier01_02_Config.json",
+    "TeamLeftPrefabPath": "UI/Quest/AetherDivide/MonsterList/Monster_1018.prefab",
+    "ExpItemID": 250321,
+    "SpiritDescription": {
+      "hash": -1833865777
+    },
+    "GymLocation": 5,
+    "SpiritType": "Abnormity",
+    "AvatarID": 6021,
+    "SpiritUnlockDescription": {
+      "hash": 1661674023
+    },
+    "AvatarName": {
+      "hash": 1495229320
+    },
+    "DamageType": "Ice",
+    "SPMax": {
+      "RawValue": 12884901888
+    },
+    "MaxPromotion": 6,
+    "Rarity": "RarityType4"
+  }
+]

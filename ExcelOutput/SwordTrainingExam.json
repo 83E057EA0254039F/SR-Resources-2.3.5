@@ -1,0 +1,482 @@
+[
+  {
+    "ExcellentCommentList": [
+      101,
+      102,
+      103
+    ],
+    "EnemyImage": "SpriteOutput/Quest/SwordTraining/BattleImg/SwordTrainingBattleNPCImg1.png",
+    "ExamResultList": [
+      {
+        "EffectID": 21011,
+        "CombatRatio": 140
+      },
+      {
+        "EffectID": 21012,
+        "CombatRatio": 110
+      },
+      {
+        "EffectID": 21013,
+        "CombatRatio": 80
+      }
+    ],
+    "NormalCommentList": [
+      104,
+      105,
+      106
+    ],
+    "SuccessPerformID": [
+      802410142
+    ],
+    "EnemyPower": 2,
+    "FailPerformID": 802410142,
+    "StageID": 418001,
+    "PrePerformID": 802410138,
+    "IsLastExam": false,
+    "ExamID": 101,
+    "BattleAreaID": 2021101,
+    "EnemyName": {
+      "hash": 834311173
+    }
+  },
+  {
+    "ExcellentCommentList": [
+      201,
+      202,
+      203
+    ],
+    "EnemyImage": "SpriteOutput/Quest/SwordTraining/BattleImg/SwordTrainingBattleNPCImg2.png",
+    "ExamResultList": [
+      {
+        "EffectID": 21021,
+        "CombatRatio": 110
+      },
+      {
+        "EffectID": 21022,
+        "CombatRatio": 110
+      },
+      {
+        "EffectID": 21023,
+        "CombatRatio": 80
+      }
+    ],
+    "NormalCommentList": [
+      204,
+      205,
+      206
+    ],
+    "SuccessPerformID": [
+      802410142
+    ],
+    "EnemyPower": 5,
+    "FailPerformID": 802410142,
+    "StageID": 418002,
+    "PrePerformID": 802410139,
+    "IsLastExam": false,
+    "ExamID": 102,
+    "BattleAreaID": 2021101,
+    "EnemyName": {
+      "hash": 834311176
+    }
+  },
+  {
+    "ExcellentCommentList": [
+      301,
+      302,
+      303
+    ],
+    "EnemyImage": "SpriteOutput/Quest/SwordTraining/BattleImg/SwordTrainingBattleNPCImg3.png",
+    "ExamResultList": [
+      {
+        "EffectID": 0,
+        "CombatRatio": 140
+      },
+      {
+        "EffectID": 0,
+        "CombatRatio": 110
+      },
+      {
+        "EffectID": 0,
+        "CombatRatio": 80
+      }
+    ],
+    "NormalCommentList": [
+      304,
+      305,
+      306
+    ],
+    "SuccessPerformID": [
+      802410142
+    ],
+    "EnemyPower": 9,
+    "FailPerformID": 802410142,
+    "StageID": 418003,
+    "PrePerformID": 802410140,
+    "IsLastExam": true,
+    "ExamID": 103,
+    "BattleAreaID": 2021101,
+    "EnemyName": {
+      "hash": 834311175
+    }
+  },
+  {
+    "ExcellentCommentList": [
+      101,
+      102,
+      103
+    ],
+    "EnemyImage": "SpriteOutput/Quest/SwordTraining/BattleImg/SwordTrainingBattleNPCImg1.png",
+    "ExamResultList": [
+      {
+        "EffectID": 22011,
+        "CombatRatio": 140
+      },
+      {
+        "EffectID": 22012,
+        "CombatRatio": 110
+      },
+      {
+        "EffectID": 22013,
+        "CombatRatio": 80
+      }
+    ],
+    "NormalCommentList": [
+      104,
+      105,
+      106
+    ],
+    "SuccessPerformID": [
+      802410142
+    ],
+    "EnemyPower": 5,
+    "FailPerformID": 802410142,
+    "StageID": 418001,
+    "PrePerformID": 802410138,
+    "IsLastExam": false,
+    "ExamID": 201,
+    "BattleAreaID": 2021101,
+    "EnemyName": {
+      "hash": 834311144
+    }
+  },
+  {
+    "ExcellentCommentList": [
+      201,
+      202,
+      203
+    ],
+    "EnemyImage": "SpriteOutput/Quest/SwordTraining/BattleImg/SwordTrainingBattleNPCImg2.png",
+    "ExamResultList": [
+      {
+        "EffectID": 22021,
+        "CombatRatio": 140
+      },
+      {
+        "EffectID": 22022,
+        "CombatRatio": 110
+      },
+      {
+        "EffectID": 22023,
+        "CombatRatio": 80
+      }
+    ],
+    "NormalCommentList": [
+      204,
+      205,
+      206
+    ],
+    "SuccessPerformID": [
+      802410142
+    ],
+    "EnemyPower": 9,
+    "FailPerformID": 802410142,
+    "StageID": 418002,
+    "PrePerformID": 802410139,
+    "IsLastExam": false,
+    "ExamID": 202,
+    "BattleAreaID": 2021101,
+    "EnemyName": {
+      "hash": 834311141
+    }
+  },
+  {
+    "ExcellentCommentList": [
+      301,
+      302,
+      303
+    ],
+    "EnemyImage": "SpriteOutput/Quest/SwordTraining/BattleImg/SwordTrainingBattleNPCImg3.png",
+    "ExamResultList": [
+      {
+        "EffectID": 0,
+        "CombatRatio": 140
+      },
+      {
+        "EffectID": 0,
+        "CombatRatio": 110
+      },
+      {
+        "EffectID": 0,
+        "CombatRatio": 80
+      }
+    ],
+    "NormalCommentList": [
+      304,
+      305,
+      306
+    ],
+    "SuccessPerformID": [
+      802410142
+    ],
+    "EnemyPower": 14,
+    "FailPerformID": 802410142,
+    "StageID": 418003,
+    "PrePerformID": 802410140,
+    "IsLastExam": true,
+    "ExamID": 203,
+    "BattleAreaID": 2021101,
+    "EnemyName": {
+      "hash": 834311142
+    }
+  },
+  {
+    "ExcellentCommentList": [
+      101,
+      102,
+      103
+    ],
+    "EnemyImage": "SpriteOutput/Quest/SwordTraining/BattleImg/SwordTrainingBattleNPCImg1.png",
+    "ExamResultList": [
+      {
+        "EffectID": 23011,
+        "CombatRatio": 140
+      },
+      {
+        "EffectID": 23012,
+        "CombatRatio": 110
+      },
+      {
+        "EffectID": 23013,
+        "CombatRatio": 80
+      }
+    ],
+    "NormalCommentList": [
+      104,
+      105,
+      106
+    ],
+    "SuccessPerformID": [
+      802410142
+    ],
+    "EnemyPower": 7,
+    "FailPerformID": 802410142,
+    "StageID": 418004,
+    "PrePerformID": 802410138,
+    "IsLastExam": false,
+    "ExamID": 301,
+    "BattleAreaID": 2021101,
+    "EnemyName": {
+      "hash": 834311239
+    }
+  },
+  {
+    "ExcellentCommentList": [
+      201,
+      202,
+      203
+    ],
+    "EnemyImage": "SpriteOutput/Quest/SwordTraining/BattleImg/SwordTrainingBattleNPCImg2.png",
+    "ExamResultList": [
+      {
+        "EffectID": 23021,
+        "CombatRatio": 140
+      },
+      {
+        "EffectID": 23022,
+        "CombatRatio": 110
+      },
+      {
+        "EffectID": 23023,
+        "CombatRatio": 80
+      }
+    ],
+    "NormalCommentList": [
+      204,
+      205,
+      206
+    ],
+    "SuccessPerformID": [
+      802410142
+    ],
+    "EnemyPower": 12,
+    "FailPerformID": 802410142,
+    "StageID": 418005,
+    "PrePerformID": 802410139,
+    "IsLastExam": false,
+    "ExamID": 302,
+    "BattleAreaID": 2021101,
+    "EnemyName": {
+      "hash": 834311238
+    }
+  },
+  {
+    "ExcellentCommentList": [
+      301,
+      302,
+      303
+    ],
+    "EnemyImage": "SpriteOutput/Quest/SwordTraining/BattleImg/SwordTrainingBattleNPCImg3.png",
+    "ExamResultList": [
+      {
+        "EffectID": 0,
+        "CombatRatio": 140
+      },
+      {
+        "EffectID": 0,
+        "CombatRatio": 110
+      },
+      {
+        "EffectID": 0,
+        "CombatRatio": 80
+      }
+    ],
+    "NormalCommentList": [
+      304,
+      305,
+      306
+    ],
+    "SuccessPerformID": [
+      802410142
+    ],
+    "EnemyPower": 17,
+    "FailPerformID": 802410142,
+    "StageID": 418006,
+    "PrePerformID": 802410140,
+    "IsLastExam": true,
+    "ExamID": 303,
+    "BattleAreaID": 2021101,
+    "EnemyName": {
+      "hash": 834311237
+    }
+  },
+  {
+    "ExcellentCommentList": [
+      101,
+      102,
+      103
+    ],
+    "EnemyImage": "SpriteOutput/Quest/SwordTraining/BattleImg/SwordTrainingBattleNPCImg1.png",
+    "ExamResultList": [
+      {
+        "EffectID": 24011,
+        "CombatRatio": 140
+      },
+      {
+        "EffectID": 24012,
+        "CombatRatio": 110
+      },
+      {
+        "EffectID": 24013,
+        "CombatRatio": 80
+      }
+    ],
+    "NormalCommentList": [
+      104,
+      105,
+      106
+    ],
+    "SuccessPerformID": [
+      802410142
+    ],
+    "EnemyPower": 12,
+    "FailPerformID": 802410142,
+    "StageID": 418004,
+    "PrePerformID": 802410138,
+    "IsLastExam": false,
+    "ExamID": 401,
+    "BattleAreaID": 2021101,
+    "EnemyName": {
+      "hash": 834311210
+    }
+  },
+  {
+    "ExcellentCommentList": [
+      201,
+      202,
+      203
+    ],
+    "EnemyImage": "SpriteOutput/Quest/SwordTraining/BattleImg/SwordTrainingBattleNPCImg2.png",
+    "ExamResultList": [
+      {
+        "EffectID": 24021,
+        "CombatRatio": 140
+      },
+      {
+        "EffectID": 24022,
+        "CombatRatio": 110
+      },
+      {
+        "EffectID": 24023,
+        "CombatRatio": 80
+      }
+    ],
+    "NormalCommentList": [
+      204,
+      205,
+      206
+    ],
+    "SuccessPerformID": [
+      802410142
+    ],
+    "EnemyPower": 17,
+    "FailPerformID": 802410142,
+    "StageID": 418005,
+    "PrePerformID": 802410139,
+    "IsLastExam": false,
+    "ExamID": 402,
+    "BattleAreaID": 2021101,
+    "EnemyName": {
+      "hash": 834311211
+    }
+  },
+  {
+    "ExcellentCommentList": [
+      301,
+      302,
+      303
+    ],
+    "EnemyImage": "SpriteOutput/Quest/SwordTraining/BattleImg/SwordTrainingBattleNPCImg3.png",
+    "ExamResultList": [
+      {
+        "EffectID": 0,
+        "CombatRatio": 140
+      },
+      {
+        "EffectID": 0,
+        "CombatRatio": 110
+      },
+      {
+        "EffectID": 0,
+        "CombatRatio": 80
+      }
+    ],
+    "NormalCommentList": [
+      304,
+      305,
+      306
+    ],
+    "SuccessPerformID": [
+      802410142
+    ],
+    "EnemyPower": 19,
+    "FailPerformID": 802410142,
+    "StageID": 418006,
+    "PrePerformID": 802410140,
+    "IsLastExam": true,
+    "ExamID": 403,
+    "BattleAreaID": 2021101,
+    "EnemyName": {
+      "hash": 834311212
+    }
+  }
+]

@@ -1,0 +1,451 @@
+[
+  {
+    "HintStr": "≤-2",
+    "IncludeTags": [
+      1
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "Sweetness",
+    "TagCombinationID": 1,
+    "TagRequestDesc": {
+      "hash": -1476162112
+    }
+  },
+  {
+    "HintStr": "-1",
+    "IncludeTags": [
+      2
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "Sweetness",
+    "TagCombinationID": 2,
+    "TagRequestDesc": {
+      "hash": -1476162115
+    }
+  },
+  {
+    "HintStr": "1",
+    "IncludeTags": [
+      3
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "Sweetness",
+    "TagCombinationID": 3,
+    "TagRequestDesc": {
+      "hash": -1476162114
+    }
+  },
+  {
+    "HintStr": "≥2",
+    "IncludeTags": [
+      4
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "Sweetness",
+    "TagCombinationID": 4,
+    "TagRequestDesc": {
+      "hash": -1476162117
+    }
+  },
+  {
+    "HintStr": "≤-2",
+    "IncludeTags": [
+      5
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "Acidity",
+    "TagCombinationID": 5,
+    "TagRequestDesc": {
+      "hash": -1476162116
+    }
+  },
+  {
+    "HintStr": "-1",
+    "IncludeTags": [
+      6
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "Acidity",
+    "TagCombinationID": 6,
+    "TagRequestDesc": {
+      "hash": -1476162119
+    }
+  },
+  {
+    "HintStr": "1",
+    "IncludeTags": [
+      7
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "Acidity",
+    "TagCombinationID": 7,
+    "TagRequestDesc": {
+      "hash": -1476162118
+    }
+  },
+  {
+    "HintStr": "≥2",
+    "IncludeTags": [
+      8
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "Acidity",
+    "TagCombinationID": 8,
+    "TagRequestDesc": {
+      "hash": -1476162105
+    }
+  },
+  {
+    "HintStr": "≤-2",
+    "IncludeTags": [
+      21
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "Texture",
+    "TagCombinationID": 21,
+    "TagRequestDesc": {
+      "hash": -364308344
+    }
+  },
+  {
+    "HintStr": "-1",
+    "IncludeTags": [
+      22
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "Texture",
+    "TagCombinationID": 22,
+    "TagRequestDesc": {
+      "hash": 38976183
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      23
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 23,
+    "TagRequestDesc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "HintStr": "1",
+    "IncludeTags": [
+      24
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "Texture",
+    "TagCombinationID": 24,
+    "TagRequestDesc": {
+      "hash": -767592871
+    }
+  },
+  {
+    "HintStr": "≥2",
+    "IncludeTags": [
+      25
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "Texture",
+    "TagCombinationID": 25,
+    "TagRequestDesc": {
+      "hash": 1961290484
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      31
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 31,
+    "TagRequestDesc": {
+      "hash": -364308343
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      32
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 32,
+    "TagRequestDesc": {
+      "hash": 38976184
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      33
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 33,
+    "TagRequestDesc": {
+      "hash": -1527107757
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      34
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 34,
+    "TagRequestDesc": {
+      "hash": -767592870
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      101
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 101,
+    "TagRequestDesc": {
+      "hash": 668672735
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      102
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 102,
+    "TagRequestDesc": {
+      "hash": 668672734
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      103
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 103,
+    "TagRequestDesc": {
+      "hash": 668672733
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      201
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 201,
+    "TagRequestDesc": {
+      "hash": 668672574
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      202
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 202,
+    "TagRequestDesc": {
+      "hash": 668672575
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      203
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 203,
+    "TagRequestDesc": {
+      "hash": 668672576
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      401
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 401,
+    "TagRequestDesc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      402
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 402,
+    "TagRequestDesc": {
+      "hash": 668672505
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      403
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 403,
+    "TagRequestDesc": {
+      "hash": 668672506
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [],
+    "ExcludeTags": [
+      401,
+      402
+    ],
+    "HintIconType": "None",
+    "TagCombinationID": 404,
+    "TagRequestDesc": {
+      "hash": 668672511
+    }
+  },
+  {
+    "HintStr": "≥1",
+    "IncludeTags": [],
+    "ExcludeTags": [
+      1,
+      2,
+      501
+    ],
+    "HintIconType": "Sweetness",
+    "TagCombinationID": 1201,
+    "TagRequestDesc": {
+      "hash": 432590933
+    }
+  },
+  {
+    "HintStr": "≤-1",
+    "IncludeTags": [],
+    "ExcludeTags": [
+      3,
+      4,
+      501
+    ],
+    "HintIconType": "Sweetness",
+    "TagCombinationID": 2102,
+    "TagRequestDesc": {
+      "hash": 1857512210
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [],
+    "ExcludeTags": [
+      5,
+      6,
+      502
+    ],
+    "HintIconType": "None",
+    "TagCombinationID": 2202,
+    "TagRequestDesc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [],
+    "ExcludeTags": [
+      7,
+      8,
+      502
+    ],
+    "HintIconType": "None",
+    "TagCombinationID": 2203,
+    "TagRequestDesc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [],
+    "ExcludeTags": [
+      501,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "HintIconType": "None",
+    "TagCombinationID": 4101,
+    "TagRequestDesc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      399
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 399,
+    "TagRequestDesc": {
+      "hash": -1253641624
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      302
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 3001,
+    "TagRequestDesc": {
+      "hash": 150265865
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [
+      303
+    ],
+    "ExcludeTags": [],
+    "HintIconType": "None",
+    "TagCombinationID": 3002,
+    "TagRequestDesc": {
+      "hash": 553550392
+    }
+  },
+  {
+    "HintStr": "",
+    "IncludeTags": [],
+    "ExcludeTags": [
+      1,
+      4,
+      8
+    ],
+    "HintIconType": "None",
+    "TagCombinationID": 3003,
+    "TagRequestDesc": {
+      "hash": -1012533549
+    }
+  }
+]

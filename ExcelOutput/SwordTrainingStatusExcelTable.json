@@ -1,0 +1,72 @@
+[
+  {
+    "StatusOutLineIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingAttIcon1Outline.png",
+    "StatusIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingAttIcon1.png",
+    "StatusName": {
+      "hash": 609221143
+    },
+    "InitialValue": 50,
+    "StatusID": 1,
+    "MaximumValue": 9999
+  },
+  {
+    "StatusOutLineIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingAttIcon2Outline.png",
+    "StatusIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingAttIcon2.png",
+    "StatusName": {
+      "hash": 205936616
+    },
+    "InitialValue": 24,
+    "StatusID": 2,
+    "MaximumValue": 9999
+  },
+  {
+    "StatusOutLineIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingAttIcon3Outline.png",
+    "StatusIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingAttIcon3.png",
+    "StatusName": {
+      "hash": 1772020557
+    },
+    "InitialValue": 28,
+    "StatusID": 3,
+    "MaximumValue": 9999
+  },
+  {
+    "StatusOutLineIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingAttIcon4Outline.png",
+    "StatusIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingAttIcon4.png",
+    "StatusName": {
+      "hash": 1012505670
+    },
+    "InitialValue": 19,
+    "StatusID": 4,
+    "MaximumValue": 9999
+  },
+  {
+    "StatusOutLineIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingAttIconAllOutline.png",
+    "StatusIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingAttIconAll.png",
+    "StatusName": {
+      "hash": 371857150
+    },
+    "InitialValue": 0,
+    "StatusID": 5,
+    "MaximumValue": 0
+  },
+  {
+    "StatusOutLineIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingAttIconPointOuline.png",
+    "StatusIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingAttIconPoint.png",
+    "StatusName": {
+      "hash": 371857150
+    },
+    "InitialValue": 0,
+    "StatusID": 6,
+    "MaximumValue": 0
+  },
+  {
+    "StatusOutLineIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingEmoIconOutline.png",
+    "StatusIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingEmoIcon2.png",
+    "StatusName": {
+      "hash": 371857150
+    },
+    "InitialValue": 0,
+    "StatusID": 7,
+    "MaximumValue": 0
+  }
+]

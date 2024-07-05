@@ -1,0 +1,4168 @@
+[
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity2",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity3",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 10,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 10,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 10,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 10,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 10,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 10,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 11,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 11,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 11,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 11,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 11,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 11,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 12,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 12,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 12,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 12,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 12,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity4",
+    "RelicLevel": 12,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 0,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 1,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 2,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 3,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 4,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 1
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 5,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 6,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 7,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 8,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 9,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 10,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 10,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 10,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 10,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 10,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 10,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 11,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 11,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 11,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 3
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 11,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 11,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 11,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 5
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 12,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 12,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 12,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 12,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 12,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 12,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 5
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 13,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 13,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 13,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 13,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 13,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 13,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 5
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 14,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 1
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 14,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 14,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 14,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 14,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 4
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 14,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "HPAddedRatio",
+        "JDCDFHANANH": 5
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 15,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HEAD"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 2
+      },
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 2
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 15,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "HAND"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "AttackAddedRatio",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "CriticalDamageBase",
+        "JDCDFHANANH": 5
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 15,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "BODY"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "DefenceAddedRatio",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "StatusProbabilityBase",
+        "JDCDFHANANH": 5
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 15,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "FOOT"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "SpeedDelta",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "StatusResistanceBase",
+        "JDCDFHANANH": 5
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 15,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "NECK"
+  },
+  {
+    "RelicSubValueList": [
+      {
+        "LFJEANLMLHE": "CriticalChanceBase",
+        "JDCDFHANANH": 3
+      },
+      {
+        "LFJEANLMLHE": "BreakDamageAddedRatioBase",
+        "JDCDFHANANH": 5
+      }
+    ],
+    "RelicRarity": "CombatPowerRelicRarity5",
+    "RelicLevel": 15,
+    "RelicSubValueStepTime": 1,
+    "RelicType": "OBJECT"
+  }
+]

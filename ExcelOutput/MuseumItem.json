@@ -1,0 +1,506 @@
+[
+  {
+    "ItemSkillList": [
+      1
+    ],
+    "DisplayOrder": 1,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": -1215086577
+    },
+    "StatsB": 0,
+    "ItemID": 250001,
+    "ScenePropID": 300020,
+    "StatsA": 0,
+    "UnlockPhase": 1,
+    "AreaID": 1,
+    "EvidenceInfoTextID": {
+      "hash": 715957922
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": true,
+    "IsInitial": false,
+    "RenewPoint": 0
+  },
+  {
+    "ItemSkillList": [
+      105
+    ],
+    "DisplayOrder": 1,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": 754281890
+    },
+    "StatsB": 0,
+    "ItemID": 250015,
+    "ScenePropID": 300037,
+    "StatsA": 0,
+    "UnlockPhase": 2,
+    "AreaID": 3,
+    "EvidenceInfoTextID": {
+      "hash": 715957922
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": true,
+    "IsInitial": false,
+    "RenewPoint": 0
+  },
+  {
+    "ItemSkillList": [
+      110
+    ],
+    "DisplayOrder": 1,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": 1917081307
+    },
+    "StatsB": 0,
+    "ItemID": 250027,
+    "ScenePropID": 300001,
+    "StatsA": 0,
+    "UnlockPhase": 3,
+    "AreaID": 4,
+    "EvidenceInfoTextID": {
+      "hash": 715957922
+    },
+    "SceneGroupID": 5,
+    "HideGetHint": true,
+    "IsInitial": false,
+    "RenewPoint": 0
+  },
+  {
+    "ItemSkillList": [
+      102
+    ],
+    "DisplayOrder": 2,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": 754281891
+    },
+    "StatsB": 0,
+    "ItemID": 250005,
+    "ScenePropID": 300016,
+    "StatsA": 0,
+    "UnlockPhase": 1,
+    "AreaID": 1,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 500
+  },
+  {
+    "ItemSkillList": [
+      103
+    ],
+    "DisplayOrder": 3,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": -811802050
+    },
+    "StatsB": 0,
+    "ItemID": 250006,
+    "ScenePropID": 300014,
+    "StatsA": 0,
+    "UnlockPhase": 1,
+    "AreaID": 1,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 2000
+  },
+  {
+    "ItemSkillList": [
+      107
+    ],
+    "DisplayOrder": 1,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": 1917081305
+    },
+    "StatsB": 0,
+    "ItemID": 250007,
+    "ScenePropID": 300019,
+    "StatsA": 0,
+    "UnlockPhase": 2,
+    "AreaID": 2,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 15000
+  },
+  {
+    "ItemSkillList": [
+      104
+    ],
+    "DisplayOrder": 4,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": 707227724
+    },
+    "StatsB": 0,
+    "ItemID": 250008,
+    "ScenePropID": 300026,
+    "StatsA": 0,
+    "UnlockPhase": 1,
+    "AreaID": 1,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 4000
+  },
+  {
+    "ItemSkillList": [
+      109
+    ],
+    "DisplayOrder": 2,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": -858856217
+    },
+    "StatsB": 0,
+    "ItemID": 250009,
+    "ScenePropID": 300017,
+    "StatsA": 0,
+    "UnlockPhase": 2,
+    "AreaID": 2,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 20000
+  },
+  {
+    "ItemSkillList": [
+      106
+    ],
+    "DisplayOrder": 5,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": -1215086578
+    },
+    "StatsB": 0,
+    "ItemID": 250011,
+    "ScenePropID": 300012,
+    "StatsA": 0,
+    "UnlockPhase": 2,
+    "AreaID": 1,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 9000
+  },
+  {
+    "ItemSkillList": [
+      111
+    ],
+    "DisplayOrder": 3,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": 1513796777
+    },
+    "StatsB": 0,
+    "ItemID": 250012,
+    "ScenePropID": 300013,
+    "StatsA": 0,
+    "UnlockPhase": 2,
+    "AreaID": 2,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 50000
+  },
+  {
+    "ItemSkillList": [
+      108
+    ],
+    "DisplayOrder": 4,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": -52287164
+    },
+    "StatsB": 0,
+    "ItemID": 250013,
+    "ScenePropID": 300022,
+    "StatsA": 0,
+    "UnlockPhase": 2,
+    "AreaID": 2,
+    "EvidenceInfoTextID": {
+      "hash": 1356229259
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 15000
+  },
+  {
+    "ItemSkillList": [
+      112
+    ],
+    "DisplayOrder": 2,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": -858856218
+    },
+    "StatsB": 0,
+    "ItemID": 250019,
+    "ScenePropID": 300030,
+    "StatsA": 0,
+    "UnlockPhase": 3,
+    "AreaID": 3,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 50000
+  },
+  {
+    "ItemSkillList": [
+      115
+    ],
+    "DisplayOrder": 3,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": 350997366
+    },
+    "StatsB": 0,
+    "ItemID": 250020,
+    "ScenePropID": 300031,
+    "StatsA": 0,
+    "UnlockPhase": 3,
+    "AreaID": 3,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 60000
+  },
+  {
+    "ItemSkillList": [
+      113
+    ],
+    "DisplayOrder": 4,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": -1215086575
+    },
+    "StatsB": 0,
+    "ItemID": 250021,
+    "ScenePropID": 300036,
+    "StatsA": 0,
+    "UnlockPhase": 3,
+    "AreaID": 3,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 60000
+  },
+  {
+    "ItemSkillList": [
+      116
+    ],
+    "DisplayOrder": 5,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": 1513796780
+    },
+    "StatsB": 0,
+    "ItemID": 250022,
+    "ScenePropID": 300032,
+    "StatsA": 0,
+    "UnlockPhase": 3,
+    "AreaID": 3,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 100000
+  },
+  {
+    "ItemSkillList": [
+      117
+    ],
+    "DisplayOrder": 6,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": -52287161
+    },
+    "StatsB": 0,
+    "ItemID": 250023,
+    "ScenePropID": 300029,
+    "StatsA": 0,
+    "UnlockPhase": 3,
+    "AreaID": 3,
+    "EvidenceInfoTextID": {
+      "hash": 1356229259
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 80000
+  },
+  {
+    "ItemSkillList": [
+      118
+    ],
+    "DisplayOrder": 2,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": -1215086576
+    },
+    "StatsB": 0,
+    "ItemID": 250031,
+    "ScenePropID": 300009,
+    "StatsA": 0,
+    "UnlockPhase": 4,
+    "AreaID": 4,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 100000
+  },
+  {
+    "ItemSkillList": [
+      119
+    ],
+    "DisplayOrder": 3,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": 1513796779
+    },
+    "StatsB": 0,
+    "ItemID": 250032,
+    "ScenePropID": 300008,
+    "StatsA": 0,
+    "UnlockPhase": 4,
+    "AreaID": 4,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 120000
+  },
+  {
+    "ItemSkillList": [
+      114
+    ],
+    "DisplayOrder": 4,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": -52287162
+    },
+    "StatsB": 0,
+    "ItemID": 250033,
+    "ScenePropID": 300002,
+    "StatsA": 0,
+    "UnlockPhase": 4,
+    "AreaID": 4,
+    "EvidenceInfoTextID": {
+      "hash": 1356229259
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 40000
+  },
+  {
+    "ItemSkillList": [
+      120
+    ],
+    "DisplayOrder": 5,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": -1974601463
+    },
+    "StatsB": 0,
+    "ItemID": 250034,
+    "ScenePropID": 300001,
+    "StatsA": 0,
+    "UnlockPhase": 4,
+    "AreaID": 4,
+    "EvidenceInfoTextID": {
+      "hash": 1356229259
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 80000
+  },
+  {
+    "ItemSkillList": [
+      121
+    ],
+    "DisplayOrder": 6,
+    "StatsC": 0,
+    "CollectedReward": 26000106,
+    "MuseumItemDesc": {
+      "hash": 1917081306
+    },
+    "StatsB": 0,
+    "ItemID": 250037,
+    "ScenePropID": 300011,
+    "StatsA": 0,
+    "UnlockPhase": 4,
+    "AreaID": 4,
+    "EvidenceInfoTextID": {
+      "hash": -209854682
+    },
+    "SceneGroupID": 28,
+    "HideGetHint": false,
+    "IsInitial": false,
+    "RenewPoint": 120000
+  }
+]

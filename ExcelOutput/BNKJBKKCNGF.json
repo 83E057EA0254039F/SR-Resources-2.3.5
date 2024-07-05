@@ -1,0 +1,166 @@
+[
+  {
+    "NPPNCIJDIHH": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "MELMFJNMHGN": "NPC_Full_W1_Male_Face_Oleg",
+    "LADCMHHAIOE": [
+      10.0,
+      90.0
+    ],
+    "LPEMOEGFIOA": "NPC_Full_W1_Male_Face_Oleg_Lod0",
+    "DLCDFFOCEFF": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "COEBLOMALBL": 5.0,
+    "MMLICOPBKGC": 75.0,
+    "PJPJEBKJGDP": 0.15,
+    "CJFLBADGKNE": 3.0,
+    "OBKGBEIFNPM": 0.0
+  },
+  {
+    "NPPNCIJDIHH": [
+      "Eye_WinkB"
+    ],
+    "MELMFJNMHGN": "NPC_Full_W1_Male_Face_Fersman",
+    "LADCMHHAIOE": [
+      100.0
+    ],
+    "LPEMOEGFIOA": "NPC_Full_W1_Male_Face_Fersman_Lod0",
+    "DLCDFFOCEFF": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "COEBLOMALBL": 5.0,
+    "MMLICOPBKGC": 75.0,
+    "PJPJEBKJGDP": 0.18,
+    "CJFLBADGKNE": 3.0,
+    "OBKGBEIFNPM": 0.0
+  },
+  {
+    "NPPNCIJDIHH": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "MELMFJNMHGN": "NPC_Full_W2_Lady_Face_DanShu",
+    "LADCMHHAIOE": [
+      20.0,
+      80.0
+    ],
+    "LPEMOEGFIOA": "NPC_Full_W2_Lady_Face_DanShu_Lod0",
+    "DLCDFFOCEFF": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "COEBLOMALBL": 5.0,
+    "MMLICOPBKGC": 75.0,
+    "PJPJEBKJGDP": 0.15,
+    "CJFLBADGKNE": 3.0,
+    "OBKGBEIFNPM": 0.05
+  },
+  {
+    "NPPNCIJDIHH": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "MELMFJNMHGN": "NPC_Full_W2_Male_Face_GongShuLiang",
+    "LADCMHHAIOE": [
+      20.0,
+      80.0
+    ],
+    "LPEMOEGFIOA": "NPC_Full_W2_Male_Face_GongShuLiang_Lod0",
+    "DLCDFFOCEFF": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "COEBLOMALBL": 5.0,
+    "MMLICOPBKGC": 75.0,
+    "PJPJEBKJGDP": 0.16,
+    "CJFLBADGKNE": 3.0,
+    "OBKGBEIFNPM": 0.0
+  },
+  {
+    "NPPNCIJDIHH": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "MELMFJNMHGN": "NPC_Full_W1_Male_Oleg_Face",
+    "LADCMHHAIOE": [
+      10.0,
+      90.0
+    ],
+    "LPEMOEGFIOA": "NPC_Full_W1_Male_Oleg_Face_Lod0",
+    "DLCDFFOCEFF": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "COEBLOMALBL": 5.0,
+    "MMLICOPBKGC": 75.0,
+    "PJPJEBKJGDP": 0.15,
+    "CJFLBADGKNE": 3.0,
+    "OBKGBEIFNPM": 0.0
+  },
+  {
+    "NPPNCIJDIHH": [
+      "Eye_WinkB"
+    ],
+    "MELMFJNMHGN": "NPC_Full_W1_Male_Fersman_Face",
+    "LADCMHHAIOE": [
+      100.0
+    ],
+    "LPEMOEGFIOA": "NPC_Full_W1_Male_Fersman_Face_Lod0",
+    "DLCDFFOCEFF": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "COEBLOMALBL": 5.0,
+    "MMLICOPBKGC": 75.0,
+    "PJPJEBKJGDP": 0.18,
+    "CJFLBADGKNE": 3.0,
+    "OBKGBEIFNPM": 0.0
+  },
+  {
+    "NPPNCIJDIHH": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "MELMFJNMHGN": "NPC_Full_W2_Lady_DanShu_Face",
+    "LADCMHHAIOE": [
+      20.0,
+      80.0
+    ],
+    "LPEMOEGFIOA": "NPC_Full_W2_Lady_DanShu_Face_Lod0",
+    "DLCDFFOCEFF": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "COEBLOMALBL": 5.0,
+    "MMLICOPBKGC": 75.0,
+    "PJPJEBKJGDP": 0.15,
+    "CJFLBADGKNE": 3.0,
+    "OBKGBEIFNPM": 0.05
+  },
+  {
+    "NPPNCIJDIHH": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "MELMFJNMHGN": "NPC_Full_W2_Male_GongShuLiang_Face",
+    "LADCMHHAIOE": [
+      20.0,
+      80.0
+    ],
+    "LPEMOEGFIOA": "NPC_Full_W2_Male_GongShuLiang_Face_Lod0",
+    "DLCDFFOCEFF": [
+      "Eye_WinkA",
+      "Eye_WinkB"
+    ],
+    "COEBLOMALBL": 5.0,
+    "MMLICOPBKGC": 75.0,
+    "PJPJEBKJGDP": 0.16,
+    "CJFLBADGKNE": 3.0,
+    "OBKGBEIFNPM": 0.0
+  }
+]

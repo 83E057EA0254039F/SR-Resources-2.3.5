@@ -1,0 +1,49 @@
+[
+  {
+    "CustomString": "GreatEqual500",
+    "ParaList": [],
+    "BehaviorType": 1,
+    "CurrencyItem": 2,
+    "ParaInt": 500,
+    "ID": 1001,
+    "ParaType": "GREATEQUAL"
+  },
+  {
+    "CustomString": "Low500",
+    "ParaList": [],
+    "BehaviorType": 1,
+    "CurrencyItem": 2,
+    "ParaInt": 500,
+    "ID": 1002,
+    "ParaType": "LOWER"
+  },
+  {
+    "CustomString": "GreatEqual200",
+    "ParaList": [],
+    "BehaviorType": 1,
+    "CurrencyItem": 120002,
+    "ParaInt": 200,
+    "ID": 1003,
+    "ParaType": "GREATEQUAL"
+  },
+  {
+    "CustomString": "LowEqual50",
+    "ParaList": [],
+    "BehaviorType": 1,
+    "CurrencyItem": 120002,
+    "ParaInt": 50,
+    "ID": 1004,
+    "ParaType": "LOWEREQUAL"
+  },
+  {
+    "CustomString": "Between50150",
+    "ParaList": [
+      50150
+    ],
+    "BehaviorType": 1,
+    "CurrencyItem": 120002,
+    "ParaInt": 0,
+    "ID": 1005,
+    "ParaType": "BETWEEN"
+  }
+]

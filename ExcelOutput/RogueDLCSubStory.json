@@ -1,0 +1,422 @@
+[
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0114601.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0114601.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_01.png",
+    "RogueDLCSubStoryID": 101,
+    "SubStoryName": {
+      "hash": -2036926620
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0114701.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0114701.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_01.png",
+    "RogueDLCSubStoryID": 102,
+    "SubStoryName": {
+      "hash": -2036926619
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0114801.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0114801.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_01.png",
+    "RogueDLCSubStoryID": 103,
+    "SubStoryName": {
+      "hash": -2036926618
+    },
+    "Layer": 3
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0114901.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0114901.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_01.png",
+    "RogueDLCSubStoryID": 201,
+    "SubStoryName": {
+      "hash": -2036926459
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0115001.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0115001.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_01.png",
+    "RogueDLCSubStoryID": 202,
+    "SubStoryName": {
+      "hash": -2036926460
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0115101.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0115101.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_01.png",
+    "RogueDLCSubStoryID": 203,
+    "SubStoryName": {
+      "hash": -2036926461
+    },
+    "Layer": 3
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0115201.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0115201.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_01.png",
+    "RogueDLCSubStoryID": 301,
+    "SubStoryName": {
+      "hash": -2036926554
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0115301.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0115301.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_01.png",
+    "RogueDLCSubStoryID": 302,
+    "SubStoryName": {
+      "hash": -2036926557
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0115401.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0115401.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_01.png",
+    "RogueDLCSubStoryID": 303,
+    "SubStoryName": {
+      "hash": -2036926556
+    },
+    "Layer": 3
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0115501.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0115501.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_02.png",
+    "RogueDLCSubStoryID": 401,
+    "SubStoryName": {
+      "hash": -2036926657
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0115601.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0115601.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_02.png",
+    "RogueDLCSubStoryID": 402,
+    "SubStoryName": {
+      "hash": -2036926654
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0115701.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0115701.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_02.png",
+    "RogueDLCSubStoryID": 403,
+    "SubStoryName": {
+      "hash": -2036926655
+    },
+    "Layer": 3
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0115801.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0115801.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_02.png",
+    "RogueDLCSubStoryID": 501,
+    "SubStoryName": {
+      "hash": -2036926752
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0115901.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0115901.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_02.png",
+    "RogueDLCSubStoryID": 502,
+    "SubStoryName": {
+      "hash": -2036926751
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0116001.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0116001.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_02.png",
+    "RogueDLCSubStoryID": 503,
+    "SubStoryName": {
+      "hash": -2036926750
+    },
+    "Layer": 3
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0116101.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0116101.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_02.png",
+    "RogueDLCSubStoryID": 601,
+    "SubStoryName": {
+      "hash": -2036926591
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0116201.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0116201.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_02.png",
+    "RogueDLCSubStoryID": 602,
+    "SubStoryName": {
+      "hash": -2036926592
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0116301.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0116301.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_02.png",
+    "RogueDLCSubStoryID": 603,
+    "SubStoryName": {
+      "hash": -2036926593
+    },
+    "Layer": 3
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0116401.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0116401.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_02.png",
+    "RogueDLCSubStoryID": 701,
+    "SubStoryName": {
+      "hash": -2036926686
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0116501.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0116501.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_02.png",
+    "RogueDLCSubStoryID": 702,
+    "SubStoryName": {
+      "hash": -2036926689
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0116601.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0116601.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_02.png",
+    "RogueDLCSubStoryID": 703,
+    "SubStoryName": {
+      "hash": -2036926688
+    },
+    "Layer": 3
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0116701.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0116701.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_03.png",
+    "RogueDLCSubStoryID": 801,
+    "SubStoryName": {
+      "hash": -2036926261
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0116801.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0116801.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_03.png",
+    "RogueDLCSubStoryID": 802,
+    "SubStoryName": {
+      "hash": -2036926258
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0116901.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0116901.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_03.png",
+    "RogueDLCSubStoryID": 803,
+    "SubStoryName": {
+      "hash": -2036926259
+    },
+    "Layer": 3
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0117001.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0117001.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_03.png",
+    "RogueDLCSubStoryID": 901,
+    "SubStoryName": {
+      "hash": -2036926356
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0117101.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0117101.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_03.png",
+    "RogueDLCSubStoryID": 902,
+    "SubStoryName": {
+      "hash": -2036926355
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0117201.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0117201.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_03.png",
+    "RogueDLCSubStoryID": 903,
+    "SubStoryName": {
+      "hash": -2036926354
+    },
+    "Layer": 3
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0117301.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0117301.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_01.png",
+    "RogueDLCSubStoryID": 1001,
+    "SubStoryName": {
+      "hash": 559164974
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0117401.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0117401.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_01.png",
+    "RogueDLCSubStoryID": 1002,
+    "SubStoryName": {
+      "hash": -1006918967
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0117501.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0117501.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_01.png",
+    "RogueDLCSubStoryID": 1003,
+    "SubStoryName": {
+      "hash": 1721964388
+    },
+    "Layer": 3
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0117601.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0117601.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_05.png",
+    "RogueDLCSubStoryID": 1101,
+    "SubStoryName": {
+      "hash": 2105045939
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0117701.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0117701.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_05.png",
+    "RogueDLCSubStoryID": 1102,
+    "SubStoryName": {
+      "hash": 1701761412
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0117801.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0117801.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_05.png",
+    "RogueDLCSubStoryID": 1103,
+    "SubStoryName": {
+      "hash": -1027121943
+    },
+    "Layer": 3
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0117901.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0117901.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_05.png",
+    "RogueDLCSubStoryID": 1201,
+    "SubStoryName": {
+      "hash": 276839972
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0118001.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0118001.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_05.png",
+    "RogueDLCSubStoryID": 1202,
+    "SubStoryName": {
+      "hash": 680124499
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0118101.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0118101.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_05.png",
+    "RogueDLCSubStoryID": 1203,
+    "SubStoryName": {
+      "hash": -885959442
+    },
+    "Layer": 3
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0118201.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0118201.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_04.png",
+    "RogueDLCSubStoryID": 1301,
+    "SubStoryName": {
+      "hash": 1822720937
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0118301.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0118301.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_04.png",
+    "RogueDLCSubStoryID": 1302,
+    "SubStoryName": {
+      "hash": -906162418
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0118401.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0118401.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_04.png",
+    "RogueDLCSubStoryID": 1303,
+    "SubStoryName": {
+      "hash": 659921523
+    },
+    "Layer": 3
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0118501.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0118501.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_06.png",
+    "RogueDLCSubStoryID": 1401,
+    "SubStoryName": {
+      "hash": 1123814978
+    },
+    "Layer": 1
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0118601.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0118601.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_06.png",
+    "RogueDLCSubStoryID": 1402,
+    "SubStoryName": {
+      "hash": -442268963
+    },
+    "Layer": 2
+  },
+  {
+    "OptionPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Opt/Opt0118701.json",
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueDialogueEvent/Act/Act0118701.json",
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_06.png",
+    "RogueDLCSubStoryID": 1403,
+    "SubStoryName": {
+      "hash": -2008352904
+    },
+    "Layer": 3
+  }
+]

@@ -1,0 +1,291 @@
+[
+  {
+    "AvailableEntranceIDList": [
+      2000401
+    ],
+    "FloorOperation": [],
+    "MissionIDList": [
+      200090103
+    ],
+    "LoadingType": 5,
+    "Priority": 10,
+    "LoadingID": 0,
+    "StratageType": "Legacy"
+  },
+  {
+    "AvailableEntranceIDList": [
+      2000401
+    ],
+    "FloorOperation": [],
+    "MissionIDList": [
+      200090102
+    ],
+    "LoadingType": 5,
+    "Priority": 10,
+    "LoadingID": 1,
+    "StratageType": "Legacy"
+  },
+  {
+    "AvailableEntranceIDList": [
+      43301001
+    ],
+    "FloorOperation": [],
+    "MissionIDList": [
+      103010104
+    ],
+    "LoadingType": 0,
+    "Priority": 10,
+    "LoadingID": 2,
+    "StratageType": "Plain"
+  },
+  {
+    "AvailableEntranceIDList": [
+      43302001
+    ],
+    "FloorOperation": [],
+    "MissionIDList": [
+      103020111
+    ],
+    "LoadingType": 0,
+    "Priority": 10,
+    "LoadingID": 5,
+    "StratageType": "Plain"
+  },
+  {
+    "AvailableEntranceIDList": [
+      1030101
+    ],
+    "FloorOperation": [],
+    "MissionIDList": [
+      103080104
+    ],
+    "LoadingType": 0,
+    "Priority": 10,
+    "LoadingID": 6,
+    "StratageType": "Plain"
+  },
+  {
+    "AvailableEntranceIDList": [
+      1030101
+    ],
+    "FloorOperation": [],
+    "MissionIDList": [
+      103080106
+    ],
+    "LoadingType": 0,
+    "Priority": 10,
+    "LoadingID": 7,
+    "StratageType": "Plain"
+  },
+  {
+    "AvailableEntranceIDList": [
+      2031101
+    ],
+    "FloorOperation": [],
+    "MissionIDList": [
+      103080107
+    ],
+    "LoadingType": 0,
+    "Priority": 10,
+    "LoadingID": 8,
+    "StratageType": "Plain"
+  },
+  {
+    "AvailableEntranceIDList": [
+      2031101
+    ],
+    "FloorOperation": [],
+    "MissionIDList": [
+      103080108
+    ],
+    "LoadingType": 0,
+    "Priority": 10,
+    "LoadingID": 9,
+    "StratageType": "Plain"
+  },
+  {
+    "AvailableEntranceIDList": [],
+    "FloorOperation": [
+      {
+        "FJOJLFMCPKP": "Dream",
+        "EEOLCCFMJFF": "EnterFloorTag"
+      }
+    ],
+    "MissionIDList": [],
+    "LoadingType": 0,
+    "Priority": 1,
+    "LoadingID": 10,
+    "StratageType": "PamSnore"
+  },
+  {
+    "AvailableEntranceIDList": [],
+    "FloorOperation": [
+      {
+        "FJOJLFMCPKP": "DeepDream",
+        "EEOLCCFMJFF": "EnterFloorTag"
+      }
+    ],
+    "MissionIDList": [],
+    "LoadingType": 0,
+    "Priority": 1,
+    "LoadingID": 11,
+    "StratageType": "PamSnore"
+  },
+  {
+    "AvailableEntranceIDList": [],
+    "FloorOperation": [
+      {
+        "FJOJLFMCPKP": "PenaconyReality",
+        "EEOLCCFMJFF": "ExitFloorTag"
+      },
+      {
+        "FJOJLFMCPKP": "Dream",
+        "EEOLCCFMJFF": "EnterFloorTag"
+      }
+    ],
+    "MissionIDList": [],
+    "LoadingType": 0,
+    "Priority": 2,
+    "LoadingID": 12,
+    "StratageType": "EnterDream"
+  },
+  {
+    "AvailableEntranceIDList": [],
+    "FloorOperation": [
+      {
+        "FJOJLFMCPKP": "Dream",
+        "EEOLCCFMJFF": "ExitFloorTag"
+      },
+      {
+        "FJOJLFMCPKP": "DeepDream",
+        "EEOLCCFMJFF": "EnterFloorTag"
+      }
+    ],
+    "MissionIDList": [],
+    "LoadingType": 0,
+    "Priority": 2,
+    "LoadingID": 13,
+    "StratageType": "EnterDream"
+  },
+  {
+    "AvailableEntranceIDList": [],
+    "FloorOperation": [
+      {
+        "FJOJLFMCPKP": "PenaconyReality",
+        "EEOLCCFMJFF": "ExitFloorTag"
+      },
+      {
+        "FJOJLFMCPKP": "DeepDream",
+        "EEOLCCFMJFF": "EnterFloorTag"
+      }
+    ],
+    "MissionIDList": [],
+    "LoadingType": 0,
+    "Priority": 2,
+    "LoadingID": 14,
+    "StratageType": "EnterDream"
+  },
+  {
+    "AvailableEntranceIDList": [],
+    "FloorOperation": [
+      {
+        "FJOJLFMCPKP": "DeepDream",
+        "EEOLCCFMJFF": "ExitFloorTag"
+      },
+      {
+        "FJOJLFMCPKP": "Dream",
+        "EEOLCCFMJFF": "EnterFloorTag"
+      }
+    ],
+    "MissionIDList": [],
+    "LoadingType": 0,
+    "Priority": 2,
+    "LoadingID": 15,
+    "StratageType": "ExitDream"
+  },
+  {
+    "AvailableEntranceIDList": [],
+    "FloorOperation": [
+      {
+        "FJOJLFMCPKP": "Dream",
+        "EEOLCCFMJFF": "ExitFloorTag"
+      },
+      {
+        "FJOJLFMCPKP": "PenaconyReality",
+        "EEOLCCFMJFF": "EnterFloorTag"
+      }
+    ],
+    "MissionIDList": [],
+    "LoadingType": 0,
+    "Priority": 2,
+    "LoadingID": 16,
+    "StratageType": "ExitDream"
+  },
+  {
+    "AvailableEntranceIDList": [],
+    "FloorOperation": [
+      {
+        "FJOJLFMCPKP": "DeepDream",
+        "EEOLCCFMJFF": "ExitFloorTag"
+      },
+      {
+        "FJOJLFMCPKP": "PenaconyReality",
+        "EEOLCCFMJFF": "EnterFloorTag"
+      }
+    ],
+    "MissionIDList": [],
+    "LoadingType": 0,
+    "Priority": 2,
+    "LoadingID": 17,
+    "StratageType": "ExitDream"
+  },
+  {
+    "AvailableEntranceIDList": [],
+    "FloorOperation": [
+      {
+        "FJOJLFMCPKP": "Dream",
+        "EEOLCCFMJFF": "ExitFloorTag"
+      },
+      {
+        "FJOJLFMCPKP": "Dream",
+        "EEOLCCFMJFF": "EnterFloorTag"
+      }
+    ],
+    "MissionIDList": [],
+    "LoadingType": 0,
+    "Priority": 2,
+    "LoadingID": 18,
+    "StratageType": "PamSnore"
+  },
+  {
+    "AvailableEntranceIDList": [],
+    "FloorOperation": [
+      {
+        "FJOJLFMCPKP": "DeepDream",
+        "EEOLCCFMJFF": "ExitFloorTag"
+      },
+      {
+        "FJOJLFMCPKP": "DeepDream",
+        "EEOLCCFMJFF": "EnterFloorTag"
+      }
+    ],
+    "MissionIDList": [],
+    "LoadingType": 0,
+    "Priority": 2,
+    "LoadingID": 19,
+    "StratageType": "PamSnore"
+  },
+  {
+    "AvailableEntranceIDList": [
+      1020101
+    ],
+    "FloorOperation": [],
+    "MissionIDList": [
+      202210110
+    ],
+    "LoadingType": 0,
+    "Priority": 10,
+    "LoadingID": 20,
+    "StratageType": "Plain"
+  }
+]

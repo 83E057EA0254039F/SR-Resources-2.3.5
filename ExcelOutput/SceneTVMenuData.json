@@ -1,0 +1,1302 @@
+[
+  {
+    "IfAnAsset": "SpriteOutput/PicTalkCG/Common/PicChap01_01.png",
+    "SoundEvent": "",
+    "Asset": "Chap01_Eff_Dual_A_01.usm",
+    "ProgramGroupID": 99,
+    "ID": 1,
+    "Duration": 2.0,
+    "Order": 1,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_51.tga",
+    "ProgramGroupID": 99,
+    "ID": 2,
+    "Duration": 3.0,
+    "Order": 2,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_50.tga",
+    "ProgramGroupID": 99,
+    "ID": 3,
+    "Duration": 4.0,
+    "Order": 3,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "SpriteOutput/PicTalkCG/Common/PicTrainKV.png",
+    "ProgramGroupID": 99,
+    "ID": 4,
+    "Duration": 5.0,
+    "Order": 4,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/Chap03_Eff_Screen01.tga",
+    "ProgramGroupID": 100,
+    "ID": 100,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_vo_ambient_w3_greeting_xinwen_101_near",
+    "Asset": "Chap03_TV_Video_01.usm",
+    "ProgramGroupID": 4,
+    "ID": 126,
+    "Duration": 25.0,
+    "Order": 1,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_P201_03.tga",
+    "ProgramGroupID": 5,
+    "ID": 127,
+    "Duration": 1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_clockboyse_gamever_01_l",
+    "Asset": "Chap03_TV_Video_02.usm",
+    "ProgramGroupID": 5,
+    "ID": 128,
+    "Duration": 21.0,
+    "Order": 2,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_P201_03.tga",
+    "ProgramGroupID": 5,
+    "ID": 129,
+    "Duration": 1.0,
+    "Order": 3,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_clockboyse_gamever_03_l",
+    "Asset": "Chap03_TV_Video_03.usm",
+    "ProgramGroupID": 5,
+    "ID": 130,
+    "Duration": 21.0,
+    "Order": 4,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_P201_03.tga",
+    "ProgramGroupID": 6,
+    "ID": 133,
+    "Duration": 1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_clockboyse_gamever_01_m",
+    "Asset": "Chap03_TV_Video_02.usm",
+    "ProgramGroupID": 6,
+    "ID": 134,
+    "Duration": 21.0,
+    "Order": 2,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_P201_03.tga",
+    "ProgramGroupID": 6,
+    "ID": 135,
+    "Duration": 1.0,
+    "Order": 3,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_clockboyse_gamever_03_m",
+    "Asset": "Chap03_TV_Video_03.usm",
+    "ProgramGroupID": 6,
+    "ID": 136,
+    "Duration": 21.0,
+    "Order": 4,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_P201_03.tga",
+    "ProgramGroupID": 7,
+    "ID": 139,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_P201_02.tga",
+    "ProgramGroupID": 8,
+    "ID": 140,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Chap03_TV_Video_01.usm",
+    "ProgramGroupID": 9,
+    "ID": 141,
+    "Duration": 25.0,
+    "Order": 2,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/Chap03_Eff_TV_P301_DisplayScreen_01.tga",
+    "ProgramGroupID": 142,
+    "ID": 142,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/Chap03_Eff_TV_P301_DisplayScreen_02.tga",
+    "ProgramGroupID": 143,
+    "ID": 143,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_60.tga",
+    "ProgramGroupID": 144,
+    "ID": 144,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_62.tga",
+    "ProgramGroupID": 145,
+    "ID": 145,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_64.tga",
+    "ProgramGroupID": 146,
+    "ID": 146,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/Chap03_Eff_TV_P301_DisplayScreen_01.tga",
+    "ProgramGroupID": 147,
+    "ID": 147,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/Chap03_Eff_TV_P301_DisplayScreen_02.tga",
+    "ProgramGroupID": 148,
+    "ID": 148,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_61.tga",
+    "ProgramGroupID": 149,
+    "ID": 149,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_63.tga",
+    "ProgramGroupID": 150,
+    "ID": 150,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_65.tga",
+    "ProgramGroupID": 151,
+    "ID": 151,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_vo_ambient_w3_broadcast_zgn_101_far",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_53.tga",
+    "ProgramGroupID": 1,
+    "ID": 201,
+    "Duration": 14.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_Broadcast_Robin_L",
+    "Asset": "Chap03_TV_Video_Robin.usm",
+    "ProgramGroupID": 1,
+    "ID": 202,
+    "Duration": 17.0,
+    "Order": 2,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_vo_ambient_w3_broadcast_jiazu_101_far",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_52.tga",
+    "ProgramGroupID": 1,
+    "ID": 203,
+    "Duration": 12.0,
+    "Order": 3,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_vo_ambient_w3_greeting_xinwen_101_far",
+    "Asset": "Chap03_TV_Video_01.usm",
+    "ProgramGroupID": 1,
+    "ID": 204,
+    "Duration": 20.0,
+    "Order": 4,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_vo_ambient_w3_broadcast_pisa_101_far",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_01.tga",
+    "ProgramGroupID": 1,
+    "ID": 205,
+    "Duration": 8.0,
+    "Order": 5,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_clockboyse_gamever_01_l",
+    "Asset": "Chap03_TV_Video_02.usm",
+    "ProgramGroupID": 1,
+    "ID": 206,
+    "Duration": 20.0,
+    "Order": 6,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_vo_ambient_w3_broadcast_zgn_101_far",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_53.tga",
+    "ProgramGroupID": 1,
+    "ID": 207,
+    "Duration": 14.0,
+    "Order": 7,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_Broadcast_Robin_L",
+    "Asset": "Chap03_TV_Video_Robin.usm",
+    "ProgramGroupID": 1,
+    "ID": 208,
+    "Duration": 17.0,
+    "Order": 8,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_vo_ambient_w3_broadcast_jiazu_101_far",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_52.tga",
+    "ProgramGroupID": 1,
+    "ID": 209,
+    "Duration": 12.0,
+    "Order": 9,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_clockboyse_gamever_03_l",
+    "Asset": "Chap03_TV_Video_03.usm",
+    "ProgramGroupID": 1,
+    "ID": 212,
+    "Duration": 20.0,
+    "Order": 10,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_vo_ambient_w3_broadcast_zgn_101_middle",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_53.tga",
+    "ProgramGroupID": 2,
+    "ID": 221,
+    "Duration": 14.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_Broadcast_Robin_M",
+    "Asset": "Chap03_TV_Video_Robin.usm",
+    "ProgramGroupID": 2,
+    "ID": 222,
+    "Duration": 17.0,
+    "Order": 2,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_vo_ambient_w3_broadcast_jiazu_101_middle",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_52.tga",
+    "ProgramGroupID": 2,
+    "ID": 223,
+    "Duration": 12.0,
+    "Order": 3,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_Broadcast_Robin_M",
+    "Asset": "Chap03_TV_Video_Robin.usm",
+    "ProgramGroupID": 2,
+    "ID": 224,
+    "Duration": 17.0,
+    "Order": 4,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_vo_ambient_w3_broadcast_chezhan_104_normal",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_06.tga",
+    "ProgramGroupID": 3,
+    "ID": 241,
+    "Duration": 8.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_Broadcast_Robin_S",
+    "Asset": "Chap03_TV_Video_Robin.usm",
+    "ProgramGroupID": 3,
+    "ID": 242,
+    "Duration": 17.0,
+    "Order": 2,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_vo_ambient_w3_broadcast_jiazu_101_normal",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_52.tga",
+    "ProgramGroupID": 3,
+    "ID": 243,
+    "Duration": 12.0,
+    "Order": 3,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "Ev_vo_ambient_w3_greeting_xinwen_101_normal",
+    "Asset": "Chap03_TV_Video_01.usm",
+    "ProgramGroupID": 3,
+    "ID": 244,
+    "Duration": 25.0,
+    "Order": 4,
+    "PlayType": 2
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_Event200_01.tga",
+    "ProgramGroupID": 301,
+    "ID": 301,
+    "Duration": 3.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_Event200_02.tga",
+    "ProgramGroupID": 301,
+    "ID": 302,
+    "Duration": 3.0,
+    "Order": 2,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_Event200_03.tga",
+    "ProgramGroupID": 303,
+    "ID": 303,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_Event200_04.tga",
+    "ProgramGroupID": 304,
+    "ID": 304,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_Event200_05.tga",
+    "ProgramGroupID": 305,
+    "ID": 305,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_Event200_06.tga",
+    "ProgramGroupID": 306,
+    "ID": 306,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_Event200_07.tga",
+    "ProgramGroupID": 307,
+    "ID": 307,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_Event200_08.tga",
+    "ProgramGroupID": 308,
+    "ID": 308,
+    "Duration": 3.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_Event200_09.tga",
+    "ProgramGroupID": 308,
+    "ID": 309,
+    "Duration": 3.0,
+    "Order": 2,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_Event200_10.tga",
+    "ProgramGroupID": 310,
+    "ID": 310,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Evolve_ArcadeMachine_02.tga",
+    "ProgramGroupID": 401,
+    "ID": 401,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Evolve_ArcadeMachine_01.tga",
+    "ProgramGroupID": 402,
+    "ID": 402,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/MatchThree_ArcadeMachine_Title.tga",
+    "ProgramGroupID": 403,
+    "ID": 403,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/MatchThree_ArcadeMachine_Green.tga",
+    "ProgramGroupID": 404,
+    "ID": 404,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/MatchThree_ArcadeMachine_Yellow.tga",
+    "ProgramGroupID": 405,
+    "ID": 405,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/MatchThree_ArcadeMachine_Pink.tga",
+    "ProgramGroupID": 406,
+    "ID": 406,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/MatchThree_ArcadeMachine_Red.tga",
+    "ProgramGroupID": 407,
+    "ID": 407,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/MatchThree_ArcadeMachine_Blue.tga",
+    "ProgramGroupID": 408,
+    "ID": 408,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/MatchThree_ArcadeMachine_Player.tga",
+    "ProgramGroupID": 409,
+    "ID": 409,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "",
+    "ProgramGroupID": 500,
+    "ID": 500,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_SU_1301.tga",
+    "ProgramGroupID": 501,
+    "ID": 501,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_SU_1302.tga",
+    "ProgramGroupID": 502,
+    "ID": 502,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_SU_1303.tga",
+    "ProgramGroupID": 503,
+    "ID": 503,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_SU_1304.tga",
+    "ProgramGroupID": 504,
+    "ID": 504,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_SU_1305.tga",
+    "ProgramGroupID": 505,
+    "ID": 505,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_SU_1306.tga",
+    "ProgramGroupID": 506,
+    "ID": 506,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_SU_1601.tga",
+    "ProgramGroupID": 507,
+    "ID": 507,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_SU_1602.tga",
+    "ProgramGroupID": 508,
+    "ID": 508,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_SU_1603.tga",
+    "ProgramGroupID": 509,
+    "ID": 509,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_SU_1604.tga",
+    "ProgramGroupID": 510,
+    "ID": 510,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_SU_1605.tga",
+    "ProgramGroupID": 511,
+    "ID": 511,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_TV_Content_SU_1606.tga",
+    "ProgramGroupID": 512,
+    "ID": 512,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_01.png",
+    "ProgramGroupID": 513,
+    "ID": 513,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_02.png",
+    "ProgramGroupID": 514,
+    "ID": 514,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_03.png",
+    "ProgramGroupID": 515,
+    "ID": 515,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_04.png",
+    "ProgramGroupID": 516,
+    "ID": 516,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_05.png",
+    "ProgramGroupID": 517,
+    "ID": 517,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_06.png",
+    "ProgramGroupID": 518,
+    "ID": 518,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_07.png",
+    "ProgramGroupID": 519,
+    "ID": 519,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_08.png",
+    "ProgramGroupID": 520,
+    "ID": 520,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_09.png",
+    "ProgramGroupID": 521,
+    "ID": 521,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_10.png",
+    "ProgramGroupID": 522,
+    "ID": 522,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_11.png",
+    "ProgramGroupID": 523,
+    "ID": 523,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_12.png",
+    "ProgramGroupID": 524,
+    "ID": 524,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_13.png",
+    "ProgramGroupID": 525,
+    "ID": 525,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_14.png",
+    "ProgramGroupID": 526,
+    "ID": 526,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_15.png",
+    "ProgramGroupID": 527,
+    "ID": 527,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_16.png",
+    "ProgramGroupID": 528,
+    "ID": 528,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_17.png",
+    "ProgramGroupID": 529,
+    "ID": 529,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_18.png",
+    "ProgramGroupID": 530,
+    "ID": 530,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_19.png",
+    "ProgramGroupID": 531,
+    "ID": 531,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_20.png",
+    "ProgramGroupID": 532,
+    "ID": 532,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_21.png",
+    "ProgramGroupID": 533,
+    "ID": 533,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_22.png",
+    "ProgramGroupID": 534,
+    "ID": 534,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_23.png",
+    "ProgramGroupID": 535,
+    "ID": 535,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_24.png",
+    "ProgramGroupID": 536,
+    "ID": 536,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_25.png",
+    "ProgramGroupID": 537,
+    "ID": 537,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_26.png",
+    "ProgramGroupID": 538,
+    "ID": 538,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_27.png",
+    "ProgramGroupID": 539,
+    "ID": 539,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_28.png",
+    "ProgramGroupID": 540,
+    "ID": 540,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter03/_dependencies/Texture/EffectTexture/TVContensTexture/Chap03_Eff_RogueEventPainting_29.png",
+    "ProgramGroupID": 541,
+    "ID": 541,
+    "Duration": 20.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo01_1.png",
+    "ProgramGroupID": 601,
+    "ID": 601,
+    "Duration": 10.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo01_2.png",
+    "ProgramGroupID": 601,
+    "ID": 602,
+    "Duration": 10.0,
+    "Order": 2,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo01_3.png",
+    "ProgramGroupID": 601,
+    "ID": 603,
+    "Duration": 10.0,
+    "Order": 3,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo02_1.png",
+    "ProgramGroupID": 602,
+    "ID": 604,
+    "Duration": 10.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo02_2.png",
+    "ProgramGroupID": 602,
+    "ID": 605,
+    "Duration": 10.0,
+    "Order": 2,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo02_3.png",
+    "ProgramGroupID": 602,
+    "ID": 606,
+    "Duration": 10.0,
+    "Order": 3,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo02_4.png",
+    "ProgramGroupID": 602,
+    "ID": 607,
+    "Duration": 10.0,
+    "Order": 4,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo03_1.png",
+    "ProgramGroupID": 603,
+    "ID": 608,
+    "Duration": 10.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo03_2.png",
+    "ProgramGroupID": 603,
+    "ID": 609,
+    "Duration": 10.0,
+    "Order": 2,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo03_3.png",
+    "ProgramGroupID": 603,
+    "ID": 610,
+    "Duration": 10.0,
+    "Order": 3,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo04_1.png",
+    "ProgramGroupID": 604,
+    "ID": 611,
+    "Duration": 10.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo04_2.png",
+    "ProgramGroupID": 604,
+    "ID": 612,
+    "Duration": 10.0,
+    "Order": 2,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo04_3.png",
+    "ProgramGroupID": 604,
+    "ID": 613,
+    "Duration": 10.0,
+    "Order": 3,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo05_1.png",
+    "ProgramGroupID": 605,
+    "ID": 614,
+    "Duration": 10.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo05_2.png",
+    "ProgramGroupID": 605,
+    "ID": 615,
+    "Duration": 10.0,
+    "Order": 2,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo05_3.png",
+    "ProgramGroupID": 605,
+    "ID": 616,
+    "Duration": 10.0,
+    "Order": 3,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo06_1.png",
+    "ProgramGroupID": 606,
+    "ID": 617,
+    "Duration": 10.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "Stages/OriginalResPos/Chapter01/_dependencies/Texture/EffectTextures/ClockPark_projector_photo06_2.png",
+    "ProgramGroupID": 606,
+    "ID": 618,
+    "Duration": 10.0,
+    "Order": 2,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "SpriteOutput/PicTalkCG/Common/PicChapter03_SpaceShipPPT_01_m.png",
+    "ProgramGroupID": 701,
+    "ID": 701,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "SpriteOutput/PicTalkCG/Common/PicChapter03_SpaceShipPPT_01_f.png",
+    "ProgramGroupID": 702,
+    "ID": 702,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "SpriteOutput/PicTalkCG/Common/PicChapter03_SpaceShipPPT_02_m.png",
+    "ProgramGroupID": 703,
+    "ID": 703,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "SpriteOutput/PicTalkCG/Common/PicChapter03_SpaceShipPPT_02_f.png",
+    "ProgramGroupID": 704,
+    "ID": 704,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "SpriteOutput/PicTalkCG/Common/PicChapter03_SpaceShipPPT_03.png",
+    "ProgramGroupID": 705,
+    "ID": 705,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  },
+  {
+    "IfAnAsset": "",
+    "SoundEvent": "",
+    "Asset": "SpriteOutput/PicTalkCG/Common/PicChapter03_SpaceShipPPT_04.png",
+    "ProgramGroupID": 706,
+    "ID": 706,
+    "Duration": -1.0,
+    "Order": 1,
+    "PlayType": 1
+  }
+]

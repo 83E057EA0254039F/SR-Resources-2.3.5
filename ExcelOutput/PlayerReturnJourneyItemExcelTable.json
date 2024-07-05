@@ -1,0 +1,53 @@
+[
+  {
+    "BgPath": "SpriteOutput/Quest/PlayerReturn/PlayerReturnJourneyPic/PlayerReturnJourneyPic_ASQ.png",
+    "Name": {
+      "hash": 1279625581
+    },
+    "IsHideInBeta": true,
+    "Title": {
+      "hash": -489794195
+    },
+    "Sort": 2,
+    "Type": "Questionnaire",
+    "ID": 1,
+    "ActivityModuleID": 0,
+    "ExtraDesc": {
+      "hash": 2086194635
+    }
+  },
+  {
+    "BgPath": "SpriteOutput/Quest/PlayerReturn/PlayerReturnJourneyPic/PlayerReturnJourneyPic_1_20.png",
+    "Name": {
+      "hash": -1449257774
+    },
+    "IsHideInBeta": true,
+    "Title": {
+      "hash": -86509668
+    },
+    "Sort": 3,
+    "Type": "Hotspot",
+    "ID": 2,
+    "ActivityModuleID": 0,
+    "ExtraDesc": {
+      "hash": 520110694
+    }
+  },
+  {
+    "BgPath": "",
+    "Name": {
+      "hash": 1085394372
+    },
+    "IsHideInBeta": true,
+    "Title": {
+      "hash": 161224494
+    },
+    "Sort": 1,
+    "Type": "Invitation",
+    "ID": 3,
+    "ActivityModuleID": 5001901,
+    "ExtraDesc": {
+      "hash": 371857150
+    }
+  }
+]

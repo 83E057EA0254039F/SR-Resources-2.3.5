@@ -1,0 +1,52 @@
+[
+  {
+    "FuncType": "BuffEnhance",
+    "FuncID": 1,
+    "FuncName": {
+      "hash": 1000295529
+    },
+    "FuncDesc": {
+      "hash": 1606898611
+    }
+  },
+  {
+    "FuncType": "BuffReforge",
+    "FuncID": 2,
+    "FuncName": {
+      "hash": -565788412
+    },
+    "FuncDesc": {
+      "hash": 2010183138
+    }
+  },
+  {
+    "FuncType": "FormulaReforge",
+    "FuncID": 3,
+    "FuncName": {
+      "hash": -2131872353
+    },
+    "FuncDesc": {
+      "hash": 444099197
+    }
+  },
+  {
+    "FuncType": "MiracleCompose",
+    "FuncID": 4,
+    "FuncName": {
+      "hash": 597011002
+    },
+    "FuncDesc": {
+      "hash": 1203614084
+    }
+  },
+  {
+    "FuncType": "MiracleReforge",
+    "FuncID": 5,
+    "FuncName": {
+      "hash": -969072939
+    },
+    "FuncDesc": {
+      "hash": -362469857
+    }
+  }
+]

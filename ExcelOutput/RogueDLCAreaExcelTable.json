@@ -1,0 +1,1166 @@
+[
+  {
+    "DifficultyID": [
+      1011,
+      1012
+    ],
+    "DisplayMonsterMap": {
+      "8003051": 56
+    },
+    "AreaScoreMap": [],
+    "MonsterDisplayItemList": [],
+    "RecommendNature": [
+      "Fire",
+      "Ice"
+    ],
+    "LayerIDList": [
+      1011,
+      1012
+    ],
+    "SubType": "ChessRogue",
+    "AreaGroupID": "Guide",
+    "RecommendLevel": 59,
+    "FirstReward": 109011,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 101,
+    "AreaNameID": {
+      "hash": 849679715
+    },
+    "Difficulty": "Difficulty_1",
+    "UnlockID": 1000020
+  },
+  {
+    "DifficultyID": [
+      1021,
+      1022,
+      1023
+    ],
+    "DisplayMonsterMap": {
+      "8024010": 60
+    },
+    "AreaScoreMap": [],
+    "MonsterDisplayItemList": [],
+    "RecommendNature": [
+      "Imaginary",
+      "Quantum"
+    ],
+    "LayerIDList": [
+      1021,
+      1022,
+      1023
+    ],
+    "SubType": "ChessRogue",
+    "AreaGroupID": "Guide",
+    "RecommendLevel": 63,
+    "FirstReward": 109012,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 102,
+    "AreaNameID": {
+      "hash": 849679716
+    },
+    "Difficulty": "Difficulty_1",
+    "UnlockID": 1000021
+  },
+  {
+    "DifficultyID": [
+      2031,
+      2032,
+      2033
+    ],
+    "DisplayMonsterMap": {
+      "8024010": 79
+    },
+    "AreaScoreMap": [
+      {
+        "FPEBFELBHBJ": 1,
+        "PFPPNLABGLJ": 1000,
+        "GEHDIJJPELF": 2000
+      },
+      {
+        "FPEBFELBHBJ": 2,
+        "PFPPNLABGLJ": 4000,
+        "GEHDIJJPELF": 6000
+      },
+      {
+        "FPEBFELBHBJ": 3,
+        "PFPPNLABGLJ": 8000,
+        "GEHDIJJPELF": 10000
+      }
+    ],
+    "MonsterDisplayItemList": [],
+    "RecommendNature": [
+      "Imaginary",
+      "Quantum"
+    ],
+    "LayerIDList": [
+      1031,
+      1032,
+      1033
+    ],
+    "SubType": "ChessRogue",
+    "AreaGroupID": "None",
+    "RecommendLevel": 79,
+    "FirstReward": 109013,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 103,
+    "AreaNameID": {
+      "hash": 849679717
+    },
+    "Difficulty": "Difficulty_1",
+    "UnlockID": 1000019
+  },
+  {
+    "DifficultyID": [
+      2011,
+      2012,
+      2013
+    ],
+    "DisplayMonsterMap": {
+      "8024010": 63
+    },
+    "AreaScoreMap": [
+      {
+        "FPEBFELBHBJ": 1,
+        "PFPPNLABGLJ": 500,
+        "GEHDIJJPELF": 1000
+      },
+      {
+        "FPEBFELBHBJ": 2,
+        "PFPPNLABGLJ": 2000,
+        "GEHDIJJPELF": 3000
+      },
+      {
+        "FPEBFELBHBJ": 3,
+        "PFPPNLABGLJ": 4000,
+        "GEHDIJJPELF": 5000
+      }
+    ],
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114012
+      }
+    ],
+    "RecommendNature": [
+      "Imaginary",
+      "Quantum"
+    ],
+    "LayerIDList": [
+      2011,
+      2012,
+      2013
+    ],
+    "SubType": "ChessRogue",
+    "AreaGroupID": "Formal",
+    "RecommendLevel": 66,
+    "FirstReward": 109001,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 201,
+    "AreaNameID": {
+      "hash": 849679748
+    },
+    "Difficulty": "Difficulty_1",
+    "UnlockID": 1000022
+  },
+  {
+    "DifficultyID": [
+      2021,
+      2022,
+      2023
+    ],
+    "DisplayMonsterMap": {
+      "8024010": 71
+    },
+    "AreaScoreMap": [
+      {
+        "FPEBFELBHBJ": 1,
+        "PFPPNLABGLJ": 700,
+        "GEHDIJJPELF": 1400
+      },
+      {
+        "FPEBFELBHBJ": 2,
+        "PFPPNLABGLJ": 2800,
+        "GEHDIJJPELF": 4200
+      },
+      {
+        "FPEBFELBHBJ": 3,
+        "PFPPNLABGLJ": 5600,
+        "GEHDIJJPELF": 7000
+      }
+    ],
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114012
+      }
+    ],
+    "RecommendNature": [
+      "Imaginary",
+      "Quantum"
+    ],
+    "LayerIDList": [
+      2011,
+      2012,
+      2013
+    ],
+    "SubType": "ChessRogue",
+    "AreaGroupID": "Formal",
+    "RecommendLevel": 73,
+    "FirstReward": 109002,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 202,
+    "AreaNameID": {
+      "hash": 849679747
+    },
+    "Difficulty": "Difficulty_2",
+    "UnlockID": 1000022
+  },
+  {
+    "DifficultyID": [
+      2031,
+      2032,
+      2033
+    ],
+    "DisplayMonsterMap": {
+      "8024010": 79
+    },
+    "AreaScoreMap": [
+      {
+        "FPEBFELBHBJ": 1,
+        "PFPPNLABGLJ": 1000,
+        "GEHDIJJPELF": 2000
+      },
+      {
+        "FPEBFELBHBJ": 2,
+        "PFPPNLABGLJ": 4000,
+        "GEHDIJJPELF": 6000
+      },
+      {
+        "FPEBFELBHBJ": 3,
+        "PFPPNLABGLJ": 8000,
+        "GEHDIJJPELF": 10000
+      }
+    ],
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Imaginary",
+      "Quantum"
+    ],
+    "LayerIDList": [
+      2011,
+      2012,
+      2013
+    ],
+    "SubType": "ChessRogue",
+    "AreaGroupID": "Formal",
+    "RecommendLevel": 79,
+    "FirstReward": 109003,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 203,
+    "AreaNameID": {
+      "hash": 849679746
+    },
+    "Difficulty": "Difficulty_3",
+    "UnlockID": 1000022
+  },
+  {
+    "DifficultyID": [
+      2041,
+      2042,
+      2043
+    ],
+    "DisplayMonsterMap": {
+      "8024010": 87
+    },
+    "AreaScoreMap": [
+      {
+        "FPEBFELBHBJ": 1,
+        "PFPPNLABGLJ": 1200,
+        "GEHDIJJPELF": 2400
+      },
+      {
+        "FPEBFELBHBJ": 2,
+        "PFPPNLABGLJ": 4800,
+        "GEHDIJJPELF": 7200
+      },
+      {
+        "FPEBFELBHBJ": 3,
+        "PFPPNLABGLJ": 9600,
+        "GEHDIJJPELF": 12000
+      }
+    ],
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Imaginary",
+      "Quantum"
+    ],
+    "LayerIDList": [
+      2011,
+      2012,
+      2013
+    ],
+    "SubType": "ChessRogue",
+    "AreaGroupID": "Formal",
+    "RecommendLevel": 80,
+    "FirstReward": 109004,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 204,
+    "AreaNameID": {
+      "hash": 849679753
+    },
+    "Difficulty": "Difficulty_4",
+    "UnlockID": 1000005
+  },
+  {
+    "DifficultyID": [
+      2051,
+      2052,
+      2053
+    ],
+    "DisplayMonsterMap": {
+      "8024010": 95
+    },
+    "AreaScoreMap": [
+      {
+        "FPEBFELBHBJ": 1,
+        "PFPPNLABGLJ": 1400,
+        "GEHDIJJPELF": 2800
+      },
+      {
+        "FPEBFELBHBJ": 2,
+        "PFPPNLABGLJ": 5600,
+        "GEHDIJJPELF": 8400
+      },
+      {
+        "FPEBFELBHBJ": 3,
+        "PFPPNLABGLJ": 11200,
+        "GEHDIJJPELF": 14000
+      }
+    ],
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Imaginary",
+      "Quantum"
+    ],
+    "LayerIDList": [
+      2011,
+      2012,
+      2013
+    ],
+    "SubType": "ChessRogue",
+    "AreaGroupID": "Formal",
+    "RecommendLevel": 80,
+    "FirstReward": 109005,
+    "IsHard": true,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 205,
+    "AreaNameID": {
+      "hash": 849679752
+    },
+    "Difficulty": "Difficulty_5",
+    "UnlockID": 1000006
+  },
+  {
+    "DifficultyID": [
+      3011
+    ],
+    "DisplayMonsterMap": {
+      "8003051": 56
+    },
+    "AreaScoreMap": [],
+    "MonsterDisplayItemList": [],
+    "RecommendNature": [
+      "Fire",
+      "Ice"
+    ],
+    "LayerIDList": [
+      1041
+    ],
+    "SubType": "ChessRogueNous",
+    "AreaGroupID": "Guide",
+    "RecommendLevel": 59,
+    "FirstReward": 110006,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 301,
+    "AreaNameID": {
+      "hash": 849679781
+    },
+    "Difficulty": "Difficulty_1",
+    "UnlockID": 1001018
+  },
+  {
+    "DifficultyID": [
+      3011
+    ],
+    "DisplayMonsterMap": {
+      "8024010": 60
+    },
+    "AreaScoreMap": [],
+    "MonsterDisplayItemList": [],
+    "RecommendNature": [
+      "Imaginary",
+      "Quantum"
+    ],
+    "LayerIDList": [
+      1051
+    ],
+    "SubType": "ChessRogueNous",
+    "AreaGroupID": "Guide",
+    "RecommendLevel": 63,
+    "FirstReward": 110007,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 302,
+    "AreaNameID": {
+      "hash": 849679778
+    },
+    "Difficulty": "Difficulty_1",
+    "UnlockID": 1001001
+  },
+  {
+    "DifficultyID": [
+      4031,
+      4032,
+      4033
+    ],
+    "DisplayMonsterMap": {
+      "8024011": 79,
+      "3024011": 79,
+      "1013014": 79,
+      "1013024": 79
+    },
+    "AreaScoreMap": [
+      {
+        "FPEBFELBHBJ": 1,
+        "PFPPNLABGLJ": 1000,
+        "GEHDIJJPELF": 2000
+      },
+      {
+        "FPEBFELBHBJ": 2,
+        "PFPPNLABGLJ": 4000,
+        "GEHDIJJPELF": 6000
+      },
+      {
+        "FPEBFELBHBJ": 3,
+        "PFPPNLABGLJ": 8000,
+        "GEHDIJJPELF": 10000
+      }
+    ],
+    "MonsterDisplayItemList": [],
+    "RecommendNature": [
+      "Ice"
+    ],
+    "LayerIDList": [
+      1061,
+      1062,
+      1063
+    ],
+    "SubType": "ChessRogueNous",
+    "AreaGroupID": "None",
+    "RecommendLevel": 79,
+    "FirstReward": 110008,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 303,
+    "AreaNameID": {
+      "hash": 849679779
+    },
+    "Difficulty": "Difficulty_1",
+    "UnlockID": 1001014
+  },
+  {
+    "DifficultyID": [
+      4011,
+      4012,
+      4013
+    ],
+    "DisplayMonsterMap": {
+      "8024011": 63,
+      "3024011": 63,
+      "1013014": 63,
+      "1013024": 63
+    },
+    "AreaScoreMap": [
+      {
+        "FPEBFELBHBJ": 1,
+        "PFPPNLABGLJ": 500,
+        "GEHDIJJPELF": 1000
+      },
+      {
+        "FPEBFELBHBJ": 2,
+        "PFPPNLABGLJ": 2000,
+        "GEHDIJJPELF": 3000
+      },
+      {
+        "FPEBFELBHBJ": 3,
+        "PFPPNLABGLJ": 4000,
+        "GEHDIJJPELF": 5000
+      }
+    ],
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114012
+      }
+    ],
+    "RecommendNature": [
+      "Ice"
+    ],
+    "LayerIDList": [
+      2021,
+      2022,
+      2023
+    ],
+    "SubType": "ChessRogueNous",
+    "AreaGroupID": "Formal",
+    "RecommendLevel": 66,
+    "FirstReward": 110001,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 401,
+    "AreaNameID": {
+      "hash": 849679814
+    },
+    "Difficulty": "Difficulty_1",
+    "UnlockID": 1001001
+  },
+  {
+    "DifficultyID": [
+      4021,
+      4022,
+      4023
+    ],
+    "DisplayMonsterMap": {
+      "8024011": 71,
+      "3024011": 71,
+      "1013014": 71,
+      "1013024": 71
+    },
+    "AreaScoreMap": [
+      {
+        "FPEBFELBHBJ": 1,
+        "PFPPNLABGLJ": 700,
+        "GEHDIJJPELF": 1400
+      },
+      {
+        "FPEBFELBHBJ": 2,
+        "PFPPNLABGLJ": 2800,
+        "GEHDIJJPELF": 4200
+      },
+      {
+        "FPEBFELBHBJ": 3,
+        "PFPPNLABGLJ": 5600,
+        "GEHDIJJPELF": 7000
+      }
+    ],
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114012
+      }
+    ],
+    "RecommendNature": [
+      "Ice"
+    ],
+    "LayerIDList": [
+      2021,
+      2022,
+      2023
+    ],
+    "SubType": "ChessRogueNous",
+    "AreaGroupID": "Formal",
+    "RecommendLevel": 73,
+    "FirstReward": 110002,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 402,
+    "AreaNameID": {
+      "hash": 849679817
+    },
+    "Difficulty": "Difficulty_2",
+    "UnlockID": 1001001
+  },
+  {
+    "DifficultyID": [
+      4031,
+      4032,
+      4033
+    ],
+    "DisplayMonsterMap": {
+      "8024011": 79,
+      "3024011": 79,
+      "1013014": 79,
+      "1013024": 79
+    },
+    "AreaScoreMap": [
+      {
+        "FPEBFELBHBJ": 1,
+        "PFPPNLABGLJ": 1000,
+        "GEHDIJJPELF": 2000
+      },
+      {
+        "FPEBFELBHBJ": 2,
+        "PFPPNLABGLJ": 4000,
+        "GEHDIJJPELF": 6000
+      },
+      {
+        "FPEBFELBHBJ": 3,
+        "PFPPNLABGLJ": 8000,
+        "GEHDIJJPELF": 10000
+      }
+    ],
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Ice"
+    ],
+    "LayerIDList": [
+      2021,
+      2022,
+      2023
+    ],
+    "SubType": "ChessRogueNous",
+    "AreaGroupID": "Formal",
+    "RecommendLevel": 79,
+    "FirstReward": 110003,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 403,
+    "AreaNameID": {
+      "hash": 849679816
+    },
+    "Difficulty": "Difficulty_3",
+    "UnlockID": 1001001
+  },
+  {
+    "DifficultyID": [
+      4041,
+      4042,
+      4043
+    ],
+    "DisplayMonsterMap": {
+      "8024011": 87,
+      "3024011": 87,
+      "1013014": 87,
+      "1013024": 87
+    },
+    "AreaScoreMap": [
+      {
+        "FPEBFELBHBJ": 1,
+        "PFPPNLABGLJ": 1200,
+        "GEHDIJJPELF": 2400
+      },
+      {
+        "FPEBFELBHBJ": 2,
+        "PFPPNLABGLJ": 4800,
+        "GEHDIJJPELF": 7200
+      },
+      {
+        "FPEBFELBHBJ": 3,
+        "PFPPNLABGLJ": 9600,
+        "GEHDIJJPELF": 12000
+      }
+    ],
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Ice"
+    ],
+    "LayerIDList": [
+      2021,
+      2022,
+      2023
+    ],
+    "SubType": "ChessRogueNous",
+    "AreaGroupID": "Formal",
+    "RecommendLevel": 80,
+    "FirstReward": 110004,
+    "IsHard": false,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 404,
+    "AreaNameID": {
+      "hash": 849679811
+    },
+    "Difficulty": "Difficulty_4",
+    "UnlockID": 1001005
+  },
+  {
+    "DifficultyID": [
+      4051,
+      4052,
+      4053
+    ],
+    "DisplayMonsterMap": {
+      "8024011": 95,
+      "3024011": 95,
+      "1013014": 95,
+      "1013024": 95
+    },
+    "AreaScoreMap": [
+      {
+        "FPEBFELBHBJ": 1,
+        "PFPPNLABGLJ": 1400,
+        "GEHDIJJPELF": 2800
+      },
+      {
+        "FPEBFELBHBJ": 2,
+        "PFPPNLABGLJ": 5600,
+        "GEHDIJJPELF": 8400
+      },
+      {
+        "FPEBFELBHBJ": 3,
+        "PFPPNLABGLJ": 11200,
+        "GEHDIJJPELF": 14000
+      }
+    ],
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Ice"
+    ],
+    "LayerIDList": [
+      2021,
+      2022,
+      2023
+    ],
+    "SubType": "ChessRogueNous",
+    "AreaGroupID": "Formal",
+    "RecommendLevel": 80,
+    "FirstReward": 110005,
+    "IsHard": true,
+    "AreaDescID": {
+      "hash": 371857150
+    },
+    "AreaID": 405,
+    "AreaNameID": {
+      "hash": 849679810
+    },
+    "Difficulty": "Difficulty_5",
+    "UnlockID": 1001006
+  }
+]

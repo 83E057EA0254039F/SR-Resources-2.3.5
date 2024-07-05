@@ -1,0 +1,170 @@
+[
+  {
+    "ModelPath": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_05_Body_Mat.mat",
+    "IconPath": "SpriteOutput/Quest/MatchThree/ImgBirdMiddle/ImgBirdPlayer.png",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/ImgBirdPlayer.png",
+    "FaceMat": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_01_Face_Mat.mat",
+    "BirdName": {
+      "hash": 1105712389
+    },
+    "GuideID": 8131,
+    "DrawEmo": 14,
+    "WinEmo": 13,
+    "DefaultEmo": 12,
+    "IsShow": true,
+    "BirdID": 300,
+    "BirdDesc": {
+      "hash": -1843511197
+    },
+    "LoseEmo": 15,
+    "UnlockLevel": 0,
+    "SkillID": 400
+  },
+  {
+    "ModelPath": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_09_Body_Mat.mat",
+    "IconPath": "SpriteOutput/Quest/MatchThree/ImgBirdMiddle/ImgBirdSilverWolf.png",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/ImgBirdSilverWolf.png",
+    "FaceMat": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_01_Face_Mat.mat",
+    "BirdName": {
+      "hash": 1105712390
+    },
+    "GuideID": 8132,
+    "DrawEmo": 10,
+    "WinEmo": 9,
+    "DefaultEmo": 8,
+    "IsShow": true,
+    "BirdID": 301,
+    "BirdDesc": {
+      "hash": -1843511196
+    },
+    "LoseEmo": 15,
+    "UnlockLevel": 1100,
+    "SkillID": 401
+  },
+  {
+    "ModelPath": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_06_Body_Mat.mat",
+    "IconPath": "SpriteOutput/Quest/MatchThree/ImgBirdMiddle/ImgBirdMarch7th.png",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/ImgBirdMarch7th.png",
+    "FaceMat": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_02_Face_Mat.mat",
+    "BirdName": {
+      "hash": 1105712391
+    },
+    "GuideID": 8133,
+    "DrawEmo": 13,
+    "WinEmo": 12,
+    "DefaultEmo": 12,
+    "IsShow": true,
+    "BirdID": 302,
+    "BirdDesc": {
+      "hash": -1843511199
+    },
+    "LoseEmo": 14,
+    "UnlockLevel": 1200,
+    "SkillID": 402
+  },
+  {
+    "ModelPath": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_07_Body_Mat.mat",
+    "IconPath": "SpriteOutput/Quest/MatchThree/ImgBirdMiddle/ImgBirdFirefly.png",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/ImgBirdFirefly.png",
+    "FaceMat": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_02_Face_Mat.mat",
+    "BirdName": {
+      "hash": 1105712392
+    },
+    "GuideID": 8134,
+    "DrawEmo": 8,
+    "WinEmo": 15,
+    "DefaultEmo": 15,
+    "IsShow": true,
+    "BirdID": 303,
+    "BirdDesc": {
+      "hash": -1843511198
+    },
+    "LoseEmo": 14,
+    "UnlockLevel": 1300,
+    "SkillID": 403
+  },
+  {
+    "ModelPath": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_08_Body_Mat.mat",
+    "IconPath": "SpriteOutput/Quest/MatchThree/ImgBirdMiddle/ImgBirdRobin.png",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/ImgBirdRobin.png",
+    "FaceMat": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_02_Face_Mat.mat",
+    "BirdName": {
+      "hash": 1105712385
+    },
+    "GuideID": 8135,
+    "DrawEmo": 11,
+    "WinEmo": 10,
+    "DefaultEmo": 9,
+    "IsShow": true,
+    "BirdID": 304,
+    "BirdDesc": {
+      "hash": -1843511201
+    },
+    "LoseEmo": 14,
+    "UnlockLevel": 1400,
+    "SkillID": 404
+  },
+  {
+    "ModelPath": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_10_Body_Mat.mat",
+    "IconPath": "SpriteOutput/Quest/MatchThree/ImgBirdJade.png",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/ImgBirdJade.png",
+    "FaceMat": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_01_Face_Mat.mat",
+    "BirdName": {
+      "hash": 1105712386
+    },
+    "GuideID": 0,
+    "DrawEmo": 5,
+    "WinEmo": 4,
+    "DefaultEmo": 11,
+    "IsShow": false,
+    "BirdID": 305,
+    "BirdDesc": {
+      "hash": -1843511200
+    },
+    "LoseEmo": 15,
+    "UnlockLevel": 0,
+    "SkillID": 404
+  },
+  {
+    "ModelPath": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_01_Body_Mat.mat",
+    "IconPath": "SpriteOutput/Quest/MatchThree/ImgBird5.png",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/ImgBird5.png",
+    "FaceMat": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_00_Face_Mat.mat",
+    "BirdName": {
+      "hash": 371857150
+    },
+    "GuideID": 0,
+    "DrawEmo": 0,
+    "WinEmo": 0,
+    "DefaultEmo": 0,
+    "IsShow": false,
+    "BirdID": 310,
+    "BirdDesc": {
+      "hash": 371857150
+    },
+    "LoseEmo": 0,
+    "UnlockLevel": 0,
+    "SkillID": 0
+  },
+  {
+    "ModelPath": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_00_Body_Mat.mat",
+    "IconPath": "SpriteOutput/Quest/MatchThree/ImgBird4.png",
+    "ImagePath": "SpriteOutput/Quest/MatchThree/ImgBird4.png",
+    "FaceMat": "Characters/NPC/Special/OrigamiBird/Matierials/NPC_Special_OrigamiBird_00_Face_Mat.mat",
+    "BirdName": {
+      "hash": 371857150
+    },
+    "GuideID": 0,
+    "DrawEmo": 0,
+    "WinEmo": 0,
+    "DefaultEmo": 0,
+    "IsShow": false,
+    "BirdID": 311,
+    "BirdDesc": {
+      "hash": 371857150
+    },
+    "LoseEmo": 0,
+    "UnlockLevel": 0,
+    "SkillID": 0
+  }
+]

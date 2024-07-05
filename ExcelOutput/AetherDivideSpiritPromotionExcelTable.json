@@ -1,0 +1,3308 @@
+[
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 408021893120
+    },
+    "AvatarID": 6001,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 13056700579840
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1308891283459
+    },
+    "Exp": 1,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 408021893120
+    },
+    "AvatarID": 6001,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 15805479649280
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1555851902977
+    },
+    "Exp": 10,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 408021893120
+    },
+    "AvatarID": 6001,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 17317308137472
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1654636150785
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 408021893120
+    },
+    "AvatarID": 6001,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 19791209299968
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1876900708352
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 408021893120
+    },
+    "AvatarID": 6001,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 22265110462464
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2123861327874
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 408021893120
+    },
+    "AvatarID": 6001,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 24739011624960
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2370821947392
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6003,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 19585050869760
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 944678056759
+    },
+    "Exp": 1,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6003,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 23708219473920
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1122919199541
+    },
+    "Exp": 10,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6003,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 25975962206208
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1194215656653
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6003,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 29686813949952
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1354632685160
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6003,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 33397665693696
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1532873827946
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6003,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 37108517437440
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1711114970728
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6005,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 17952963297280
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1479616233474
+    },
+    "Exp": 1,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6005,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 21732534517760
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1758789107714
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6005,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 23811298689024
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1870458257410
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6005,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 27212912787456
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2121713844224
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6005,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 30614526885888
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2400886718464
+    },
+    "Exp": 160,
+    "Slot": 3,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6005,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 34016140984320
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2680059592704
+    },
+    "Exp": 160,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 472446402560
+    },
+    "AvatarID": 6006,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 16320875724800
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1365799600128
+    },
+    "Exp": 1,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 472446402560
+    },
+    "AvatarID": 6006,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 19756849561600
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1623497637888
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 472446402560
+    },
+    "AvatarID": 6006,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 21646635171840
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1726576852992
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 472446402560
+    },
+    "AvatarID": 6006,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 24739011624960
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1958505086976
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 472446402560
+    },
+    "AvatarID": 6006,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 27831388078080
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2216203124736
+    },
+    "Exp": 160,
+    "Slot": 3,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 472446402560
+    },
+    "AvatarID": 6006,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 30923764531200
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2473901162496
+    },
+    "Exp": 160,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6007,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 19585050869760
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1365799600128
+    },
+    "Exp": 1,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6007,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 23708219473920
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1623497637888
+    },
+    "Exp": 10,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6007,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 25975962206208
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1726576852992
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6007,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 29686813949952
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1958505086976
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6007,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 33397665693696
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2216203124736
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6007,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 37108517437440
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2473901162496
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 450971566080
+    },
+    "AvatarID": 6008,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 17952963297280
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1081258016771
+    },
+    "Exp": 1,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 450971566080
+    },
+    "AvatarID": 6008,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 21732534517760
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1285268963329
+    },
+    "Exp": 10,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 450971566080
+    },
+    "AvatarID": 6008,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 23811298689024
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1366873341953
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 450971566080
+    },
+    "AvatarID": 6008,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 27212912787456
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1550483193856
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 450971566080
+    },
+    "AvatarID": 6008,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 30614526885888
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1754494140418
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 450971566080
+    },
+    "AvatarID": 6008,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 34016140984320
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1958505086976
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6009,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 21217138442240
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 910533066752
+    },
+    "Exp": 1,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6009,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 25683904430080
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1082331758592
+    },
+    "Exp": 10,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6009,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 28140625723392
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1151051235328
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6009,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 32160715112448
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1305670057984
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6009,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 36180804501504
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1477468749824
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6009,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 40200893890560
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1649267441664
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 493921239040
+    },
+    "AvatarID": 6010,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 16320875724800
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1138166333440
+    },
+    "Exp": 1,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 493921239040
+    },
+    "AvatarID": 6010,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 19756849561600
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1352914698240
+    },
+    "Exp": 10,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 493921239040
+    },
+    "AvatarID": 6010,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 21646635171840
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1438814044160
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 493921239040
+    },
+    "AvatarID": 6010,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 24739011624960
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1632087572480
+    },
+    "Exp": 40,
+    "Slot": 3,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 493921239040
+    },
+    "AvatarID": 6010,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 27831388078080
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1846835937280
+    },
+    "Exp": 80,
+    "Slot": 4,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 493921239040
+    },
+    "AvatarID": 6010,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 30923764531200
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2061584302080
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6011,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 19585050869760
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1251982966786
+    },
+    "Exp": 1,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6011,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 23708219473920
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1488206168066
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6011,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 25975962206208
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1582695448578
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6011,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 29686813949952
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1795296329728
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6011,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 33397665693696
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2031519531008
+    },
+    "Exp": 160,
+    "Slot": 3,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6011,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 37108517437440
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2267742732288
+    },
+    "Exp": 160,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 571230650368
+    },
+    "AvatarID": 6012,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 11424613007360
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1251982966786
+    },
+    "Exp": 1,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 571230650368
+    },
+    "AvatarID": 6012,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 13829794693120
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1488206168066
+    },
+    "Exp": 10,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 571230650368
+    },
+    "AvatarID": 6012,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 15152644620288
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1582695448578
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 571230650368
+    },
+    "AvatarID": 6012,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 17317308137472
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1795296329728
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 571230650368
+    },
+    "AvatarID": 6012,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 19481971654656
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2031519531008
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 571230650368
+    },
+    "AvatarID": 6012,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 21646635171840
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2267742732288
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 356482285568
+    },
+    "AvatarID": 6013,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 22033182228480
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1138166333440
+    },
+    "Exp": 1,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 356482285568
+    },
+    "AvatarID": 6013,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 26671746908160
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1352914698240
+    },
+    "Exp": 10,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 356482285568
+    },
+    "AvatarID": 6013,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 29222957481984
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1438814044160
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 356482285568
+    },
+    "AvatarID": 6013,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 33397665693696
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1632087572480
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 356482285568
+    },
+    "AvatarID": 6013,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 37572373905408
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1846835937280
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 356482285568
+    },
+    "AvatarID": 6013,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 41747082117120
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2061584302080
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 450971566080
+    },
+    "AvatarID": 6014,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 17952963297280
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1365799600128
+    },
+    "Exp": 1,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 450971566080
+    },
+    "AvatarID": 6014,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 21732534517760
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1623497637888
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 450971566080
+    },
+    "AvatarID": 6014,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 23811298689024
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1726576852992
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 450971566080
+    },
+    "AvatarID": 6014,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 27212912787456
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1958505086976
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 450971566080
+    },
+    "AvatarID": 6014,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 30614526885888
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2216203124736
+    },
+    "Exp": 160,
+    "Slot": 3,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 450971566080
+    },
+    "AvatarID": 6014,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 34016140984320
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2473901162496
+    },
+    "Exp": 160,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 472446402560
+    },
+    "AvatarID": 6015,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 16320875724800
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1593432866816
+    },
+    "Exp": 1,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 472446402560
+    },
+    "AvatarID": 6015,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 19756849561600
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1894080577536
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 472446402560
+    },
+    "AvatarID": 6015,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 21646635171840
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2014339661824
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 472446402560
+    },
+    "AvatarID": 6015,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 24739011624960
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2284922601472
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 472446402560
+    },
+    "AvatarID": 6015,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 27831388078080
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2585570312192
+    },
+    "Exp": 160,
+    "Slot": 3,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 472446402560
+    },
+    "AvatarID": 6015,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 30923764531200
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2886218022912
+    },
+    "Exp": 160,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6016,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 9792525434880
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1138166333440
+    },
+    "Exp": 1,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6016,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 11854109736960
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1352914698240
+    },
+    "Exp": 10,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6016,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 12987981103104
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1438814044160
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6016,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 14843406974976
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1632087572480
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6016,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 16698832846848
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1846835937280
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6016,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 18554258718720
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2061584302080
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 515396075520
+    },
+    "AvatarID": 6017,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 16320875724800
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1365799600128
+    },
+    "Exp": 1,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 515396075520
+    },
+    "AvatarID": 6017,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 19756849561600
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1623497637888
+    },
+    "Exp": 10,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 515396075520
+    },
+    "AvatarID": 6017,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 21646635171840
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1726576852992
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 515396075520
+    },
+    "AvatarID": 6017,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 24739011624960
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1958505086976
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 515396075520
+    },
+    "AvatarID": 6017,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 27831388078080
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2216203124736
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 515396075520
+    },
+    "AvatarID": 6017,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 30923764531200
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2473901162496
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 558345748480
+    },
+    "AvatarID": 6018,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 14688788152320
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1365799600128
+    },
+    "Exp": 1,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 558345748480
+    },
+    "AvatarID": 6018,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 17781164605440
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1623497637888
+    },
+    "Exp": 10,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 558345748480
+    },
+    "AvatarID": 6018,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 19481971654656
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1726576852992
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 558345748480
+    },
+    "AvatarID": 6018,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 22265110462464
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1958505086976
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 558345748480
+    },
+    "AvatarID": 6018,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 25048249270272
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2216203124736
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 558345748480
+    },
+    "AvatarID": 6018,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 27831388078080
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2473901162496
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6019,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 15504831938560
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1195074650113
+    },
+    "Exp": 1,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6019,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 18769007083520
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1420560433155
+    },
+    "Exp": 10,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6019,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 20564303413248
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1510754746371
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6019,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 23502061043712
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1713691951104
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6019,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 26439818674176
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1939177734146
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 386547056640
+    },
+    "AvatarID": 6019,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 29377576304640
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2164663517184
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6020,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 13056700579840
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1365799600128
+    },
+    "Exp": 1,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6020,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 15805479649280
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1623497637888
+    },
+    "Exp": 10,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6020,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 17317308137472
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1726576852992
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6020,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 19791209299968
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1958505086976
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6020,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 22265110462464
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2216203124736
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6020,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 24739011624960
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 2473901162496
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6021,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 22849226014720
+    },
+    "RewardID": 0,
+    "Promotion": 1,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 796716433410
+    },
+    "Exp": 1,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6021,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 27659589386240
+    },
+    "RewardID": 0,
+    "Promotion": 2,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 947040288770
+    },
+    "Exp": 10,
+    "Slot": 1,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6021,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 30305289240576
+    },
+    "RewardID": 0,
+    "Promotion": 3,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1007169830914
+    },
+    "Exp": 20,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6021,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 34634616274944
+    },
+    "RewardID": 0,
+    "Promotion": 4,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1142461300736
+    },
+    "Exp": 40,
+    "Slot": 2,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6021,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 38963943309312
+    },
+    "RewardID": 0,
+    "Promotion": 5,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1292785156096
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  },
+  {
+    "SpecialSkillList": [],
+    "SpeedBase": {
+      "RawValue": 429496729600
+    },
+    "AvatarID": 6021,
+    "DefenceBase": {
+      "RawValue": 0
+    },
+    "HPBase": {
+      "RawValue": 43293270343680
+    },
+    "RewardID": 0,
+    "Promotion": 6,
+    "BaseAggro": {
+      "RawValue": 429496729600
+    },
+    "CriticalChance": {
+      "RawValue": 0
+    },
+    "AttackBase": {
+      "RawValue": 1443109011456
+    },
+    "Exp": 80,
+    "Slot": 0,
+    "CriticalDamage": {
+      "RawValue": 0
+    }
+  }
+]

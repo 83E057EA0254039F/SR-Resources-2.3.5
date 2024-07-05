@@ -1,0 +1,44 @@
+[
+  {
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect01.png",
+    "ProgressName": {
+      "hash": 1638386250
+    },
+    "ID": "Normal"
+  },
+  {
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect03.png",
+    "ProgressName": {
+      "hash": -1897066159
+    },
+    "ID": "Raid"
+  },
+  {
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollect05.png",
+    "ProgressName": {
+      "hash": -330982218
+    },
+    "ID": "ChestMonster"
+  },
+  {
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollectAetherDivide01.png",
+    "ProgressName": {
+      "hash": -734266745
+    },
+    "ID": "AetherSpirit"
+  },
+  {
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollectAetherDivide02.png",
+    "ProgressName": {
+      "hash": 831817196
+    },
+    "ID": "AetherTrainer"
+  },
+  {
+    "IconPath": "SpriteOutput/MapPics/Collect/IconCollectMimics.png",
+    "ProgressName": {
+      "hash": -283928051
+    },
+    "ID": "JunkMonster"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "NPCIconPath": "SpriteOutput/AvatarShopIcon/NPC/Skott.png",
+    "NPCDescriptionID": [
+      222070310
+    ],
+    "NPCNameID": {
+      "hash": 85535282
+    },
+    "ID": 1
+  },
+  {
+    "NPCIconPath": "SpriteOutput/AvatarShopIcon/NPC/Feixiao.png",
+    "NPCDescriptionID": [
+      222070311
+    ],
+    "NPCNameID": {
+      "hash": -910872738
+    },
+    "ID": 2
+  },
+  {
+    "NPCIconPath": "SpriteOutput/AvatarShopIcon/NPC/Skott.png",
+    "NPCDescriptionID": [
+      222070312
+    ],
+    "NPCNameID": {
+      "hash": 85535282
+    },
+    "ID": 3
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "TypeParam": [
+      3,
+      5
+    ],
+    "Desc": {
+      "hash": -148739370
+    },
+    "Type": "CostExploreAfterAction",
+    "DisplayMazeBuffID": 0,
+    "ParamInt": 0,
+    "GridBuffID": 1,
+    "GridBuffMaxLevel": 1
+  },
+  {
+    "TypeParam": [
+      4,
+      310
+    ],
+    "Desc": {
+      "hash": 1417344571
+    },
+    "Type": "SummonAfterAction",
+    "DisplayMazeBuffID": 0,
+    "ParamInt": 0,
+    "GridBuffID": 2,
+    "GridBuffMaxLevel": 1
+  },
+  {
+    "TypeParam": [
+      3,
+      3200002
+    ],
+    "Desc": {
+      "hash": -1311538784
+    },
+    "Type": "EnhanceAfterAction",
+    "DisplayMazeBuffID": 3200002,
+    "ParamInt": 0,
+    "GridBuffID": 3,
+    "GridBuffMaxLevel": 10
+  },
+  {
+    "TypeParam": [],
+    "Desc": {
+      "hash": 254545157
+    },
+    "Type": "EnhanceByAroundUnopenGrid",
+    "DisplayMazeBuffID": 3200001,
+    "ParamInt": 3200001,
+    "GridBuffID": 4,
+    "GridBuffMaxLevel": 8
+  },
+  {
+    "TypeParam": [],
+    "Desc": {
+      "hash": 1820629098
+    },
+    "Type": "AuraAroundMazeBuff",
+    "DisplayMazeBuffID": 3200003,
+    "ParamInt": 3200003,
+    "GridBuffID": 5,
+    "GridBuffMaxLevel": 3
+  },
+  {
+    "TypeParam": [
+      9,
+      0
+    ],
+    "Desc": {
+      "hash": -908254257
+    },
+    "Type": "ReplaceAfterAction",
+    "DisplayMazeBuffID": 0,
+    "ParamInt": 0,
+    "GridBuffID": 6,
+    "GridBuffMaxLevel": 1
+  },
+  {
+    "TypeParam": [
+      8,
+      5
+    ],
+    "Desc": {
+      "hash": -1358592951
+    },
+    "Type": "SummonAfterAction",
+    "DisplayMazeBuffID": 0,
+    "ParamInt": 0,
+    "GridBuffID": 8,
+    "GridBuffMaxLevel": 1
+  },
+  {
+    "TypeParam": [
+      9,
+      0
+    ],
+    "Desc": {
+      "hash": 1181017542
+    },
+    "Type": "ReplaceAfterAction",
+    "DisplayMazeBuffID": 0,
+    "ParamInt": 0,
+    "GridBuffID": 10,
+    "GridBuffMaxLevel": 1
+  },
+  {
+    "TypeParam": [
+      9,
+      12
+    ],
+    "Desc": {
+      "hash": 1181017541
+    },
+    "Type": "CostExploreAfterAction",
+    "DisplayMazeBuffID": 0,
+    "ParamInt": 0,
+    "GridBuffID": 11,
+    "GridBuffMaxLevel": 1
+  },
+  {
+    "TypeParam": [
+      9,
+      0
+    ],
+    "Desc": {
+      "hash": 1181017544
+    },
+    "Type": "ReplaceAfterAction",
+    "DisplayMazeBuffID": 0,
+    "ParamInt": 0,
+    "GridBuffID": 12,
+    "GridBuffMaxLevel": 1
+  },
+  {
+    "TypeParam": [
+      9,
+      0
+    ],
+    "Desc": {
+      "hash": 1181017543
+    },
+    "Type": "ReplaceAfterAction",
+    "DisplayMazeBuffID": 0,
+    "ParamInt": 0,
+    "GridBuffID": 13,
+    "GridBuffMaxLevel": 1
+  },
+  {
+    "TypeParam": [
+      5,
+      0
+    ],
+    "Desc": {
+      "hash": 1181017546
+    },
+    "Type": "ReplaceAfterAction",
+    "DisplayMazeBuffID": 0,
+    "ParamInt": 0,
+    "GridBuffID": 14,
+    "GridBuffMaxLevel": 1
+  },
+  {
+    "TypeParam": [
+      4,
+      21
+    ],
+    "Desc": {
+      "hash": 1181017545
+    },
+    "Type": "SummonAfterAction",
+    "DisplayMazeBuffID": 0,
+    "ParamInt": 0,
+    "GridBuffID": 15,
+    "GridBuffMaxLevel": 1
+  },
+  {
+    "TypeParam": [],
+    "Desc": {
+      "hash": 1181017548
+    },
+    "Type": "EnhanceByAroundUnopenGrid",
+    "DisplayMazeBuffID": 3200001,
+    "ParamInt": 3200001,
+    "GridBuffID": 16,
+    "GridBuffMaxLevel": 8
+  },
+  {
+    "TypeParam": [],
+    "Desc": {
+      "hash": 1537247893
+    },
+    "Type": "None",
+    "DisplayMazeBuffID": 0,
+    "ParamInt": 0,
+    "GridBuffID": 99,
+    "GridBuffMaxLevel": 1
+  }
+]

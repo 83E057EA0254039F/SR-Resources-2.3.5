@@ -1,0 +1,27 @@
+[
+  {
+    "PicPath": "SpriteOutput/Quest/MatchThree/InvitationLink/InvitationLink1.png",
+    "InviteGo": {
+      "hash": -2063084887
+    },
+    "SendDesc": {
+      "hash": -1730976991
+    },
+    "ID": 1,
+    "InviteContent": {
+      "hash": -506129698
+    },
+    "ExpireTime": 600.0,
+    "NoticeTime": 10.0,
+    "ChatNoticeType": "MatchThreeInvite",
+    "InviteTitle": {
+      "hash": 692087905
+    },
+    "NoticeDesc": {
+      "hash": 701711895
+    },
+    "InviteInvalid": {
+      "hash": 1696097604
+    }
+  }
+]

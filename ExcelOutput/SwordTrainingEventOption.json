@@ -1,0 +1,1589 @@
+[
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg1.png",
+    "EffectIDList": [
+      211111
+    ],
+    "OptionID": 1111,
+    "OptionDesc": {
+      "hash": -1536455673
+    },
+    "ResultDesc": {
+      "hash": 29628267
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg2.png",
+    "EffectIDList": [
+      211121
+    ],
+    "OptionID": 1112,
+    "OptionDesc": {
+      "hash": -1536455679
+    },
+    "ResultDesc": {
+      "hash": 29628261
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg2.png",
+    "EffectIDList": [
+      211131,
+      211132
+    ],
+    "OptionID": 1113,
+    "OptionDesc": {
+      "hash": -1536455677
+    },
+    "ResultDesc": {
+      "hash": 29628263
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg1.png",
+    "EffectIDList": [
+      211211,
+      211212
+    ],
+    "OptionID": 1121,
+    "OptionDesc": {
+      "hash": -1536455708
+    },
+    "ResultDesc": {
+      "hash": 29628234
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg1.png",
+    "EffectIDList": [
+      211221,
+      211222
+    ],
+    "OptionID": 1122,
+    "OptionDesc": {
+      "hash": -1536455710
+    },
+    "ResultDesc": {
+      "hash": 29628232
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg1.png",
+    "EffectIDList": [
+      211231
+    ],
+    "OptionID": 1123,
+    "OptionDesc": {
+      "hash": -1536455712
+    },
+    "ResultDesc": {
+      "hash": 29628230
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg2.png",
+    "EffectIDList": [
+      211311
+    ],
+    "OptionID": 1131,
+    "OptionDesc": {
+      "hash": -1536455611
+    },
+    "ResultDesc": {
+      "hash": 29628329
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg2.png",
+    "EffectIDList": [
+      211321
+    ],
+    "OptionID": 1132,
+    "OptionDesc": {
+      "hash": -1536455613
+    },
+    "ResultDesc": {
+      "hash": 29628327
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg2.png",
+    "EffectIDList": [
+      211331
+    ],
+    "OptionID": 1133,
+    "OptionDesc": {
+      "hash": -1536455615
+    },
+    "ResultDesc": {
+      "hash": 29628325
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg1.png",
+    "EffectIDList": [
+      211411
+    ],
+    "OptionID": 1141,
+    "OptionDesc": {
+      "hash": -1536455902
+    },
+    "ResultDesc": {
+      "hash": 29628040
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg1.png",
+    "EffectIDList": [
+      211421
+    ],
+    "OptionID": 1142,
+    "OptionDesc": {
+      "hash": -1536455900
+    },
+    "ResultDesc": {
+      "hash": 29628042
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg1.png",
+    "EffectIDList": [
+      211431
+    ],
+    "OptionID": 1143,
+    "OptionDesc": {
+      "hash": -1536455898
+    },
+    "ResultDesc": {
+      "hash": 29628044
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg2.png",
+    "EffectIDList": [
+      211511
+    ],
+    "OptionID": 1151,
+    "OptionDesc": {
+      "hash": -1536455805
+    },
+    "ResultDesc": {
+      "hash": 29628135
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg2.png",
+    "EffectIDList": [
+      211521
+    ],
+    "OptionID": 1152,
+    "OptionDesc": {
+      "hash": -1536455803
+    },
+    "ResultDesc": {
+      "hash": 29628137
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg2.png",
+    "EffectIDList": [
+      211531,
+      211532
+    ],
+    "OptionID": 1153,
+    "OptionDesc": {
+      "hash": -1536455801
+    },
+    "ResultDesc": {
+      "hash": 29628139
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg2.png",
+    "EffectIDList": [
+      211611
+    ],
+    "OptionID": 1161,
+    "OptionDesc": {
+      "hash": -1536455840
+    },
+    "ResultDesc": {
+      "hash": 29628102
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg2.png",
+    "EffectIDList": [
+      211621
+    ],
+    "OptionID": 1162,
+    "OptionDesc": {
+      "hash": -1536455834
+    },
+    "ResultDesc": {
+      "hash": 29628108
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg2.png",
+    "EffectIDList": [
+      211631
+    ],
+    "OptionID": 1163,
+    "OptionDesc": {
+      "hash": -1536455836
+    },
+    "ResultDesc": {
+      "hash": 29628106
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg1.png",
+    "EffectIDList": [
+      211711
+    ],
+    "OptionID": 1171,
+    "OptionDesc": {
+      "hash": -1536455743
+    },
+    "ResultDesc": {
+      "hash": 29628197
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg1.png",
+    "EffectIDList": [
+      211721
+    ],
+    "OptionID": 1172,
+    "OptionDesc": {
+      "hash": -1536455737
+    },
+    "ResultDesc": {
+      "hash": 29628203
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg1.png",
+    "EffectIDList": [
+      211731
+    ],
+    "OptionID": 1173,
+    "OptionDesc": {
+      "hash": -1536455739
+    },
+    "ResultDesc": {
+      "hash": 29628201
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg2.png",
+    "EffectIDList": [
+      211811
+    ],
+    "OptionID": 1181,
+    "OptionDesc": {
+      "hash": -1536455506
+    },
+    "ResultDesc": {
+      "hash": 29628436
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg1.png",
+    "EffectIDList": [
+      211821
+    ],
+    "OptionID": 1182,
+    "OptionDesc": {
+      "hash": -1536455512
+    },
+    "ResultDesc": {
+      "hash": 29628430
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg1.png",
+    "EffectIDList": [
+      211831
+    ],
+    "OptionID": 1183,
+    "OptionDesc": {
+      "hash": -1536455510
+    },
+    "ResultDesc": {
+      "hash": 29628432
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      211911,
+      211912
+    ],
+    "OptionID": 1191,
+    "OptionDesc": {
+      "hash": -1536455409
+    },
+    "ResultDesc": {
+      "hash": 29628531
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      211921,
+      211921
+    ],
+    "OptionID": 1192,
+    "OptionDesc": {
+      "hash": -1536455415
+    },
+    "ResultDesc": {
+      "hash": 29628525
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      211931
+    ],
+    "OptionID": 1193,
+    "OptionDesc": {
+      "hash": -1536455413
+    },
+    "ResultDesc": {
+      "hash": 29628527
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212011
+    ],
+    "OptionID": 1201,
+    "OptionDesc": {
+      "hash": 332156149
+    },
+    "ResultDesc": {
+      "hash": -1233927791
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212021
+    ],
+    "OptionID": 1202,
+    "OptionDesc": {
+      "hash": 332156143
+    },
+    "ResultDesc": {
+      "hash": -1233927797
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212031
+    ],
+    "OptionID": 1203,
+    "OptionDesc": {
+      "hash": 332156145
+    },
+    "ResultDesc": {
+      "hash": -1233927795
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212111
+    ],
+    "OptionID": 1211,
+    "OptionDesc": {
+      "hash": 332156246
+    },
+    "ResultDesc": {
+      "hash": -1233927696
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212121
+    ],
+    "OptionID": 1212,
+    "OptionDesc": {
+      "hash": 332156240
+    },
+    "ResultDesc": {
+      "hash": -1233927702
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212131
+    ],
+    "OptionID": 1213,
+    "OptionDesc": {
+      "hash": 332156242
+    },
+    "ResultDesc": {
+      "hash": -1233927700
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212211
+    ],
+    "OptionID": 1221,
+    "OptionDesc": {
+      "hash": 332156211
+    },
+    "ResultDesc": {
+      "hash": -1233927729
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212221
+    ],
+    "OptionID": 1222,
+    "OptionDesc": {
+      "hash": 332156209
+    },
+    "ResultDesc": {
+      "hash": -1233927731
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212231
+    ],
+    "OptionID": 1223,
+    "OptionDesc": {
+      "hash": 332156207
+    },
+    "ResultDesc": {
+      "hash": -1233927733
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212311
+    ],
+    "OptionID": 1231,
+    "OptionDesc": {
+      "hash": 332156308
+    },
+    "ResultDesc": {
+      "hash": -1233927634
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212321,
+      212322
+    ],
+    "OptionID": 1232,
+    "OptionDesc": {
+      "hash": 332156306
+    },
+    "ResultDesc": {
+      "hash": -1233927636
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212331
+    ],
+    "OptionID": 1233,
+    "OptionDesc": {
+      "hash": 332156304
+    },
+    "ResultDesc": {
+      "hash": -1233927638
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212411
+    ],
+    "OptionID": 1241,
+    "OptionDesc": {
+      "hash": 332156017
+    },
+    "ResultDesc": {
+      "hash": -1233927923
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212421
+    ],
+    "OptionID": 1242,
+    "OptionDesc": {
+      "hash": 332156019
+    },
+    "ResultDesc": {
+      "hash": -1233927921
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212431
+    ],
+    "OptionID": 1243,
+    "OptionDesc": {
+      "hash": 332156021
+    },
+    "ResultDesc": {
+      "hash": -1233927919
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212511
+    ],
+    "OptionID": 1251,
+    "OptionDesc": {
+      "hash": 332156114
+    },
+    "ResultDesc": {
+      "hash": -1233927828
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212521
+    ],
+    "OptionID": 1252,
+    "OptionDesc": {
+      "hash": 332156116
+    },
+    "ResultDesc": {
+      "hash": -1233927826
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212531
+    ],
+    "OptionID": 1253,
+    "OptionDesc": {
+      "hash": 332156118
+    },
+    "ResultDesc": {
+      "hash": -1233927824
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212611
+    ],
+    "OptionID": 1261,
+    "OptionDesc": {
+      "hash": 332156079
+    },
+    "ResultDesc": {
+      "hash": -1233927861
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212621,
+      212622
+    ],
+    "OptionID": 1262,
+    "OptionDesc": {
+      "hash": 332156085
+    },
+    "ResultDesc": {
+      "hash": -1233927855
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg3.png",
+    "EffectIDList": [
+      212631
+    ],
+    "OptionID": 1263,
+    "OptionDesc": {
+      "hash": 332156083
+    },
+    "ResultDesc": {
+      "hash": -1233927857
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      212711
+    ],
+    "OptionID": 1271,
+    "OptionDesc": {
+      "hash": 332156176
+    },
+    "ResultDesc": {
+      "hash": -1233927766
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      212721
+    ],
+    "OptionID": 1272,
+    "OptionDesc": {
+      "hash": 332156182
+    },
+    "ResultDesc": {
+      "hash": -1233927760
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      212731,
+      212732
+    ],
+    "OptionID": 1273,
+    "OptionDesc": {
+      "hash": 332156180
+    },
+    "ResultDesc": {
+      "hash": -1233927762
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      212811
+    ],
+    "OptionID": 1281,
+    "OptionDesc": {
+      "hash": 332156413
+    },
+    "ResultDesc": {
+      "hash": -1233927527
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      212821
+    ],
+    "OptionID": 1282,
+    "OptionDesc": {
+      "hash": 332156407
+    },
+    "ResultDesc": {
+      "hash": -1233927533
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      212831
+    ],
+    "OptionID": 1283,
+    "OptionDesc": {
+      "hash": 332156409
+    },
+    "ResultDesc": {
+      "hash": -1233927531
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      212911
+    ],
+    "OptionID": 1291,
+    "OptionDesc": {
+      "hash": 332156510
+    },
+    "ResultDesc": {
+      "hash": -1233927432
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      212921
+    ],
+    "OptionID": 1292,
+    "OptionDesc": {
+      "hash": 332156504
+    },
+    "ResultDesc": {
+      "hash": -1233927438
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      212931
+    ],
+    "OptionID": 1293,
+    "OptionDesc": {
+      "hash": 332156506
+    },
+    "ResultDesc": {
+      "hash": -1233927436
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213011,
+      213012
+    ],
+    "OptionID": 1301,
+    "OptionDesc": {
+      "hash": -1254130768
+    },
+    "ResultDesc": {
+      "hash": 311953174
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213021,
+      213022
+    ],
+    "OptionID": 1302,
+    "OptionDesc": {
+      "hash": -1254130774
+    },
+    "ResultDesc": {
+      "hash": 311953168
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213031,
+      213032
+    ],
+    "OptionID": 1303,
+    "OptionDesc": {
+      "hash": -1254130772
+    },
+    "ResultDesc": {
+      "hash": 311953170
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213111
+    ],
+    "OptionID": 1311,
+    "OptionDesc": {
+      "hash": -1254130671
+    },
+    "ResultDesc": {
+      "hash": 311953269
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213121
+    ],
+    "OptionID": 1312,
+    "OptionDesc": {
+      "hash": -1254130677
+    },
+    "ResultDesc": {
+      "hash": 311953263
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213131,
+      213132
+    ],
+    "OptionID": 1313,
+    "OptionDesc": {
+      "hash": -1254130675
+    },
+    "ResultDesc": {
+      "hash": 311953265
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213211
+    ],
+    "OptionID": 1321,
+    "OptionDesc": {
+      "hash": -1254130706
+    },
+    "ResultDesc": {
+      "hash": 311953236
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213221
+    ],
+    "OptionID": 1322,
+    "OptionDesc": {
+      "hash": -1254130708
+    },
+    "ResultDesc": {
+      "hash": 311953234
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213231
+    ],
+    "OptionID": 1323,
+    "OptionDesc": {
+      "hash": -1254130710
+    },
+    "ResultDesc": {
+      "hash": 311953232
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213311
+    ],
+    "OptionID": 1331,
+    "OptionDesc": {
+      "hash": -1254130609
+    },
+    "ResultDesc": {
+      "hash": 311953331
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213321,
+      213322
+    ],
+    "OptionID": 1332,
+    "OptionDesc": {
+      "hash": -1254130611
+    },
+    "ResultDesc": {
+      "hash": 311953329
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213331,
+      213332
+    ],
+    "OptionID": 1333,
+    "OptionDesc": {
+      "hash": -1254130613
+    },
+    "ResultDesc": {
+      "hash": 311953327
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213411
+    ],
+    "OptionID": 1341,
+    "OptionDesc": {
+      "hash": -1254130900
+    },
+    "ResultDesc": {
+      "hash": 311953042
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213421
+    ],
+    "OptionID": 1342,
+    "OptionDesc": {
+      "hash": -1254130898
+    },
+    "ResultDesc": {
+      "hash": 311953044
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg5.png",
+    "EffectIDList": [
+      213431,
+      213432
+    ],
+    "OptionID": 1343,
+    "OptionDesc": {
+      "hash": -1254130896
+    },
+    "ResultDesc": {
+      "hash": 311953046
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213511
+    ],
+    "OptionID": 1351,
+    "OptionDesc": {
+      "hash": -1254130803
+    },
+    "ResultDesc": {
+      "hash": 311953137
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213521
+    ],
+    "OptionID": 1352,
+    "OptionDesc": {
+      "hash": -1254130801
+    },
+    "ResultDesc": {
+      "hash": 311953139
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213531
+    ],
+    "OptionID": 1353,
+    "OptionDesc": {
+      "hash": -1254130799
+    },
+    "ResultDesc": {
+      "hash": 311953141
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213611
+    ],
+    "OptionID": 1361,
+    "OptionDesc": {
+      "hash": -1254130838
+    },
+    "ResultDesc": {
+      "hash": 311953104
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213621
+    ],
+    "OptionID": 1362,
+    "OptionDesc": {
+      "hash": -1254130832
+    },
+    "ResultDesc": {
+      "hash": 311953110
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213631
+    ],
+    "OptionID": 1363,
+    "OptionDesc": {
+      "hash": -1254130834
+    },
+    "ResultDesc": {
+      "hash": 311953108
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213711,
+      213712
+    ],
+    "OptionID": 1371,
+    "OptionDesc": {
+      "hash": -1254130741
+    },
+    "ResultDesc": {
+      "hash": 311953199
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213721,
+      213722
+    ],
+    "OptionID": 1372,
+    "OptionDesc": {
+      "hash": -1254130735
+    },
+    "ResultDesc": {
+      "hash": 311953205
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213731,
+      213732
+    ],
+    "OptionID": 1373,
+    "OptionDesc": {
+      "hash": -1254130737
+    },
+    "ResultDesc": {
+      "hash": 311953203
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213811
+    ],
+    "OptionID": 1381,
+    "OptionDesc": {
+      "hash": -1254130504
+    },
+    "ResultDesc": {
+      "hash": 311953438
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213821
+    ],
+    "OptionID": 1382,
+    "OptionDesc": {
+      "hash": -1254130510
+    },
+    "ResultDesc": {
+      "hash": 311953432
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213831
+    ],
+    "OptionID": 1383,
+    "OptionDesc": {
+      "hash": -1254130508
+    },
+    "ResultDesc": {
+      "hash": 311953434
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213911
+    ],
+    "OptionID": 1391,
+    "OptionDesc": {
+      "hash": -1254130407
+    },
+    "ResultDesc": {
+      "hash": 311953533
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213921
+    ],
+    "OptionID": 1392,
+    "OptionDesc": {
+      "hash": -1254130413
+    },
+    "ResultDesc": {
+      "hash": 311953527
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      213931
+    ],
+    "OptionID": 1393,
+    "OptionDesc": {
+      "hash": -1254130411
+    },
+    "ResultDesc": {
+      "hash": 311953529
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      214011
+    ],
+    "OptionID": 1401,
+    "OptionDesc": {
+      "hash": -871049217
+    },
+    "ResultDesc": {
+      "hash": 1857834139
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      214021
+    ],
+    "OptionID": 1402,
+    "OptionDesc": {
+      "hash": -871049223
+    },
+    "ResultDesc": {
+      "hash": 1857834133
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      214031,
+      214032
+    ],
+    "OptionID": 1403,
+    "OptionDesc": {
+      "hash": -871049221
+    },
+    "ResultDesc": {
+      "hash": 1857834135
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      214111
+    ],
+    "OptionID": 1411,
+    "OptionDesc": {
+      "hash": -871049120
+    },
+    "ResultDesc": {
+      "hash": 1857834234
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      214121
+    ],
+    "OptionID": 1412,
+    "OptionDesc": {
+      "hash": -871049126
+    },
+    "ResultDesc": {
+      "hash": 1857834228
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      214131,
+      214132
+    ],
+    "OptionID": 1413,
+    "OptionDesc": {
+      "hash": -871049124
+    },
+    "ResultDesc": {
+      "hash": 1857834230
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      214211
+    ],
+    "OptionID": 1421,
+    "OptionDesc": {
+      "hash": -871049155
+    },
+    "ResultDesc": {
+      "hash": 1857834201
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      214221,
+      214222
+    ],
+    "OptionID": 1422,
+    "OptionDesc": {
+      "hash": -871049157
+    },
+    "ResultDesc": {
+      "hash": 1857834199
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg6.png",
+    "EffectIDList": [
+      214231,
+      214232
+    ],
+    "OptionID": 1423,
+    "OptionDesc": {
+      "hash": -871049159
+    },
+    "ResultDesc": {
+      "hash": 1857834197
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214311
+    ],
+    "OptionID": 1431,
+    "OptionDesc": {
+      "hash": -871049058
+    },
+    "ResultDesc": {
+      "hash": 1857834296
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214321
+    ],
+    "OptionID": 1432,
+    "OptionDesc": {
+      "hash": -871049060
+    },
+    "ResultDesc": {
+      "hash": 1857834294
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214331
+    ],
+    "OptionID": 1433,
+    "OptionDesc": {
+      "hash": -871049062
+    },
+    "ResultDesc": {
+      "hash": 1857834292
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214411
+    ],
+    "OptionID": 1441,
+    "OptionDesc": {
+      "hash": -871049349
+    },
+    "ResultDesc": {
+      "hash": 1857834007
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214421
+    ],
+    "OptionID": 1442,
+    "OptionDesc": {
+      "hash": -871049347
+    },
+    "ResultDesc": {
+      "hash": 1857834009
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214431,
+      214432
+    ],
+    "OptionID": 1443,
+    "OptionDesc": {
+      "hash": -871049345
+    },
+    "ResultDesc": {
+      "hash": 1857834011
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214511
+    ],
+    "OptionID": 1451,
+    "OptionDesc": {
+      "hash": -871049252
+    },
+    "ResultDesc": {
+      "hash": 1857834102
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214521
+    ],
+    "OptionID": 1452,
+    "OptionDesc": {
+      "hash": -871049250
+    },
+    "ResultDesc": {
+      "hash": 1857834104
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214531
+    ],
+    "OptionID": 1453,
+    "OptionDesc": {
+      "hash": -871049248
+    },
+    "ResultDesc": {
+      "hash": 1857834106
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214611
+    ],
+    "OptionID": 1461,
+    "OptionDesc": {
+      "hash": -871049287
+    },
+    "ResultDesc": {
+      "hash": 1857834069
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214621
+    ],
+    "OptionID": 1462,
+    "OptionDesc": {
+      "hash": -871049281
+    },
+    "ResultDesc": {
+      "hash": 1857834075
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214631
+    ],
+    "OptionID": 1463,
+    "OptionDesc": {
+      "hash": -871049283
+    },
+    "ResultDesc": {
+      "hash": 1857834073
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214711
+    ],
+    "OptionID": 1471,
+    "OptionDesc": {
+      "hash": -871049190
+    },
+    "ResultDesc": {
+      "hash": 1857834164
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214721
+    ],
+    "OptionID": 1472,
+    "OptionDesc": {
+      "hash": -871049184
+    },
+    "ResultDesc": {
+      "hash": 1857834170
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214731
+    ],
+    "OptionID": 1473,
+    "OptionDesc": {
+      "hash": -871049186
+    },
+    "ResultDesc": {
+      "hash": 1857834168
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214811,
+      214812
+    ],
+    "OptionID": 1481,
+    "OptionDesc": {
+      "hash": -871048953
+    },
+    "ResultDesc": {
+      "hash": 1857834403
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214821,
+      214822
+    ],
+    "OptionID": 1482,
+    "OptionDesc": {
+      "hash": -871048959
+    },
+    "ResultDesc": {
+      "hash": 1857834397
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214831,
+      214832
+    ],
+    "OptionID": 1483,
+    "OptionDesc": {
+      "hash": -871048957
+    },
+    "ResultDesc": {
+      "hash": 1857834399
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214911
+    ],
+    "OptionID": 1491,
+    "OptionDesc": {
+      "hash": -871048856
+    },
+    "ResultDesc": {
+      "hash": 1857834498
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214921
+    ],
+    "OptionID": 1492,
+    "OptionDesc": {
+      "hash": -871048862
+    },
+    "ResultDesc": {
+      "hash": 1857834492
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      214931
+    ],
+    "OptionID": 1493,
+    "OptionDesc": {
+      "hash": -871048860
+    },
+    "ResultDesc": {
+      "hash": 1857834494
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      215011
+    ],
+    "OptionID": 1501,
+    "OptionDesc": {
+      "hash": 1837631162
+    },
+    "ResultDesc": {
+      "hash": -891252192
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      215021
+    ],
+    "OptionID": 1502,
+    "OptionDesc": {
+      "hash": 1837631156
+    },
+    "ResultDesc": {
+      "hash": -891252198
+    }
+  },
+  {
+    "ResultImage": "SpriteOutput/Quest/SwordTraining/PartnerImg/SwordTrainingPartnerImg4.png",
+    "EffectIDList": [
+      215031
+    ],
+    "OptionID": 1503,
+    "OptionDesc": {
+      "hash": 1837631158
+    },
+    "ResultDesc": {
+      "hash": -891252196
+    }
+  }
+]

@@ -1,0 +1,574 @@
+[
+  {
+    "EffectIDList": [],
+    "StoryImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImg1.png",
+    "Condition": 0,
+    "StoryID": 1,
+    "StoryHint": {
+      "hash": 371857150
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 802410131,
+    "EffectDesc": {
+      "hash": 371857150
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 0,
+    "PerformanceID": 0,
+    "StoryDesc": {
+      "hash": 1545786985
+    },
+    "StoryType": "Ending",
+    "MissionID": 8024111,
+    "StoryTitle": {
+      "hash": 1907485454
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImg1.png",
+    "Condition": 0,
+    "StoryID": 11,
+    "StoryHint": {
+      "hash": 371857150
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 802410133,
+    "EffectDesc": {
+      "hash": 371857150
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 0,
+    "PerformanceID": 0,
+    "StoryDesc": {
+      "hash": -1047750120
+    },
+    "StoryType": "Ending",
+    "MissionID": 8024112,
+    "StoryTitle": {
+      "hash": 1668208313
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImg3.png",
+    "Condition": 0,
+    "StoryID": 12,
+    "StoryHint": {
+      "hash": 371857150
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 802410134,
+    "EffectDesc": {
+      "hash": 371857150
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 0,
+    "PerformanceID": 0,
+    "StoryDesc": {
+      "hash": -1047750121
+    },
+    "StoryType": "Ending",
+    "MissionID": 8024115,
+    "StoryTitle": {
+      "hash": 102124372
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImg2.png",
+    "Condition": 0,
+    "StoryID": 13,
+    "StoryHint": {
+      "hash": 371857150
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 802410135,
+    "EffectDesc": {
+      "hash": 371857150
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 0,
+    "PerformanceID": 0,
+    "StoryDesc": {
+      "hash": -1047750122
+    },
+    "StoryType": "Ending",
+    "MissionID": 8024113,
+    "StoryTitle": {
+      "hash": -1463959569
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "SpriteOutput/Quest/SwordTraining/CoverImg/SwordTrainingCoverImg4.png",
+    "Condition": 0,
+    "StoryID": 14,
+    "StoryHint": {
+      "hash": 371857150
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 802410136,
+    "EffectDesc": {
+      "hash": 371857150
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 0,
+    "PerformanceID": 0,
+    "StoryDesc": {
+      "hash": -1047750123
+    },
+    "StoryType": "Ending",
+    "MissionID": 8024114,
+    "StoryTitle": {
+      "hash": 1264923786
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 101,
+    "StoryHint": {
+      "hash": 544714278
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783304
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 1,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": -1099935314
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 102,
+    "StoryHint": {
+      "hash": 947998805
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783307
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 6,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": -1503219841
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 103,
+    "StoryHint": {
+      "hash": -618085136
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783306
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 1,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": 62864100
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 104,
+    "StoryHint": {
+      "hash": -214800609
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783309
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 1,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": -696650787
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 201,
+    "StoryHint": {
+      "hash": -1922047051
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783403
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 2,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": -1523422817
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 202,
+    "StoryHint": {
+      "hash": 1969635718
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783400
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 5,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": -1120138290
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 203,
+    "StoryHint": {
+      "hash": -759247637
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783401
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 2,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": 1608745065
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 204,
+    "StoryHint": {
+      "hash": -1518762524
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783406
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 2,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": 2012029592
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 301,
+    "StoryHint": {
+      "hash": 827039280
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783370
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 3,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": -1382260316
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 302,
+    "StoryHint": {
+      "hash": -739044661
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783369
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 7,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": 183823625
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 303,
+    "StoryHint": {
+      "hash": 1989838694
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783368
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 3,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": 1749907566
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 304,
+    "StoryHint": {
+      "hash": 67524393
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783375
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 3,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": -978975789
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 401,
+    "StoryHint": {
+      "hash": -1639722049
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783469
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 4,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": -676447811
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 402,
+    "StoryHint": {
+      "hash": -73638108
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783470
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 4,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": 2052435544
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [
+      34031,
+      34032,
+      34033,
+      34034
+    ],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 403,
+    "StoryHint": {
+      "hash": 1492445833
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783471
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 4,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": 486351603
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  },
+  {
+    "EffectIDList": [],
+    "StoryImage": "",
+    "Condition": 0,
+    "StoryID": 404,
+    "StoryHint": {
+      "hash": -880207162
+    },
+    "ExamID": 0,
+    "RepeatPerformanceID": 0,
+    "EffectDesc": {
+      "hash": 1031783464
+    },
+    "ConditionDesc": {
+      "hash": 371857150
+    },
+    "PartnerID": 4,
+    "PerformanceID": 802410130,
+    "StoryDesc": {
+      "hash": -1079732338
+    },
+    "StoryType": "Adventure",
+    "MissionID": 0,
+    "StoryTitle": {
+      "hash": 371857150
+    }
+  }
+]

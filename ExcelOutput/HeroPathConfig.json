@@ -1,0 +1,1080 @@
+[
+  {
+    "Desc": "HeroPathDesc_190",
+    "LevelComment": "LevelComment_190_0",
+    "Name": "HeroPathName_190",
+    "AvatarBaseType": "Warrior",
+    "Level": 0,
+    "MaxLevel": 10,
+    "Property": "AttackAddedRatio",
+    "ExpRequire": 200,
+    "ID": 190,
+    "Value": {
+      "RawValue": 0
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_190",
+    "LevelComment": "LevelComment_190_1",
+    "Name": "HeroPathName_190",
+    "AvatarBaseType": "Warrior",
+    "Level": 1,
+    "MaxLevel": 10,
+    "Property": "AttackAddedRatio",
+    "ExpRequire": 300,
+    "ID": 190,
+    "Value": {
+      "RawValue": 64424508
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_190",
+    "LevelComment": "LevelComment_190_2",
+    "Name": "HeroPathName_190",
+    "AvatarBaseType": "Warrior",
+    "Level": 2,
+    "MaxLevel": 10,
+    "Property": "AttackAddedRatio",
+    "ExpRequire": 400,
+    "ID": 190,
+    "Value": {
+      "RawValue": 128849019
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_190",
+    "LevelComment": "LevelComment_190_3",
+    "Name": "HeroPathName_190",
+    "AvatarBaseType": "Warrior",
+    "Level": 3,
+    "MaxLevel": 10,
+    "Property": "AttackAddedRatio",
+    "ExpRequire": 500,
+    "ID": 190,
+    "Value": {
+      "RawValue": 193273527
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_190",
+    "LevelComment": "LevelComment_190_4",
+    "Name": "HeroPathName_190",
+    "AvatarBaseType": "Warrior",
+    "Level": 4,
+    "MaxLevel": 10,
+    "Property": "AttackAddedRatio",
+    "ExpRequire": 600,
+    "ID": 190,
+    "Value": {
+      "RawValue": 257698038
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_190",
+    "LevelComment": "LevelComment_190_5",
+    "Name": "HeroPathName_190",
+    "AvatarBaseType": "Warrior",
+    "Level": 5,
+    "MaxLevel": 10,
+    "Property": "AttackAddedRatio",
+    "ExpRequire": 700,
+    "ID": 190,
+    "Value": {
+      "RawValue": 322122546
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_190",
+    "LevelComment": "LevelComment_190_6",
+    "Name": "HeroPathName_190",
+    "AvatarBaseType": "Warrior",
+    "Level": 6,
+    "MaxLevel": 10,
+    "Property": "AttackAddedRatio",
+    "ExpRequire": 800,
+    "ID": 190,
+    "Value": {
+      "RawValue": 386547057
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_190",
+    "LevelComment": "LevelComment_190_7",
+    "Name": "HeroPathName_190",
+    "AvatarBaseType": "Warrior",
+    "Level": 7,
+    "MaxLevel": 10,
+    "Property": "AttackAddedRatio",
+    "ExpRequire": 900,
+    "ID": 190,
+    "Value": {
+      "RawValue": 450971565
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_190",
+    "LevelComment": "LevelComment_190_8",
+    "Name": "HeroPathName_190",
+    "AvatarBaseType": "Warrior",
+    "Level": 8,
+    "MaxLevel": 10,
+    "Property": "AttackAddedRatio",
+    "ExpRequire": 1000,
+    "ID": 190,
+    "Value": {
+      "RawValue": 515396076
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_190",
+    "LevelComment": "LevelComment_190_9",
+    "Name": "HeroPathName_190",
+    "AvatarBaseType": "Warrior",
+    "Level": 9,
+    "MaxLevel": 10,
+    "Property": "AttackAddedRatio",
+    "ExpRequire": 1000,
+    "ID": 190,
+    "Value": {
+      "RawValue": 579820584
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_190",
+    "LevelComment": "LevelComment_190_10",
+    "Name": "HeroPathName_190",
+    "AvatarBaseType": "Warrior",
+    "Level": 10,
+    "MaxLevel": 10,
+    "Property": "AttackAddedRatio",
+    "ExpRequire": 0,
+    "ID": 190,
+    "Value": {
+      "RawValue": 644245095
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_192",
+    "LevelComment": "LevelComment_192_0",
+    "Name": "HeroPathName_192",
+    "AvatarBaseType": "Mage",
+    "Level": 0,
+    "MaxLevel": 10,
+    "Property": "AllDamageTypeAddedRatio",
+    "ExpRequire": 200,
+    "ID": 192,
+    "Value": {
+      "RawValue": 0
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_192",
+    "LevelComment": "LevelComment_192_1",
+    "Name": "HeroPathName_192",
+    "AvatarBaseType": "Mage",
+    "Level": 1,
+    "MaxLevel": 10,
+    "Property": "AllDamageTypeAddedRatio",
+    "ExpRequire": 300,
+    "ID": 192,
+    "Value": {
+      "RawValue": 64424508
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_192",
+    "LevelComment": "LevelComment_192_2",
+    "Name": "HeroPathName_192",
+    "AvatarBaseType": "Mage",
+    "Level": 2,
+    "MaxLevel": 10,
+    "Property": "AllDamageTypeAddedRatio",
+    "ExpRequire": 400,
+    "ID": 192,
+    "Value": {
+      "RawValue": 128849019
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_192",
+    "LevelComment": "LevelComment_192_3",
+    "Name": "HeroPathName_192",
+    "AvatarBaseType": "Mage",
+    "Level": 3,
+    "MaxLevel": 10,
+    "Property": "AllDamageTypeAddedRatio",
+    "ExpRequire": 500,
+    "ID": 192,
+    "Value": {
+      "RawValue": 193273527
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_192",
+    "LevelComment": "LevelComment_192_4",
+    "Name": "HeroPathName_192",
+    "AvatarBaseType": "Mage",
+    "Level": 4,
+    "MaxLevel": 10,
+    "Property": "AllDamageTypeAddedRatio",
+    "ExpRequire": 600,
+    "ID": 192,
+    "Value": {
+      "RawValue": 257698038
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_192",
+    "LevelComment": "LevelComment_192_5",
+    "Name": "HeroPathName_192",
+    "AvatarBaseType": "Mage",
+    "Level": 5,
+    "MaxLevel": 10,
+    "Property": "AllDamageTypeAddedRatio",
+    "ExpRequire": 700,
+    "ID": 192,
+    "Value": {
+      "RawValue": 322122546
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_192",
+    "LevelComment": "LevelComment_192_6",
+    "Name": "HeroPathName_192",
+    "AvatarBaseType": "Mage",
+    "Level": 6,
+    "MaxLevel": 10,
+    "Property": "AllDamageTypeAddedRatio",
+    "ExpRequire": 800,
+    "ID": 192,
+    "Value": {
+      "RawValue": 386547057
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_192",
+    "LevelComment": "LevelComment_192_7",
+    "Name": "HeroPathName_192",
+    "AvatarBaseType": "Mage",
+    "Level": 7,
+    "MaxLevel": 10,
+    "Property": "AllDamageTypeAddedRatio",
+    "ExpRequire": 900,
+    "ID": 192,
+    "Value": {
+      "RawValue": 450971565
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_192",
+    "LevelComment": "LevelComment_192_8",
+    "Name": "HeroPathName_192",
+    "AvatarBaseType": "Mage",
+    "Level": 8,
+    "MaxLevel": 10,
+    "Property": "AllDamageTypeAddedRatio",
+    "ExpRequire": 1000,
+    "ID": 192,
+    "Value": {
+      "RawValue": 515396076
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_192",
+    "LevelComment": "LevelComment_192_9",
+    "Name": "HeroPathName_192",
+    "AvatarBaseType": "Mage",
+    "Level": 9,
+    "MaxLevel": 10,
+    "Property": "AllDamageTypeAddedRatio",
+    "ExpRequire": 1000,
+    "ID": 192,
+    "Value": {
+      "RawValue": 579820584
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_192",
+    "LevelComment": "LevelComment_192_10",
+    "Name": "HeroPathName_192",
+    "AvatarBaseType": "Mage",
+    "Level": 10,
+    "MaxLevel": 10,
+    "Property": "AllDamageTypeAddedRatio",
+    "ExpRequire": 0,
+    "ID": 192,
+    "Value": {
+      "RawValue": 644245095
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_193",
+    "LevelComment": "LevelComment_193_0",
+    "Name": "HeroPathName_193",
+    "AvatarBaseType": "Knight",
+    "Level": 0,
+    "MaxLevel": 10,
+    "Property": "DefenceAddedRatio",
+    "ExpRequire": 200,
+    "ID": 193,
+    "Value": {
+      "RawValue": 0
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_193",
+    "LevelComment": "LevelComment_193_1",
+    "Name": "HeroPathName_193",
+    "AvatarBaseType": "Knight",
+    "Level": 1,
+    "MaxLevel": 10,
+    "Property": "DefenceAddedRatio",
+    "ExpRequire": 300,
+    "ID": 193,
+    "Value": {
+      "RawValue": 64424508
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_193",
+    "LevelComment": "LevelComment_193_2",
+    "Name": "HeroPathName_193",
+    "AvatarBaseType": "Knight",
+    "Level": 2,
+    "MaxLevel": 10,
+    "Property": "DefenceAddedRatio",
+    "ExpRequire": 400,
+    "ID": 193,
+    "Value": {
+      "RawValue": 128849019
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_193",
+    "LevelComment": "LevelComment_193_3",
+    "Name": "HeroPathName_193",
+    "AvatarBaseType": "Knight",
+    "Level": 3,
+    "MaxLevel": 10,
+    "Property": "DefenceAddedRatio",
+    "ExpRequire": 500,
+    "ID": 193,
+    "Value": {
+      "RawValue": 193273527
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_193",
+    "LevelComment": "LevelComment_193_4",
+    "Name": "HeroPathName_193",
+    "AvatarBaseType": "Knight",
+    "Level": 4,
+    "MaxLevel": 10,
+    "Property": "DefenceAddedRatio",
+    "ExpRequire": 600,
+    "ID": 193,
+    "Value": {
+      "RawValue": 257698038
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_193",
+    "LevelComment": "LevelComment_193_5",
+    "Name": "HeroPathName_193",
+    "AvatarBaseType": "Knight",
+    "Level": 5,
+    "MaxLevel": 10,
+    "Property": "DefenceAddedRatio",
+    "ExpRequire": 700,
+    "ID": 193,
+    "Value": {
+      "RawValue": 322122546
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_193",
+    "LevelComment": "LevelComment_193_6",
+    "Name": "HeroPathName_193",
+    "AvatarBaseType": "Knight",
+    "Level": 6,
+    "MaxLevel": 10,
+    "Property": "DefenceAddedRatio",
+    "ExpRequire": 800,
+    "ID": 193,
+    "Value": {
+      "RawValue": 386547057
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_193",
+    "LevelComment": "LevelComment_193_7",
+    "Name": "HeroPathName_193",
+    "AvatarBaseType": "Knight",
+    "Level": 7,
+    "MaxLevel": 10,
+    "Property": "DefenceAddedRatio",
+    "ExpRequire": 900,
+    "ID": 193,
+    "Value": {
+      "RawValue": 450971565
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_193",
+    "LevelComment": "LevelComment_193_8",
+    "Name": "HeroPathName_193",
+    "AvatarBaseType": "Knight",
+    "Level": 8,
+    "MaxLevel": 10,
+    "Property": "DefenceAddedRatio",
+    "ExpRequire": 1000,
+    "ID": 193,
+    "Value": {
+      "RawValue": 515396076
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_193",
+    "LevelComment": "LevelComment_193_9",
+    "Name": "HeroPathName_193",
+    "AvatarBaseType": "Knight",
+    "Level": 9,
+    "MaxLevel": 10,
+    "Property": "DefenceAddedRatio",
+    "ExpRequire": 1000,
+    "ID": 193,
+    "Value": {
+      "RawValue": 579820584
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_193",
+    "LevelComment": "LevelComment_193_10",
+    "Name": "HeroPathName_193",
+    "AvatarBaseType": "Knight",
+    "Level": 10,
+    "MaxLevel": 10,
+    "Property": "DefenceAddedRatio",
+    "ExpRequire": 0,
+    "ID": 193,
+    "Value": {
+      "RawValue": 644245095
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_196",
+    "LevelComment": "LevelComment_196_0",
+    "Name": "HeroPathName_196",
+    "AvatarBaseType": "Priest",
+    "Level": 0,
+    "MaxLevel": 10,
+    "Property": "HPAddedRatio",
+    "ExpRequire": 200,
+    "ID": 196,
+    "Value": {
+      "RawValue": 0
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_196",
+    "LevelComment": "LevelComment_196_1",
+    "Name": "HeroPathName_196",
+    "AvatarBaseType": "Priest",
+    "Level": 1,
+    "MaxLevel": 10,
+    "Property": "HPAddedRatio",
+    "ExpRequire": 300,
+    "ID": 196,
+    "Value": {
+      "RawValue": 64424508
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_196",
+    "LevelComment": "LevelComment_196_2",
+    "Name": "HeroPathName_196",
+    "AvatarBaseType": "Priest",
+    "Level": 2,
+    "MaxLevel": 10,
+    "Property": "HPAddedRatio",
+    "ExpRequire": 400,
+    "ID": 196,
+    "Value": {
+      "RawValue": 128849019
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_196",
+    "LevelComment": "LevelComment_196_3",
+    "Name": "HeroPathName_196",
+    "AvatarBaseType": "Priest",
+    "Level": 3,
+    "MaxLevel": 10,
+    "Property": "HPAddedRatio",
+    "ExpRequire": 500,
+    "ID": 196,
+    "Value": {
+      "RawValue": 193273527
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_196",
+    "LevelComment": "LevelComment_196_4",
+    "Name": "HeroPathName_196",
+    "AvatarBaseType": "Priest",
+    "Level": 4,
+    "MaxLevel": 10,
+    "Property": "HPAddedRatio",
+    "ExpRequire": 600,
+    "ID": 196,
+    "Value": {
+      "RawValue": 257698038
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_196",
+    "LevelComment": "LevelComment_196_5",
+    "Name": "HeroPathName_196",
+    "AvatarBaseType": "Priest",
+    "Level": 5,
+    "MaxLevel": 10,
+    "Property": "HPAddedRatio",
+    "ExpRequire": 700,
+    "ID": 196,
+    "Value": {
+      "RawValue": 322122546
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_196",
+    "LevelComment": "LevelComment_196_6",
+    "Name": "HeroPathName_196",
+    "AvatarBaseType": "Priest",
+    "Level": 6,
+    "MaxLevel": 10,
+    "Property": "HPAddedRatio",
+    "ExpRequire": 800,
+    "ID": 196,
+    "Value": {
+      "RawValue": 386547057
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_196",
+    "LevelComment": "LevelComment_196_7",
+    "Name": "HeroPathName_196",
+    "AvatarBaseType": "Priest",
+    "Level": 7,
+    "MaxLevel": 10,
+    "Property": "HPAddedRatio",
+    "ExpRequire": 900,
+    "ID": 196,
+    "Value": {
+      "RawValue": 450971565
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_196",
+    "LevelComment": "LevelComment_196_8",
+    "Name": "HeroPathName_196",
+    "AvatarBaseType": "Priest",
+    "Level": 8,
+    "MaxLevel": 10,
+    "Property": "HPAddedRatio",
+    "ExpRequire": 1000,
+    "ID": 196,
+    "Value": {
+      "RawValue": 515396076
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_196",
+    "LevelComment": "LevelComment_196_9",
+    "Name": "HeroPathName_196",
+    "AvatarBaseType": "Priest",
+    "Level": 9,
+    "MaxLevel": 10,
+    "Property": "HPAddedRatio",
+    "ExpRequire": 1000,
+    "ID": 196,
+    "Value": {
+      "RawValue": 579820584
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_196",
+    "LevelComment": "LevelComment_196_10",
+    "Name": "HeroPathName_196",
+    "AvatarBaseType": "Priest",
+    "Level": 10,
+    "MaxLevel": 10,
+    "Property": "HPAddedRatio",
+    "ExpRequire": 0,
+    "ID": 196,
+    "Value": {
+      "RawValue": 644245095
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_191",
+    "LevelComment": "LevelComment_191_0",
+    "Name": "HeroPathName_191",
+    "AvatarBaseType": "Rogue",
+    "Level": 0,
+    "MaxLevel": 10,
+    "Property": "CriticalDamageBase",
+    "ExpRequire": 200,
+    "ID": 191,
+    "Value": {
+      "RawValue": 0
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_191",
+    "LevelComment": "LevelComment_191_1",
+    "Name": "HeroPathName_191",
+    "AvatarBaseType": "Rogue",
+    "Level": 1,
+    "MaxLevel": 10,
+    "Property": "CriticalDamageBase",
+    "ExpRequire": 300,
+    "ID": 191,
+    "Value": {
+      "RawValue": 64424508
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_191",
+    "LevelComment": "LevelComment_191_2",
+    "Name": "HeroPathName_191",
+    "AvatarBaseType": "Rogue",
+    "Level": 2,
+    "MaxLevel": 10,
+    "Property": "CriticalDamageBase",
+    "ExpRequire": 400,
+    "ID": 191,
+    "Value": {
+      "RawValue": 128849019
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_191",
+    "LevelComment": "LevelComment_191_3",
+    "Name": "HeroPathName_191",
+    "AvatarBaseType": "Rogue",
+    "Level": 3,
+    "MaxLevel": 10,
+    "Property": "CriticalDamageBase",
+    "ExpRequire": 500,
+    "ID": 191,
+    "Value": {
+      "RawValue": 193273527
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_191",
+    "LevelComment": "LevelComment_191_4",
+    "Name": "HeroPathName_191",
+    "AvatarBaseType": "Rogue",
+    "Level": 4,
+    "MaxLevel": 10,
+    "Property": "CriticalDamageBase",
+    "ExpRequire": 600,
+    "ID": 191,
+    "Value": {
+      "RawValue": 257698038
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_191",
+    "LevelComment": "LevelComment_191_5",
+    "Name": "HeroPathName_191",
+    "AvatarBaseType": "Rogue",
+    "Level": 5,
+    "MaxLevel": 10,
+    "Property": "CriticalDamageBase",
+    "ExpRequire": 700,
+    "ID": 191,
+    "Value": {
+      "RawValue": 322122546
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_191",
+    "LevelComment": "LevelComment_191_6",
+    "Name": "HeroPathName_191",
+    "AvatarBaseType": "Rogue",
+    "Level": 6,
+    "MaxLevel": 10,
+    "Property": "CriticalDamageBase",
+    "ExpRequire": 800,
+    "ID": 191,
+    "Value": {
+      "RawValue": 386547057
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_191",
+    "LevelComment": "LevelComment_191_7",
+    "Name": "HeroPathName_191",
+    "AvatarBaseType": "Rogue",
+    "Level": 7,
+    "MaxLevel": 10,
+    "Property": "CriticalDamageBase",
+    "ExpRequire": 900,
+    "ID": 191,
+    "Value": {
+      "RawValue": 450971565
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_191",
+    "LevelComment": "LevelComment_191_8",
+    "Name": "HeroPathName_191",
+    "AvatarBaseType": "Rogue",
+    "Level": 8,
+    "MaxLevel": 10,
+    "Property": "CriticalDamageBase",
+    "ExpRequire": 1000,
+    "ID": 191,
+    "Value": {
+      "RawValue": 515396076
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_191",
+    "LevelComment": "LevelComment_191_9",
+    "Name": "HeroPathName_191",
+    "AvatarBaseType": "Rogue",
+    "Level": 9,
+    "MaxLevel": 10,
+    "Property": "CriticalDamageBase",
+    "ExpRequire": 1000,
+    "ID": 191,
+    "Value": {
+      "RawValue": 579820584
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_191",
+    "LevelComment": "LevelComment_191_10",
+    "Name": "HeroPathName_191",
+    "AvatarBaseType": "Rogue",
+    "Level": 10,
+    "MaxLevel": 10,
+    "Property": "CriticalDamageBase",
+    "ExpRequire": 0,
+    "ID": 191,
+    "Value": {
+      "RawValue": 644245095
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_194",
+    "LevelComment": "LevelComment_194_0",
+    "Name": "HeroPathName_194",
+    "AvatarBaseType": "Warlock",
+    "Level": 0,
+    "MaxLevel": 10,
+    "Property": "StatusProbabilityBase",
+    "ExpRequire": 200,
+    "ID": 194,
+    "Value": {
+      "RawValue": 0
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_194",
+    "LevelComment": "LevelComment_194_1",
+    "Name": "HeroPathName_194",
+    "AvatarBaseType": "Warlock",
+    "Level": 1,
+    "MaxLevel": 10,
+    "Property": "StatusProbabilityBase",
+    "ExpRequire": 300,
+    "ID": 194,
+    "Value": {
+      "RawValue": 64424508
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_194",
+    "LevelComment": "LevelComment_194_2",
+    "Name": "HeroPathName_194",
+    "AvatarBaseType": "Warlock",
+    "Level": 2,
+    "MaxLevel": 10,
+    "Property": "StatusProbabilityBase",
+    "ExpRequire": 400,
+    "ID": 194,
+    "Value": {
+      "RawValue": 128849019
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_194",
+    "LevelComment": "LevelComment_194_3",
+    "Name": "HeroPathName_194",
+    "AvatarBaseType": "Warlock",
+    "Level": 3,
+    "MaxLevel": 10,
+    "Property": "StatusProbabilityBase",
+    "ExpRequire": 500,
+    "ID": 194,
+    "Value": {
+      "RawValue": 193273527
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_194",
+    "LevelComment": "LevelComment_194_4",
+    "Name": "HeroPathName_194",
+    "AvatarBaseType": "Warlock",
+    "Level": 4,
+    "MaxLevel": 10,
+    "Property": "StatusProbabilityBase",
+    "ExpRequire": 600,
+    "ID": 194,
+    "Value": {
+      "RawValue": 257698038
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_194",
+    "LevelComment": "LevelComment_194_5",
+    "Name": "HeroPathName_194",
+    "AvatarBaseType": "Warlock",
+    "Level": 5,
+    "MaxLevel": 10,
+    "Property": "StatusProbabilityBase",
+    "ExpRequire": 700,
+    "ID": 194,
+    "Value": {
+      "RawValue": 322122546
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_194",
+    "LevelComment": "LevelComment_194_6",
+    "Name": "HeroPathName_194",
+    "AvatarBaseType": "Warlock",
+    "Level": 6,
+    "MaxLevel": 10,
+    "Property": "StatusProbabilityBase",
+    "ExpRequire": 800,
+    "ID": 194,
+    "Value": {
+      "RawValue": 386547057
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_194",
+    "LevelComment": "LevelComment_194_7",
+    "Name": "HeroPathName_194",
+    "AvatarBaseType": "Warlock",
+    "Level": 7,
+    "MaxLevel": 10,
+    "Property": "StatusProbabilityBase",
+    "ExpRequire": 900,
+    "ID": 194,
+    "Value": {
+      "RawValue": 450971565
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_194",
+    "LevelComment": "LevelComment_194_8",
+    "Name": "HeroPathName_194",
+    "AvatarBaseType": "Warlock",
+    "Level": 8,
+    "MaxLevel": 10,
+    "Property": "StatusProbabilityBase",
+    "ExpRequire": 1000,
+    "ID": 194,
+    "Value": {
+      "RawValue": 515396076
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_194",
+    "LevelComment": "LevelComment_194_9",
+    "Name": "HeroPathName_194",
+    "AvatarBaseType": "Warlock",
+    "Level": 9,
+    "MaxLevel": 10,
+    "Property": "StatusProbabilityBase",
+    "ExpRequire": 1000,
+    "ID": 194,
+    "Value": {
+      "RawValue": 579820584
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_194",
+    "LevelComment": "LevelComment_194_10",
+    "Name": "HeroPathName_194",
+    "AvatarBaseType": "Warlock",
+    "Level": 10,
+    "MaxLevel": 10,
+    "Property": "StatusProbabilityBase",
+    "ExpRequire": 0,
+    "ID": 194,
+    "Value": {
+      "RawValue": 644245095
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_195",
+    "LevelComment": "LevelComment_195_0",
+    "Name": "HeroPathName_195",
+    "AvatarBaseType": "Shaman",
+    "Level": 0,
+    "MaxLevel": 10,
+    "Property": "SPRatioBase",
+    "ExpRequire": 200,
+    "ID": 195,
+    "Value": {
+      "RawValue": 0
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_195",
+    "LevelComment": "LevelComment_195_1",
+    "Name": "HeroPathName_195",
+    "AvatarBaseType": "Shaman",
+    "Level": 1,
+    "MaxLevel": 10,
+    "Property": "SPRatioBase",
+    "ExpRequire": 300,
+    "ID": 195,
+    "Value": {
+      "RawValue": 42949673
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_195",
+    "LevelComment": "LevelComment_195_2",
+    "Name": "HeroPathName_195",
+    "AvatarBaseType": "Shaman",
+    "Level": 2,
+    "MaxLevel": 10,
+    "Property": "SPRatioBase",
+    "ExpRequire": 400,
+    "ID": 195,
+    "Value": {
+      "RawValue": 85899346
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_195",
+    "LevelComment": "LevelComment_195_3",
+    "Name": "HeroPathName_195",
+    "AvatarBaseType": "Shaman",
+    "Level": 3,
+    "MaxLevel": 10,
+    "Property": "SPRatioBase",
+    "ExpRequire": 500,
+    "ID": 195,
+    "Value": {
+      "RawValue": 128849019
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_195",
+    "LevelComment": "LevelComment_195_4",
+    "Name": "HeroPathName_195",
+    "AvatarBaseType": "Shaman",
+    "Level": 4,
+    "MaxLevel": 10,
+    "Property": "SPRatioBase",
+    "ExpRequire": 600,
+    "ID": 195,
+    "Value": {
+      "RawValue": 171798692
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_195",
+    "LevelComment": "LevelComment_195_5",
+    "Name": "HeroPathName_195",
+    "AvatarBaseType": "Shaman",
+    "Level": 5,
+    "MaxLevel": 10,
+    "Property": "SPRatioBase",
+    "ExpRequire": 700,
+    "ID": 195,
+    "Value": {
+      "RawValue": 214748365
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_195",
+    "LevelComment": "LevelComment_195_6",
+    "Name": "HeroPathName_195",
+    "AvatarBaseType": "Shaman",
+    "Level": 6,
+    "MaxLevel": 10,
+    "Property": "SPRatioBase",
+    "ExpRequire": 800,
+    "ID": 195,
+    "Value": {
+      "RawValue": 257698038
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_195",
+    "LevelComment": "LevelComment_195_7",
+    "Name": "HeroPathName_195",
+    "AvatarBaseType": "Shaman",
+    "Level": 7,
+    "MaxLevel": 10,
+    "Property": "SPRatioBase",
+    "ExpRequire": 900,
+    "ID": 195,
+    "Value": {
+      "RawValue": 300647711
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_195",
+    "LevelComment": "LevelComment_195_8",
+    "Name": "HeroPathName_195",
+    "AvatarBaseType": "Shaman",
+    "Level": 8,
+    "MaxLevel": 10,
+    "Property": "SPRatioBase",
+    "ExpRequire": 1000,
+    "ID": 195,
+    "Value": {
+      "RawValue": 343597384
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_195",
+    "LevelComment": "LevelComment_195_9",
+    "Name": "HeroPathName_195",
+    "AvatarBaseType": "Shaman",
+    "Level": 9,
+    "MaxLevel": 10,
+    "Property": "SPRatioBase",
+    "ExpRequire": 1000,
+    "ID": 195,
+    "Value": {
+      "RawValue": 386547057
+    }
+  },
+  {
+    "Desc": "HeroPathDesc_195",
+    "LevelComment": "LevelComment_195_10",
+    "Name": "HeroPathName_195",
+    "AvatarBaseType": "Shaman",
+    "Level": 10,
+    "MaxLevel": 10,
+    "Property": "SPRatioBase",
+    "ExpRequire": 0,
+    "ID": 195,
+    "Value": {
+      "RawValue": 429496730
+    }
+  }
+]

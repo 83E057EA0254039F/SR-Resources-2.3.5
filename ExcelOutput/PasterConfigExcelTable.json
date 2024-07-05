@@ -1,0 +1,3906 @@
+[
+  {
+    "TravelBrochureID": [
+      1
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 566860308
+    },
+    "DefaultUnlock": true,
+    "ID": 223000,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      1
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2132944249
+    },
+    "DefaultUnlock": false,
+    "ID": 223001,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      1
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1729659722
+    },
+    "DefaultUnlock": false,
+    "ID": 223002,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      1
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -999223633
+    },
+    "DefaultUnlock": false,
+    "ID": 223003,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      1
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1758738520
+    },
+    "DefaultUnlock": false,
+    "ID": 223004,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      1
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -192654579
+    },
+    "DefaultUnlock": false,
+    "ID": 223005,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      1
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -595939106
+    },
+    "DefaultUnlock": true,
+    "ID": 223006,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      1
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 970144835
+    },
+    "DefaultUnlock": false,
+    "ID": 223007,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      1
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 923090668
+    },
+    "DefaultUnlock": true,
+    "ID": 223008,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      1
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1805792687
+    },
+    "DefaultUnlock": false,
+    "ID": 223009,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      1
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 566860309
+    },
+    "DefaultUnlock": false,
+    "ID": 223010,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      1
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2132944250
+    },
+    "DefaultUnlock": false,
+    "ID": 223011,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      1
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1729659723
+    },
+    "DefaultUnlock": false,
+    "ID": 223012,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -737101607
+    },
+    "DefaultUnlock": false,
+    "ID": 223100,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1991781748
+    },
+    "DefaultUnlock": false,
+    "ID": 223101,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 425697807
+    },
+    "DefaultUnlock": false,
+    "ID": 223102,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1140386134
+    },
+    "DefaultUnlock": false,
+    "ID": 223103,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1232266861
+    },
+    "DefaultUnlock": false,
+    "ID": 223104,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -333817080
+    },
+    "DefaultUnlock": true,
+    "ID": 223105,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1899901021
+    },
+    "DefaultUnlock": false,
+    "ID": 223106,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 828982334
+    },
+    "DefaultUnlock": false,
+    "ID": 223107,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -380871247
+    },
+    "DefaultUnlock": false,
+    "ID": 223108,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem4.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 566860306
+    },
+    "DefaultUnlock": false,
+    "ID": 223020,
+    "PasterTextmap": {
+      "hash": -356578326
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem9.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2132944247
+    },
+    "DefaultUnlock": true,
+    "ID": 223021,
+    "PasterTextmap": {
+      "hash": -356578325
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem5.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1729659720
+    },
+    "DefaultUnlock": false,
+    "ID": 223022,
+    "PasterTextmap": {
+      "hash": -356578328
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem6.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -999223635
+    },
+    "DefaultUnlock": false,
+    "ID": 223023,
+    "PasterTextmap": {
+      "hash": -356578327
+    }
+  },
+  {
+    "TravelBrochureID": [
+      2
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem8.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1758738522
+    },
+    "DefaultUnlock": false,
+    "ID": 223024,
+    "PasterTextmap": {
+      "hash": -356578322
+    }
+  },
+  {
+    "TravelBrochureID": [
+      3
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 425697812
+    },
+    "DefaultUnlock": false,
+    "ID": 223152,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      3
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1140386129
+    },
+    "DefaultUnlock": false,
+    "ID": 223153,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      3
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1232266866
+    },
+    "DefaultUnlock": true,
+    "ID": 223154,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      3
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -333817075
+    },
+    "DefaultUnlock": false,
+    "ID": 223155,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      3
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1899901016
+    },
+    "DefaultUnlock": true,
+    "ID": 223156,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      3
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 828982339
+    },
+    "DefaultUnlock": false,
+    "ID": 223157,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      3
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem9.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -737101599
+    },
+    "DefaultUnlock": false,
+    "ID": 223180,
+    "PasterTextmap": {
+      "hash": -1163147411
+    }
+  },
+  {
+    "TravelBrochureID": [
+      3
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem6.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1991781756
+    },
+    "DefaultUnlock": false,
+    "ID": 223181,
+    "PasterTextmap": {
+      "hash": -1163147412
+    }
+  },
+  {
+    "TravelBrochureID": [
+      3
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem3.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 425697815
+    },
+    "DefaultUnlock": false,
+    "ID": 223182,
+    "PasterTextmap": {
+      "hash": -1163147413
+    }
+  },
+  {
+    "TravelBrochureID": [
+      3
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem7.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1140386126
+    },
+    "DefaultUnlock": false,
+    "ID": 223183,
+    "PasterTextmap": {
+      "hash": -1163147414
+    }
+  },
+  {
+    "TravelBrochureID": [
+      3
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem5.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1232266869
+    },
+    "DefaultUnlock": false,
+    "ID": 223184,
+    "PasterTextmap": {
+      "hash": -1163147407
+    }
+  },
+  {
+    "TravelBrochureID": [
+      3
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem8.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -333817072
+    },
+    "DefaultUnlock": false,
+    "ID": 223185,
+    "PasterTextmap": {
+      "hash": -1163147408
+    }
+  },
+  {
+    "TravelBrochureID": [
+      4
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 284535306
+    },
+    "DefaultUnlock": false,
+    "ID": 223200,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      4
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1850619247
+    },
+    "DefaultUnlock": false,
+    "ID": 223201,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      4
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -878264108
+    },
+    "DefaultUnlock": false,
+    "ID": 223202,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      4
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 687819833
+    },
+    "DefaultUnlock": false,
+    "ID": 223203,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      4
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -2041063522
+    },
+    "DefaultUnlock": false,
+    "ID": 223204,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      4
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -474979581
+    },
+    "DefaultUnlock": true,
+    "ID": 223205,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      4
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1091104360
+    },
+    "DefaultUnlock": true,
+    "ID": 223206,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      4
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1637778995
+    },
+    "DefaultUnlock": false,
+    "ID": 223207,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      4
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 640765666
+    },
+    "DefaultUnlock": false,
+    "ID": 223208,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      4
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem9.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 284535305
+    },
+    "DefaultUnlock": false,
+    "ID": 223230,
+    "PasterTextmap": {
+      "hash": 1209505549
+    }
+  },
+  {
+    "TravelBrochureID": [
+      4
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem5.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1850619246
+    },
+    "DefaultUnlock": false,
+    "ID": 223231,
+    "PasterTextmap": {
+      "hash": 1209505550
+    }
+  },
+  {
+    "TravelBrochureID": [
+      4
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem4.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -878264109
+    },
+    "DefaultUnlock": false,
+    "ID": 223232,
+    "PasterTextmap": {
+      "hash": 1209505551
+    }
+  },
+  {
+    "TravelBrochureID": [
+      4
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem8.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 687819832
+    },
+    "DefaultUnlock": false,
+    "ID": 223233,
+    "PasterTextmap": {
+      "hash": 1209505552
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 284535311
+    },
+    "DefaultUnlock": true,
+    "ID": 223250,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -878264103
+    },
+    "DefaultUnlock": false,
+    "ID": 223252,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 687819838
+    },
+    "DefaultUnlock": false,
+    "ID": 223253,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -2041063517
+    },
+    "DefaultUnlock": false,
+    "ID": 223254,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -474979576
+    },
+    "DefaultUnlock": false,
+    "ID": 223255,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1091104365
+    },
+    "DefaultUnlock": true,
+    "ID": 223256,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 640765671
+    },
+    "DefaultUnlock": true,
+    "ID": 223258,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -2088117684
+    },
+    "DefaultUnlock": false,
+    "ID": 223259,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 284535308
+    },
+    "DefaultUnlock": true,
+    "ID": 223260,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1850619249
+    },
+    "DefaultUnlock": false,
+    "ID": 223261,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem2.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 284535309
+    },
+    "DefaultUnlock": false,
+    "ID": 223270,
+    "PasterTextmap": {
+      "hash": -1116093279
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem6.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1850619250
+    },
+    "DefaultUnlock": false,
+    "ID": 223271,
+    "PasterTextmap": {
+      "hash": -1116093278
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem7.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -878264105
+    },
+    "DefaultUnlock": false,
+    "ID": 223272,
+    "PasterTextmap": {
+      "hash": -1116093277
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem9.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 687819836
+    },
+    "DefaultUnlock": false,
+    "ID": 223273,
+    "PasterTextmap": {
+      "hash": -1116093276
+    }
+  },
+  {
+    "TravelBrochureID": [
+      5
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem8.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -2041063519
+    },
+    "DefaultUnlock": false,
+    "ID": 223274,
+    "PasterTextmap": {
+      "hash": -1116093275
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1019426609
+    },
+    "DefaultUnlock": true,
+    "ID": 223300,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1709456746
+    },
+    "DefaultUnlock": false,
+    "ID": 223301,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2112741273
+    },
+    "DefaultUnlock": false,
+    "ID": 223302,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -192654574
+    },
+    "DefaultUnlock": false,
+    "ID": 223055,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 546657332
+    },
+    "DefaultUnlock": false,
+    "ID": 223303,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 949941859
+    },
+    "DefaultUnlock": false,
+    "ID": 223304,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -616142082
+    },
+    "DefaultUnlock": false,
+    "ID": 223305,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -212857555
+    },
+    "DefaultUnlock": false,
+    "ID": 223306,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1778941496
+    },
+    "DefaultUnlock": false,
+    "ID": 223307,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -663196249
+    },
+    "DefaultUnlock": true,
+    "ID": 223308,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2065687106
+    },
+    "DefaultUnlock": true,
+    "ID": 223309,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem6.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1019426610
+    },
+    "DefaultUnlock": false,
+    "ID": 223330,
+    "PasterTextmap": {
+      "hash": 1209505518
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem5.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1709456745
+    },
+    "DefaultUnlock": false,
+    "ID": 223331,
+    "PasterTextmap": {
+      "hash": 1209505517
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem8.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2112741272
+    },
+    "DefaultUnlock": false,
+    "ID": 223332,
+    "PasterTextmap": {
+      "hash": 1209505520
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem4.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 546657331
+    },
+    "DefaultUnlock": false,
+    "ID": 223333,
+    "PasterTextmap": {
+      "hash": 1209505519
+    }
+  },
+  {
+    "TravelBrochureID": [
+      6
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem9.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 949941858
+    },
+    "DefaultUnlock": false,
+    "ID": 223334,
+    "PasterTextmap": {
+      "hash": 1209505522
+    }
+  },
+  {
+    "TravelBrochureID": [
+      7
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1019426604
+    },
+    "DefaultUnlock": false,
+    "ID": 223350,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      7
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1709456751
+    },
+    "DefaultUnlock": false,
+    "ID": 223351,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      7
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2112741278
+    },
+    "DefaultUnlock": false,
+    "ID": 223352,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      7
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 546657337
+    },
+    "DefaultUnlock": false,
+    "ID": 223353,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      7
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 949941864
+    },
+    "DefaultUnlock": true,
+    "ID": 223354,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      7
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -616142077
+    },
+    "DefaultUnlock": true,
+    "ID": 223355,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      7
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -212857550
+    },
+    "DefaultUnlock": false,
+    "ID": 223356,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      7
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1778941491
+    },
+    "DefaultUnlock": false,
+    "ID": 223357,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      7
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -663196244
+    },
+    "DefaultUnlock": true,
+    "ID": 223358,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      7
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem8.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1019426606
+    },
+    "DefaultUnlock": false,
+    "ID": 223370,
+    "PasterTextmap": {
+      "hash": -1116093310
+    }
+  },
+  {
+    "TravelBrochureID": [
+      7
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem7.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1709456749
+    },
+    "DefaultUnlock": false,
+    "ID": 223371,
+    "PasterTextmap": {
+      "hash": -1116093311
+    }
+  },
+  {
+    "TravelBrochureID": [
+      7
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem9.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2112741276
+    },
+    "DefaultUnlock": false,
+    "ID": 223372,
+    "PasterTextmap": {
+      "hash": -1116093308
+    }
+  },
+  {
+    "TravelBrochureID": [
+      7
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem4.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 546657335
+    },
+    "DefaultUnlock": false,
+    "ID": 223373,
+    "PasterTextmap": {
+      "hash": -1116093309
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1131510312
+    },
+    "DefaultUnlock": false,
+    "ID": 223400,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1597373043
+    },
+    "DefaultUnlock": false,
+    "ID": 223401,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -2000657570
+    },
+    "DefaultUnlock": false,
+    "ID": 223402,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -434573629
+    },
+    "DefaultUnlock": true,
+    "ID": 223403,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -837858156
+    },
+    "DefaultUnlock": true,
+    "ID": 223404,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 728225785
+    },
+    "DefaultUnlock": true,
+    "ID": 223405,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 324941258
+    },
+    "DefaultUnlock": false,
+    "ID": 223406,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1487740672
+    },
+    "DefaultUnlock": false,
+    "ID": 223408,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1241142683
+    },
+    "DefaultUnlock": false,
+    "ID": 223409,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem8.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1131510311
+    },
+    "DefaultUnlock": false,
+    "ID": 223430,
+    "PasterTextmap": {
+      "hash": 1209505747
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem9.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1597373044
+    },
+    "DefaultUnlock": false,
+    "ID": 223431,
+    "PasterTextmap": {
+      "hash": 1209505748
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem4.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -2000657571
+    },
+    "DefaultUnlock": false,
+    "ID": 223432,
+    "PasterTextmap": {
+      "hash": 1209505745
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem6.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -434573630
+    },
+    "DefaultUnlock": false,
+    "ID": 223433,
+    "PasterTextmap": {
+      "hash": 1209505746
+    }
+  },
+  {
+    "TravelBrochureID": [
+      8
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem7.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -837858157
+    },
+    "DefaultUnlock": false,
+    "ID": 223434,
+    "PasterTextmap": {
+      "hash": 1209505743
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 923090673
+    },
+    "DefaultUnlock": true,
+    "ID": 223058,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 566860313
+    },
+    "DefaultUnlock": true,
+    "ID": 223050,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2132944254
+    },
+    "DefaultUnlock": false,
+    "ID": 223051,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1729659727
+    },
+    "DefaultUnlock": false,
+    "ID": 223052,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -999223628
+    },
+    "DefaultUnlock": false,
+    "ID": 223053,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1758738515
+    },
+    "DefaultUnlock": false,
+    "ID": 223054,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -595939101
+    },
+    "DefaultUnlock": false,
+    "ID": 223056,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1805792682
+    },
+    "DefaultUnlock": false,
+    "ID": 223059,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 566860310
+    },
+    "DefaultUnlock": false,
+    "ID": 223060,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem6.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 566860316
+    },
+    "DefaultUnlock": false,
+    "ID": 223080,
+    "PasterTextmap": {
+      "hash": -1163147380
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem8.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2132944257
+    },
+    "DefaultUnlock": false,
+    "ID": 223081,
+    "PasterTextmap": {
+      "hash": -1163147379
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem4.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1729659730
+    },
+    "DefaultUnlock": false,
+    "ID": 223082,
+    "PasterTextmap": {
+      "hash": -1163147382
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem9.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -999223625
+    },
+    "DefaultUnlock": false,
+    "ID": 223083,
+    "PasterTextmap": {
+      "hash": -1163147381
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem5.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1758738512
+    },
+    "DefaultUnlock": false,
+    "ID": 223084,
+    "PasterTextmap": {
+      "hash": -1163147376
+    }
+  },
+  {
+    "TravelBrochureID": [
+      9
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem7.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -192654571
+    },
+    "DefaultUnlock": false,
+    "ID": 223085,
+    "PasterTextmap": {
+      "hash": -1163147375
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -172451603
+    },
+    "DefaultUnlock": true,
+    "ID": 223500,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1738535544
+    },
+    "DefaultUnlock": false,
+    "ID": 223501,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 990347811
+    },
+    "DefaultUnlock": false,
+    "ID": 223502,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -575736130
+    },
+    "DefaultUnlock": true,
+    "ID": 223503,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -2141820071
+    },
+    "DefaultUnlock": false,
+    "ID": 223504,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 587063284
+    },
+    "DefaultUnlock": false,
+    "ID": 223505,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -979020657
+    },
+    "DefaultUnlock": false,
+    "ID": 223506,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1749862698
+    },
+    "DefaultUnlock": false,
+    "ID": 223507,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 183778757
+    },
+    "DefaultUnlock": false,
+    "ID": 223508,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1382305184
+    },
+    "DefaultUnlock": false,
+    "ID": 223509,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem9.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1738535545
+    },
+    "DefaultUnlock": false,
+    "ID": 223531,
+    "PasterTextmap": {
+      "hash": 1209505715
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem8.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 990347810
+    },
+    "DefaultUnlock": false,
+    "ID": 223532,
+    "PasterTextmap": {
+      "hash": 1209505714
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem4.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -575736131
+    },
+    "DefaultUnlock": false,
+    "ID": 223533,
+    "PasterTextmap": {
+      "hash": 1209505713
+    }
+  },
+  {
+    "TravelBrochureID": [
+      10
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem3.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -2141820072
+    },
+    "DefaultUnlock": false,
+    "ID": 223534,
+    "PasterTextmap": {
+      "hash": 1209505712
+    }
+  },
+  {
+    "TravelBrochureID": [
+      11
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 849185310
+    },
+    "DefaultUnlock": true,
+    "ID": 223600,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      11
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1879698045
+    },
+    "DefaultUnlock": false,
+    "ID": 223601,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      11
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -313614104
+    },
+    "DefaultUnlock": false,
+    "ID": 223602,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      11
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1252469837
+    },
+    "DefaultUnlock": false,
+    "ID": 223603,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      11
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1120183158
+    },
+    "DefaultUnlock": false,
+    "ID": 223604,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      11
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 445900783
+    },
+    "DefaultUnlock": false,
+    "ID": 223605,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      11
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2011984724
+    },
+    "DefaultUnlock": true,
+    "ID": 223606,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      11
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -716898631
+    },
+    "DefaultUnlock": false,
+    "ID": 223607,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      11
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem3.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1879698046
+    },
+    "DefaultUnlock": false,
+    "ID": 223631,
+    "PasterTextmap": {
+      "hash": 1209505682
+    }
+  },
+  {
+    "TravelBrochureID": [
+      11
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem3.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -313614105
+    },
+    "DefaultUnlock": false,
+    "ID": 223632,
+    "PasterTextmap": {
+      "hash": 1209505683
+    }
+  },
+  {
+    "TravelBrochureID": [
+      11
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem3.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1252469836
+    },
+    "DefaultUnlock": false,
+    "ID": 223633,
+    "PasterTextmap": {
+      "hash": 1209505684
+    }
+  },
+  {
+    "TravelBrochureID": [
+      11
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem3.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1120183159
+    },
+    "DefaultUnlock": false,
+    "ID": 223634,
+    "PasterTextmap": {
+      "hash": 1209505677
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -454776605
+    },
+    "DefaultUnlock": true,
+    "ID": 223700,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -2020860546
+    },
+    "DefaultUnlock": true,
+    "ID": 223701,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1617576019
+    },
+    "DefaultUnlock": true,
+    "ID": 223702,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1111307336
+    },
+    "DefaultUnlock": true,
+    "ID": 223703,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1870822223
+    },
+    "DefaultUnlock": true,
+    "ID": 223704,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 304738282
+    },
+    "DefaultUnlock": false,
+    "ID": 223705,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 708022809
+    },
+    "DefaultUnlock": false,
+    "ID": 223706,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -858061132
+    },
+    "DefaultUnlock": false,
+    "ID": 223707,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -98546245
+    },
+    "DefaultUnlock": false,
+    "ID": 223708,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1664630186
+    },
+    "DefaultUnlock": false,
+    "ID": 223709,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -454776604
+    },
+    "DefaultUnlock": false,
+    "ID": 223710,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -2020860545
+    },
+    "DefaultUnlock": false,
+    "ID": 223711,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1617576018
+    },
+    "DefaultUnlock": false,
+    "ID": 223712,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1111307337
+    },
+    "DefaultUnlock": false,
+    "ID": 223713,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1870822224
+    },
+    "DefaultUnlock": false,
+    "ID": 223714,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 304738283
+    },
+    "DefaultUnlock": false,
+    "ID": 223715,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem6.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -2020860547
+    },
+    "DefaultUnlock": false,
+    "ID": 223731,
+    "PasterTextmap": {
+      "hash": 1209505649
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem6.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1617576020
+    },
+    "DefaultUnlock": false,
+    "ID": 223732,
+    "PasterTextmap": {
+      "hash": 1209505652
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem6.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1111307335
+    },
+    "DefaultUnlock": false,
+    "ID": 223733,
+    "PasterTextmap": {
+      "hash": 1209505651
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem6.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1870822222
+    },
+    "DefaultUnlock": false,
+    "ID": 223734,
+    "PasterTextmap": {
+      "hash": 1209505646
+    }
+  },
+  {
+    "TravelBrochureID": [
+      12
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem6.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 304738281
+    },
+    "DefaultUnlock": false,
+    "ID": 223735,
+    "PasterTextmap": {
+      "hash": 1209505645
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -562439700
+    },
+    "DefaultUnlock": true,
+    "ID": 223800,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1003644241
+    },
+    "DefaultUnlock": true,
+    "ID": 223801,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 600359714
+    },
+    "DefaultUnlock": true,
+    "ID": 223802,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -2128523641
+    },
+    "DefaultUnlock": false,
+    "ID": 223803,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1406928768
+    },
+    "DefaultUnlock": false,
+    "ID": 223804,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1321954587
+    },
+    "DefaultUnlock": false,
+    "ID": 223805,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1725239114
+    },
+    "DefaultUnlock": false,
+    "ID": 223806,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -159155173
+    },
+    "DefaultUnlock": false,
+    "ID": 223807,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -918670060
+    },
+    "DefaultUnlock": false,
+    "ID": 223808,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 647413881
+    },
+    "DefaultUnlock": false,
+    "ID": 223809,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem9.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1003644242
+    },
+    "DefaultUnlock": false,
+    "ID": 223811,
+    "PasterTextmap": {
+      "hash": 46706466
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem6.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 600359715
+    },
+    "DefaultUnlock": false,
+    "ID": 223812,
+    "PasterTextmap": {
+      "hash": 46706463
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem2.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -2128523640
+    },
+    "DefaultUnlock": false,
+    "ID": 223813,
+    "PasterTextmap": {
+      "hash": 46706464
+    }
+  },
+  {
+    "TravelBrochureID": [
+      13
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem5.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1406928769
+    },
+    "DefaultUnlock": false,
+    "ID": 223814,
+    "PasterTextmap": {
+      "hash": 46706469
+    }
+  },
+  {
+    "TravelBrochureID": [
+      14
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 862481740
+    },
+    "DefaultUnlock": true,
+    "ID": 223901,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      14
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -703602201
+    },
+    "DefaultUnlock": false,
+    "ID": 223902,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      14
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2025281154
+    },
+    "DefaultUnlock": true,
+    "ID": 223903,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      14
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 102966853
+    },
+    "DefaultUnlock": false,
+    "ID": 223904,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      14
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1463117088
+    },
+    "DefaultUnlock": false,
+    "ID": 223905,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      14
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1265766267
+    },
+    "DefaultUnlock": false,
+    "ID": 223906,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      14
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -300317674
+    },
+    "DefaultUnlock": false,
+    "ID": 223907,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      14
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2072335321
+    },
+    "DefaultUnlock": false,
+    "ID": 223908,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      14
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem4.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 862481741
+    },
+    "DefaultUnlock": true,
+    "ID": 223911,
+    "PasterTextmap": {
+      "hash": 46706433
+    }
+  },
+  {
+    "TravelBrochureID": [
+      14
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem4.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -703602200
+    },
+    "DefaultUnlock": false,
+    "ID": 223912,
+    "PasterTextmap": {
+      "hash": 46706432
+    }
+  },
+  {
+    "TravelBrochureID": [
+      14
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem4.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2025281155
+    },
+    "DefaultUnlock": false,
+    "ID": 223913,
+    "PasterTextmap": {
+      "hash": 46706431
+    }
+  },
+  {
+    "TravelBrochureID": [
+      15
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2132944412
+    },
+    "DefaultUnlock": false,
+    "ID": 224001,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      15
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1729659885
+    },
+    "DefaultUnlock": false,
+    "ID": 224002,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      15
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -999223470
+    },
+    "DefaultUnlock": false,
+    "ID": 224003,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      15
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1758738357
+    },
+    "DefaultUnlock": false,
+    "ID": 224004,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      15
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -192654416
+    },
+    "DefaultUnlock": false,
+    "ID": 224005,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      15
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -595938943
+    },
+    "DefaultUnlock": false,
+    "ID": 224006,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      15
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 970144998
+    },
+    "DefaultUnlock": false,
+    "ID": 224007,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      15
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 923090831
+    },
+    "DefaultUnlock": true,
+    "ID": 224008,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      15
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1805792524
+    },
+    "DefaultUnlock": true,
+    "ID": 224009,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      15
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 566860470
+    },
+    "DefaultUnlock": true,
+    "ID": 224010,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      15
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem3.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2132944411
+    },
+    "DefaultUnlock": false,
+    "ID": 224011,
+    "PasterTextmap": {
+      "hash": 187868703
+    }
+  },
+  {
+    "TravelBrochureID": [
+      15
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem5.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1729659884
+    },
+    "DefaultUnlock": false,
+    "ID": 224012,
+    "PasterTextmap": {
+      "hash": 187868700
+    }
+  },
+  {
+    "TravelBrochureID": [
+      15
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem7.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -999223471
+    },
+    "DefaultUnlock": false,
+    "ID": 224013,
+    "PasterTextmap": {
+      "hash": 187868701
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2132944315
+    },
+    "DefaultUnlock": true,
+    "ID": 225001,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1729659788
+    },
+    "DefaultUnlock": true,
+    "ID": 225002,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -999223567
+    },
+    "DefaultUnlock": true,
+    "ID": 225003,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1758738454
+    },
+    "DefaultUnlock": true,
+    "ID": 225004,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -192654513
+    },
+    "DefaultUnlock": true,
+    "ID": 225005,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -595939040
+    },
+    "DefaultUnlock": true,
+    "ID": 225006,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 970144901
+    },
+    "DefaultUnlock": true,
+    "ID": 225007,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 923090734
+    },
+    "DefaultUnlock": true,
+    "ID": 225008,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1805792621
+    },
+    "DefaultUnlock": true,
+    "ID": 225009,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 566860375
+    },
+    "DefaultUnlock": true,
+    "ID": 225010,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2132944316
+    },
+    "DefaultUnlock": true,
+    "ID": 225011,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1729659789
+    },
+    "DefaultUnlock": true,
+    "ID": 225012,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -999223566
+    },
+    "DefaultUnlock": true,
+    "ID": 225013,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1758738453
+    },
+    "DefaultUnlock": true,
+    "ID": 225014,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -192654512
+    },
+    "DefaultUnlock": true,
+    "ID": 225015,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -595939039
+    },
+    "DefaultUnlock": true,
+    "ID": 225016,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 970144902
+    },
+    "DefaultUnlock": true,
+    "ID": 225017,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 923090735
+    },
+    "DefaultUnlock": true,
+    "ID": 225018,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1805792620
+    },
+    "DefaultUnlock": true,
+    "ID": 225019,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 566860376
+    },
+    "DefaultUnlock": true,
+    "ID": 225020,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2132944317
+    },
+    "DefaultUnlock": true,
+    "ID": 225021,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1729659790
+    },
+    "DefaultUnlock": true,
+    "ID": 225022,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -999223565
+    },
+    "DefaultUnlock": true,
+    "ID": 225023,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1758738452
+    },
+    "DefaultUnlock": true,
+    "ID": 225024,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -192654511
+    },
+    "DefaultUnlock": true,
+    "ID": 225025,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -595939038
+    },
+    "DefaultUnlock": true,
+    "ID": 225026,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 970144903
+    },
+    "DefaultUnlock": true,
+    "ID": 225027,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 923090736
+    },
+    "DefaultUnlock": true,
+    "ID": 225028,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "",
+    "Type": "Image",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1805792619
+    },
+    "DefaultUnlock": true,
+    "ID": 225029,
+    "PasterTextmap": {
+      "hash": 371857150
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem9.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 566860377
+    },
+    "DefaultUnlock": true,
+    "ID": 225030,
+    "PasterTextmap": {
+      "hash": -833768211
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem9.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 2132944318
+    },
+    "DefaultUnlock": true,
+    "ID": 225031,
+    "PasterTextmap": {
+      "hash": -833768210
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem9.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": 1729659791
+    },
+    "DefaultUnlock": true,
+    "ID": 225032,
+    "PasterTextmap": {
+      "hash": -833768213
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem6.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -999223564
+    },
+    "DefaultUnlock": true,
+    "ID": 225033,
+    "PasterTextmap": {
+      "hash": -833768212
+    }
+  },
+  {
+    "TravelBrochureID": [
+      16
+    ],
+    "TextPasterPrefab": "UI/TravelBrochure/Widget/TBStickerTextItem/TBStickerTextItem5.prefab",
+    "Type": "Text",
+    "IncreaseCompletion": 15,
+    "PasterUnlockDesc": {
+      "hash": -1758738451
+    },
+    "DefaultUnlock": true,
+    "ID": 225034,
+    "PasterTextmap": {
+      "hash": -833768207
+    }
+  }
+]

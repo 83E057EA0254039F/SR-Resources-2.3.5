@@ -1,0 +1,992 @@
+[
+  {
+    "EffectParamList": [
+      610001
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": -845131176
+    },
+    "BossDecayName": {
+      "hash": 1530127379
+    },
+    "BossDecayDesc": {
+      "hash": 665726937
+    },
+    "BossDecayID": 1,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610002
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": -845131175
+    },
+    "BossDecayName": {
+      "hash": 1530127382
+    },
+    "BossDecayDesc": {
+      "hash": 665726936
+    },
+    "BossDecayID": 2,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610003
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": -845131174
+    },
+    "BossDecayName": {
+      "hash": 1530127381
+    },
+    "BossDecayDesc": {
+      "hash": 665726935
+    },
+    "BossDecayID": 3,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610004
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": -845131181
+    },
+    "BossDecayName": {
+      "hash": 1530127376
+    },
+    "BossDecayDesc": {
+      "hash": 665726934
+    },
+    "BossDecayID": 4,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610005
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": -845131180
+    },
+    "BossDecayName": {
+      "hash": 1530127375
+    },
+    "BossDecayDesc": {
+      "hash": 665726933
+    },
+    "BossDecayID": 5,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610011
+    ],
+    "DescParam": [
+      {
+        "RawValue": 2147483650
+      }
+    ],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": -279090333
+    },
+    "BossDecayName": {
+      "hash": 1913207454
+    },
+    "BossDecayDesc": {
+      "hash": 2027705220
+    },
+    "BossDecayID": 11,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610012
+    ],
+    "DescParam": [
+      {
+        "RawValue": 1073741825
+      }
+    ],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": -1845174274
+    },
+    "BossDecayName": {
+      "hash": 347123513
+    },
+    "BossDecayDesc": {
+      "hash": 461621279
+    },
+    "BossDecayID": 12,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610013
+    ],
+    "DescParam": [
+      {
+        "RawValue": 515396076
+      }
+    ],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 883709081
+    },
+    "BossDecayName": {
+      "hash": -1218960428
+    },
+    "BossDecayDesc": {
+      "hash": -1104462662
+    },
+    "BossDecayID": 13,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610014
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": -682374860
+    },
+    "BossDecayName": {
+      "hash": 1153692567
+    },
+    "BossDecayDesc": {
+      "hash": 1624420693
+    },
+    "BossDecayID": 14,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610015
+    ],
+    "DescParam": [
+      {
+        "RawValue": 429496730
+      }
+    ],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 2046508495
+    },
+    "BossDecayName": {
+      "hash": -412391374
+    },
+    "BossDecayDesc": {
+      "hash": 58336752
+    },
+    "BossDecayID": 15,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610021
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": -279090332
+    },
+    "BossDecayName": {
+      "hash": 1913207457
+    },
+    "BossDecayDesc": {
+      "hash": 2027705219
+    },
+    "BossDecayID": 21,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610022
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": -1845174273
+    },
+    "BossDecayName": {
+      "hash": 347123516
+    },
+    "BossDecayDesc": {
+      "hash": 461621278
+    },
+    "BossDecayID": 22,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610023
+    ],
+    "DescParam": [
+      {
+        "RawValue": 4294967296
+      }
+    ],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 883709082
+    },
+    "BossDecayName": {
+      "hash": -1218960425
+    },
+    "BossDecayDesc": {
+      "hash": -1104462663
+    },
+    "BossDecayID": 23,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610024
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": -682374859
+    },
+    "BossDecayName": {
+      "hash": 1153692570
+    },
+    "BossDecayDesc": {
+      "hash": 1624420692
+    },
+    "BossDecayID": 24,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610025
+    ],
+    "DescParam": [
+      {
+        "RawValue": 1288490190
+      }
+    ],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 2046508496
+    },
+    "BossDecayName": {
+      "hash": -412391371
+    },
+    "BossDecayDesc": {
+      "hash": 58336751
+    },
+    "BossDecayID": 25,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610101
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 1091978100
+    },
+    "BossDecayDesc": {
+      "hash": 1206613146
+    },
+    "BossDecayID": 101,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610102
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 1091978101
+    },
+    "BossDecayDesc": {
+      "hash": 1206613143
+    },
+    "BossDecayID": 102,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610104
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 1091978095
+    },
+    "BossDecayDesc": {
+      "hash": 1206613141
+    },
+    "BossDecayID": 104,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610105
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 1091978096
+    },
+    "BossDecayDesc": {
+      "hash": 1206613142
+    },
+    "BossDecayID": 105,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610106
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 1091978097
+    },
+    "BossDecayDesc": {
+      "hash": 1206613139
+    },
+    "BossDecayID": 106,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610107
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 1091978098
+    },
+    "BossDecayDesc": {
+      "hash": 1206613140
+    },
+    "BossDecayID": 107,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610111
+    ],
+    "DescParam": [
+      {
+        "RawValue": 1073741825
+      }
+    ],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": -474105841
+    },
+    "BossDecayDesc": {
+      "hash": -359470795
+    },
+    "BossDecayID": 111,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610112
+    ],
+    "DescParam": [
+      {
+        "RawValue": 515396076
+      }
+    ],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": -474105840
+    },
+    "BossDecayDesc": {
+      "hash": -359470798
+    },
+    "BossDecayID": 112,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610113
+    ],
+    "DescParam": [
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": -474105839
+    },
+    "BossDecayDesc": {
+      "hash": -359470797
+    },
+    "BossDecayID": 113,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610114
+    ],
+    "DescParam": [
+      {
+        "RawValue": 2147483650
+      }
+    ],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": -474105846
+    },
+    "BossDecayDesc": {
+      "hash": -359470800
+    },
+    "BossDecayID": 114,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      610115
+    ],
+    "DescParam": [
+      {
+        "RawValue": 1288490190
+      }
+    ],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": -474105845
+    },
+    "BossDecayDesc": {
+      "hash": -359470799
+    },
+    "BossDecayID": 115,
+    "EffectType": "AddMazeBuff"
+  },
+  {
+    "EffectParamList": [
+      650011,
+      650012
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsRogue.png",
+    "DecayIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionRogueSmall.png",
+    "ExtraDesc": [
+      61000031,
+      61000032
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": -2040189783
+    },
+    "BossDecayDesc": {
+      "hash": -1925554737
+    },
+    "BossDecayID": 120,
+    "EffectType": "AddMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650021,
+      650022
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarrior.png",
+    "DecayIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionWarriorSmall.png",
+    "ExtraDesc": [
+      61000034,
+      61000035
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 688693572
+    },
+    "BossDecayDesc": {
+      "hash": 803328618
+    },
+    "BossDecayID": 130,
+    "EffectType": "AddMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650031,
+      650032
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarlock.png",
+    "DecayIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionWarlockSmall.png",
+    "ExtraDesc": [
+      61000037,
+      61000038
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": -1233620729
+    },
+    "BossDecayDesc": {
+      "hash": -762755323
+    },
+    "BossDecayID": 140,
+    "EffectType": "AddMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650041,
+      650042
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPirest.png",
+    "DecayIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionPirestSmall.png",
+    "ExtraDesc": [
+      61000040,
+      61000041
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 1495262626
+    },
+    "BossDecayDesc": {
+      "hash": 1966128032
+    },
+    "BossDecayID": 150,
+    "EffectType": "AddMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650011,
+      650012,
+      650013
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsRogue.png",
+    "DecayIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionRogueSmall.png",
+    "ExtraDesc": [
+      61000031,
+      61000032,
+      61000033
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": -2040189782
+    },
+    "BossDecayDesc": {
+      "hash": -1925554736
+    },
+    "BossDecayID": 121,
+    "EffectType": "AddMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650021,
+      650022,
+      650023
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarrior.png",
+    "DecayIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionWarriorSmall.png",
+    "ExtraDesc": [
+      61000034,
+      61000035,
+      61000036
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 688693573
+    },
+    "BossDecayDesc": {
+      "hash": 803328619
+    },
+    "BossDecayID": 131,
+    "EffectType": "AddMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650031,
+      650032,
+      650033
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarlock.png",
+    "DecayIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionWarlockSmall.png",
+    "ExtraDesc": [
+      61000037,
+      61000038,
+      61000039
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": -1233620728
+    },
+    "BossDecayDesc": {
+      "hash": -762755322
+    },
+    "BossDecayID": 141,
+    "EffectType": "AddMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650041,
+      650042,
+      650043
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPirest.png",
+    "DecayIcon": "SpriteOutput/ProfessionIconSmall/IconProfessionPirestSmall.png",
+    "ExtraDesc": [
+      61000040,
+      61000041,
+      61000042
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 1495262627
+    },
+    "BossDecayDesc": {
+      "hash": 1966128033
+    },
+    "BossDecayID": 151,
+    "EffectType": "AddMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650012
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [
+      61000031,
+      61000032
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": -2040189781
+    },
+    "BossDecayDesc": {
+      "hash": -1925554739
+    },
+    "BossDecayID": 122,
+    "EffectType": "RemoveMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650013
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [
+      61000031,
+      61000033
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": -2040189780
+    },
+    "BossDecayDesc": {
+      "hash": -1925554738
+    },
+    "BossDecayID": 123,
+    "EffectType": "RemoveMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650022
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [
+      61000034,
+      61000035
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 688693574
+    },
+    "BossDecayDesc": {
+      "hash": 803328616
+    },
+    "BossDecayID": 132,
+    "EffectType": "RemoveMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650023
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [
+      61000034,
+      61000036
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 688693575
+    },
+    "BossDecayDesc": {
+      "hash": 803328617
+    },
+    "BossDecayID": 133,
+    "EffectType": "RemoveMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650032
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [
+      61000037,
+      61000038
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": -1233620727
+    },
+    "BossDecayDesc": {
+      "hash": -762755325
+    },
+    "BossDecayID": 142,
+    "EffectType": "RemoveMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650033
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [
+      61000037,
+      61000039
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": -1233620726
+    },
+    "BossDecayDesc": {
+      "hash": -762755324
+    },
+    "BossDecayID": 143,
+    "EffectType": "RemoveMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650042
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [
+      61000040,
+      61000041
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 1495262628
+    },
+    "BossDecayDesc": {
+      "hash": 1966128030
+    },
+    "BossDecayID": 152,
+    "EffectType": "RemoveMazeBuffList"
+  },
+  {
+    "EffectParamList": [
+      650043
+    ],
+    "DescParam": [],
+    "BossEffectIcon": "",
+    "DecayIcon": "SpriteOutput/UI/Rogue/DLC/Dice/IconRogueDlcCBossBpBossDeBuff.png",
+    "ExtraDesc": [
+      61000040,
+      61000042
+    ],
+    "IsBuff": false,
+    "BossDecayComeFrom": {
+      "hash": 371857150
+    },
+    "BossDecayName": {
+      "hash": 1495262629
+    },
+    "BossDecayDesc": {
+      "hash": 1966128031
+    },
+    "BossDecayID": 153,
+    "EffectType": "RemoveMazeBuffList"
+  }
+]

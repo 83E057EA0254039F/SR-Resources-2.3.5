@@ -1,0 +1,110 @@
+[
+  {
+    "DrinkMakerNoteList": [
+      {
+        "hash": 783766912
+      }
+    ],
+    "UnlockDay": 1,
+    "GuestID": 1
+  },
+  {
+    "DrinkMakerNoteList": [
+      {
+        "hash": 380482385
+      }
+    ],
+    "UnlockDay": 2,
+    "GuestID": 1
+  },
+  {
+    "DrinkMakerNoteList": [
+      {
+        "hash": -1044439055
+      }
+    ],
+    "UnlockDay": 1,
+    "GuestID": 2
+  },
+  {
+    "DrinkMakerNoteList": [
+      {
+        "hash": -641154528
+      }
+    ],
+    "UnlockDay": 2,
+    "GuestID": 2
+  },
+  {
+    "DrinkMakerNoteList": [
+      {
+        "hash": 501441910
+      }
+    ],
+    "UnlockDay": 1,
+    "GuestID": 3
+  },
+  {
+    "DrinkMakerNoteList": [
+      {
+        "hash": 2067525851
+      }
+    ],
+    "UnlockDay": 2,
+    "GuestID": 3
+  },
+  {
+    "DrinkMakerNoteList": [
+      {
+        "hash": -1326764057
+      }
+    ],
+    "UnlockDay": 1,
+    "GuestID": 4
+  },
+  {
+    "DrinkMakerNoteList": [
+      {
+        "hash": 1402119298
+      }
+    ],
+    "UnlockDay": 2,
+    "GuestID": 4
+  },
+  {
+    "DrinkMakerNoteList": [
+      {
+        "hash": 219116908
+      }
+    ],
+    "UnlockDay": 1,
+    "GuestID": 5
+  },
+  {
+    "DrinkMakerNoteList": [
+      {
+        "hash": -184167619
+      }
+    ],
+    "UnlockDay": 2,
+    "GuestID": 5
+  },
+  {
+    "DrinkMakerNoteList": [
+      {
+        "hash": -1609089059
+      }
+    ],
+    "UnlockDay": 1,
+    "GuestID": 6
+  },
+  {
+    "DrinkMakerNoteList": [
+      {
+        "hash": -1205804532
+      }
+    ],
+    "UnlockDay": 2,
+    "GuestID": 6
+  }
+]

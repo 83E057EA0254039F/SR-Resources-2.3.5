@@ -1,0 +1,116 @@
+[
+  {
+    "EnableCondition": "",
+    "DimensionID": 1001,
+    "FloorID": 10304001,
+    "ContentID": 200001
+  },
+  {
+    "EnableCondition": "",
+    "DimensionID": 1001,
+    "FloorID": 80112001,
+    "ContentID": 200002
+  },
+  {
+    "EnableCondition": "",
+    "DimensionID": 1001,
+    "FloorID": 10341001,
+    "ContentID": 200002
+  },
+  {
+    "EnableCondition": "",
+    "DimensionID": 1002,
+    "FloorID": 10000000,
+    "ContentID": 200003
+  },
+  {
+    "EnableCondition": "[FinishMainMission:2022003]",
+    "DimensionID": 1001,
+    "FloorID": 20231001,
+    "ContentID": 200003
+  },
+  {
+    "EnableCondition": "[FinishMainMission:2022008]",
+    "DimensionID": 1001,
+    "FloorID": 20222001,
+    "ContentID": 200003
+  },
+  {
+    "EnableCondition": "[FinishSubMission:202210428]",
+    "DimensionID": 2001,
+    "FloorID": 20241001,
+    "ContentID": 200003
+  },
+  {
+    "EnableCondition": "[FinishMainMission:2022002]",
+    "DimensionID": 1001,
+    "FloorID": 10201002,
+    "ContentID": 200003
+  },
+  {
+    "EnableCondition": "[FinishSubMission:202200601]",
+    "DimensionID": 1001,
+    "FloorID": 10202003,
+    "ContentID": 200003
+  },
+  {
+    "EnableCondition": "[FinishMainMission:2022001]",
+    "DimensionID": 1003,
+    "FloorID": 10201001,
+    "ContentID": 200003
+  },
+  {
+    "EnableCondition": "[FinishMainMission:2022103]",
+    "DimensionID": 1001,
+    "FloorID": 20232001,
+    "ContentID": 200003
+  },
+  {
+    "EnableCondition": "[FinishMainMission:2022004]",
+    "DimensionID": 1002,
+    "FloorID": 10202001,
+    "ContentID": 200003
+  },
+  {
+    "EnableCondition": "",
+    "DimensionID": 1001,
+    "FloorID": 10201001,
+    "ContentID": 150017
+  },
+  {
+    "EnableCondition": "",
+    "DimensionID": 1002,
+    "FloorID": 10201001,
+    "ContentID": 150015
+  },
+  {
+    "EnableCondition": "",
+    "DimensionID": 1002,
+    "FloorID": 10202004,
+    "ContentID": 150015
+  },
+  {
+    "EnableCondition": "",
+    "DimensionID": 1001,
+    "FloorID": 20223001,
+    "ContentID": 150015
+  },
+  {
+    "EnableCondition": "",
+    "DimensionID": 1001,
+    "FloorID": 20221001,
+    "ContentID": 150015
+  },
+  {
+    "EnableCondition": "",
+    "DimensionID": 1002,
+    "FloorID": 20222001,
+    "ContentID": 150015
+  },
+  {
+    "EnableCondition": "",
+    "DimensionID": 1002,
+    "FloorID": 20231001,
+    "ContentID": 150015
+  }
+]

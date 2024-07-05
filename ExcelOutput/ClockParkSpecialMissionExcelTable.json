@@ -1,0 +1,86 @@
+[
+  {
+    "SpecialMissionImgPath": "SpriteOutput/ItemFigures/140400.png",
+    "SpecialMissionIconPath": "SpriteOutput/ItemFigures/140320.png",
+    "SpecialMissionMapInfo": 0,
+    "SpecialMissionUnlockItemID": 140483,
+    "EventNum": 2,
+    "SpecialMissionGotoIDAfter": 0,
+    "EventScript": 2,
+    "EventName": {
+      "hash": 804192264
+    },
+    "SpecialMissionID": 8022110,
+    "SpecialMissionGotoIDBefore": 28005
+  },
+  {
+    "SpecialMissionImgPath": "SpriteOutput/ItemFigures/140400.png",
+    "SpecialMissionIconPath": "SpriteOutput/ItemFigures/140320.png",
+    "SpecialMissionMapInfo": 0,
+    "SpecialMissionUnlockItemID": 140484,
+    "EventNum": 1,
+    "SpecialMissionGotoIDAfter": 0,
+    "EventScript": 1,
+    "EventName": {
+      "hash": 1563707151
+    },
+    "SpecialMissionID": 8022111,
+    "SpecialMissionGotoIDBefore": 28006
+  },
+  {
+    "SpecialMissionImgPath": "SpriteOutput/ItemFigures/140400.png",
+    "SpecialMissionIconPath": "SpriteOutput/ItemFigures/140320.png",
+    "SpecialMissionMapInfo": 0,
+    "SpecialMissionUnlockItemID": 140485,
+    "EventNum": 6,
+    "SpecialMissionGotoIDAfter": 0,
+    "EventScript": 5,
+    "EventName": {
+      "hash": -2376790
+    },
+    "SpecialMissionID": 8022112,
+    "SpecialMissionGotoIDBefore": 28007
+  },
+  {
+    "SpecialMissionImgPath": "SpriteOutput/ItemFigures/140400.png",
+    "SpecialMissionIconPath": "SpriteOutput/ItemFigures/140320.png",
+    "SpecialMissionMapInfo": 0,
+    "SpecialMissionUnlockItemID": 140486,
+    "EventNum": 3,
+    "SpecialMissionGotoIDAfter": 0,
+    "EventScript": 3,
+    "EventName": {
+      "hash": 400907737
+    },
+    "SpecialMissionID": 8022113,
+    "SpecialMissionGotoIDBefore": 28008
+  },
+  {
+    "SpecialMissionImgPath": "SpriteOutput/ItemFigures/140400.png",
+    "SpecialMissionIconPath": "SpriteOutput/ItemFigures/140320.png",
+    "SpecialMissionMapInfo": 0,
+    "SpecialMissionUnlockItemID": 140487,
+    "EventNum": 4,
+    "SpecialMissionGotoIDAfter": 0,
+    "EventScript": 3,
+    "EventName": {
+      "hash": -1165176204
+    },
+    "SpecialMissionID": 8022114,
+    "SpecialMissionGotoIDBefore": 28009
+  },
+  {
+    "SpecialMissionImgPath": "SpriteOutput/ItemFigures/140400.png",
+    "SpecialMissionIconPath": "SpriteOutput/ItemFigures/140320.png",
+    "SpecialMissionMapInfo": 0,
+    "SpecialMissionUnlockItemID": 140488,
+    "EventNum": 5,
+    "SpecialMissionGotoIDAfter": 0,
+    "EventScript": 4,
+    "EventName": {
+      "hash": -1118122037
+    },
+    "SpecialMissionID": 8022115,
+    "SpecialMissionGotoIDBefore": 28010
+  }
+]

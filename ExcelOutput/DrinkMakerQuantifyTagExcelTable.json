@@ -1,0 +1,102 @@
+[
+  {
+    "TagID": 1,
+    "Value": -2,
+    "Type": "Sweetness"
+  },
+  {
+    "TagID": 2,
+    "Value": -1,
+    "Type": "Sweetness"
+  },
+  {
+    "TagID": 3,
+    "Value": 1,
+    "Type": "Sweetness"
+  },
+  {
+    "TagID": 4,
+    "Value": 2,
+    "Type": "Sweetness"
+  },
+  {
+    "TagID": 501,
+    "Value": 0,
+    "Type": "Sweetness"
+  },
+  {
+    "TagID": 5,
+    "Value": -2,
+    "Type": "Acidity"
+  },
+  {
+    "TagID": 6,
+    "Value": -1,
+    "Type": "Acidity"
+  },
+  {
+    "TagID": 7,
+    "Value": 1,
+    "Type": "Acidity"
+  },
+  {
+    "TagID": 8,
+    "Value": 2,
+    "Type": "Acidity"
+  },
+  {
+    "TagID": 502,
+    "Value": 0,
+    "Type": "Acidity"
+  },
+  {
+    "TagID": 9,
+    "Value": -2,
+    "Type": "Freshness"
+  },
+  {
+    "TagID": 10,
+    "Value": -1,
+    "Type": "Freshness"
+  },
+  {
+    "TagID": 11,
+    "Value": 1,
+    "Type": "Freshness"
+  },
+  {
+    "TagID": 12,
+    "Value": 2,
+    "Type": "Freshness"
+  },
+  {
+    "TagID": 503,
+    "Value": 0,
+    "Type": "Freshness"
+  },
+  {
+    "TagID": 21,
+    "Value": -2,
+    "Type": "Texture"
+  },
+  {
+    "TagID": 22,
+    "Value": -1,
+    "Type": "Texture"
+  },
+  {
+    "TagID": 23,
+    "Value": 0,
+    "Type": "Texture"
+  },
+  {
+    "TagID": 24,
+    "Value": 1,
+    "Type": "Texture"
+  },
+  {
+    "TagID": 25,
+    "Value": 2,
+    "Type": "Texture"
+  }
+]

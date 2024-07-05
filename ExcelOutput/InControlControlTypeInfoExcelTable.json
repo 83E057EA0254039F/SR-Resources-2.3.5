@@ -1,0 +1,226 @@
+[
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_keyA.png",
+    "iconForSwitch": "",
+    "controlType": "Action1",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_key4.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_keyB.png",
+    "iconForSwitch": "",
+    "controlType": "Action2",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_key3.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_keyX.png",
+    "iconForSwitch": "",
+    "controlType": "Action3",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_key1.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_keyY.png",
+    "iconForSwitch": "",
+    "controlType": "Action4",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_key2.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/Com/UI_com_dir_up.png",
+    "iconForSwitch": "",
+    "controlType": "DPadUp",
+    "iconForSony": "SpriteOutput/KeyMapIcons/Com/UI_com_dir_up.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/Com/UI_com_dir_down.png",
+    "iconForSwitch": "",
+    "controlType": "DPadDown",
+    "iconForSony": "SpriteOutput/KeyMapIcons/Com/UI_com_dir_down.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/Com/UI_com_dir_left.png",
+    "iconForSwitch": "",
+    "controlType": "DPadLeft",
+    "iconForSony": "SpriteOutput/KeyMapIcons/Com/UI_com_dir_left.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/Com/UI_com_dir_right.png",
+    "iconForSwitch": "",
+    "controlType": "DPadRight",
+    "iconForSony": "SpriteOutput/KeyMapIcons/Com/UI_com_dir_right.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_lt.png",
+    "iconForSwitch": "",
+    "controlType": "LeftTrigger",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_l2.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_rt.png",
+    "iconForSwitch": "",
+    "controlType": "RightTrigger",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_r2.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_lb.png",
+    "iconForSwitch": "",
+    "controlType": "LeftBumper",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_l1.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_rb.png",
+    "iconForSwitch": "",
+    "controlType": "RightBumper",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_r1.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_left.png",
+    "iconForSwitch": "",
+    "controlType": "LeftStickLeft",
+    "iconForSony": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_left.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_right.png",
+    "iconForSwitch": "",
+    "controlType": "LeftStickRight",
+    "iconForSony": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_right.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_up.png",
+    "iconForSwitch": "",
+    "controlType": "LeftStickUp",
+    "iconForSony": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_up.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_down.png",
+    "iconForSwitch": "",
+    "controlType": "LeftStickDown",
+    "iconForSony": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_down.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_ls.png",
+    "iconForSwitch": "",
+    "controlType": "LeftStickButton",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_l3.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_left.png",
+    "iconForSwitch": "",
+    "controlType": "RightStickLeft",
+    "iconForSony": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_left.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/Com/UI_com_right4.png",
+    "iconForSwitch": "",
+    "controlType": "RightStickRight",
+    "iconForSony": "SpriteOutput/KeyMapIcons/Com/UI_com_right4.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_up.png",
+    "iconForSwitch": "",
+    "controlType": "RightStickUp",
+    "iconForSony": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_up.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_down.png",
+    "iconForSwitch": "",
+    "controlType": "RightStickDown",
+    "iconForSony": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_down.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_rs.png",
+    "iconForSwitch": "",
+    "controlType": "RightStickButton",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_r3.png",
+    "isSettingControlType": true
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_shitu.png",
+    "iconForSwitch": "",
+    "controlType": "Share",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_share.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_shitu.png",
+    "iconForSwitch": "",
+    "controlType": "View",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_share.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_shitu.png",
+    "iconForSwitch": "",
+    "controlType": "Back",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_share.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_shitu.png",
+    "iconForSwitch": "",
+    "controlType": "Capture",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_share.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_option.png",
+    "iconForSwitch": "",
+    "controlType": "Options",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_option.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_option.png",
+    "iconForSwitch": "",
+    "controlType": "Menu",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_option.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_option.png",
+    "iconForSwitch": "",
+    "controlType": "Start",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_option.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_option.png",
+    "iconForSwitch": "",
+    "controlType": "Home",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_option.png",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "",
+    "iconForSwitch": "",
+    "controlType": "None",
+    "iconForSony": "",
+    "isSettingControlType": false
+  },
+  {
+    "iconForXBox": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_touch.png",
+    "iconForSwitch": "",
+    "controlType": "TouchPadButton",
+    "iconForSony": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_touch.png",
+    "isSettingControlType": false
+  }
+]

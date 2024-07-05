@@ -1,0 +1,128 @@
+[
+  {
+    "Desc": {
+      "hash": 1621024463
+    },
+    "Param1": 1,
+    "Title2": {
+      "hash": -675644634
+    },
+    "Param2": 0,
+    "FinishType": "Rank",
+    "ScoreID": 1,
+    "FixedScore": 1000,
+    "Type": "Rank",
+    "Rarity": "Gold",
+    "Title": {
+      "hash": -1632104888
+    }
+  },
+  {
+    "Desc": {
+      "hash": 1621024466
+    },
+    "Param1": 2,
+    "Title2": {
+      "hash": -675644633
+    },
+    "Param2": 0,
+    "FinishType": "Rank",
+    "ScoreID": 2,
+    "FixedScore": 800,
+    "Type": "Rank",
+    "Rarity": "Silver",
+    "Title": {
+      "hash": -2035389415
+    }
+  },
+  {
+    "Desc": {
+      "hash": 1621024465
+    },
+    "Param1": 3,
+    "Title2": {
+      "hash": -675644632
+    },
+    "Param2": 0,
+    "FinishType": "Rank",
+    "ScoreID": 3,
+    "FixedScore": 600,
+    "Type": "Rank",
+    "Rarity": "Bronze",
+    "Title": {
+      "hash": -469305474
+    }
+  },
+  {
+    "Desc": {
+      "hash": 1621024468
+    },
+    "Param1": 1,
+    "Title2": {
+      "hash": -675644631
+    },
+    "Param2": 600,
+    "FinishType": "Score",
+    "ScoreID": 4,
+    "FixedScore": 0,
+    "Type": "Basic",
+    "Rarity": "Normal",
+    "Title": {
+      "hash": -872590001
+    }
+  },
+  {
+    "Desc": {
+      "hash": 1621024467
+    },
+    "Param1": 5,
+    "Title2": {
+      "hash": -675644630
+    },
+    "Param2": 600,
+    "FinishType": "Energy",
+    "ScoreID": 5,
+    "FixedScore": 0,
+    "Type": "Basic",
+    "Rarity": "Normal",
+    "Title": {
+      "hash": 693493940
+    }
+  },
+  {
+    "Desc": {
+      "hash": 1621024470
+    },
+    "Param1": 10,
+    "Title2": {
+      "hash": -675644629
+    },
+    "Param2": 300,
+    "FinishType": "BombAll",
+    "ScoreID": 6,
+    "FixedScore": 0,
+    "Type": "Basic",
+    "Rarity": "Normal",
+    "Title": {
+      "hash": 290209413
+    }
+  },
+  {
+    "Desc": {
+      "hash": 1621024469
+    },
+    "Param1": 1,
+    "Title2": {
+      "hash": -675644628
+    },
+    "Param2": 300,
+    "FinishType": "DamageAll",
+    "ScoreID": 7,
+    "FixedScore": 0,
+    "Type": "Basic",
+    "Rarity": "Normal",
+    "Title": {
+      "hash": 1856293354
+    }
+  }
+]

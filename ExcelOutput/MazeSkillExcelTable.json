@@ -1,0 +1,1627 @@
+[
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 100101,
+    "RelatedAvatarSkill": 100106,
+    "MazeSkillName": {
+      "hash": -409178268
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 2095340966
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 100102,
+    "RelatedAvatarSkill": 100107,
+    "MazeSkillName": {
+      "hash": -1975262209
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 529257025
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 100201,
+    "RelatedAvatarSkill": 100206,
+    "MazeSkillName": {
+      "hash": -308421719
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -2098869781
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 100202,
+    "RelatedAvatarSkill": 100207,
+    "MazeSkillName": {
+      "hash": 1257662222
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -532785840
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 100301,
+    "RelatedAvatarSkill": 100306,
+    "MazeSkillName": {
+      "hash": 1277865198
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -512582864
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 100302,
+    "RelatedAvatarSkill": 100307,
+    "MazeSkillName": {
+      "hash": -288218743
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -2078666805
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 100401,
+    "RelatedAvatarSkill": 100406,
+    "MazeSkillName": {
+      "hash": 1378621747
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 1429934413
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 100402,
+    "RelatedAvatarSkill": 100407,
+    "MazeSkillName": {
+      "hash": -1350261608
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -1298948942
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 100501,
+    "RelatedAvatarSkill": 100506,
+    "MazeSkillName": {
+      "hash": -1330058632
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1278745966
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 100502,
+    "RelatedAvatarSkill": 100507,
+    "MazeSkillName": {
+      "hash": 1398824723
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1450137389
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 100601,
+    "RelatedAvatarSkill": 100606,
+    "MazeSkillName": {
+      "hash": -1229302083
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1177989417
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 100602,
+    "RelatedAvatarSkill": 100607,
+    "MazeSkillName": {
+      "hash": 336781858
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 388094524
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 100801,
+    "RelatedAvatarSkill": 100806,
+    "MazeSkillName": {
+      "hash": 1170202103
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -620245959
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 100802,
+    "RelatedAvatarSkill": 100807,
+    "MazeSkillName": {
+      "hash": -1558681252
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 945837982
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 100901,
+    "RelatedAvatarSkill": 100906,
+    "MazeSkillName": {
+      "hash": -1538478276
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 966040958
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 100902,
+    "RelatedAvatarSkill": 100907,
+    "MazeSkillName": {
+      "hash": 1190405079
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -600042983
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 101301,
+    "RelatedAvatarSkill": 101306,
+    "MazeSkillName": {
+      "hash": 1277865101
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -512582961
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 101302,
+    "RelatedAvatarSkill": 101307,
+    "MazeSkillName": {
+      "hash": -288218840
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -2078666902
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 110101,
+    "RelatedAvatarSkill": 110106,
+    "MazeSkillName": {
+      "hash": -772573505
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 1731945729
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 110102,
+    "RelatedAvatarSkill": 110107,
+    "MazeSkillName": {
+      "hash": 793510436
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -996937626
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 110201,
+    "RelatedAvatarSkill": 110206,
+    "MazeSkillName": {
+      "hash": -389491954
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 2115027280
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 110202,
+    "RelatedAvatarSkill": 110207,
+    "MazeSkillName": {
+      "hash": -1955575895
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 548943339
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 110301,
+    "RelatedAvatarSkill": 110306,
+    "MazeSkillName": {
+      "hash": 914469961
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -875978101
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 110302,
+    "RelatedAvatarSkill": 110307,
+    "MazeSkillName": {
+      "hash": -1814413394
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 690105840
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 110401,
+    "RelatedAvatarSkill": 110406,
+    "MazeSkillName": {
+      "hash": 1297551512
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 1348864178
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 110402,
+    "RelatedAvatarSkill": 110407,
+    "MazeSkillName": {
+      "hash": -268532429
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -217219763
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 110501,
+    "RelatedAvatarSkill": 110506,
+    "MazeSkillName": {
+      "hash": -1693453869
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1642141203
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 110502,
+    "RelatedAvatarSkill": 110507,
+    "MazeSkillName": {
+      "hash": -127369928
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -76057262
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 110601,
+    "RelatedAvatarSkill": 110606,
+    "MazeSkillName": {
+      "hash": -1310372318
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1259059652
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 110602,
+    "RelatedAvatarSkill": 110607,
+    "MazeSkillName": {
+      "hash": 1418511037
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1469823703
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 110701,
+    "RelatedAvatarSkill": 110706,
+    "MazeSkillName": {
+      "hash": -6410403
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 44902263
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 110702,
+    "RelatedAvatarSkill": 110707,
+    "MazeSkillName": {
+      "hash": 1559673538
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1610986204
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 110801,
+    "RelatedAvatarSkill": 110806,
+    "MazeSkillName": {
+      "hash": 1089131868
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -701316194
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 110802,
+    "RelatedAvatarSkill": 110807,
+    "MazeSkillName": {
+      "hash": -476952073
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 2027567161
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 110901,
+    "RelatedAvatarSkill": 110906,
+    "MazeSkillName": {
+      "hash": -1901873513
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 602645721
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 110902,
+    "RelatedAvatarSkill": 110907,
+    "MazeSkillName": {
+      "hash": -335789572
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -2126237634
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 111001,
+    "RelatedAvatarSkill": 111006,
+    "MazeSkillName": {
+      "hash": -2076535517
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 427983717
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 111002,
+    "RelatedAvatarSkill": 111007,
+    "MazeSkillName": {
+      "hash": 652347838
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -1138100224
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 111101,
+    "RelatedAvatarSkill": 111106,
+    "MazeSkillName": {
+      "hash": -772573602
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 1731945632
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 111102,
+    "RelatedAvatarSkill": 111107,
+    "MazeSkillName": {
+      "hash": 793510339
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -996937723
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 111201,
+    "RelatedAvatarSkill": 111206,
+    "MazeSkillName": {
+      "hash": -389492051
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 2115027183
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 111202,
+    "RelatedAvatarSkill": 111207,
+    "MazeSkillName": {
+      "hash": -1955575992
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 548943242
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 120101,
+    "RelatedAvatarSkill": 120106,
+    "MazeSkillName": {
+      "hash": 833399726
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -957048336
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 120102,
+    "RelatedAvatarSkill": 120107,
+    "MazeSkillName": {
+      "hash": -732684215
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1771835019
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 120201,
+    "RelatedAvatarSkill": 120206,
+    "MazeSkillName": {
+      "hash": 1855036639
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 64588577
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 120202,
+    "RelatedAvatarSkill": 120207,
+    "MazeSkillName": {
+      "hash": -873846716
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1630672518
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 120301,
+    "RelatedAvatarSkill": 120306,
+    "MazeSkillName": {
+      "hash": -853643740
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 1650875494
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 120302,
+    "RelatedAvatarSkill": 120307,
+    "MazeSkillName": {
+      "hash": 1875239615
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 84791553
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 120401,
+    "RelatedAvatarSkill": 120406,
+    "MazeSkillName": {
+      "hash": -1673767555
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1622454889
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 120402,
+    "RelatedAvatarSkill": 120407,
+    "MazeSkillName": {
+      "hash": -107683614
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -56370948
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 120501,
+    "RelatedAvatarSkill": 120506,
+    "MazeSkillName": {
+      "hash": -87480638
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -36167972
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 120502,
+    "RelatedAvatarSkill": 120507,
+    "MazeSkillName": {
+      "hash": -1653564579
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -1602251913
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 120601,
+    "RelatedAvatarSkill": 120606,
+    "MazeSkillName": {
+      "hash": 934156275
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 985468941
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 120602,
+    "RelatedAvatarSkill": 120607,
+    "MazeSkillName": {
+      "hash": -1794727080
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -1743414414
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 120701,
+    "RelatedAvatarSkill": 120706,
+    "MazeSkillName": {
+      "hash": -1774524104
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1723211438
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 120702,
+    "RelatedAvatarSkill": 120707,
+    "MazeSkillName": {
+      "hash": 954359251
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1005671917
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 120801,
+    "RelatedAvatarSkill": 120806,
+    "MazeSkillName": {
+      "hash": -1882187199
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 622332035
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 120802,
+    "RelatedAvatarSkill": 120807,
+    "MazeSkillName": {
+      "hash": -316103258
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -2106551320
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 120901,
+    "RelatedAvatarSkill": 120906,
+    "MazeSkillName": {
+      "hash": -295900282
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -2086348344
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 120902,
+    "RelatedAvatarSkill": 120907,
+    "MazeSkillName": {
+      "hash": -1861984223
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 642535011
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 121001,
+    "RelatedAvatarSkill": 121006,
+    "MazeSkillName": {
+      "hash": -752887288
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 1751631946
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 121002,
+    "RelatedAvatarSkill": 121007,
+    "MazeSkillName": {
+      "hash": 813196653
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -977251409
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 121101,
+    "RelatedAvatarSkill": 121106,
+    "MazeSkillName": {
+      "hash": 833399629
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -957048433
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 121102,
+    "RelatedAvatarSkill": 121107,
+    "MazeSkillName": {
+      "hash": -732684312
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1771834922
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 121201,
+    "RelatedAvatarSkill": 121206,
+    "MazeSkillName": {
+      "hash": 1855036542
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 64588480
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 121202,
+    "RelatedAvatarSkill": 121207,
+    "MazeSkillName": {
+      "hash": -873846813
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1630672421
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 121301,
+    "RelatedAvatarSkill": 121306,
+    "MazeSkillName": {
+      "hash": -853643837
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 1650875397
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 121302,
+    "RelatedAvatarSkill": 121307,
+    "MazeSkillName": {
+      "hash": 1875239518
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 84791456
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 121401,
+    "RelatedAvatarSkill": 121406,
+    "MazeSkillName": {
+      "hash": -1673767652
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1622454986
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 121402,
+    "RelatedAvatarSkill": 121407,
+    "MazeSkillName": {
+      "hash": -107683711
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -56371045
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 121501,
+    "RelatedAvatarSkill": 121506,
+    "MazeSkillName": {
+      "hash": -87480735
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -36168069
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 121502,
+    "RelatedAvatarSkill": 121507,
+    "MazeSkillName": {
+      "hash": -1653564676
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -1602252010
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 121701,
+    "RelatedAvatarSkill": 121706,
+    "MazeSkillName": {
+      "hash": -1774524201
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1723211535
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 121702,
+    "RelatedAvatarSkill": 121707,
+    "MazeSkillName": {
+      "hash": 954359154
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1005671820
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 130101,
+    "RelatedAvatarSkill": 130106,
+    "MazeSkillName": {
+      "hash": 470004489
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1320443573
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 130102,
+    "RelatedAvatarSkill": 130107,
+    "MazeSkillName": {
+      "hash": 2036088430
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 245640368
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 130201,
+    "RelatedAvatarSkill": 130206,
+    "MazeSkillName": {
+      "hash": 1773966404
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -16481658
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 130202,
+    "RelatedAvatarSkill": 130207,
+    "MazeSkillName": {
+      "hash": 207882463
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -1582565599
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 130301,
+    "RelatedAvatarSkill": 130306,
+    "MazeSkillName": {
+      "hash": -1217038977
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 1287480257
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 130302,
+    "RelatedAvatarSkill": 130307,
+    "MazeSkillName": {
+      "hash": 349044964
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -1441403098
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 130401,
+    "RelatedAvatarSkill": 130406,
+    "MazeSkillName": {
+      "hash": -1754837790
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1703525124
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 130402,
+    "RelatedAvatarSkill": 130407,
+    "MazeSkillName": {
+      "hash": 974045565
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1025358231
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 130501,
+    "RelatedAvatarSkill": 130506,
+    "MazeSkillName": {
+      "hash": -450875875
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -399563209
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 130502,
+    "RelatedAvatarSkill": 130507,
+    "MazeSkillName": {
+      "hash": 1115208066
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1166520732
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 130701,
+    "RelatedAvatarSkill": 130706,
+    "MazeSkillName": {
+      "hash": -2137919341
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -2086606675
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 130702,
+    "RelatedAvatarSkill": 130707,
+    "MazeSkillName": {
+      "hash": -571835400
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -520522734
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 130801,
+    "RelatedAvatarSkill": 130806,
+    "MazeSkillName": {
+      "hash": -1963257434
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 541261800
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 130802,
+    "RelatedAvatarSkill": 130807,
+    "MazeSkillName": {
+      "hash": 765625921
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -1024822141
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 130901,
+    "RelatedAvatarSkill": 130906,
+    "MazeSkillName": {
+      "hash": -659295519
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 1845223715
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 130902,
+    "RelatedAvatarSkill": 130907,
+    "MazeSkillName": {
+      "hash": 906788422
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -883659640
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 131001,
+    "RelatedAvatarSkill": 131006,
+    "MazeSkillName": {
+      "hash": -833957523
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 1670561711
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 131002,
+    "RelatedAvatarSkill": 131007,
+    "MazeSkillName": {
+      "hash": 1894925832
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 104477770
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 131201,
+    "RelatedAvatarSkill": 131206,
+    "MazeSkillName": {
+      "hash": 1773966307
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -16481755
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 131202,
+    "RelatedAvatarSkill": 131207,
+    "MazeSkillName": {
+      "hash": 207882366
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -1582565696
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 131401,
+    "RelatedAvatarSkill": 131406,
+    "MazeSkillName": {
+      "hash": -1754837887
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1703525221
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 131402,
+    "RelatedAvatarSkill": 131407,
+    "MazeSkillName": {
+      "hash": 974045468
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1025358134
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 131501,
+    "RelatedAvatarSkill": 131506,
+    "MazeSkillName": {
+      "hash": -450875972
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -399563306
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 131502,
+    "RelatedAvatarSkill": 131507,
+    "MazeSkillName": {
+      "hash": 1115207969
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1166520635
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 800101,
+    "RelatedAvatarSkill": 800106,
+    "MazeSkillName": {
+      "hash": -409172757
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 2095346477
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 800102,
+    "RelatedAvatarSkill": 800107,
+    "MazeSkillName": {
+      "hash": -1975256698
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 529262536
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 800201,
+    "RelatedAvatarSkill": 800206,
+    "MazeSkillName": {
+      "hash": -308416208
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -2098864270
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 800202,
+    "RelatedAvatarSkill": 800207,
+    "MazeSkillName": {
+      "hash": 1257667733
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -532780329
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 800301,
+    "RelatedAvatarSkill": 800306,
+    "MazeSkillName": {
+      "hash": 1277870709
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -512577353
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 800302,
+    "RelatedAvatarSkill": 800307,
+    "MazeSkillName": {
+      "hash": -288213232
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -2078661294
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 800401,
+    "RelatedAvatarSkill": 800406,
+    "MazeSkillName": {
+      "hash": 1378627258
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 1429939924
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 800402,
+    "RelatedAvatarSkill": 800407,
+    "MazeSkillName": {
+      "hash": -1350256097
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -1298943431
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 800501,
+    "RelatedAvatarSkill": 800506,
+    "MazeSkillName": {
+      "hash": -1330053121
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1278740455
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 800502,
+    "RelatedAvatarSkill": 800507,
+    "MazeSkillName": {
+      "hash": 1398830234
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1450142900
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 800601,
+    "RelatedAvatarSkill": 800606,
+    "MazeSkillName": {
+      "hash": -1229296572
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1177983906
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 800602,
+    "RelatedAvatarSkill": 800607,
+    "MazeSkillName": {
+      "hash": 336787369
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 388100035
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 130601,
+    "RelatedAvatarSkill": 130606,
+    "MazeSkillName": {
+      "hash": 853086040
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 904398706
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 130602,
+    "RelatedAvatarSkill": 130607,
+    "MazeSkillName": {
+      "hash": -712997901
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -661685235
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 121801,
+    "RelatedAvatarSkill": 121806,
+    "MazeSkillName": {
+      "hash": -1882187296
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 622331938
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 121802,
+    "RelatedAvatarSkill": 121807,
+    "MazeSkillName": {
+      "hash": -316103355
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -2106551417
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 122401,
+    "RelatedAvatarSkill": 122406,
+    "MazeSkillName": {
+      "hash": -1673767621
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1622454823
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 122402,
+    "RelatedAvatarSkill": 122407,
+    "MazeSkillName": {
+      "hash": -107683680
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": -56370882
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 122101,
+    "RelatedAvatarSkill": 122106,
+    "MazeSkillName": {
+      "hash": 833399660
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -957048270
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 122102,
+    "RelatedAvatarSkill": 122107,
+    "MazeSkillName": {
+      "hash": -732684281
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 1771835085
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 1211201,
+    "RelatedAvatarSkill": 1211206,
+    "MazeSkillName": {
+      "hash": 371857150
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 1211501,
+    "RelatedAvatarSkill": 1211506,
+    "MazeSkillName": {
+      "hash": 371857150
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 1211502,
+    "RelatedAvatarSkill": 1211507,
+    "MazeSkillName": {
+      "hash": 371857150
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 1,
+    "MazeSkillDesc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 1300101,
+    "RelatedAvatarSkill": 1300106,
+    "MazeSkillName": {
+      "hash": 371857150
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "SkillTriggerKey": "MazeSkill",
+    "MazeSkillId": 1300102,
+    "RelatedAvatarSkill": 1300107,
+    "MazeSkillName": {
+      "hash": 283844922
+    },
+    "MazeSkilltype": 2,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": 371857150
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 890101,
+    "RelatedAvatarSkill": 890106,
+    "MazeSkillName": {
+      "hash": 615237406
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -1175210656
+    }
+  },
+  {
+    "SkillTriggerKey": "NormalAtk",
+    "MazeSkillId": 890201,
+    "RelatedAvatarSkill": 890206,
+    "MazeSkillName": {
+      "hash": 998318957
+    },
+    "MazeSkilltype": 1,
+    "MPCost": 0,
+    "MazeSkillDesc": {
+      "hash": -792129105
+    }
+  }
+]

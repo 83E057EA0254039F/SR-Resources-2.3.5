@@ -1,0 +1,140 @@
+[
+  {
+    "ParamList": [],
+    "Sort": 1,
+    "Tag": 1,
+    "DifficultyDesc": {
+      "hash": -1117961822
+    },
+    "DifficultyType": "AttributeDifficulty",
+    "DifficultyID": 101
+  },
+  {
+    "ParamList": [],
+    "Sort": 1,
+    "Tag": 1,
+    "DifficultyDesc": {
+      "hash": -1117961819
+    },
+    "DifficultyType": "AttributeDifficulty",
+    "DifficultyID": 102
+  },
+  {
+    "ParamList": [],
+    "Sort": 2,
+    "Tag": 2,
+    "DifficultyDesc": {
+      "hash": -1117961820
+    },
+    "DifficultyType": "AttributeDifficulty",
+    "DifficultyID": 103
+  },
+  {
+    "ParamList": [],
+    "Sort": 1,
+    "Tag": 1,
+    "DifficultyDesc": {
+      "hash": -1117961817
+    },
+    "DifficultyType": "AttributeDifficulty",
+    "DifficultyID": 104
+  },
+  {
+    "ParamList": [],
+    "Sort": 3,
+    "Tag": 3,
+    "DifficultyDesc": {
+      "hash": -1117961818
+    },
+    "DifficultyType": "AttributeDifficulty",
+    "DifficultyID": 105
+  },
+  {
+    "ParamList": [],
+    "Sort": 1,
+    "Tag": 1,
+    "DifficultyDesc": {
+      "hash": -1117961815
+    },
+    "DifficultyType": "AttributeDifficulty",
+    "DifficultyID": 106
+  },
+  {
+    "ParamList": [],
+    "Sort": 6,
+    "Tag": 4,
+    "DifficultyDesc": {
+      "hash": -1117961723
+    },
+    "DifficultyType": "AdditionalDifficulty",
+    "DifficultyID": 201
+  },
+  {
+    "ParamList": [],
+    "Sort": 5,
+    "Tag": 5,
+    "DifficultyDesc": {
+      "hash": -1117961726
+    },
+    "DifficultyType": "AdditionalDifficulty",
+    "DifficultyID": 202
+  },
+  {
+    "ParamList": [
+      {
+        "RawValue": 85899345920
+      }
+    ],
+    "Sort": 4,
+    "Tag": 6,
+    "DifficultyDesc": {
+      "hash": -1117961725
+    },
+    "DifficultyType": "AdditionalDifficulty",
+    "DifficultyID": 203
+  },
+  {
+    "ParamList": [
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 4294967296
+      },
+      {
+        "RawValue": 429496729600
+      }
+    ],
+    "Sort": 3,
+    "Tag": 7,
+    "DifficultyDesc": {
+      "hash": -1117961720
+    },
+    "DifficultyType": "AdditionalDifficulty",
+    "DifficultyID": 204
+  },
+  {
+    "ParamList": [],
+    "Sort": 2,
+    "Tag": 8,
+    "DifficultyDesc": {
+      "hash": -1117961719
+    },
+    "DifficultyType": "AdditionalDifficulty",
+    "DifficultyID": 205
+  },
+  {
+    "ParamList": [
+      {
+        "RawValue": 4294967296
+      }
+    ],
+    "Sort": 1,
+    "Tag": 9,
+    "DifficultyDesc": {
+      "hash": -1117961722
+    },
+    "DifficultyType": "AdditionalDifficulty",
+    "DifficultyID": 206
+  }
+]

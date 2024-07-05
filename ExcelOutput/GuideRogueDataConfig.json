@@ -1,0 +1,68 @@
+[
+  {
+    "TabIconPath": "",
+    "UnlockConditions": [],
+    "IconPath": "",
+    "OpenConditions": [],
+    "MapEntranceID": 0,
+    "Priority": 0,
+    "Name": {
+      "hash": -625334905
+    },
+    "ID": 101,
+    "TabID": 1001,
+    "RelatedID": 301
+  },
+  {
+    "TabIconPath": "",
+    "UnlockConditions": [],
+    "IconPath": "",
+    "OpenConditions": [],
+    "MapEntranceID": 0,
+    "Priority": 3,
+    "Name": {
+      "hash": -625334876
+    },
+    "ID": 201,
+    "TabID": 1002,
+    "RelatedID": 101
+  },
+  {
+    "TabIconPath": "",
+    "UnlockConditions": [],
+    "IconPath": "",
+    "OpenConditions": [
+      {
+        "Param": "8013104",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "MapEntranceID": 0,
+    "Priority": 2,
+    "Name": {
+      "hash": -625334873
+    },
+    "ID": 202,
+    "TabID": 1002,
+    "RelatedID": 201
+  },
+  {
+    "TabIconPath": "",
+    "UnlockConditions": [],
+    "IconPath": "",
+    "OpenConditions": [
+      {
+        "Param": "8016101",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "MapEntranceID": 0,
+    "Priority": 1,
+    "Name": {
+      "hash": -625334874
+    },
+    "ID": 203,
+    "TabID": 1002,
+    "RelatedID": 202
+  }
+]

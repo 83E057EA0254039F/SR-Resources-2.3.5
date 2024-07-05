@@ -1,0 +1,192 @@
+[
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank1.png",
+    "PowerRequire": 0,
+    "RankGroupID": 1,
+    "RankID": 1,
+    "UnlockID": 0,
+    "RankSubName": {
+      "hash": -1599131716
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank1.png",
+    "PowerRequire": 1,
+    "RankGroupID": 2,
+    "RankID": 2,
+    "UnlockID": 0,
+    "RankSubName": {
+      "hash": 1129751639
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank2.png",
+    "PowerRequire": 4,
+    "RankGroupID": 3,
+    "RankID": 3,
+    "UnlockID": 0,
+    "RankSubName": {
+      "hash": -436332302
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank2.png",
+    "PowerRequire": 7,
+    "RankGroupID": 3,
+    "RankID": 4,
+    "UnlockID": 0,
+    "RankSubName": {
+      "hash": 1936320693
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank2.png",
+    "PowerRequire": 10,
+    "RankGroupID": 4,
+    "RankID": 5,
+    "UnlockID": 0,
+    "RankSubName": {
+      "hash": 370236752
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank2.png",
+    "PowerRequire": 13,
+    "RankGroupID": 4,
+    "RankID": 6,
+    "UnlockID": 0,
+    "RankSubName": {
+      "hash": -1195847189
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank3.png",
+    "PowerRequire": 16,
+    "RankGroupID": 5,
+    "RankID": 7,
+    "UnlockID": 0,
+    "RankSubName": {
+      "hash": 1533036166
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank3.png",
+    "PowerRequire": 20,
+    "RankGroupID": 5,
+    "RankID": 8,
+    "UnlockID": 0,
+    "RankSubName": {
+      "hash": -389278135
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank3.png",
+    "PowerRequire": 25,
+    "RankGroupID": 5,
+    "RankID": 9,
+    "UnlockID": 0,
+    "RankSubName": {
+      "hash": -1955362076
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank3.png",
+    "PowerRequire": 30,
+    "RankGroupID": 6,
+    "RankID": 10,
+    "UnlockID": 101,
+    "RankSubName": {
+      "hash": 2126024748
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank3.png",
+    "PowerRequire": 36,
+    "RankGroupID": 6,
+    "RankID": 11,
+    "UnlockID": 101,
+    "RankSubName": {
+      "hash": 2126024749
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank3.png",
+    "PowerRequire": 42,
+    "RankGroupID": 6,
+    "RankID": 12,
+    "UnlockID": 101,
+    "RankSubName": {
+      "hash": 2126024746
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank4.png",
+    "PowerRequire": 50,
+    "RankGroupID": 7,
+    "RankID": 13,
+    "UnlockID": 101,
+    "RankSubName": {
+      "hash": 2126024747
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank4.png",
+    "PowerRequire": 60,
+    "RankGroupID": 7,
+    "RankID": 14,
+    "UnlockID": 101,
+    "RankSubName": {
+      "hash": 2126024752
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank4.png",
+    "PowerRequire": 80,
+    "RankGroupID": 7,
+    "RankID": 15,
+    "UnlockID": 101,
+    "RankSubName": {
+      "hash": 2126024753
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank5.png",
+    "PowerRequire": 100,
+    "RankGroupID": 8,
+    "RankID": 16,
+    "UnlockID": 102,
+    "RankSubName": {
+      "hash": 2126024750
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank5.png",
+    "PowerRequire": 150,
+    "RankGroupID": 8,
+    "RankID": 17,
+    "UnlockID": 102,
+    "RankSubName": {
+      "hash": 2126024751
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank5.png",
+    "PowerRequire": 200,
+    "RankGroupID": 8,
+    "RankID": 18,
+    "UnlockID": 102,
+    "RankSubName": {
+      "hash": 2126024756
+    }
+  },
+  {
+    "RankIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingBPIconRank5.png",
+    "PowerRequire": 250,
+    "RankGroupID": 9,
+    "RankID": 19,
+    "UnlockID": 102,
+    "RankSubName": {
+      "hash": 2126024757
+    }
+  }
+]

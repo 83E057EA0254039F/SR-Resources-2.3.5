@@ -1,0 +1,11 @@
+[
+  {
+    "HidePropertyInBattleList": [],
+    "ShowPropertyList": [],
+    "ShowPropertyInBattleList": [],
+    "HidePropertyList": [
+      "MaxSP"
+    ],
+    "AvatarID": 1308
+  }
+]

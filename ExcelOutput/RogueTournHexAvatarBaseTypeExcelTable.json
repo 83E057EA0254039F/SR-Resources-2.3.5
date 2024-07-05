@@ -1,0 +1,104 @@
+[
+  {
+    "AvatarType": [
+      "Priest"
+    ],
+    "AvatarDamageType": [],
+    "MiracleID": 6501
+  },
+  {
+    "AvatarType": [
+      "Knight"
+    ],
+    "AvatarDamageType": [],
+    "MiracleID": 6502
+  },
+  {
+    "AvatarType": [
+      "Warrior"
+    ],
+    "AvatarDamageType": [],
+    "MiracleID": 6503
+  },
+  {
+    "AvatarType": [
+      "Warrior",
+      "Mage"
+    ],
+    "AvatarDamageType": [],
+    "MiracleID": 6504
+  },
+  {
+    "AvatarType": [
+      "Warlock"
+    ],
+    "AvatarDamageType": [],
+    "MiracleID": 6505
+  },
+  {
+    "AvatarType": [
+      "Shaman"
+    ],
+    "AvatarDamageType": [],
+    "MiracleID": 6506
+  },
+  {
+    "AvatarType": [
+      "Mage",
+      "Rogue"
+    ],
+    "AvatarDamageType": [],
+    "MiracleID": 6507
+  },
+  {
+    "AvatarType": [],
+    "AvatarDamageType": [
+      "Fire"
+    ],
+    "MiracleID": 6508
+  },
+  {
+    "AvatarType": [],
+    "AvatarDamageType": [
+      "Physical"
+    ],
+    "MiracleID": 6509
+  },
+  {
+    "AvatarType": [],
+    "AvatarDamageType": [
+      "Thunder"
+    ],
+    "MiracleID": 6510
+  },
+  {
+    "AvatarType": [],
+    "AvatarDamageType": [
+      "Physical",
+      "Fire"
+    ],
+    "MiracleID": 6511
+  },
+  {
+    "AvatarType": [],
+    "AvatarDamageType": [
+      "Quantum"
+    ],
+    "MiracleID": 6512
+  },
+  {
+    "AvatarType": [],
+    "AvatarDamageType": [
+      "Wind"
+    ],
+    "MiracleID": 6513
+  },
+  {
+    "AvatarType": [],
+    "AvatarDamageType": [
+      "Ice",
+      "Imaginary"
+    ],
+    "MiracleID": 6514
+  }
+]

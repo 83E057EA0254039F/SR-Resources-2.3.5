@@ -1,0 +1,522 @@
+[
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": -1759685348
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 1000001,
+    "MenuIconID": 1,
+    "Name": {
+      "hash": 1267322278
+    },
+    "MenuSortID": 1
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 423459324
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 1010101,
+    "MenuIconID": 2,
+    "Name": {
+      "hash": -844500346
+    },
+    "MenuSortID": 10
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 282296823
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 1010201,
+    "MenuIconID": 2,
+    "Name": {
+      "hash": -421012843
+    },
+    "MenuSortID": 20
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": -213804383
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 1000101,
+    "MenuIconID": 2,
+    "Name": {
+      "hash": -1481764053
+    },
+    "MenuSortID": 10
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": -722404334
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2000101,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": -1266832976
+    },
+    "MenuSortID": 11
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 1105801633
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2000201,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": -3277013
+    },
+    "MenuSortID": 12
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": -440079332
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2000301,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": -1549157978
+    },
+    "MenuSortID": 13
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 1388126635
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2000401,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 843697993
+    },
+    "MenuSortID": 14
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 2046368311
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2010101,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 1501939669
+    },
+    "MenuSortID": 11
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 2046368408
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2011101,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 1501939766
+    },
+    "MenuSortID": 12
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 2046368245
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2012101,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 1501939603
+    },
+    "MenuSortID": 21
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": -2107436550
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2012201,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 1078452100
+    },
+    "MenuSortID": 22
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": -1966274049
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2012301,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 1219614601
+    },
+    "MenuSortID": 23
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 2046368342
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2013101,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 1501939700
+    },
+    "MenuSortID": 13
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": -2107436453
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2013201,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 1078452197
+    },
+    "MenuSortID": 14
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": -1825111451
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2013401,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 1925427203
+    },
+    "MenuSortID": 15
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": -1683948950
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2013501,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 2066589704
+    },
+    "MenuSortID": 15
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": -1542786449
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2013601,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 1643102201
+    },
+    "MenuSortID": 15
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": -940594857
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 1020101,
+    "MenuIconID": 2,
+    "Name": {
+      "hash": -754973579
+    },
+    "MenuSortID": 30
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 2090816476
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 1020201,
+    "MenuIconID": 2,
+    "Name": {
+      "hash": 1711787750
+    },
+    "MenuSortID": 40
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 1331301589
+    },
+    "IsUnlockAfterEnter": true,
+    "ID": 1020204,
+    "MenuIconID": 2,
+    "Name": {
+      "hash": 952272863
+    },
+    "MenuSortID": 41
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 4386237
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2021101,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": -1993623353
+    },
+    "MenuSortID": 31
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 1267942200
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2021201,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": -165417386
+    },
+    "MenuSortID": 32
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 4386074
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2022101,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": -1993623516
+    },
+    "MenuSortID": 42
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 1267942037
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2022201,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": -165417549
+    },
+    "MenuSortID": 43
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": -277938928
+    },
+    "IsUnlockAfterEnter": true,
+    "ID": 2022301,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": -1711298514
+    },
+    "MenuSortID": 44
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 4386171
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2023101,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": -1993623419
+    },
+    "MenuSortID": 45
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 1267942134
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2023201,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": -165417452
+    },
+    "MenuSortID": 46
+  },
+  {
+    "MapSpaceType": "Unknow",
+    "Desc": {
+      "hash": 4386272
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2024101,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": -1993623582
+    },
+    "MenuSortID": 47
+  },
+  {
+    "MapSpaceType": "Dream",
+    "Desc": {
+      "hash": -303331150
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 1030101,
+    "MenuIconID": 2,
+    "Name": {
+      "hash": -117709872
+    },
+    "MenuSortID": 2
+  },
+  {
+    "MapSpaceType": "Reality",
+    "Desc": {
+      "hash": 261318854
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 1030501,
+    "MenuIconID": 2,
+    "Name": {
+      "hash": 446940132
+    },
+    "MenuSortID": 1
+  },
+  {
+    "MapSpaceType": "Dream",
+    "Desc": {
+      "hash": 402481355
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 1030401,
+    "MenuIconID": 2,
+    "Name": {
+      "hash": 588102633
+    },
+    "MenuSortID": 8
+  },
+  {
+    "MapSpaceType": "Dream",
+    "Desc": {
+      "hash": -303331018
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 1034101,
+    "MenuIconID": 2,
+    "Name": {
+      "hash": -117710004
+    },
+    "MenuSortID": 11
+  },
+  {
+    "MapSpaceType": "Dream",
+    "Desc": {
+      "hash": -1521808414
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2031101,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 775149292
+    },
+    "MenuSortID": 5
+  },
+  {
+    "MapSpaceType": "Dream",
+    "Desc": {
+      "hash": -1945295917
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2031201,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 916311793
+    },
+    "MenuSortID": 4
+  },
+  {
+    "MapSpaceType": "Dream",
+    "Desc": {
+      "hash": -1804133416
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2031301,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 1057474294
+    },
+    "MenuSortID": 3
+  },
+  {
+    "MapSpaceType": "Dream",
+    "Desc": {
+      "hash": -1945296080
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2032201,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 916311630
+    },
+    "MenuSortID": 6
+  },
+  {
+    "MapSpaceType": "Dream",
+    "Desc": {
+      "hash": -1521808577
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2032101,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 775149129
+    },
+    "MenuSortID": 7
+  },
+  {
+    "MapSpaceType": "Dream",
+    "Desc": {
+      "hash": -1521808480
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2033101,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 775149226
+    },
+    "MenuSortID": 9
+  },
+  {
+    "MapSpaceType": "Dream",
+    "Desc": {
+      "hash": -1945295983
+    },
+    "IsUnlockAfterEnter": false,
+    "ID": 2033201,
+    "MenuIconID": 0,
+    "Name": {
+      "hash": 916311727
+    },
+    "MenuSortID": 10
+  }
+]

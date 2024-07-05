@@ -1,0 +1,26 @@
+[
+  {
+    "EmoName": {
+      "hash": 2077737549
+    },
+    "EmoType": "Peace"
+  },
+  {
+    "EmoName": {
+      "hash": 511653608
+    },
+    "EmoType": "Anger"
+  },
+  {
+    "EmoName": {
+      "hash": -1054430333
+    },
+    "EmoType": "Happy"
+  },
+  {
+    "EmoName": {
+      "hash": 1674453022
+    },
+    "EmoType": "Sad"
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "CupAnchoPath": "",
+    "PrefabPath": "",
+    "IncludeTagList": [
+      300
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/IconEmpty.png",
+    "DecorationName": {
+      "hash": -1323102947
+    },
+    "DecorationID": 0
+  },
+  {
+    "CupAnchoPath": "Glass/Anchors/DecoAnchor03",
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Deco/DrinkMakerDeco_Lemon.prefab",
+    "IncludeTagList": [
+      301
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Deco03.png",
+    "DecorationName": {
+      "hash": -1323102946
+    },
+    "DecorationID": 1
+  },
+  {
+    "CupAnchoPath": "Glass/Anchors/DecoAnchor01",
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Deco/DrinkMakerDeco_Mint.prefab",
+    "IncludeTagList": [
+      301
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Deco01.png",
+    "DecorationName": {
+      "hash": -1323102949
+    },
+    "DecorationID": 2
+  },
+  {
+    "CupAnchoPath": "Glass/Anchors/DecoAnchor01",
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Deco/DrinkMakerDeco_Bird.prefab",
+    "IncludeTagList": [
+      303,
+      301
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Deco05.png",
+    "DecorationName": {
+      "hash": -1323102948
+    },
+    "DecorationID": 3
+  },
+  {
+    "CupAnchoPath": "Glass/Anchors/DecoAnchor01",
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Deco/DrinkMakerDeco_FurBall.prefab",
+    "IncludeTagList": [
+      301,
+      302
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Deco09.png",
+    "DecorationName": {
+      "hash": -1323102951
+    },
+    "DecorationID": 4
+  },
+  {
+    "CupAnchoPath": "Glass/Anchors/DecoAnchor01",
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Deco/DrinkMakerDeco_Head.prefab",
+    "IncludeTagList": [
+      301,
+      302
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Deco07.png",
+    "DecorationName": {
+      "hash": -1323102950
+    },
+    "DecorationID": 5
+  },
+  {
+    "CupAnchoPath": "Glass/Anchors/DecoAnchor02",
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Deco/DrinkMakerDeco_Clock.prefab",
+    "IncludeTagList": [
+      303,
+      301
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Deco08.png",
+    "DecorationName": {
+      "hash": -1323102953
+    },
+    "DecorationID": 6
+  },
+  {
+    "CupAnchoPath": "Glass/Anchors/DecoAnchor02",
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Deco/DrinkMakerDeco_Hamster.prefab",
+    "IncludeTagList": [
+      303,
+      301
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Deco04.png",
+    "DecorationName": {
+      "hash": -1323102952
+    },
+    "DecorationID": 7
+  },
+  {
+    "CupAnchoPath": "Glass/Anchors/DecoAnchor02",
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Deco/DrinkMakerDeco_Hanu.prefab",
+    "IncludeTagList": [
+      303,
+      301
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Deco02.png",
+    "DecorationName": {
+      "hash": -1323102955
+    },
+    "DecorationID": 8
+  },
+  {
+    "CupAnchoPath": "Glass/Anchors/DecoAnchor02",
+    "PrefabPath": "Gameplays/FrightmareDrinkMaker/Prefab/Deco/DrinkMakerDeco_Diva.prefab",
+    "IncludeTagList": [
+      399,
+      301
+    ],
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Deco06.png",
+    "DecorationName": {
+      "hash": -1323102954
+    },
+    "DecorationID": 9
+  }
+]

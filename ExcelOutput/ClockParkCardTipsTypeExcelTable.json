@@ -1,0 +1,56 @@
+[
+  {
+    "CardTips_Detail": {
+      "hash": 1784681267
+    },
+    "CardTips": {
+      "hash": -1970360695
+    },
+    "CardTipsTypeID": "Positive"
+  },
+  {
+    "CardTips_Detail": {
+      "hash": 1784681270
+    },
+    "CardTips": {
+      "hash": -1567076168
+    },
+    "CardTipsTypeID": "Negative"
+  },
+  {
+    "CardTips_Detail": {
+      "hash": 1784681269
+    },
+    "CardTips": {
+      "hash": 1161807187
+    },
+    "CardTipsTypeID": "EqualTo"
+  },
+  {
+    "CardTips_Detail": {
+      "hash": 1784681272
+    },
+    "CardTips": {
+      "hash": 1565091714
+    },
+    "CardTipsTypeID": "LessThan"
+  },
+  {
+    "CardTips_Detail": {
+      "hash": 1784681271
+    },
+    "CardTips": {
+      "hash": -992227
+    },
+    "CardTipsTypeID": "GreaterThan"
+  },
+  {
+    "CardTips_Detail": {
+      "hash": 1784681274
+    },
+    "CardTips": {
+      "hash": 402292300
+    },
+    "CardTipsTypeID": "Ground"
+  }
+]

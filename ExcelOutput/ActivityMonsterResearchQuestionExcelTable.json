@@ -1,0 +1,263 @@
+[
+  {
+    "ReplyID": [],
+    "ImgPath": "SpriteOutput/Quest/PocketMonster/UnlockMonster02.png",
+    "Question": {
+      "hash": 2101178648
+    },
+    "Answer": {
+      "hash": 1169897766
+    },
+    "Name": {
+      "hash": -2025307455
+    },
+    "QuestionID": 1,
+    "MonsterID": 8013010
+  },
+  {
+    "ReplyID": [],
+    "ImgPath": "SpriteOutput/Quest/PocketMonster/UnlockMonster02.png",
+    "Question": {
+      "hash": 2101178647
+    },
+    "Answer": {
+      "hash": 1169897769
+    },
+    "Name": {
+      "hash": -2025307458
+    },
+    "QuestionID": 2,
+    "MonsterID": 8013010
+  },
+  {
+    "ReplyID": [],
+    "ImgPath": "SpriteOutput/Quest/PocketMonster/UnlockMonster03.png",
+    "Question": {
+      "hash": 2101178646
+    },
+    "Answer": {
+      "hash": 1169897768
+    },
+    "Name": {
+      "hash": -2025307457
+    },
+    "QuestionID": 3,
+    "MonsterID": 8003020
+  },
+  {
+    "ReplyID": [],
+    "ImgPath": "SpriteOutput/Quest/PocketMonster/UnlockMonster03.png",
+    "Question": {
+      "hash": 2101178653
+    },
+    "Answer": {
+      "hash": 1169897771
+    },
+    "Name": {
+      "hash": -2025307460
+    },
+    "QuestionID": 4,
+    "MonsterID": 8003020
+  },
+  {
+    "ReplyID": [],
+    "ImgPath": "SpriteOutput/Quest/PocketMonster/UnlockMonster01.png",
+    "Question": {
+      "hash": 2101178652
+    },
+    "Answer": {
+      "hash": 1169897770
+    },
+    "Name": {
+      "hash": -2025307459
+    },
+    "QuestionID": 5,
+    "MonsterID": 1013010
+  },
+  {
+    "ReplyID": [],
+    "ImgPath": "SpriteOutput/Quest/PocketMonster/UnlockMonster01.png",
+    "Question": {
+      "hash": 2101178651
+    },
+    "Answer": {
+      "hash": 1169897773
+    },
+    "Name": {
+      "hash": -2025307462
+    },
+    "QuestionID": 6,
+    "MonsterID": 1013010
+  },
+  {
+    "ReplyID": [],
+    "ImgPath": "SpriteOutput/Quest/PocketMonster/UnlockMonster02.png",
+    "Question": {
+      "hash": 2101178650
+    },
+    "Answer": {
+      "hash": 1169897772
+    },
+    "Name": {
+      "hash": -2025307461
+    },
+    "QuestionID": 7,
+    "MonsterID": 8013010
+  },
+  {
+    "ReplyID": [],
+    "ImgPath": "SpriteOutput/Quest/PocketMonster/UnlockMonster03.png",
+    "Question": {
+      "hash": 2101178657
+    },
+    "Answer": {
+      "hash": 1169897759
+    },
+    "Name": {
+      "hash": -2025307448
+    },
+    "QuestionID": 8,
+    "MonsterID": 8003020
+  },
+  {
+    "ReplyID": [],
+    "ImgPath": "SpriteOutput/Quest/PocketMonster/UnlockMonster01.png",
+    "Question": {
+      "hash": 2101178656
+    },
+    "Answer": {
+      "hash": 1169897758
+    },
+    "Name": {
+      "hash": -2025307447
+    },
+    "QuestionID": 9,
+    "MonsterID": 1013010
+  },
+  {
+    "ReplyID": [
+      101001,
+      101002
+    ],
+    "ImgPath": "SpriteOutput/ItemFigures/401024.png",
+    "Question": {
+      "hash": 1331879321
+    },
+    "Answer": {
+      "hash": -760540153
+    },
+    "Name": {
+      "hash": -253051424
+    },
+    "QuestionID": 101,
+    "MonsterID": 0
+  },
+  {
+    "ReplyID": [
+      102001,
+      102002
+    ],
+    "ImgPath": "SpriteOutput/ItemFigures/401026.png",
+    "Question": {
+      "hash": 1331879318
+    },
+    "Answer": {
+      "hash": -760540152
+    },
+    "Name": {
+      "hash": -253051425
+    },
+    "QuestionID": 102,
+    "MonsterID": 0
+  },
+  {
+    "ReplyID": [
+      103001,
+      103002
+    ],
+    "ImgPath": "SpriteOutput/ItemFigures/401022.png",
+    "Question": {
+      "hash": 1331879319
+    },
+    "Answer": {
+      "hash": -760540151
+    },
+    "Name": {
+      "hash": -253051426
+    },
+    "QuestionID": 103,
+    "MonsterID": 0
+  },
+  {
+    "ReplyID": [
+      104001,
+      104002
+    ],
+    "ImgPath": "SpriteOutput/ItemFigures/401025.png",
+    "Question": {
+      "hash": 1331879324
+    },
+    "Answer": {
+      "hash": -760540150
+    },
+    "Name": {
+      "hash": -253051427
+    },
+    "QuestionID": 104,
+    "MonsterID": 0
+  },
+  {
+    "ReplyID": [
+      105001,
+      105002
+    ],
+    "ImgPath": "SpriteOutput/ItemFigures/401023.png",
+    "Question": {
+      "hash": 1331879325
+    },
+    "Answer": {
+      "hash": -760540149
+    },
+    "Name": {
+      "hash": -253051428
+    },
+    "QuestionID": 105,
+    "MonsterID": 0
+  },
+  {
+    "ReplyID": [
+      106001,
+      106002
+    ],
+    "ImgPath": "SpriteOutput/ItemFigures/401021.png",
+    "Question": {
+      "hash": 1331879322
+    },
+    "Answer": {
+      "hash": -760540148
+    },
+    "Name": {
+      "hash": -253051429
+    },
+    "QuestionID": 106,
+    "MonsterID": 0
+  },
+  {
+    "ReplyID": [
+      107001,
+      107002
+    ],
+    "ImgPath": "SpriteOutput/ItemFigures/401027.png",
+    "Question": {
+      "hash": 1331879323
+    },
+    "Answer": {
+      "hash": -760540147
+    },
+    "Name": {
+      "hash": -253051430
+    },
+    "QuestionID": 107,
+    "MonsterID": 0
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "IconPath": "SpriteOutput/UI/Quest/Monopoly/TestImg1.png",
+    "FigurePrefabPath": "UI/Quest/Monopoly/ReportPic/MonopolyReportPicCommon.prefab",
+    "Name": {
+      "hash": 816372790
+    },
+    "DescDetail": {
+      "hash": 1736570623
+    },
+    "Desc": {
+      "hash": -1319971756
+    },
+    "ID": 1,
+    "MBTIValueX": 135,
+    "UnlockTips": {
+      "hash": 162865569
+    },
+    "MBTIValueY": 230
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/Monopoly/TestImg1.png",
+    "FigurePrefabPath": "UI/Quest/Monopoly/ReportPic/MonopolyReportPicCommon.prefab",
+    "Name": {
+      "hash": 816372791
+    },
+    "DescDetail": {
+      "hash": 1736570620
+    },
+    "Desc": {
+      "hash": -1319971759
+    },
+    "ID": 2,
+    "MBTIValueX": 150,
+    "UnlockTips": {
+      "hash": 162865570
+    },
+    "MBTIValueY": 215
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/Monopoly/TestImg1.png",
+    "FigurePrefabPath": "UI/Quest/Monopoly/ReportPic/MonopolyReportPicCommon.prefab",
+    "Name": {
+      "hash": 816372792
+    },
+    "DescDetail": {
+      "hash": 1736570621
+    },
+    "Desc": {
+      "hash": -1319971758
+    },
+    "ID": 3,
+    "MBTIValueX": 165,
+    "UnlockTips": {
+      "hash": 162865571
+    },
+    "MBTIValueY": 230
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/Monopoly/TestImg1.png",
+    "FigurePrefabPath": "UI/Quest/Monopoly/ReportPic/MonopolyReportPicCommon.prefab",
+    "Name": {
+      "hash": 816372785
+    },
+    "DescDetail": {
+      "hash": 1736570618
+    },
+    "Desc": {
+      "hash": -1319971761
+    },
+    "ID": 4,
+    "MBTIValueX": 150,
+    "UnlockTips": {
+      "hash": 162865572
+    },
+    "MBTIValueY": 250
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/Monopoly/TestImg1.png",
+    "FigurePrefabPath": "UI/Quest/Monopoly/ReportPic/MonopolyReportPicCommon.prefab",
+    "Name": {
+      "hash": 816372786
+    },
+    "DescDetail": {
+      "hash": 1736570619
+    },
+    "Desc": {
+      "hash": -1319971760
+    },
+    "ID": 5,
+    "MBTIValueX": 135,
+    "UnlockTips": {
+      "hash": 162865573
+    },
+    "MBTIValueY": 270
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/Monopoly/TestImg1.png",
+    "FigurePrefabPath": "UI/Quest/Monopoly/ReportPic/MonopolyReportPicCommon.prefab",
+    "Name": {
+      "hash": 816372787
+    },
+    "DescDetail": {
+      "hash": 1736570616
+    },
+    "Desc": {
+      "hash": -1319971763
+    },
+    "ID": 6,
+    "MBTIValueX": 135,
+    "UnlockTips": {
+      "hash": 162865574
+    },
+    "MBTIValueY": 250
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/Monopoly/TestImg1.png",
+    "FigurePrefabPath": "UI/Quest/Monopoly/ReportPic/MonopolyReportPicCommon.prefab",
+    "Name": {
+      "hash": 816372788
+    },
+    "DescDetail": {
+      "hash": 1736570617
+    },
+    "Desc": {
+      "hash": -1319971762
+    },
+    "ID": 7,
+    "MBTIValueX": 165,
+    "UnlockTips": {
+      "hash": 162865575
+    },
+    "MBTIValueY": 270
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/Monopoly/TestImg1.png",
+    "FigurePrefabPath": "UI/Quest/Monopoly/ReportPic/MonopolyReportPicCommon.prefab",
+    "Name": {
+      "hash": 816372781
+    },
+    "DescDetail": {
+      "hash": 1736570630
+    },
+    "Desc": {
+      "hash": -1319971765
+    },
+    "ID": 8,
+    "MBTIValueX": 165,
+    "UnlockTips": {
+      "hash": 162865560
+    },
+    "MBTIValueY": 277
+  },
+  {
+    "IconPath": "SpriteOutput/UI/Quest/Monopoly/TestImg1.png",
+    "FigurePrefabPath": "UI/Quest/Monopoly/ReportPic/MonopolyReportPicCommon.prefab",
+    "Name": {
+      "hash": 816372782
+    },
+    "DescDetail": {
+      "hash": 1736570631
+    },
+    "Desc": {
+      "hash": -1319971764
+    },
+    "ID": 9,
+    "MBTIValueX": 135,
+    "UnlockTips": {
+      "hash": 162865561
+    },
+    "MBTIValueY": 240
+  }
+]

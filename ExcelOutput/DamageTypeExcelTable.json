@@ -1,0 +1,219 @@
+[
+  {
+    "IconNatureForWeakActive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhitePhysical_2.png",
+    "SkillTreeLightColor": "#ecdcf7",
+    "NormalDamage": "#e1e1e1",
+    "SkillTreePanelPath": "SpriteOutput/UI/Avatar/SkillTree/AttributeColor/GradualPhysical.png",
+    "IconNatureColorSimple": "SpriteOutput/IconDamageType/IconDamageTypePhysical.png",
+    "SkillBtnEff": "UI/Battle/SkillButton/SkillBtnEff/SkillBtnEff_Physical.prefab",
+    "MazeEnterBattleWeakIconPath": "SpriteOutput/UI/Nature/IconAttributeMiddle/IconAttributePhysical.png",
+    "IconNatureForWeakUnactive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhitePhysical_1.png",
+    "IconNatureWhite": "SpriteOutput/UI/Nature/IconAttribute/IconAttributePhysical.png",
+    "SPInfoEffFrontDouble": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Physical_Double.prefab",
+    "Color": "#FFFFFF",
+    "SPInfoEffFront": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Physical.prefab",
+    "IconNatureColor": "SpriteOutput/UI/Nature/IconNatureColor/IconNaturePhysical.png",
+    "Light1Color": "#828282D2",
+    "UnfullColor": "#FFFFFF",
+    "SkillTreeLeftPanelColor": "#3D3B3F",
+    "LightColor": "#B7B7B796",
+    "SkillTreeDecoColor": "#cbd9f2",
+    "DamageTypeIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributePhysical.png",
+    "CriticalDamage": "#bababa",
+    "ShaderColor": "#FFFFFF",
+    "SPMazeInfoEffFront": "UI/VXAsset/ShineEffCom_Physical.prefab",
+    "DamageTypeName": {
+      "hash": -1101149179
+    },
+    "DamageTypeIntro": {
+      "hash": 308550234
+    },
+    "ID": "Physical"
+  },
+  {
+    "IconNatureForWeakActive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhiteFire_2.png",
+    "SkillTreeLightColor": "#ff8b4e",
+    "NormalDamage": "#ec505f",
+    "SkillTreePanelPath": "SpriteOutput/UI/Avatar/SkillTree/AttributeColor/GradualFire.png",
+    "IconNatureColorSimple": "SpriteOutput/IconDamageType/IconDamageTypeFire.png",
+    "SkillBtnEff": "UI/Battle/SkillButton/SkillBtnEff/SkillBtnEff_Fire.prefab",
+    "MazeEnterBattleWeakIconPath": "SpriteOutput/UI/Nature/IconAttributeMiddle/IconAttributeFire.png",
+    "IconNatureForWeakUnactive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhiteFire_1.png",
+    "IconNatureWhite": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeFire.png",
+    "SPInfoEffFrontDouble": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Fire.prefab",
+    "Color": "#F84F36",
+    "SPInfoEffFront": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Fire.prefab",
+    "IconNatureColor": "SpriteOutput/UI/Nature/IconNatureColor/IconNatureColorFire.png",
+    "Light1Color": "#B22100D2",
+    "UnfullColor": "#FF8877",
+    "SkillTreeLeftPanelColor": "#76261F",
+    "LightColor": "#B2130096",
+    "SkillTreeDecoColor": "#ff614e",
+    "DamageTypeIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeFire.png",
+    "CriticalDamage": "#ed5e5e",
+    "ShaderColor": "#F84F36",
+    "SPMazeInfoEffFront": "UI/VXAsset/ShineEffCom_Fire.prefab",
+    "DamageTypeName": {
+      "hash": -1474263915
+    },
+    "DamageTypeIntro": {
+      "hash": -1380119990
+    },
+    "ID": "Fire"
+  },
+  {
+    "IconNatureForWeakActive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhiteIce_2.png",
+    "SkillTreeLightColor": "#40b5ff",
+    "NormalDamage": "#55c5ff",
+    "SkillTreePanelPath": "SpriteOutput/UI/Avatar/SkillTree/AttributeColor/GradualIce.png",
+    "IconNatureColorSimple": "SpriteOutput/IconDamageType/IconDamageTypeIce.png",
+    "SkillBtnEff": "UI/Battle/SkillButton/SkillBtnEff/SkillBtnEff_Ice.prefab",
+    "MazeEnterBattleWeakIconPath": "SpriteOutput/UI/Nature/IconAttributeMiddle/IconAttributeIce.png",
+    "IconNatureForWeakUnactive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhiteIce_1.png",
+    "IconNatureWhite": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeIce.png",
+    "SPInfoEffFrontDouble": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Ice.prefab",
+    "Color": "#47C7FD",
+    "SPInfoEffFront": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Ice.prefab",
+    "IconNatureColor": "SpriteOutput/UI/Nature/IconNatureColor/IconNatureColorIce.png",
+    "Light1Color": "#0A7EC5D2",
+    "UnfullColor": "#8ADDFF",
+    "SkillTreeLeftPanelColor": "#15405C",
+    "LightColor": "#008CB296",
+    "SkillTreeDecoColor": "#367dff",
+    "DamageTypeIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeIce.png",
+    "CriticalDamage": "#5dcfff",
+    "ShaderColor": "#47C7FD",
+    "SPMazeInfoEffFront": "UI/VXAsset/ShineEffCom_Ice.prefab",
+    "DamageTypeName": {
+      "hash": -756819502
+    },
+    "DamageTypeIntro": {
+      "hash": -1809920601
+    },
+    "ID": "Ice"
+  },
+  {
+    "IconNatureForWeakActive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhiteThunder_2.png",
+    "SkillTreeLightColor": "#a340ff",
+    "NormalDamage": "#e471ff",
+    "SkillTreePanelPath": "SpriteOutput/UI/Avatar/SkillTree/AttributeColor/GradualThunder.png",
+    "IconNatureColorSimple": "SpriteOutput/IconDamageType/IconDamageTypeThunder.png",
+    "SkillBtnEff": "UI/Battle/SkillButton/SkillBtnEff/SkillBtnEff_Thunder.prefab",
+    "MazeEnterBattleWeakIconPath": "SpriteOutput/UI/Nature/IconAttributeMiddle/IconAttributeThunder.png",
+    "IconNatureForWeakUnactive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhiteThunder_1.png",
+    "IconNatureWhite": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeThunder.png",
+    "SPInfoEffFrontDouble": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Thunder.prefab",
+    "Color": "#8872F1",
+    "SPInfoEffFront": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Thunder.prefab",
+    "IconNatureColor": "SpriteOutput/UI/Nature/IconNatureColor/IconNatureColorThunder.png",
+    "Light1Color": "#AA1DADD2",
+    "UnfullColor": "#BAACFF",
+    "SkillTreeLeftPanelColor": "#3A135E",
+    "LightColor": "#8A178096",
+    "SkillTreeDecoColor": "#cd4eff",
+    "DamageTypeIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeThunder.png",
+    "CriticalDamage": "#e25eed",
+    "ShaderColor": "#8872F1",
+    "SPMazeInfoEffFront": "UI/VXAsset/ShineEffCom_Thunder.prefab",
+    "DamageTypeName": {
+      "hash": -250814279
+    },
+    "DamageTypeIntro": {
+      "hash": -1697085996
+    },
+    "ID": "Thunder"
+  },
+  {
+    "IconNatureForWeakActive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhiteWind_2.png",
+    "SkillTreeLightColor": "#78fff7",
+    "NormalDamage": "#50ecb0",
+    "SkillTreePanelPath": "SpriteOutput/UI/Avatar/SkillTree/AttributeColor/GradualWind.png",
+    "IconNatureColorSimple": "SpriteOutput/IconDamageType/IconDamageTypeWind.png",
+    "SkillBtnEff": "UI/Battle/SkillButton/SkillBtnEff/SkillBtnEff_Wind.prefab",
+    "MazeEnterBattleWeakIconPath": "SpriteOutput/UI/Nature/IconAttributeMiddle/IconAttributeWind.png",
+    "IconNatureForWeakUnactive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhiteWind_1.png",
+    "IconNatureWhite": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeWind.png",
+    "SPInfoEffFrontDouble": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Wind.prefab",
+    "Color": "#00FF9C",
+    "SPInfoEffFront": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Wind.prefab",
+    "IconNatureColor": "SpriteOutput/UI/Nature/IconNatureColor/IconNatureColorWind.png",
+    "Light1Color": "#159067D2",
+    "UnfullColor": "#97FFB7",
+    "SkillTreeLeftPanelColor": "#22795C",
+    "LightColor": "#52907396",
+    "SkillTreeDecoColor": "#38e7b3",
+    "DamageTypeIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeWind.png",
+    "CriticalDamage": "#5eeeb6",
+    "ShaderColor": "#00FF9C",
+    "SPMazeInfoEffFront": "UI/VXAsset/ShineEffCom_Wind.prefab",
+    "DamageTypeName": {
+      "hash": -1513894875
+    },
+    "DamageTypeIntro": {
+      "hash": -1272456896
+    },
+    "ID": "Wind"
+  },
+  {
+    "IconNatureForWeakActive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhiteQuantum_2.png",
+    "SkillTreeLightColor": "#5740ff",
+    "NormalDamage": "#9c98ff",
+    "SkillTreePanelPath": "SpriteOutput/UI/Avatar/SkillTree/AttributeColor/GradualQuantum.png",
+    "IconNatureColorSimple": "SpriteOutput/IconDamageType/IconDamageTypeQuantum.png",
+    "SkillBtnEff": "UI/Battle/SkillButton/SkillBtnEff/SkillBtnEff_Quantum.prefab",
+    "MazeEnterBattleWeakIconPath": "SpriteOutput/UI/Nature/IconAttributeMiddle/IconAttributeQuantum.png",
+    "IconNatureForWeakUnactive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhiteQuantum_1.png",
+    "IconNatureWhite": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeQuantum.png",
+    "SPInfoEffFrontDouble": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Quantum.prefab",
+    "Color": "#1C29BA",
+    "SPInfoEffFront": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Quantum.prefab",
+    "IconNatureColor": "SpriteOutput/UI/Nature/IconNatureColor/IconNatureColorQuantum.png",
+    "Light1Color": "#5500B2D2",
+    "UnfullColor": "#5E81E5",
+    "SkillTreeLeftPanelColor": "#202385",
+    "LightColor": "#5500B296",
+    "SkillTreeDecoColor": "#384bfb",
+    "DamageTypeIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeQuantum.png",
+    "CriticalDamage": "#8271ff",
+    "ShaderColor": "#1C29BA",
+    "SPMazeInfoEffFront": "UI/VXAsset/ShineEffCom_Quantum.prefab",
+    "DamageTypeName": {
+      "hash": 88513016
+    },
+    "DamageTypeIntro": {
+      "hash": -1580734829
+    },
+    "ID": "Quantum"
+  },
+  {
+    "IconNatureForWeakActive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhiteImaginary_2.png",
+    "SkillTreeLightColor": "#ffda59",
+    "NormalDamage": "#f3da75",
+    "SkillTreePanelPath": "SpriteOutput/UI/Avatar/SkillTree/AttributeColor/GradualImaginary.png",
+    "IconNatureColorSimple": "SpriteOutput/IconDamageType/IconDamageTypeImaginary.png",
+    "SkillBtnEff": "UI/Battle/SkillButton/SkillBtnEff/SkillBtnEff_Imaginary.prefab",
+    "MazeEnterBattleWeakIconPath": "SpriteOutput/UI/Nature/IconAttributeMiddle/IconAttributeImaginary.png",
+    "IconNatureForWeakUnactive": "SpriteOutput/UI/Nature/IconNatureForWeak/IconNatureWhiteImaginary_1.png",
+    "IconNatureWhite": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeImaginary.png",
+    "SPInfoEffFrontDouble": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Imaginary.prefab",
+    "Color": "#F4D258",
+    "SPInfoEffFront": "UI/Battle/SPInfo/Eff_Front/SPInfoEff_Front_Imaginary.prefab",
+    "IconNatureColor": "SpriteOutput/UI/Nature/IconNatureColor/IconNatureColorImaginary.png",
+    "Light1Color": "#9F8A1FD2",
+    "UnfullColor": "#FFE779",
+    "SkillTreeLeftPanelColor": "#463A0F",
+    "LightColor": "#A1804296",
+    "SkillTreeDecoColor": "#edb655",
+    "DamageTypeIconPath": "SpriteOutput/UI/Nature/IconAttribute/IconAttributeImaginary.png",
+    "CriticalDamage": "#e9d67d",
+    "ShaderColor": "#F4D258",
+    "SPMazeInfoEffFront": "UI/VXAsset/ShineEffCom_Imaginary.prefab",
+    "DamageTypeName": {
+      "hash": 118034640
+    },
+    "DamageTypeIntro": {
+      "hash": -717130021
+    },
+    "ID": "Imaginary"
+  }
+]

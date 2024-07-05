@@ -1,0 +1,42 @@
+[
+  {
+    "AbilityName": "",
+    "ConditionDes": {
+      "hash": -1014794435
+    },
+    "ID": 10002,
+    "WinOrLose": true,
+    "IsShowProgress": 1,
+    "TargetParam": 4
+  },
+  {
+    "AbilityName": "",
+    "ConditionDes": {
+      "hash": 551289506
+    },
+    "ID": 10003,
+    "WinOrLose": true,
+    "IsShowProgress": 1,
+    "TargetParam": 6
+  },
+  {
+    "AbilityName": "",
+    "ConditionDes": {
+      "hash": 2117373447
+    },
+    "ID": 10004,
+    "WinOrLose": false,
+    "IsShowProgress": 0,
+    "TargetParam": 0
+  },
+  {
+    "AbilityName": "",
+    "ConditionDes": {
+      "hash": -611509908
+    },
+    "ID": 10005,
+    "WinOrLose": false,
+    "IsShowProgress": 0,
+    "TargetParam": 0
+  }
+]

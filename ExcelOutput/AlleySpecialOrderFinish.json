@@ -1,0 +1,542 @@
+[
+  {
+    "SpecialOrderFinishType": "ProfitGreater",
+    "SpecialOrderFinishID": 10101,
+    "Param2": 0,
+    "Param1": 2200,
+    "SpecialOrderFinishDesc": {
+      "hash": 1282823549
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "GoodsNumGreater",
+    "SpecialOrderFinishID": 10102,
+    "Param2": 0,
+    "Param1": 16,
+    "SpecialOrderFinishDesc": {
+      "hash": 1686108076
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10103,
+    "Param2": 0,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": 120024135
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10104,
+    "Param2": 0,
+    "Param1": 0,
+    "SpecialOrderFinishDesc": {
+      "hash": 523308662
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10105,
+    "Param2": 1,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": -1042775279
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10106,
+    "Param2": 2,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": -639490752
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "ProfitGreater",
+    "SpecialOrderFinishID": 10201,
+    "Param2": 0,
+    "Param1": 2700,
+    "SpecialOrderFinishDesc": {
+      "hash": -1183937780
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "GoodsNumGreater",
+    "SpecialOrderFinishID": 10202,
+    "Param2": 0,
+    "Param1": 16,
+    "SpecialOrderFinishDesc": {
+      "hash": -1587222307
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10203,
+    "Param2": 0,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": -21138366
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10204,
+    "Param2": 0,
+    "Param1": 0,
+    "SpecialOrderFinishDesc": {
+      "hash": -780653253
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10205,
+    "Param2": 1,
+    "Param1": 6,
+    "SpecialOrderFinishDesc": {
+      "hash": 785430688
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10206,
+    "Param2": 2,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": 382146161
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "ProfitGreater",
+    "SpecialOrderFinishID": 10301,
+    "Param2": 0,
+    "Param1": 3500,
+    "SpecialOrderFinishDesc": {
+      "hash": 1565148551
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "GoodsNumGreater",
+    "SpecialOrderFinishID": 10302,
+    "Param2": 0,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": -935390
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10303,
+    "Param2": 0,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": -1567019331
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10304,
+    "Param2": 0,
+    "Param1": 0,
+    "SpecialOrderFinishDesc": {
+      "hash": 805633664
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10305,
+    "Param2": 1,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": -760450277
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10306,
+    "Param2": 2,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": 1968433078
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "ProfitGreater",
+    "SpecialOrderFinishID": 10401,
+    "Param2": 0,
+    "Param1": 7300,
+    "SpecialOrderFinishDesc": {
+      "hash": -901612778
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "GoodsNumGreater",
+    "SpecialOrderFinishID": 10402,
+    "Param2": 0,
+    "Param1": 26,
+    "SpecialOrderFinishDesc": {
+      "hash": 664471163
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10403,
+    "Param2": 0,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": -2064412192
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10404,
+    "Param2": 0,
+    "Param1": 0,
+    "SpecialOrderFinishDesc": {
+      "hash": -142097891
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10405,
+    "Param2": 1,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": 1423986050
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10406,
+    "Param2": 2,
+    "Param1": 9,
+    "SpecialOrderFinishDesc": {
+      "hash": -1304897305
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "ProfitGreater",
+    "SpecialOrderFinishID": 10501,
+    "Param2": 0,
+    "Param1": 7300,
+    "SpecialOrderFinishDesc": {
+      "hash": 1847473553
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "GoodsNumGreater",
+    "SpecialOrderFinishID": 10502,
+    "Param2": 0,
+    "Param1": 26,
+    "SpecialOrderFinishDesc": {
+      "hash": -2044209216
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10503,
+    "Param2": 0,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": 684674139
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10504,
+    "Param2": 0,
+    "Param1": 0,
+    "SpecialOrderFinishDesc": {
+      "hash": 1444189026
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10505,
+    "Param2": 1,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": -121894915
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10506,
+    "Param2": 2,
+    "Param1": 9,
+    "SpecialOrderFinishDesc": {
+      "hash": 281389612
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "ProfitGreater",
+    "SpecialOrderFinishID": 10601,
+    "Param2": 0,
+    "Param1": 2900,
+    "SpecialOrderFinishDesc": {
+      "hash": -619287776
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "GoodsNumGreater",
+    "SpecialOrderFinishID": 10602,
+    "Param2": 0,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": -1022572303
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10603,
+    "Param2": 0,
+    "Param1": 0,
+    "SpecialOrderFinishDesc": {
+      "hash": 543511638
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10604,
+    "Param2": 0,
+    "Param1": 0,
+    "SpecialOrderFinishDesc": {
+      "hash": 140227111
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10605,
+    "Param2": 1,
+    "Param1": 12,
+    "SpecialOrderFinishDesc": {
+      "hash": 1706311052
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10606,
+    "Param2": 2,
+    "Param1": 12,
+    "SpecialOrderFinishDesc": {
+      "hash": 1303026525
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "ProfitGreater",
+    "SpecialOrderFinishID": 10701,
+    "Param2": 0,
+    "Param1": 18000,
+    "SpecialOrderFinishDesc": {
+      "hash": 2129798555
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "GoodsNumGreater",
+    "SpecialOrderFinishID": 10702,
+    "Param2": 0,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": 563714614
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10703,
+    "Param2": 0,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": -1002369327
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10704,
+    "Param2": 0,
+    "Param1": 0,
+    "SpecialOrderFinishDesc": {
+      "hash": 1726514028
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10705,
+    "Param2": 1,
+    "Param1": 24,
+    "SpecialOrderFinishDesc": {
+      "hash": 160430087
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10706,
+    "Param2": 2,
+    "Param1": 15,
+    "SpecialOrderFinishDesc": {
+      "hash": -1405653854
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "ProfitGreater",
+    "SpecialOrderFinishID": 10801,
+    "Param2": 0,
+    "Param1": 1000,
+    "SpecialOrderFinishDesc": {
+      "hash": 1699404506
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "GoodsNumGreater",
+    "SpecialOrderFinishID": 10802,
+    "Param2": 0,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": -1029478849
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10803,
+    "Param2": 0,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": 536605092
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10804,
+    "Param2": 0,
+    "Param1": 0,
+    "SpecialOrderFinishDesc": {
+      "hash": 2102689033
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10805,
+    "Param2": 1,
+    "Param1": 10,
+    "SpecialOrderFinishDesc": {
+      "hash": -626194322
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10806,
+    "Param2": 2,
+    "Param1": 22,
+    "SpecialOrderFinishDesc": {
+      "hash": 939889619
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "ProfitGreater",
+    "SpecialOrderFinishID": 10901,
+    "Param2": 0,
+    "Param1": 16000,
+    "SpecialOrderFinishDesc": {
+      "hash": 153523541
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "GoodsNumGreater",
+    "SpecialOrderFinishID": 10902,
+    "Param2": 0,
+    "Param1": 30,
+    "SpecialOrderFinishDesc": {
+      "hash": 556808068
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10903,
+    "Param2": 0,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": -1009275873
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "RemainAnchorLessOrEqual",
+    "SpecialOrderFinishID": 10904,
+    "Param2": 0,
+    "Param1": 0,
+    "SpecialOrderFinishDesc": {
+      "hash": -605991346
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10905,
+    "Param2": 1,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": 2122892009
+    },
+    "Param3": 0
+  },
+  {
+    "SpecialOrderFinishType": "SpecifiedTypeGoodsNumGreater",
+    "SpecialOrderFinishID": 10906,
+    "Param2": 2,
+    "Param1": 1,
+    "SpecialOrderFinishDesc": {
+      "hash": -1768790760
+    },
+    "Param3": 0
+  }
+]

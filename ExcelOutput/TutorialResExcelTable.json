@@ -1,0 +1,296 @@
+[
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/GuideBtnTypeRound.prefab",
+    "KeyMapPath": "",
+    "ID": 1
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/GuideBtnTypeRectagle.prefab",
+    "KeyMapPath": "",
+    "ID": 2
+  },
+  {
+    "TextPath": "OffsetRoot/Root/Text",
+    "ContentPath": "OffsetRoot",
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsDown.prefab",
+    "KeyMapPath": "OffsetRoot/Root/KeyMap",
+    "ID": 3
+  },
+  {
+    "TextPath": "OffsetRoot/Root/Text",
+    "ContentPath": "OffsetRoot",
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsUp.prefab",
+    "KeyMapPath": "OffsetRoot/Root/KeyMap",
+    "ID": 4
+  },
+  {
+    "TextPath": "AreaInfoPanel/Title/Text",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/GuideHintDialog.prefab",
+    "KeyMapPath": "AreaInfoPanel/Title/KeyMap",
+    "ID": 5
+  },
+  {
+    "TextPath": "OffsetRoot/Root/Text",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsLeftUp.prefab",
+    "KeyMapPath": "OffsetRoot/Root/KeyMap",
+    "ID": 6
+  },
+  {
+    "TextPath": "OffsetRoot/Root/Text",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsLeftDown.prefab",
+    "KeyMapPath": "OffsetRoot/Root/KeyMap",
+    "ID": 7
+  },
+  {
+    "TextPath": "OffsetRoot/Root/Text",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsRightUp.prefab",
+    "KeyMapPath": "OffsetRoot/Root/KeyMap",
+    "ID": 8
+  },
+  {
+    "TextPath": "OffsetRoot/Root/Text",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsRightDown.prefab",
+    "KeyMapPath": "OffsetRoot/Root/KeyMap",
+    "ID": 9
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/GuideBtnTypeRoundForView.prefab",
+    "KeyMapPath": "",
+    "ID": 10
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/GuideBtnTypeRectForView.prefab",
+    "KeyMapPath": "",
+    "ID": 11
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/GuideArrowBtn.prefab",
+    "KeyMapPath": "",
+    "ID": 12
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/ActionHint/JoystickRotation.prefab",
+    "KeyMapPath": "",
+    "ID": 13
+  },
+  {
+    "TextPath": "OffsetRoot/Root/Text",
+    "ContentPath": "OffsetRoot",
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsLeft.prefab",
+    "KeyMapPath": "OffsetRoot/Root/KeyMap",
+    "ID": 14
+  },
+  {
+    "TextPath": "OffsetRoot/Root/Text",
+    "ContentPath": "OffsetRoot",
+    "PrefabPath": "UI/Guide/Widget/GuideInfoTipsRight.prefab",
+    "KeyMapPath": "OffsetRoot/Root/KeyMap",
+    "ID": 15
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/GuideBtnType3D.prefab",
+    "KeyMapPath": "",
+    "ID": 16
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/RogueGuideTalkDialogRightDown.prefab",
+    "KeyMapPath": "",
+    "ID": 17
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/RogueGuideTalkDialogRightUp.prefab",
+    "KeyMapPath": "",
+    "ID": 18
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/RogueGuideTalkDialogLeftDown.prefab",
+    "KeyMapPath": "",
+    "ID": 19
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/RogueGuideTalkDialogLeftUp.prefab",
+    "KeyMapPath": "",
+    "ID": 20
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/ActionHint/SwipeRight.prefab",
+    "KeyMapPath": "",
+    "ID": 21
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/CommonGuideTalkDialogRightDown.prefab",
+    "KeyMapPath": "",
+    "ID": 22
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/CommonGuideTalkDialogRightUp.prefab",
+    "KeyMapPath": "",
+    "ID": 23
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/CommonGuideTalkDialogLeftDown.prefab",
+    "KeyMapPath": "",
+    "ID": 24
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/CommonGuideTalkDialogLeftUp.prefab",
+    "KeyMapPath": "",
+    "ID": 25
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/ActionHint/SwipeLeft.prefab",
+    "KeyMapPath": "",
+    "ID": 26
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/ActionHint/SwipeDown.prefab",
+    "KeyMapPath": "",
+    "ID": 27
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/ActionHint/SwipeUp.prefab",
+    "KeyMapPath": "",
+    "ID": 28
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/ActionHint/SwipeAToB.prefab",
+    "KeyMapPath": "",
+    "ID": 29
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/ActionHint/SwipeAToBHorizontal.prefab",
+    "KeyMapPath": "",
+    "ID": 30
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/ActionHint/SwipeAToBVertical.prefab",
+    "KeyMapPath": "",
+    "ID": 31
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/ActionHint/SwipeAToBToA.prefab",
+    "KeyMapPath": "",
+    "ID": 32
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/RogueGuideTalkDialogCenter.prefab",
+    "KeyMapPath": "",
+    "ID": 33
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/RogueGuideTalkTipsUp.prefab",
+    "KeyMapPath": "",
+    "ID": 34
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/RogueGuideTalkTipsDown.prefab",
+    "KeyMapPath": "",
+    "ID": 35
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/RogueGuideTalkTipsLeft.prefab",
+    "KeyMapPath": "",
+    "ID": 36
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/RogueGuideTalkTipsRight.prefab",
+    "KeyMapPath": "",
+    "ID": 37
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/CommonGuideTalkDialogCenter.prefab",
+    "KeyMapPath": "",
+    "ID": 38
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/CommonGuideTalkTipsUp.prefab",
+    "KeyMapPath": "",
+    "ID": 39
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/CommonGuideTalkTipsDown.prefab",
+    "KeyMapPath": "",
+    "ID": 40
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/CommonGuideTalkTipsLeft.prefab",
+    "KeyMapPath": "",
+    "ID": 41
+  },
+  {
+    "TextPath": "",
+    "ContentPath": "",
+    "PrefabPath": "UI/Guide/Widget/CommonGuideTalkTipsRight.prefab",
+    "KeyMapPath": "",
+    "ID": 42
+  }
+]

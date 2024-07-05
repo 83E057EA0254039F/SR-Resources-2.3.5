@@ -1,0 +1,432 @@
+[
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 2,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2000101,
+    "FloorID": 20001001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20001
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2000201,
+    "FloorID": 20002001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20002
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 2,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2000301,
+    "FloorID": 20003001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20003
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 2,
+    "DimensionID": 0,
+    "BattleAreaID": 2,
+    "ID": 2000302,
+    "FloorID": 20003001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20003
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 2,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2000401,
+    "FloorID": 20004001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20004
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 2,
+    "DimensionID": 0,
+    "BattleAreaID": 2,
+    "ID": 2000402,
+    "FloorID": 20004001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20004
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 2,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2010101,
+    "FloorID": 20101001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20101
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 2,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2011101,
+    "FloorID": 20111001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20111
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 2,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2012101,
+    "FloorID": 20121001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20121
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 2,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2012201,
+    "FloorID": 20122001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20122
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 2,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2012301,
+    "FloorID": 20123001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20123
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 2,
+    "DimensionID": 0,
+    "BattleAreaID": 2,
+    "ID": 2012302,
+    "FloorID": 20123001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20123
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 2,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2013101,
+    "FloorID": 20131001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20131
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2013201,
+    "FloorID": 20132001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20132
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 2,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2013401,
+    "FloorID": 20134001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20134
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2013601,
+    "FloorID": 20136001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20136
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 2,
+    "ID": 2013602,
+    "FloorID": 20136001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20136
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 1020204,
+    "FloorID": 10202004,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 10202
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2021101,
+    "FloorID": 20211001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20211
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2021201,
+    "FloorID": 20212001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20212
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 5,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2022101,
+    "FloorID": 20221001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20221
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 3,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2022201,
+    "FloorID": 20222001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20222
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 3,
+    "DimensionID": 0,
+    "BattleAreaID": 2,
+    "ID": 2022202,
+    "FloorID": 20222001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20222
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2022301,
+    "FloorID": 20223001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20223
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2023101,
+    "FloorID": 20231001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20231
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2023201,
+    "FloorID": 20232001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20232
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 2,
+    "ID": 2023202,
+    "FloorID": 20232001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20232
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 1030101,
+    "FloorID": 10301001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 10301
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2031101,
+    "FloorID": 20311001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20311
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 2,
+    "ID": 2031102,
+    "FloorID": 20311001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20311
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 3,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2031201,
+    "FloorID": 20312001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20312
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2031301,
+    "FloorID": 20313001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20313
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2032201,
+    "FloorID": 20322001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20322
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 2,
+    "ID": 2032202,
+    "FloorID": 20322001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20322
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2032101,
+    "FloorID": 20321001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20321
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 2,
+    "ID": 2032102,
+    "FloorID": 20321001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20321
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 30,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 1030401,
+    "FloorID": 10304001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 10304
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2033101,
+    "FloorID": 20331001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20331
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 2033201,
+    "FloorID": 20332001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20332
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 2,
+    "ID": 2033202,
+    "FloorID": 20332001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20332
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 1,
+    "DimensionID": 0,
+    "BattleAreaID": 3,
+    "ID": 2033203,
+    "FloorID": 20332001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 20332
+  },
+  {
+    "IsLegacy": true,
+    "BattleAreaGroupID": 7,
+    "DimensionID": 0,
+    "BattleAreaID": 1,
+    "ID": 1034101,
+    "FloorID": 10341001,
+    "FloorBattleAreaID": 0,
+    "PlaneID": 10341
+  },
+  {
+    "IsLegacy": false,
+    "BattleAreaGroupID": 0,
+    "DimensionID": 0,
+    "BattleAreaID": 0,
+    "ID": 2024101,
+    "FloorID": 20241001,
+    "FloorBattleAreaID": 1,
+    "PlaneID": 20241
+  }
+]

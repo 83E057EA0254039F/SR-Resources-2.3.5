@@ -1,0 +1,43 @@
+[
+  {
+    "CupAnchoPath": "",
+    "AudioEvent": "Ev_sfx_blending_addice_withoutice",
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/IconEmpty.png",
+    "PrefabPath": "",
+    "IncludeTagList": [
+      201
+    ],
+    "ID": 0,
+    "IceName": {
+      "hash": -805474135
+    }
+  },
+  {
+    "CupAnchoPath": "Glass/Anchors/IceAnchor01",
+    "AudioEvent": "Ev_sfx_blending_addice_less",
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Ice01.png",
+    "PrefabPath": "",
+    "IncludeTagList": [
+      204,
+      202
+    ],
+    "ID": 1,
+    "IceName": {
+      "hash": -805474136
+    }
+  },
+  {
+    "CupAnchoPath": "Glass/Anchors/IceAnchor01",
+    "AudioEvent": "Ev_sfx_blending_addice_extra",
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/ItemIcon/Ice02.png",
+    "PrefabPath": "",
+    "IncludeTagList": [
+      204,
+      203
+    ],
+    "ID": 2,
+    "IceName": {
+      "hash": -805474137
+    }
+  }
+]

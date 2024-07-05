@@ -1,0 +1,200 @@
+[
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsKnight.png",
+    "GambleUnitID": 101,
+    "GambleUnitParam": 1010001,
+    "GambleUnitType": "BuffCommon"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsMemory.png",
+    "GambleUnitID": 102,
+    "GambleUnitParam": 1010101,
+    "GambleUnitType": "BuffCommon"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarlock.png",
+    "GambleUnitID": 103,
+    "GambleUnitParam": 1010201,
+    "GambleUnitType": "BuffCommon"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPirest.png",
+    "GambleUnitID": 104,
+    "GambleUnitParam": 1010301,
+    "GambleUnitType": "BuffCommon"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsRogue.png",
+    "GambleUnitID": 105,
+    "GambleUnitParam": 1010401,
+    "GambleUnitType": "BuffCommon"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarrior.png",
+    "GambleUnitID": 106,
+    "GambleUnitParam": 1010501,
+    "GambleUnitType": "BuffCommon"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsJoy.png",
+    "GambleUnitID": 107,
+    "GambleUnitParam": 1010601,
+    "GambleUnitType": "BuffCommon"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPropagation.png",
+    "GambleUnitID": 108,
+    "GambleUnitParam": 1010701,
+    "GambleUnitType": "BuffCommon"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsnMage.png",
+    "GambleUnitID": 109,
+    "GambleUnitParam": 1010801,
+    "GambleUnitType": "BuffCommon"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsKnight.png",
+    "GambleUnitID": 110,
+    "GambleUnitParam": 1010002,
+    "GambleUnitType": "BuffRare"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsMemory.png",
+    "GambleUnitID": 111,
+    "GambleUnitParam": 1010102,
+    "GambleUnitType": "BuffRare"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarlock.png",
+    "GambleUnitID": 112,
+    "GambleUnitParam": 1010202,
+    "GambleUnitType": "BuffRare"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPirest.png",
+    "GambleUnitID": 113,
+    "GambleUnitParam": 1010302,
+    "GambleUnitType": "BuffRare"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsRogue.png",
+    "GambleUnitID": 114,
+    "GambleUnitParam": 1010402,
+    "GambleUnitType": "BuffRare"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarrior.png",
+    "GambleUnitID": 115,
+    "GambleUnitParam": 1010502,
+    "GambleUnitType": "BuffRare"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsJoy.png",
+    "GambleUnitID": 116,
+    "GambleUnitParam": 1010602,
+    "GambleUnitType": "BuffRare"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPropagation.png",
+    "GambleUnitID": 117,
+    "GambleUnitParam": 1010702,
+    "GambleUnitType": "BuffRare"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsnMage.png",
+    "GambleUnitID": 118,
+    "GambleUnitParam": 1010802,
+    "GambleUnitType": "BuffRare"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsKnight.png",
+    "GambleUnitID": 119,
+    "GambleUnitParam": 1010003,
+    "GambleUnitType": "BuffLegendary"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsMemory.png",
+    "GambleUnitID": 120,
+    "GambleUnitParam": 1010103,
+    "GambleUnitType": "BuffLegendary"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarlock.png",
+    "GambleUnitID": 121,
+    "GambleUnitParam": 1010203,
+    "GambleUnitType": "BuffLegendary"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPirest.png",
+    "GambleUnitID": 122,
+    "GambleUnitParam": 1010303,
+    "GambleUnitType": "BuffLegendary"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsRogue.png",
+    "GambleUnitID": 123,
+    "GambleUnitParam": 1010403,
+    "GambleUnitType": "BuffLegendary"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarrior.png",
+    "GambleUnitID": 124,
+    "GambleUnitParam": 1010503,
+    "GambleUnitType": "BuffLegendary"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsJoy.png",
+    "GambleUnitID": 125,
+    "GambleUnitParam": 1010603,
+    "GambleUnitType": "BuffLegendary"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPropagation.png",
+    "GambleUnitID": 126,
+    "GambleUnitParam": 1010703,
+    "GambleUnitType": "BuffLegendary"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsnMage.png",
+    "GambleUnitID": 127,
+    "GambleUnitParam": 1010803,
+    "GambleUnitType": "BuffLegendary"
+  },
+  {
+    "GambleUnitIcon": "",
+    "GambleUnitID": 201,
+    "GambleUnitParam": 40002,
+    "GambleUnitType": "MiracleCommon"
+  },
+  {
+    "GambleUnitIcon": "",
+    "GambleUnitID": 202,
+    "GambleUnitParam": 40012,
+    "GambleUnitType": "MiracleRare"
+  },
+  {
+    "GambleUnitIcon": "",
+    "GambleUnitID": 203,
+    "GambleUnitParam": 40022,
+    "GambleUnitType": "MiracleLegendary"
+  },
+  {
+    "GambleUnitIcon": "",
+    "GambleUnitID": 204,
+    "GambleUnitParam": 40041,
+    "GambleUnitType": "MiracleNegative"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/ItemIcon/31.png",
+    "GambleUnitID": 301,
+    "GambleUnitParam": 20,
+    "GambleUnitType": "Coin"
+  },
+  {
+    "GambleUnitIcon": "SpriteOutput/ItemIcon/31.png",
+    "GambleUnitID": 302,
+    "GambleUnitParam": 40,
+    "GambleUnitType": "Coin"
+  }
+]

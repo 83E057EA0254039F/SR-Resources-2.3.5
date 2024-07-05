@@ -1,0 +1,1313 @@
+[
+  {
+    "Cost": [
+      {
+        "ItemNum": 50,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      2
+    ],
+    "Icon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueStarRelicIcon.png",
+    "UnlockIDList": [],
+    "EffectDescParamList": [
+      {
+        "RawValue": 12884901888
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1921742840
+    },
+    "TalentID": 1,
+    "EffectTag": {
+      "hash": 640676258
+    },
+    "IsImportant": true,
+    "EffectDesc": {
+      "hash": 1756017307
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 50,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      3,
+      4,
+      5
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1001.png",
+    "UnlockIDList": [
+      10401
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 300647710720
+      },
+      {
+        "RawValue": 257698037760
+      },
+      {
+        "RawValue": 558345748480
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1921742841
+    },
+    "TalentID": 2,
+    "EffectTag": {
+      "hash": 640676255
+    },
+    "IsImportant": true,
+    "EffectDesc": {
+      "hash": 189933366
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 50,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      6
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconAttack.png",
+    "UnlockIDList": [
+      10402
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 150323855360
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1921742842
+    },
+    "TalentID": 3,
+    "EffectTag": {
+      "hash": 640676256
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": -1376150575
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 50,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      6
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconDefence.png",
+    "UnlockIDList": [
+      10402
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 128849018880
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1921742843
+    },
+    "TalentID": 4,
+    "EffectTag": {
+      "hash": 640676253
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 1352732780
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 50,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      6
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconMaxHP.png",
+    "UnlockIDList": [
+      10402
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 257698037760
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1921742844
+    },
+    "TalentID": 5,
+    "EffectTag": {
+      "hash": 640676254
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": -213351161
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      7
+    ],
+    "Icon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueStarRelicIcon.png",
+    "UnlockIDList": [
+      10405
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 25769803776
+      },
+      {
+        "RawValue": 429496730
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1921742845
+    },
+    "TalentID": 6,
+    "EffectTag": {
+      "hash": 640676251
+    },
+    "IsImportant": true,
+    "EffectDesc": {
+      "hash": -1779435102
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      8,
+      9,
+      10
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1002.png",
+    "UnlockIDList": [
+      10406
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 4294967296
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1921742846
+    },
+    "TalentID": 7,
+    "EffectTag": {
+      "hash": 640676252
+    },
+    "IsImportant": true,
+    "EffectDesc": {
+      "hash": 949448253
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      11
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconAttack.png",
+    "UnlockIDList": [
+      10407
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 171798691840
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1921742847
+    },
+    "TalentID": 8,
+    "EffectTag": {
+      "hash": 640676265
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": -1329096408
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      11
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconDefence.png",
+    "UnlockIDList": [
+      10407
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 150323855360
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1921742848
+    },
+    "TalentID": 9,
+    "EffectTag": {
+      "hash": 640676266
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 1399786947
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 100,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      11
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconMaxHP.png",
+    "UnlockIDList": [
+      10407
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 279172874240
+      }
+    ],
+    "EffectTitle": {
+      "hash": -956212760
+    },
+    "TalentID": 10,
+    "EffectTag": {
+      "hash": 323431250
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 387063915
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 150,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      12
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1002.png",
+    "UnlockIDList": [
+      10410
+    ],
+    "EffectDescParamList": [],
+    "EffectTitle": {
+      "hash": 1772670595
+    },
+    "TalentID": 11,
+    "EffectTag": {
+      "hash": -1242652691
+    },
+    "IsImportant": true,
+    "EffectDesc": {
+      "hash": 387063914
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 150,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      13,
+      14,
+      15
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1002.png",
+    "UnlockIDList": [
+      10411
+    ],
+    "EffectDescParamList": [],
+    "EffectTitle": {
+      "hash": 206586654
+    },
+    "TalentID": 12,
+    "EffectTag": {
+      "hash": 1486230664
+    },
+    "IsImportant": true,
+    "EffectDesc": {
+      "hash": 387063917
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 150,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      16
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconAttack.png",
+    "UnlockIDList": [
+      10412
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 193273528320
+      }
+    ],
+    "EffectTitle": {
+      "hash": -1359497287
+    },
+    "TalentID": 13,
+    "EffectTag": {
+      "hash": -79853277
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 387063916
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 150,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      16
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconDefence.png",
+    "UnlockIDList": [
+      10412
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 150323855360
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1013155708
+    },
+    "TalentID": 14,
+    "EffectTag": {
+      "hash": -1645937218
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 387063911
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 150,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      16
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconMaxHP.png",
+    "UnlockIDList": [
+      10412
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 300647710720
+      }
+    ],
+    "EffectTitle": {
+      "hash": -552928233
+    },
+    "TalentID": 15,
+    "EffectTag": {
+      "hash": 1082946137
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 387063910
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 200,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      17
+    ],
+    "Icon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueStarRelicIcon.png",
+    "UnlockIDList": [
+      10415
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 42949672960
+      },
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "EffectTitle": {
+      "hash": -2119012174
+    },
+    "TalentID": 16,
+    "EffectTag": {
+      "hash": -483137804
+    },
+    "IsImportant": true,
+    "EffectDesc": {
+      "hash": 387063913
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 200,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      18,
+      19,
+      20
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1002.png",
+    "UnlockIDList": [
+      10416
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748364800
+      }
+    ],
+    "EffectTitle": {
+      "hash": 609871181
+    },
+    "TalentID": 17,
+    "EffectTag": {
+      "hash": -2049221745
+    },
+    "IsImportant": true,
+    "EffectDesc": {
+      "hash": 387063912
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 200,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      21
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconAttack.png",
+    "UnlockIDList": [
+      10417
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748364800
+      }
+    ],
+    "EffectTitle": {
+      "hash": -599982400
+    },
+    "TalentID": 18,
+    "EffectTag": {
+      "hash": 679661610
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 387063907
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 200,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      21
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconDefence.png",
+    "UnlockIDList": [
+      10417
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 171798691840
+      }
+    ],
+    "EffectTitle": {
+      "hash": 2128900955
+    },
+    "TalentID": 19,
+    "EffectTag": {
+      "hash": -886422331
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 387063906
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 200,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      21
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconMaxHP.png",
+    "UnlockIDList": [
+      10417
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 322122547200
+      }
+    ],
+    "EffectTitle": {
+      "hash": -956212759
+    },
+    "TalentID": 20,
+    "EffectTag": {
+      "hash": 323431247
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": -1179020026
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 300,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      22,
+      23,
+      24
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1002.png",
+    "UnlockIDList": [
+      10420
+    ],
+    "EffectDescParamList": [],
+    "EffectTitle": {
+      "hash": 1772670596
+    },
+    "TalentID": 21,
+    "EffectTag": {
+      "hash": -1242652694
+    },
+    "IsImportant": true,
+    "EffectDesc": {
+      "hash": -1179020027
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 300,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      25
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconAttack.png",
+    "UnlockIDList": [
+      10421
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 257698037760
+      }
+    ],
+    "EffectTitle": {
+      "hash": 206586655
+    },
+    "TalentID": 22,
+    "EffectTag": {
+      "hash": 1486230661
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": -1179020024
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 300,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      25
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconDefence.png",
+    "UnlockIDList": [
+      10421
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 193273528320
+      }
+    ],
+    "EffectTitle": {
+      "hash": -1359497286
+    },
+    "TalentID": 23,
+    "EffectTag": {
+      "hash": -79853280
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": -1179020025
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 300,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      25
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconMaxHP.png",
+    "UnlockIDList": [
+      10421
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 343597383680
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1013155709
+    },
+    "TalentID": 24,
+    "EffectTag": {
+      "hash": -1645937221
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": -1179020030
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 450,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      26,
+      27,
+      28
+    ],
+    "Icon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueStarRelicIcon.png",
+    "UnlockIDList": [
+      10424
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 60129542144
+      },
+      {
+        "RawValue": 858993460
+      }
+    ],
+    "EffectTitle": {
+      "hash": -552928232
+    },
+    "TalentID": 25,
+    "EffectTag": {
+      "hash": 1082946134
+    },
+    "IsImportant": true,
+    "EffectDesc": {
+      "hash": -1179020031
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 450,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      29
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconCriticalChance.png",
+    "UnlockIDList": [
+      10425
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365
+      }
+    ],
+    "EffectTitle": {
+      "hash": -2119012173
+    },
+    "TalentID": 26,
+    "EffectTag": {
+      "hash": -483137807
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": -1179020028
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 450,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      30
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1003.png",
+    "UnlockIDList": [
+      10425
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 85899345920
+      }
+    ],
+    "EffectTitle": {
+      "hash": 609871182
+    },
+    "TalentID": 27,
+    "EffectTag": {
+      "hash": -2049221748
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": -1179020029
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 450,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      31
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconSpeed.png",
+    "UnlockIDList": [
+      10425
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 171798692
+      }
+    ],
+    "EffectTitle": {
+      "hash": -599982399
+    },
+    "TalentID": 28,
+    "EffectTag": {
+      "hash": 679661607
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": -1179020034
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 600,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      32
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconAttack.png",
+    "UnlockIDList": [
+      10426
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 257698037760
+      }
+    ],
+    "EffectTitle": {
+      "hash": 2128900956
+    },
+    "TalentID": 29,
+    "EffectTag": {
+      "hash": -886422334
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": -1179020035
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 600,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      32
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconDefence.png",
+    "UnlockIDList": [
+      10427
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 193273528320
+      }
+    ],
+    "EffectTitle": {
+      "hash": -956212758
+    },
+    "TalentID": 30,
+    "EffectTag": {
+      "hash": 323431248
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 1549863329
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 600,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      32
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconMaxHP.png",
+    "UnlockIDList": [
+      10428
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 343597383680
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1772670597
+    },
+    "TalentID": 31,
+    "EffectTag": {
+      "hash": -1242652693
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 1549863328
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 900,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      33,
+      34,
+      35
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1002.png",
+    "UnlockIDList": [
+      10431
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 4294967296
+      }
+    ],
+    "EffectTitle": {
+      "hash": 206586656
+    },
+    "TalentID": 32,
+    "EffectTag": {
+      "hash": 1486230662
+    },
+    "IsImportant": true,
+    "EffectDesc": {
+      "hash": 1549863331
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 900,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      36
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconCriticalDamage.png",
+    "UnlockIDList": [
+      10432
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 386547057
+      }
+    ],
+    "EffectTitle": {
+      "hash": -1359497285
+    },
+    "TalentID": 33,
+    "EffectTag": {
+      "hash": -79853279
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 1549863330
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 900,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      37
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1003.png",
+    "UnlockIDList": [
+      10432
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 644245095
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1013155710
+    },
+    "TalentID": 34,
+    "EffectTag": {
+      "hash": -1645937220
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 1549863325
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 900,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      38
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1004.png",
+    "UnlockIDList": [
+      10432
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365
+      }
+    ],
+    "EffectTitle": {
+      "hash": -552928231
+    },
+    "TalentID": 35,
+    "EffectTag": {
+      "hash": 1082946135
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 1549863324
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 1500,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      39
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconAttack.png",
+    "UnlockIDList": [
+      10433
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 257698037760
+      }
+    ],
+    "EffectTitle": {
+      "hash": -2119012172
+    },
+    "TalentID": 36,
+    "EffectTag": {
+      "hash": -483137806
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 1549863327
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 1500,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      40
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconDefence.png",
+    "UnlockIDList": [
+      10434
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 193273528320
+      }
+    ],
+    "EffectTitle": {
+      "hash": 609871183
+    },
+    "TalentID": 37,
+    "EffectTag": {
+      "hash": -2049221747
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 1549863326
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 1500,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      41
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconMaxHP.png",
+    "UnlockIDList": [
+      10435
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 343597383680
+      }
+    ],
+    "EffectTitle": {
+      "hash": -599982398
+    },
+    "TalentID": 38,
+    "EffectTag": {
+      "hash": 679661608
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 1549863321
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 2100,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      42
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1003.png",
+    "UnlockIDList": [
+      10436
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 429496730
+      }
+    ],
+    "EffectTitle": {
+      "hash": 2128900957
+    },
+    "TalentID": 39,
+    "EffectTag": {
+      "hash": -886422333
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": 1549863320
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 2100,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      42
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconStatusProbability.png",
+    "UnlockIDList": [
+      10437
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 343597384
+      }
+    ],
+    "EffectTitle": {
+      "hash": -956212757
+    },
+    "TalentID": 40,
+    "EffectTag": {
+      "hash": 323431245
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": -16220612
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 2100,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [
+      42
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1003.png",
+    "UnlockIDList": [
+      10438
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 429496730
+      }
+    ],
+    "EffectTitle": {
+      "hash": 1772670598
+    },
+    "TalentID": 41,
+    "EffectTag": {
+      "hash": -1242652696
+    },
+    "IsImportant": false,
+    "EffectDesc": {
+      "hash": -16220613
+    }
+  },
+  {
+    "Cost": [
+      {
+        "ItemNum": 700,
+        "ItemID": 32
+      }
+    ],
+    "NextTalentIDList": [],
+    "Icon": "SpriteOutput/Rogue/Talent/1002.png",
+    "UnlockIDList": [
+      10444
+    ],
+    "EffectDescParamList": [],
+    "EffectTitle": {
+      "hash": 206586657
+    },
+    "TalentID": 42,
+    "EffectTag": {
+      "hash": 1486230659
+    },
+    "IsImportant": true,
+    "EffectDesc": {
+      "hash": -16220610
+    }
+  }
+]

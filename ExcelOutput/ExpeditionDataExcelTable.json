@@ -1,0 +1,580 @@
+[
+  {
+    "BonusBaseTypeList": [
+      "Mage"
+    ],
+    "AssignerIDList": [
+      1001
+    ],
+    "BonusDamageTypeList": [
+      "Wind"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 111001
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 1001,
+    "AssignDesc": {
+      "hash": 1705920133
+    },
+    "Name": {
+      "hash": -325703908
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1010403,
+    "GroupID": 1
+  },
+  {
+    "BonusBaseTypeList": [
+      "Warrior"
+    ],
+    "AssignerIDList": [
+      10021,
+      10022,
+      10023,
+      10024,
+      10025,
+      10026,
+      10027,
+      10028,
+      10029
+    ],
+    "BonusDamageTypeList": [
+      "Fire"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 111011
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 1002,
+    "AssignDesc": {
+      "hash": 139836192
+    },
+    "Name": {
+      "hash": -728988435
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1010403,
+    "GroupID": 1
+  },
+  {
+    "BonusBaseTypeList": [
+      "Knight"
+    ],
+    "AssignerIDList": [
+      1003
+    ],
+    "BonusDamageTypeList": [
+      "Ice"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 112001
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 1003,
+    "AssignDesc": {
+      "hash": -1426247749
+    },
+    "Name": {
+      "hash": 837095506
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1010501,
+    "GroupID": 1
+  },
+  {
+    "BonusBaseTypeList": [
+      "Warlock"
+    ],
+    "AssignerIDList": [
+      1004
+    ],
+    "BonusDamageTypeList": [
+      "Physical"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 112011
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 1004,
+    "AssignDesc": {
+      "hash": 946405246
+    },
+    "Name": {
+      "hash": 77580619
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1010501,
+    "GroupID": 1
+  },
+  {
+    "BonusBaseTypeList": [
+      "Rogue"
+    ],
+    "AssignerIDList": [
+      1005
+    ],
+    "BonusDamageTypeList": [
+      "Thunder"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 113001
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 1005,
+    "AssignDesc": {
+      "hash": -619678695
+    },
+    "Name": {
+      "hash": 1643664560
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1020301,
+    "GroupID": 1
+  },
+  {
+    "BonusBaseTypeList": [
+      "Shaman"
+    ],
+    "AssignerIDList": [
+      1006
+    ],
+    "BonusDamageTypeList": [
+      "Ice"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 113011
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 1006,
+    "AssignDesc": {
+      "hash": 2109204660
+    },
+    "Name": {
+      "hash": 1240380033
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1020301,
+    "GroupID": 1
+  },
+  {
+    "BonusBaseTypeList": [
+      "Shaman"
+    ],
+    "AssignerIDList": [
+      1007
+    ],
+    "BonusDamageTypeList": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 114001
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 1007,
+    "AssignDesc": {
+      "hash": 543120719
+    },
+    "Name": {
+      "hash": -1488503322
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1030201,
+    "GroupID": 1
+  },
+  {
+    "BonusBaseTypeList": [
+      "Priest"
+    ],
+    "AssignerIDList": [
+      1008
+    ],
+    "BonusDamageTypeList": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 114011
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 1008,
+    "AssignDesc": {
+      "hash": -666732862
+    },
+    "Name": {
+      "hash": -1535557489
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1030201,
+    "GroupID": 1
+  },
+  {
+    "BonusBaseTypeList": [
+      "Rogue",
+      "Warrior"
+    ],
+    "AssignerIDList": [
+      2001
+    ],
+    "BonusDamageTypeList": [
+      "Physical",
+      "Fire"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 211
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 2001,
+    "AssignDesc": {
+      "hash": 1705919970
+    },
+    "Name": {
+      "hash": -325703939
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1010403,
+    "GroupID": 2
+  },
+  {
+    "BonusBaseTypeList": [
+      "Mage",
+      "Knight"
+    ],
+    "AssignerIDList": [
+      3001
+    ],
+    "BonusDamageTypeList": [
+      "Thunder",
+      "Quantum"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 221
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 3001,
+    "AssignDesc": {
+      "hash": 1705920067
+    },
+    "Name": {
+      "hash": -325703842
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1010403,
+    "GroupID": 2
+  },
+  {
+    "BonusBaseTypeList": [
+      "Shaman",
+      "Priest"
+    ],
+    "AssignerIDList": [
+      4001
+    ],
+    "BonusDamageTypeList": [
+      "Wind",
+      "Ice"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 4001,
+    "AssignDesc": {
+      "hash": 1705920168
+    },
+    "Name": {
+      "hash": -325704137
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1010403,
+    "GroupID": 2
+  },
+  {
+    "BonusBaseTypeList": [
+      "Knight",
+      "Warlock"
+    ],
+    "AssignerIDList": [
+      5001
+    ],
+    "BonusDamageTypeList": [
+      "Thunder",
+      "Quantum"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 180004
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 180005
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 5001,
+    "AssignDesc": {
+      "hash": 1705920265
+    },
+    "Name": {
+      "hash": -325704040
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1010701,
+    "GroupID": 3
+  },
+  {
+    "BonusBaseTypeList": [
+      "Priest",
+      "Mage"
+    ],
+    "AssignerIDList": [
+      5002
+    ],
+    "BonusDamageTypeList": [
+      "Ice",
+      "Imaginary"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 180001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 181002
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 5002,
+    "AssignDesc": {
+      "hash": 139836324
+    },
+    "Name": {
+      "hash": -728988567
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1011102,
+    "GroupID": 3
+  },
+  {
+    "BonusBaseTypeList": [
+      "Priest",
+      "Shaman"
+    ],
+    "AssignerIDList": [
+      5003
+    ],
+    "BonusDamageTypeList": [
+      "Physical",
+      "Fire"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 180002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 181003
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 5003,
+    "AssignDesc": {
+      "hash": -1426247617
+    },
+    "Name": {
+      "hash": 837095374
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1011301,
+    "GroupID": 3
+  },
+  {
+    "BonusBaseTypeList": [
+      "Shaman",
+      "Warrior"
+    ],
+    "AssignerIDList": [
+      5004
+    ],
+    "BonusDamageTypeList": [
+      "Thunder",
+      "Fire"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 180006
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 180007
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 5004,
+    "AssignDesc": {
+      "hash": 946405378
+    },
+    "Name": {
+      "hash": 77580487
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1010902,
+    "GroupID": 3
+  },
+  {
+    "BonusBaseTypeList": [
+      "Rogue",
+      "Warlock"
+    ],
+    "AssignerIDList": [
+      5005
+    ],
+    "BonusDamageTypeList": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 180008
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 181011
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 5005,
+    "AssignDesc": {
+      "hash": -619678563
+    },
+    "Name": {
+      "hash": 1643664428
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1020701,
+    "GroupID": 3
+  },
+  {
+    "BonusBaseTypeList": [
+      "Priest",
+      "Knight"
+    ],
+    "AssignerIDList": [
+      5006
+    ],
+    "BonusDamageTypeList": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 180009
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 181012
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 5006,
+    "AssignDesc": {
+      "hash": 2109204792
+    },
+    "Name": {
+      "hash": 1240379901
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1021201,
+    "GroupID": 3
+  },
+  {
+    "BonusBaseTypeList": [
+      "Shaman",
+      "Warlock"
+    ],
+    "AssignerIDList": [
+      5007
+    ],
+    "BonusDamageTypeList": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 180010
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 180011
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 5007,
+    "AssignDesc": {
+      "hash": 543120851
+    },
+    "Name": {
+      "hash": -1488503454
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1030201,
+    "GroupID": 3
+  },
+  {
+    "BonusBaseTypeList": [
+      "Shaman",
+      "Mage"
+    ],
+    "AssignerIDList": [
+      5008
+    ],
+    "BonusDamageTypeList": [],
+    "DisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 180012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 181016
+      }
+    ],
+    "AvatarNumMax": 2,
+    "ExpeditionID": 5008,
+    "AssignDesc": {
+      "hash": -666732730
+    },
+    "Name": {
+      "hash": -1535557621
+    },
+    "AvatarNumMin": 2,
+    "UnlockMission": 1030201,
+    "GroupID": 3
+  }
+]

@@ -1,0 +1,2107 @@
+[
+  {
+    "ActionListForOr": [
+      "Menu_UnchangeLeftBumper",
+      "Menu_UnchangeRightBumper"
+    ],
+    "XboxImagePath": "",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_SelectMenu",
+    "ActionGroupTextmapID": {
+      "hash": 1463604159
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "SpriteOutput/KeyMapIcons/PC/IconMouseZQSD.png",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "KeyMouseImagePath": "SpriteOutput/KeyMapIcons/PC/IconMouseWASD.png",
+    "ActionGroupName": "ActionGroup_Move",
+    "ActionGroupTextmapID": {
+      "hash": 1113026665
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "Action_Play",
+    "ActionGroupTextmapID": {
+      "hash": -452022333
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeLeftStickButton",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ItemList",
+    "ActionGroupTextmapID": {
+      "hash": 999343237
+    }
+  },
+  {
+    "ActionListForOr": [
+      "Menu_UnchangeLeftBumper",
+      "Menu_UnchangeRightBumper"
+    ],
+    "XboxImagePath": "",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ChangeEquipment",
+    "ActionGroupTextmapID": {
+      "hash": -18995876
+    }
+  },
+  {
+    "ActionListForOr": [
+      "Menu_UnchangeLeftTrigger",
+      "Menu_UnchangeRightTrigger"
+    ],
+    "XboxImagePath": "",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "BattlePassMainPageChangeEquipment",
+    "ActionGroupTextmapID": {
+      "hash": -341266607
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeBack",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "EquipmentDetail",
+    "ActionGroupTextmapID": {
+      "hash": -268261483
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeLeftStickButton",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "BattlePassBillboard_RewardDetail",
+    "ActionGroupTextmapID": {
+      "hash": 1272021773
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ReceiveReward",
+    "ActionGroupTextmapID": {
+      "hash": -947326426
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ChooseEquipment",
+    "ActionGroupTextmapID": {
+      "hash": -705468759
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_ud.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_ud.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Scroll",
+    "ActionGroupTextmapID": {
+      "hash": -79056087
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "",
+    "ActionListForAnd": [
+      "Menu_UnchangeLeftTrigger",
+      "Menu_UnchangeRightStickDown"
+    ],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Scroll_LT",
+    "ActionGroupTextmapID": {
+      "hash": -784232476
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_lr.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_lr.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Scroll_Horizon",
+    "ActionGroupTextmapID": {
+      "hash": 1577028549
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_dir_ud.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_dir_ud.png",
+    "KeyMouseImagePath": "SpriteOutput/KeyMapIcons/PC/IconMouseCenterKeyScroll.png",
+    "ActionGroupName": "ActionGroup_DPad_UpDown",
+    "ActionGroupTextmapID": {
+      "hash": 517103153
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeBack",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_ShowImg",
+    "ActionGroupTextmapID": {
+      "hash": 807739166
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Select",
+    "ActionGroupTextmapID": {
+      "hash": -1734649926
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeY",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Unfold",
+    "ActionGroupTextmapID": {
+      "hash": 1795157470
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeY",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Fold",
+    "ActionGroupTextmapID": {
+      "hash": 1946446909
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Cancel",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Return",
+    "ActionGroupTextmapID": {
+      "hash": 951352232
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_keyY.png",
+    "ActionName": "Menu_CameraShot",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_key2.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_CameraShot",
+    "ActionGroupTextmapID": {
+      "hash": 1381985561
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "SpriteOutput/KeyMapIcons/PC/IconMouseZQSD.png",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls.png",
+    "KeyMouseImagePath": "SpriteOutput/KeyMapIcons/PC/IconMouseWASD.png",
+    "ActionGroupName": "ActionGroup_CameraMove",
+    "ActionGroupTextmapID": {
+      "hash": -984277248
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr.png",
+    "KeyMouseImagePath": "SpriteOutput/KeyMapIcons/PC/IconMouseAll.png",
+    "ActionGroupName": "ActionGroup_CameraRotation",
+    "ActionGroupTextmapID": {
+      "hash": 939866017
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Cancel",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_CameraReturn",
+    "ActionGroupTextmapID": {
+      "hash": 2146831397
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeX",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_PhoneMessageGroup",
+    "ActionGroupTextmapID": {
+      "hash": 1201306032
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeY",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Fold&Unfold",
+    "ActionGroupTextmapID": {
+      "hash": 1293595169
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeRightStickButton",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_ResistCheck",
+    "ActionGroupTextmapID": {
+      "hash": 933712500
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeX",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Remove",
+    "ActionGroupTextmapID": {
+      "hash": 619581162
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Add",
+    "ActionGroupTextmapID": {
+      "hash": 1633115261
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Switch",
+    "ActionGroupTextmapID": {
+      "hash": -1356187330
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Rotation",
+    "ActionGroupTextmapID": {
+      "hash": 1642388592
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeLeftStickButton",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ItemDetail",
+    "ActionGroupTextmapID": {
+      "hash": 1324250574
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeLeftStickButton",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_CloseDetail",
+    "ActionGroupTextmapID": {
+      "hash": 857823723
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Cancel",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Cancel",
+    "ActionGroupTextmapID": {
+      "hash": -1140778128
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeLeftBumper",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_AchievementRow",
+    "ActionGroupTextmapID": {
+      "hash": 1015989189
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeOption",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_ShowReward",
+    "ActionGroupTextmapID": {
+      "hash": -803387964
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Recover",
+    "ActionGroupTextmapID": {
+      "hash": -1249555546
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeBack",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Handbook",
+    "ActionGroupTextmapID": {
+      "hash": 187489470
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_BuffDetail",
+    "ActionGroupTextmapID": {
+      "hash": -361853406
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeRightTrigger",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_BuffDetail_RT",
+    "ActionGroupTextmapID": {
+      "hash": 1119573399
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "",
+    "ActionListForAnd": [
+      "Menu_UnchangeLeftTrigger",
+      "Menu_UnchangeRightTrigger"
+    ],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_BuffDetail_LTRT",
+    "ActionGroupTextmapID": {
+      "hash": -1540770057
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeRightBumper",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_BuffDetail_RB",
+    "ActionGroupTextmapID": {
+      "hash": -399456375
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeLeftTrigger",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_BuffDetail_LT",
+    "ActionGroupTextmapID": {
+      "hash": 1119573399
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_PropertyCheck",
+    "ActionGroupTextmapID": {
+      "hash": -70804231
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeLeftTrigger",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_RogueScoreDetail",
+    "ActionGroupTextmapID": {
+      "hash": -1753666397
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeRightTrigger",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_RogueRelicDetail",
+    "ActionGroupTextmapID": {
+      "hash": 1169397110
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "KeyMouseImagePath": "SpriteOutput/KeyMapIcons/PC/IconMouseAll.png",
+    "ActionGroupName": "ActionGroup_MapSelect",
+    "ActionGroupTextmapID": {
+      "hash": 1166158968
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeLeftStickButton",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_RewardDetail",
+    "ActionGroupTextmapID": {
+      "hash": -76579376
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Friend_Control",
+    "ActionGroupTextmapID": {
+      "hash": 881498916
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeRightTrigger",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Friend_Assist",
+    "ActionGroupTextmapID": {
+      "hash": 1720506644
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeLeftStickButton",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "Activity_Record",
+    "ActionGroupTextmapID": {
+      "hash": -379190847
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_lr.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_lr.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_EquipmentRotation",
+    "ActionGroupTextmapID": {
+      "hash": -1146680792
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Maze_Map",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionRogue_Menu",
+    "ActionGroupTextmapID": {
+      "hash": -1204620622
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "Action_Continue",
+    "ActionGroupTextmapID": {
+      "hash": 834323602
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_all.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_all.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_EquipmentMove",
+    "ActionGroupTextmapID": {
+      "hash": -1348141105
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_ud.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_ud.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionChat_ScrollChat",
+    "ActionGroupTextmapID": {
+      "hash": -911406466
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionChat_SelectChat",
+    "ActionGroupTextmapID": {
+      "hash": -604119725
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeX",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_SelectComposeMaterial",
+    "ActionGroupTextmapID": {
+      "hash": -1364091788
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeOption",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_BoxingClub_TeamDetail",
+    "ActionGroupTextmapID": {
+      "hash": 1839482202
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeLeftStickButton",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_BoxingClub_StageDetail",
+    "ActionGroupTextmapID": {
+      "hash": 490451819
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Confirm",
+    "ActionGroupTextmapID": {
+      "hash": 1629150174
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_RogueChangeWorld",
+    "ActionGroupTextmapID": {
+      "hash": 788366824
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_RogueDLCChangeWorld",
+    "ActionGroupTextmapID": {
+      "hash": 2034457421
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_RogueTournUpgradeBtn",
+    "ActionListForAnd": [
+      "Menu_UnchangeLeftBumper",
+      "Menu_UnchangeRightBumper"
+    ],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_RogueTournUpgradeBtn",
+    "ActionGroupTextmapID": {
+      "hash": 1309563736
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_WorldMapMove",
+    "ActionGroupTextmapID": {
+      "hash": 1113026665
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_dir_ud.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_dir_ud.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_MapAreaSwitch",
+    "ActionGroupTextmapID": {
+      "hash": -1287464428
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Cancel",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Return_Login",
+    "ActionGroupTextmapID": {
+      "hash": 951352232
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_ud.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_ud.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Roll_Login",
+    "ActionGroupTextmapID": {
+      "hash": -2027882201
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_CancelComfirm",
+    "ActionGroupTextmapID": {
+      "hash": -1763155545
+    }
+  },
+  {
+    "ActionListForOr": [
+      "Menu_UnchangeLeftTrigger",
+      "Menu_UnchangeRightTrigger"
+    ],
+    "XboxImagePath": "",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_AlleyMapScale",
+    "ActionGroupTextmapID": {
+      "hash": -902760347
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_AlleyMapMove",
+    "ActionGroupTextmapID": {
+      "hash": -1803626050
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_AlleyMapDraw",
+    "ActionGroupTextmapID": {
+      "hash": -156987663
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_AlleyMapDraw2",
+    "ActionGroupTextmapID": {
+      "hash": 544811339
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeBack",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_AlleyMapInfo",
+    "ActionGroupTextmapID": {
+      "hash": -170284737
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeBack",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_AlleyPackSelect",
+    "ActionGroupTextmapID": {
+      "hash": -1549106014
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeBack",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_AlleyPackSelectBack",
+    "ActionGroupTextmapID": {
+      "hash": 352903087
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeLeftStickButton",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_AlleyPackRotate",
+    "ActionGroupTextmapID": {
+      "hash": -1773657079
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_AlleyPackSelectItem",
+    "ActionGroupTextmapID": {
+      "hash": -319410303
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_AlleyPackSettle",
+    "ActionGroupTextmapID": {
+      "hash": -2967501
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeOption",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_PhoneTheme01",
+    "ActionGroupTextmapID": {
+      "hash": -1713576748
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeOption",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_PhoneTheme02",
+    "ActionGroupTextmapID": {
+      "hash": -1713576749
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Emoji_Collect",
+    "ActionGroupTextmapID": {
+      "hash": 239259777
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Emoji_Uncollect",
+    "ActionGroupTextmapID": {
+      "hash": -498405816
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Emoji_Collect_WithLongPress",
+    "ActionGroupTextmapID": {
+      "hash": 867643561
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Emoji_Uncollect_WithLongPress",
+    "ActionGroupTextmapID": {
+      "hash": -1857195150
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_BacklogPlay",
+    "ActionGroupTextmapID": {
+      "hash": -1547420433
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_BacklogStop",
+    "ActionGroupTextmapID": {
+      "hash": 2115639871
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_BacklogRead",
+    "ActionGroupTextmapID": {
+      "hash": 126326797
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeBack",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_ShowVideo",
+    "ActionGroupTextmapID": {
+      "hash": -1637321634
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeBack",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_ShowImgOrVideo",
+    "ActionGroupTextmapID": {
+      "hash": -200838354
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_lr.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_lr.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_SwitchTarget",
+    "ActionGroupTextmapID": {
+      "hash": -1356187330
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_DebateNext",
+    "ActionGroupTextmapID": {
+      "hash": 778906309
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeX",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_DebatePrevious",
+    "ActionGroupTextmapID": {
+      "hash": 2141325447
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeX",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_OpenPhotoByX",
+    "ActionGroupTextmapID": {
+      "hash": 807739166
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_lr.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_lr.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_SkinChange",
+    "ActionGroupTextmapID": {
+      "hash": 1918996961
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Cancel",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_JigsawReturn",
+    "ActionGroupTextmapID": {
+      "hash": 60984091
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_JigsawSettle",
+    "ActionGroupTextmapID": {
+      "hash": 592393234
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeBack",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_ViewMode",
+    "ActionGroupTextmapID": {
+      "hash": -722712064
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeX",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_ReturnLastStep",
+    "ActionGroupTextmapID": {
+      "hash": -1394624238
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_PlayerDetail",
+    "ActionGroupTextmapID": {
+      "hash": 897488414
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_ClockBoxLeftStick",
+    "ActionGroupTextmapID": {
+      "hash": 13439843
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Cancel",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_ClockBoxCancel",
+    "ActionGroupTextmapID": {
+      "hash": -233102702
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_ClockBoxRotate",
+    "ActionGroupTextmapID": {
+      "hash": 345442199
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_ClockBoxMirror",
+    "ActionGroupTextmapID": {
+      "hash": -504930390
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_ClockBoxSelect",
+    "ActionGroupTextmapID": {
+      "hash": -2099526636
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr.png",
+    "KeyMouseImagePath": "SpriteOutput/KeyMapIcons/PC/IconMouseAll.png",
+    "ActionGroupName": "ActionGroup_TravelBrochure_Rotate",
+    "ActionGroupTextmapID": {
+      "hash": 1470308784
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeX",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_TravelBrochure_Delete",
+    "ActionGroupTextmapID": {
+      "hash": -676221404
+    }
+  },
+  {
+    "ActionListForOr": [
+      "Menu_UnchangeLeftTrigger",
+      "Menu_UnchangeRightTrigger"
+    ],
+    "XboxImagePath": "",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_TravelBrochure_Scale",
+    "ActionGroupTextmapID": {
+      "hash": 1854671393
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_TravelBrochure_Place",
+    "ActionGroupTextmapID": {
+      "hash": 1834471678
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeX",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_TravelBrochure_Cancel",
+    "ActionGroupTextmapID": {
+      "hash": 2044206527
+    }
+  },
+  {
+    "ActionListForOr": [
+      "Menu_UnchangeLeftBumper",
+      "Menu_UnchangeRightBumper"
+    ],
+    "XboxImagePath": "",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_TravelBrochure_PageTurning",
+    "ActionGroupTextmapID": {
+      "hash": -1588572861
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_TravelBrochure_Confirm",
+    "ActionGroupTextmapID": {
+      "hash": 334073751
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Cancel",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_TravelBrochure_Return",
+    "ActionGroupTextmapID": {
+      "hash": -1953088909
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_TravelBrochure_Choose",
+    "ActionGroupTextmapID": {
+      "hash": 628964898
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "SpriteOutput/KeyMapIcons/PC/IconMouseZQSD.png",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "KeyMouseImagePath": "SpriteOutput/KeyMapIcons/PC/IconMouseWASD.png",
+    "ActionGroupName": "ActionGroup_MoveCursor",
+    "ActionGroupTextmapID": {
+      "hash": 1924203815
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "KeyMouseImagePath": "SpriteOutput/KeyMapIcons/PC/IconMouseLeftAll.png",
+    "ActionGroupName": "ActionGroup_IsometricViewMove",
+    "ActionGroupTextmapID": {
+      "hash": -1899827031
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_lr.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_lr.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_SelectRaid",
+    "ActionGroupTextmapID": {
+      "hash": 1786254278
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Monopoly_MapSelect",
+    "ActionGroupTextmapID": {
+      "hash": -127180034
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_ls.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_l3.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Monopoly_MapSelectItem",
+    "ActionGroupTextmapID": {
+      "hash": -308268389
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_rs.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_r3.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Monopoly_MapSelectBack",
+    "ActionGroupTextmapID": {
+      "hash": 1486437481
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Monopoly_MapMove",
+    "ActionGroupTextmapID": {
+      "hash": -1889734573
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_rs.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_r3.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Monopoly_MapMoveBack",
+    "ActionGroupTextmapID": {
+      "hash": -1217239896
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_lr.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_lr.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Monopoly_ShopSelect",
+    "ActionGroupTextmapID": {
+      "hash": 1334446780
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Monopoly_FriendSelect",
+    "ActionGroupTextmapID": {
+      "hash": 14857252
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Monopoly_EventSelect",
+    "ActionGroupTextmapID": {
+      "hash": -525356844
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Monopoly_ReportSelect",
+    "ActionGroupTextmapID": {
+      "hash": -2123652306
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/XBox/UI_xbox_ls.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/PS4/UI_ps4_l3.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Monopoly_MapCellDisplay",
+    "ActionGroupTextmapID": {
+      "hash": -1787862536
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_ud.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Monopoly_RewardSelect",
+    "ActionGroupTextmapID": {
+      "hash": 298805753
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeRightStickButton",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_RelicEnhance_Lock",
+    "ActionGroupTextmapID": {
+      "hash": -588311553
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeRightStickButton",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_RelicEnhance_Unlock",
+    "ActionGroupTextmapID": {
+      "hash": -1818113962
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeX",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_RelicEnhance_Obsolete",
+    "ActionGroupTextmapID": {
+      "hash": 632466445
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeX",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_RelicEnhance_Unobsolete",
+    "ActionGroupTextmapID": {
+      "hash": -1879473806
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_lr.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_lr.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_SwitchSelect",
+    "ActionGroupTextmapID": {
+      "hash": 911898918
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_FriendTeamList",
+    "ActionListForAnd": [
+      "Menu_UnchangeLeftTrigger",
+      "Menu_UnchangeRightTrigger"
+    ],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_FriendTeamList",
+    "ActionGroupTextmapID": {
+      "hash": -299613507
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeY",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Avatar_Information",
+    "ActionGroupTextmapID": {
+      "hash": 1850940046
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_lr.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_lr_lr.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_EvolveBuildDetail",
+    "ActionGroupTextmapID": {
+      "hash": 361524
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Activity_ClockPark_In",
+    "ActionGroupTextmapID": {
+      "hash": 275893628
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Activity_ClockPark_Out",
+    "ActionGroupTextmapID": {
+      "hash": -214717657
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Cancel",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Exit",
+    "ActionGroupTextmapID": {
+      "hash": 2146831397
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "",
+    "ActionListForAnd": [
+      "Menu_UnchangeLeftTrigger",
+      "Menu_UnchangeRightStickDown"
+    ],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Rogue_FormulaDetail",
+    "ActionGroupTextmapID": {
+      "hash": -2003505604
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Confirm",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_PlayerReturn_Reward",
+    "ActionGroupTextmapID": {
+      "hash": 239287001
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "SpriteOutput/KeyMapIcons/PC/IconMouseZQSD.png",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls_all.png",
+    "KeyMouseImagePath": "SpriteOutput/KeyMapIcons/PC/IconMouseWASD.png",
+    "ActionGroupName": "ActionGroup_Move_MatchThree",
+    "ActionGroupTextmapID": {
+      "hash": -398566545
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_Cancel",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Cancel_MatchThree",
+    "ActionGroupTextmapID": {
+      "hash": -333940942
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeRightBumper",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Invite_MatchThree",
+    "ActionGroupTextmapID": {
+      "hash": -1854115657
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls.png",
+    "ActionName": "",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "SpriteOutput/KeyMapIcons/Com/UI_com_ls.png",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_TrackPhoto_Move",
+    "ActionGroupTextmapID": {
+      "hash": -823916667
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeX",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Unfold_X",
+    "ActionGroupTextmapID": {
+      "hash": 1795157470
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeX",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Fold_X",
+    "ActionGroupTextmapID": {
+      "hash": 1946446909
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeLeftTrigger",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Prev_LT",
+    "ActionGroupTextmapID": {
+      "hash": -1175514714
+    }
+  },
+  {
+    "ActionListForOr": [],
+    "XboxImagePath": "",
+    "ActionName": "Menu_UnchangeRightTrigger",
+    "ActionListForAnd": [],
+    "GermanyKeyMouseImagePath": "",
+    "FranceKeyMouseImagePath": "",
+    "PsImagePath": "",
+    "KeyMouseImagePath": "",
+    "ActionGroupName": "ActionGroup_Next_RT",
+    "ActionGroupTextmapID": {
+      "hash": 1818736453
+    }
+  }
+]

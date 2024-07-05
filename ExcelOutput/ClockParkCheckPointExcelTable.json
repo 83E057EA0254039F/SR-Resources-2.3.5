@@ -1,0 +1,840 @@
+[
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": -1599408178
+      },
+      {
+        "hash": -33324237
+      },
+      {
+        "hash": 1532759704
+      },
+      {
+        "hash": 1621199975
+      },
+      {
+        "hash": 1621199971
+      }
+    ],
+    "CheckPoint": {
+      "hash": -1938958403
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 111,
+    "CheckParam3": 0,
+    "CheckParam1": 15,
+    "CheckParam2": 0
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": -1599408178
+      },
+      {
+        "hash": -33324237
+      },
+      {
+        "hash": 1532759704
+      },
+      {
+        "hash": 1621199975
+      },
+      {
+        "hash": 1621199971
+      }
+    ],
+    "CheckPoint": {
+      "hash": -1938958400
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 121,
+    "CheckParam3": 0,
+    "CheckParam1": 35,
+    "CheckParam2": 0
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": -624107093
+      },
+      {
+        "hash": 538692321
+      },
+      {
+        "hash": -1383621980
+      },
+      {
+        "hash": 1345261375
+      },
+      {
+        "hash": -220822566
+      },
+      {
+        "hash": 1621199974
+      }
+    ],
+    "CheckPoint": {
+      "hash": -1797795902
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 211,
+    "CheckParam3": 0,
+    "CheckParam1": 0,
+    "CheckParam2": 30
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": -624107093
+      },
+      {
+        "hash": 538692321
+      },
+      {
+        "hash": -1383621980
+      },
+      {
+        "hash": 1345261375
+      },
+      {
+        "hash": -220822566
+      },
+      {
+        "hash": 1621199974
+      }
+    ],
+    "CheckPoint": {
+      "hash": -1797795899
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 221,
+    "CheckParam3": 0,
+    "CheckParam1": 0,
+    "CheckParam2": 55
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": -624107093
+      },
+      {
+        "hash": 538692321
+      },
+      {
+        "hash": -1383621980
+      },
+      {
+        "hash": 1345261375
+      },
+      {
+        "hash": -220822566
+      },
+      {
+        "hash": 1621199974
+      }
+    ],
+    "CheckPoint": {
+      "hash": -1797795900
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 231,
+    "CheckParam3": 0,
+    "CheckParam1": 0,
+    "CheckParam2": 90
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": -624107093
+      },
+      {
+        "hash": 538692321
+      },
+      {
+        "hash": -1383621980
+      },
+      {
+        "hash": 1345261375
+      },
+      {
+        "hash": -220822566
+      },
+      {
+        "hash": 1621199974
+      }
+    ],
+    "CheckPoint": {
+      "hash": -1797795905
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 241,
+    "CheckParam3": 0,
+    "CheckParam1": 0,
+    "CheckParam2": 95
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": -1599408178
+      },
+      {
+        "hash": -33324237
+      },
+      {
+        "hash": 1532759704
+      },
+      {
+        "hash": 1621199975
+      },
+      {
+        "hash": 1621199971
+      },
+      {
+        "hash": 1936044231
+      },
+      {
+        "hash": 369960290
+      }
+    ],
+    "CheckPoint": {
+      "hash": -1656633401
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 311,
+    "CheckParam3": 0,
+    "CheckParam1": 30,
+    "CheckParam2": 0
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": -1599408178
+      },
+      {
+        "hash": -33324237
+      },
+      {
+        "hash": 1532759704
+      },
+      {
+        "hash": 1621199975
+      },
+      {
+        "hash": 1621199971
+      },
+      {
+        "hash": 1936044231
+      },
+      {
+        "hash": 369960290
+      }
+    ],
+    "CheckPoint": {
+      "hash": -1656633398
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 321,
+    "CheckParam3": 0,
+    "CheckParam1": 55,
+    "CheckParam2": 0
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": -1599408178
+      },
+      {
+        "hash": -33324237
+      },
+      {
+        "hash": 1532759704
+      },
+      {
+        "hash": 1621199975
+      },
+      {
+        "hash": 1621199971
+      },
+      {
+        "hash": 1936044231
+      },
+      {
+        "hash": 369960290
+      }
+    ],
+    "CheckPoint": {
+      "hash": -1656633399
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 331,
+    "CheckParam3": 0,
+    "CheckParam1": 90,
+    "CheckParam2": 0
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": -1599408178
+      },
+      {
+        "hash": -33324237
+      },
+      {
+        "hash": 1532759704
+      },
+      {
+        "hash": 1621199975
+      },
+      {
+        "hash": 1621199971
+      },
+      {
+        "hash": 1936044231
+      },
+      {
+        "hash": 369960290
+      }
+    ],
+    "CheckPoint": {
+      "hash": -1656633404
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 341,
+    "CheckParam3": 0,
+    "CheckParam1": 95,
+    "CheckParam2": 0
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": 947638041
+      },
+      {
+        "hash": 947638038
+      },
+      {
+        "hash": 947638039
+      },
+      {
+        "hash": 947638044
+      },
+      {
+        "hash": 947638045
+      },
+      {
+        "hash": 947638042
+      }
+    ],
+    "CheckPoint": {
+      "hash": 1650196388
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 411,
+    "CheckParam3": 25,
+    "CheckParam1": 25,
+    "CheckParam2": 25
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": 1621199972
+      },
+      {
+        "hash": 1621199977
+      },
+      {
+        "hash": 1621199978
+      },
+      {
+        "hash": 1621199975
+      }
+    ],
+    "CheckPoint": {
+      "hash": 1650196391
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 421,
+    "CheckParam3": 35,
+    "CheckParam1": 35,
+    "CheckParam2": 35
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": 1621199972
+      },
+      {
+        "hash": 1621199977
+      },
+      {
+        "hash": 1621199978
+      },
+      {
+        "hash": 1621199975
+      }
+    ],
+    "CheckPoint": {
+      "hash": 1650196390
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 431,
+    "CheckParam3": 50,
+    "CheckParam1": 50,
+    "CheckParam2": 50
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": 1621199972
+      },
+      {
+        "hash": 1621199977
+      },
+      {
+        "hash": 1621199978
+      },
+      {
+        "hash": 1621199975
+      }
+    ],
+    "CheckPoint": {
+      "hash": 1650196385
+    },
+    "CheckPointType": "AttrGreaterEqual",
+    "CheckPointID": 441,
+    "CheckParam3": 50,
+    "CheckParam1": 50,
+    "CheckParam2": 50
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": -2144123294
+      },
+      {
+        "hash": -2144123295
+      },
+      {
+        "hash": -2144123296
+      },
+      {
+        "hash": -2144123297
+      },
+      {
+        "hash": -2144123298
+      },
+      {
+        "hash": -2144123299
+      }
+    ],
+    "CheckPoint": {
+      "hash": 1791358890
+    },
+    "CheckPointType": "AttrSumGreaterEqual",
+    "CheckPointID": 501,
+    "CheckParam3": 0,
+    "CheckParam1": 95,
+    "CheckParam2": 0
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": -2144123294
+      },
+      {
+        "hash": -2144123295
+      },
+      {
+        "hash": -2144123296
+      },
+      {
+        "hash": -2144123297
+      },
+      {
+        "hash": -2144123298
+      },
+      {
+        "hash": -2144123299
+      }
+    ],
+    "CheckPoint": {
+      "hash": -937524465
+    },
+    "CheckPointType": "AttrSumGreaterEqual",
+    "CheckPointID": 502,
+    "CheckParam3": 0,
+    "CheckParam1": 150,
+    "CheckParam2": 0
+  },
+  {
+    "CheckFailTextList": [
+      {
+        "hash": 1723789485
+      },
+      {
+        "hash": 1320504958
+      },
+      {
+        "hash": -1408378397
+      },
+      {
+        "hash": -1811662924
+      },
+      {
+        "hash": -245578983
+      },
+      {
+        "hash": -648863510
+      }
+    ],
+    "CheckWinTextList": [
+      {
+        "hash": -2144123294
+      },
+      {
+        "hash": -2144123295
+      },
+      {
+        "hash": -2144123296
+      },
+      {
+        "hash": -2144123297
+      },
+      {
+        "hash": -2144123298
+      },
+      {
+        "hash": -2144123299
+      }
+    ],
+    "CheckPoint": {
+      "hash": 628559476
+    },
+    "CheckPointType": "AttrSumGreaterEqual",
+    "CheckPointID": 503,
+    "CheckParam3": 0,
+    "CheckParam1": 250,
+    "CheckParam2": 0
+  }
+]

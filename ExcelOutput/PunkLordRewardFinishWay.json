@@ -1,0 +1,98 @@
+[
+  {
+    "FinishName": {
+      "hash": -833110407
+    },
+    "FinishID": 1,
+    "FinishPoint": 180,
+    "FinishRare": "A"
+  },
+  {
+    "FinishName": {
+      "hash": -429825880
+    },
+    "FinishID": 2,
+    "FinishPoint": 720,
+    "FinishRare": "A"
+  },
+  {
+    "FinishName": {
+      "hash": -1995909821
+    },
+    "FinishID": 3,
+    "FinishPoint": 144,
+    "FinishRare": "A"
+  },
+  {
+    "FinishName": {
+      "hash": 1492488421
+    },
+    "FinishID": 5,
+    "FinishPoint": 120,
+    "FinishRare": "A"
+  },
+  {
+    "FinishName": {
+      "hash": -1156602584
+    },
+    "FinishID": 11,
+    "FinishPoint": 90,
+    "FinishRare": "A"
+  },
+  {
+    "FinishName": {
+      "hash": -1156602581
+    },
+    "FinishID": 12,
+    "FinishPoint": 360,
+    "FinishRare": "A"
+  },
+  {
+    "FinishName": {
+      "hash": -1156602582
+    },
+    "FinishID": 13,
+    "FinishPoint": 72,
+    "FinishRare": "A"
+  },
+  {
+    "FinishName": {
+      "hash": -1156602588
+    },
+    "FinishID": 15,
+    "FinishPoint": 60,
+    "FinishRare": "A"
+  },
+  {
+    "FinishName": {
+      "hash": -753318057
+    },
+    "FinishID": 21,
+    "FinishPoint": 60,
+    "FinishRare": "A"
+  },
+  {
+    "FinishName": {
+      "hash": -753318054
+    },
+    "FinishID": 22,
+    "FinishPoint": 240,
+    "FinishRare": "A"
+  },
+  {
+    "FinishName": {
+      "hash": -753318055
+    },
+    "FinishID": 23,
+    "FinishPoint": 48,
+    "FinishRare": "A"
+  },
+  {
+    "FinishName": {
+      "hash": -753318061
+    },
+    "FinishID": 25,
+    "FinishPoint": 40,
+    "FinishRare": "A"
+  }
+]

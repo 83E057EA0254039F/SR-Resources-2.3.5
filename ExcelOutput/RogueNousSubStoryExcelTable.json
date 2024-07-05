@@ -1,0 +1,380 @@
+[
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403056920.json",
+    "DisplayID": [
+      101
+    ],
+    "NextIDList": [
+      2011,
+      2012,
+      2013,
+      2014
+    ],
+    "TriggerCondition": {
+      "hash": -27061931
+    },
+    "Layer": 1,
+    "RequireArea": 401,
+    "QuestID": 6014101,
+    "StoryID": 1001,
+    "MinNousValue": 0,
+    "TalkNameID": 139,
+    "MaxNousValue": 40
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057140.json",
+    "DisplayID": [
+      101
+    ],
+    "NextIDList": [
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "TriggerCondition": {
+      "hash": -27061934
+    },
+    "Layer": 1,
+    "RequireArea": 401,
+    "QuestID": 6014102,
+    "StoryID": 1002,
+    "MinNousValue": -40,
+    "TalkNameID": 149,
+    "MaxNousValue": -1
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403056980.json",
+    "DisplayID": [
+      201,
+      502
+    ],
+    "NextIDList": [
+      3111,
+      3112
+    ],
+    "TriggerCondition": {
+      "hash": 1115534507
+    },
+    "Layer": 2,
+    "RequireArea": 403,
+    "QuestID": 6014103,
+    "StoryID": 2011,
+    "MinNousValue": 21,
+    "TalkNameID": 142,
+    "MaxNousValue": 40
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403056940.json",
+    "DisplayID": [
+      201
+    ],
+    "NextIDList": [
+      3121
+    ],
+    "TriggerCondition": {
+      "hash": 1115534504
+    },
+    "Layer": 2,
+    "RequireArea": 401,
+    "QuestID": 6014104,
+    "StoryID": 2012,
+    "MinNousValue": 0,
+    "TalkNameID": 140,
+    "MaxNousValue": 20
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057040.json",
+    "DisplayID": [
+      201
+    ],
+    "NextIDList": [
+      3131
+    ],
+    "TriggerCondition": {
+      "hash": 1115534505
+    },
+    "Layer": 2,
+    "RequireArea": 401,
+    "QuestID": 6014105,
+    "StoryID": 2013,
+    "MinNousValue": -30,
+    "TalkNameID": 144,
+    "MaxNousValue": -1
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057080.json",
+    "DisplayID": [
+      201,
+      503
+    ],
+    "NextIDList": [
+      3141
+    ],
+    "TriggerCondition": {
+      "hash": 1115534502
+    },
+    "Layer": 2,
+    "RequireArea": 404,
+    "QuestID": 6014106,
+    "StoryID": 2014,
+    "MinNousValue": -40,
+    "TalkNameID": 146,
+    "MaxNousValue": -31
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057160.json",
+    "DisplayID": [
+      201,
+      503
+    ],
+    "NextIDList": [
+      3211
+    ],
+    "TriggerCondition": {
+      "hash": 1518819034
+    },
+    "Layer": 2,
+    "RequireArea": 404,
+    "QuestID": 6014107,
+    "StoryID": 2021,
+    "MinNousValue": 31,
+    "TalkNameID": 150,
+    "MaxNousValue": 40
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057200.json",
+    "DisplayID": [
+      201
+    ],
+    "NextIDList": [
+      3221
+    ],
+    "TriggerCondition": {
+      "hash": 1518819031
+    },
+    "Layer": 2,
+    "RequireArea": 401,
+    "QuestID": 6014108,
+    "StoryID": 2022,
+    "MinNousValue": 0,
+    "TalkNameID": 152,
+    "MaxNousValue": 30
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057240.json",
+    "DisplayID": [
+      201
+    ],
+    "NextIDList": [
+      3231
+    ],
+    "TriggerCondition": {
+      "hash": 1518819032
+    },
+    "Layer": 2,
+    "RequireArea": 401,
+    "QuestID": 6014109,
+    "StoryID": 2023,
+    "MinNousValue": -20,
+    "TalkNameID": 154,
+    "MaxNousValue": -1
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057280.json",
+    "DisplayID": [
+      201,
+      502
+    ],
+    "NextIDList": [
+      3241,
+      3242
+    ],
+    "TriggerCondition": {
+      "hash": 1518819029
+    },
+    "Layer": 2,
+    "RequireArea": 403,
+    "QuestID": 6014110,
+    "StoryID": 2024,
+    "MinNousValue": -40,
+    "TalkNameID": 156,
+    "MaxNousValue": -21
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057020.json",
+    "DisplayID": [
+      302,
+      502
+    ],
+    "NextIDList": [],
+    "TriggerCondition": {
+      "hash": 1256697103
+    },
+    "Layer": 3,
+    "RequireArea": 403,
+    "QuestID": 6014111,
+    "StoryID": 3111,
+    "MinNousValue": 0,
+    "TalkNameID": 143,
+    "MaxNousValue": 40
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057120.json",
+    "DisplayID": [
+      302,
+      502
+    ],
+    "NextIDList": [],
+    "TriggerCondition": {
+      "hash": 1256697102
+    },
+    "Layer": 3,
+    "RequireArea": 403,
+    "QuestID": 6014112,
+    "StoryID": 3112,
+    "MinNousValue": -40,
+    "TalkNameID": 148,
+    "MaxNousValue": -1
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403056960.json",
+    "DisplayID": [
+      302
+    ],
+    "NextIDList": [],
+    "TriggerCondition": {
+      "hash": -1472186252
+    },
+    "Layer": 3,
+    "RequireArea": 401,
+    "QuestID": 6014113,
+    "StoryID": 3121,
+    "MinNousValue": -40,
+    "TalkNameID": 141,
+    "MaxNousValue": 40
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057060.json",
+    "DisplayID": [
+      302
+    ],
+    "NextIDList": [],
+    "TriggerCondition": {
+      "hash": 93897689
+    },
+    "Layer": 3,
+    "RequireArea": 401,
+    "QuestID": 6014114,
+    "StoryID": 3131,
+    "MinNousValue": -40,
+    "TalkNameID": 145,
+    "MaxNousValue": 40
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057100.json",
+    "DisplayID": [
+      302,
+      503
+    ],
+    "NextIDList": [],
+    "TriggerCondition": {
+      "hash": 2016211990
+    },
+    "Layer": 3,
+    "RequireArea": 404,
+    "QuestID": 6014115,
+    "StoryID": 3141,
+    "MinNousValue": -40,
+    "TalkNameID": 147,
+    "MaxNousValue": 40
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057180.json",
+    "DisplayID": [
+      302,
+      503
+    ],
+    "NextIDList": [],
+    "TriggerCondition": {
+      "hash": 1256696942
+    },
+    "Layer": 3,
+    "RequireArea": 404,
+    "QuestID": 6014116,
+    "StoryID": 3211,
+    "MinNousValue": -40,
+    "TalkNameID": 151,
+    "MaxNousValue": 40
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057220.json",
+    "DisplayID": [
+      302
+    ],
+    "NextIDList": [],
+    "TriggerCondition": {
+      "hash": -1472186413
+    },
+    "Layer": 3,
+    "RequireArea": 401,
+    "QuestID": 6014117,
+    "StoryID": 3221,
+    "MinNousValue": -40,
+    "TalkNameID": 153,
+    "MaxNousValue": 40
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057260.json",
+    "DisplayID": [
+      302
+    ],
+    "NextIDList": [],
+    "TriggerCondition": {
+      "hash": 93897528
+    },
+    "Layer": 3,
+    "RequireArea": 401,
+    "QuestID": 6014118,
+    "StoryID": 3231,
+    "MinNousValue": -40,
+    "TalkNameID": 155,
+    "MaxNousValue": 40
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057300.json",
+    "DisplayID": [
+      302,
+      502
+    ],
+    "NextIDList": [],
+    "TriggerCondition": {
+      "hash": 2016211829
+    },
+    "Layer": 3,
+    "RequireArea": 403,
+    "QuestID": 6014119,
+    "StoryID": 3241,
+    "MinNousValue": -40,
+    "TalkNameID": 157,
+    "MaxNousValue": -1
+  },
+  {
+    "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057320.json",
+    "DisplayID": [
+      302,
+      502
+    ],
+    "NextIDList": [],
+    "TriggerCondition": {
+      "hash": 2016211830
+    },
+    "Layer": 3,
+    "RequireArea": 403,
+    "QuestID": 6014120,
+    "StoryID": 3242,
+    "MinNousValue": 0,
+    "TalkNameID": 158,
+    "MaxNousValue": 40
+  }
+]

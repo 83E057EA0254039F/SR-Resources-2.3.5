@@ -1,0 +1,171 @@
+[
+  {
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryFosterIcon.png",
+    "ItemSortTypeList": [
+      "Default",
+      "Rarity"
+    ],
+    "DisplayItemSubType": [
+      "Virtual",
+      "Material"
+    ],
+    "NotDisplayPileLimit": false,
+    "ID": 101,
+    "DisplayCapacityLimit": 0,
+    "DisplayInventoryType": "Normal",
+    "InventoryDisplayTag": 1,
+    "TabName": {
+      "hash": -136005327
+    },
+    "SellType": "Destroy",
+    "TabSortWeight": 10
+  },
+  {
+    "IconImagePath": "SpriteOutput/UI/Avatar/IconAvatarLightCone.png",
+    "ItemSortTypeList": [
+      "Rarity",
+      "Level",
+      "Name",
+      "Attack",
+      "Defence",
+      "HP",
+      "ObtainTime"
+    ],
+    "DisplayItemSubType": [
+      "Equipment"
+    ],
+    "NotDisplayPileLimit": false,
+    "ID": 102,
+    "DisplayCapacityLimit": 1500,
+    "DisplayInventoryType": "Normal",
+    "InventoryDisplayTag": 1,
+    "TabName": {
+      "hash": -1702089268
+    },
+    "SellType": "Sell",
+    "TabSortWeight": 9
+  },
+  {
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryQuestIcon.png",
+    "ItemSortTypeList": [
+      "Rarity"
+    ],
+    "DisplayItemSubType": [
+      "Mission"
+    ],
+    "NotDisplayPileLimit": true,
+    "ID": 103,
+    "DisplayCapacityLimit": 0,
+    "DisplayInventoryType": "Normal",
+    "InventoryDisplayTag": 1,
+    "TabName": {
+      "hash": 1026794087
+    },
+    "SellType": "UnSellable",
+    "TabSortWeight": 5
+  },
+  {
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryConsumablesIcon.png",
+    "ItemSortTypeList": [
+      "Default",
+      "Rarity"
+    ],
+    "DisplayItemSubType": [
+      "Food",
+      "Formula"
+    ],
+    "NotDisplayPileLimit": false,
+    "ID": 104,
+    "DisplayCapacityLimit": 0,
+    "DisplayInventoryType": "Normal",
+    "InventoryDisplayTag": 1,
+    "TabName": {
+      "hash": -895520214
+    },
+    "SellType": "UnSellable",
+    "TabSortWeight": 6
+  },
+  {
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryValuablesIcon.png",
+    "ItemSortTypeList": [
+      "Rarity"
+    ],
+    "DisplayItemSubType": [
+      "Material",
+      "Gift",
+      "MusicAlbum"
+    ],
+    "NotDisplayPileLimit": true,
+    "ID": 105,
+    "DisplayCapacityLimit": 0,
+    "DisplayInventoryType": "Normal",
+    "InventoryDisplayTag": 3,
+    "TabName": {
+      "hash": 1833363141
+    },
+    "SellType": "UnSellable",
+    "TabSortWeight": 4
+  },
+  {
+    "IconImagePath": "SpriteOutput/UI/Avatar/IconAvatarRelic.png",
+    "ItemSortTypeList": [
+      "Rarity",
+      "Level",
+      "ObtainTime"
+    ],
+    "DisplayItemSubType": [
+      "Relic"
+    ],
+    "NotDisplayPileLimit": false,
+    "ID": 106,
+    "DisplayCapacityLimit": 2000,
+    "DisplayInventoryType": "Normal",
+    "InventoryDisplayTag": 1,
+    "TabName": {
+      "hash": 267279200
+    },
+    "SellType": "Sell",
+    "TabSortWeight": 8
+  },
+  {
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryUnfosterIcon.png",
+    "ItemSortTypeList": [
+      "Default",
+      "Rarity"
+    ],
+    "DisplayItemSubType": [
+      "Material"
+    ],
+    "NotDisplayPileLimit": false,
+    "ID": 107,
+    "DisplayCapacityLimit": 0,
+    "DisplayInventoryType": "Normal",
+    "InventoryDisplayTag": 2,
+    "TabName": {
+      "hash": -1298804741
+    },
+    "SellType": "Destroy",
+    "TabSortWeight": 7
+  },
+  {
+    "IconImagePath": "SpriteOutput/TabIcon/Inventory/InventoryConsumablesIcon.png",
+    "ItemSortTypeList": [
+      "Default",
+      "Rarity"
+    ],
+    "DisplayItemSubType": [
+      "Food",
+      "Formula"
+    ],
+    "NotDisplayPileLimit": false,
+    "ID": 201,
+    "DisplayCapacityLimit": 0,
+    "DisplayInventoryType": "Rogue",
+    "InventoryDisplayTag": 1,
+    "TabName": {
+      "hash": -895520214
+    },
+    "SellType": "UnSellable",
+    "TabSortWeight": 11
+  }
+]

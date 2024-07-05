@@ -1,0 +1,5270 @@
+[
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ItemIcon",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "InventoryItem",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "InventoryTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "InventoryItem"
+    ],
+    "RedDot": "Inventory_All",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DailyMission",
+    "Type": 1,
+    "UnlockID": 9901
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DailyQuest",
+    "Type": 3,
+    "UnlockID": 9903
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AdventureBook",
+    "Type": 1,
+    "UnlockID": 9902
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarSideIcon",
+    "Type": 3,
+    "UnlockID": 400
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "NormalNotice",
+      "ImportantNotice"
+    ],
+    "RedDot": "Notice_All",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "NormalNotice",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ImportantNotice",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MailNew",
+    "Type": 3,
+    "UnlockID": 900
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MailRedDot",
+    "Type": 1,
+    "UnlockID": 900
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "EquipmentTag",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarPromotion",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PrestigeMissionSubTab",
+    "Type": 1,
+    "UnlockID": 2400
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PrestigeMissionSubTabGroup",
+    "Type": 1,
+    "UnlockID": 2400
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PrestigeMissionReward",
+    "Type": 1,
+    "UnlockID": 2400
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PrestigeLevelReward",
+    "Type": 1,
+    "UnlockID": 2400
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "PrestigeMissionReward",
+      "PrestigeLevelReward"
+    ],
+    "RedDot": "Prestige",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PhoneMessageGroup",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PhoneMessageContract",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "PhoneMessageContract",
+      "ChatBubbleNew"
+    ],
+    "RedDot": "PhoneMessageEntrance",
+    "Type": 1,
+    "UnlockID": 2900
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FriendApplyTab",
+    "Type": 1,
+    "UnlockID": 3300
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FriendChatContact",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "FriendChatContact",
+      "ChatBubbleNew"
+    ],
+    "RedDot": "ChatEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PlayerInfoEdit",
+    "Type": 1,
+    "UnlockID": 3400
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "PlayerInfoEdit",
+      "PhoneThemeNew"
+    ],
+    "RedDot": "PhoneMore",
+    "Type": 1,
+    "UnlockID": 3400
+  },
+  {
+    "Weight": [
+      1
+    ],
+    "RedDotChildren": [
+      "FriendApplyTab"
+    ],
+    "RedDot": "Friend",
+    "Type": 1,
+    "UnlockID": 3300
+  },
+  {
+    "Weight": [
+      9,
+      8,
+      7,
+      6,
+      5,
+      4,
+      3,
+      2,
+      1,
+      1,
+      1
+    ],
+    "RedDotChildren": [
+      "MailNew",
+      "MailRedDot",
+      "ImportantNotice",
+      "PrestigeMissionReward",
+      "PrestigeLevelReward",
+      "CustomerIM",
+      "AchievementSeries",
+      "AchievementLevelReward",
+      "ExpeditionGroup_All",
+      "FriendApplyTab",
+      "PlayerInfoEdit",
+      "AssistReward",
+      "AssistEdit",
+      "OfficialCommunity",
+      "CommunityActivity",
+      "HotPoint",
+      "PhoneThemeNew",
+      "TravelBrochureDiaryNew",
+      "TravelBrochureDiaryFinishReward",
+      "TravelBrochurePasterCollectReward",
+      "CloudGame",
+      "WebTool"
+    ],
+    "RedDot": "Phone",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HandbookGuideSubTab",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HandbookGuideMainTab",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HandbookGuideWorldNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HandbookGuideChallengeLatestUpdateTabNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HandbookGuideChallengeLatestUpdateTabShop",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      3,
+      1
+    ],
+    "RedDotChildren": [
+      "HandbookGuideChallengeLatestUpdateTabNew",
+      "HandbookGuideChallengeLatestUpdateTabShop"
+    ],
+    "RedDot": "HandbookGuideChallengeLatestUpdate",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HandbookGuideChallengeSubTab",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      3,
+      1
+    ],
+    "RedDotChildren": [
+      "HandbookGuideChallengeLatestUpdateTabNew",
+      "HandbookGuideChallengeLatestUpdateTabShop",
+      "HandbookGuideChallengeSubTab"
+    ],
+    "RedDot": "HandbookGuideChallenge",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HandbookGuideRogueNew",
+    "Type": 3,
+    "UnlockID": 9903
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HandbookGuideRogueReward",
+    "Type": 1,
+    "UnlockID": 9903
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "HandbookGuideRogueReward",
+      "HandbookGuideRogueNew"
+    ],
+    "RedDot": "HandbookGuideRogueTab",
+    "Type": 0,
+    "UnlockID": 9903
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "HandbookGuideRogueReward",
+      "HandbookGuideMainTab"
+    ],
+    "RedDot": "HandbookGuide",
+    "Type": 0,
+    "UnlockID": 9903
+  },
+  {
+    "Weight": [
+      6,
+      5,
+      4,
+      3,
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "DailyMission",
+      "AdventureBook",
+      "HandbookGuideRogueReward",
+      "HandBookBattleCollegeReward",
+      "HandbookGuideChallengeLatestUpdateTabShop"
+    ],
+    "RedDot": "Activity",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "MailNew",
+      "MailRedDot"
+    ],
+    "RedDot": "Mail",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "MailNew",
+      "MailRedDot"
+    ],
+    "RedDot": "MailSingle",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MissionOne",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MissionTab_1",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MissionTab_2",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MissionTab_3",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MissionTab_4",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MissionTab_6",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "RedDotChildren": [
+      "MissionTab_1",
+      "MissionTab_2",
+      "MissionTab_3",
+      "MissionTab_6",
+      "MissionChronicleIsEntryNew"
+    ],
+    "RedDot": "MissionTab_All",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarRelic_QuickDress",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AvatarRelic_QuickDress"
+    ],
+    "RedDot": "AvatarRelic",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarRank",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      4,
+      3,
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "AvatarSideIcon",
+      "AvatarRank",
+      "AvatarPromotionTakeReward",
+      "AvatarTrialTakeReward"
+    ],
+    "RedDot": "Avatar",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      4,
+      3,
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "AvatarSideIcon",
+      "AvatarRank",
+      "AvatarPromotionTakeReward",
+      "AvatarTrialTakeReward"
+    ],
+    "RedDot": "AvatarHeadIcon",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      3,
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ActivityQuestNew",
+      "ActivityQuestReward",
+      "ActivityQuestNoPass"
+    ],
+    "RedDot": "ActivityQuest",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityQuestNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityQuestReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityQuestNoPass",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      2
+    ],
+    "RedDotChildren": [
+      "ActivityPanelBtnSwitchNormal",
+      "ActivityPanelBtnSwitchNew"
+    ],
+    "RedDot": "ActivityPanelBtnSwitch",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityPanelBtnSwitchNormal",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityPanelBtnSwitchNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChallengeActivityRaid",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChallengeActivityReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ChallengeActivityReward",
+      "ChallengeActivityRaid"
+    ],
+    "RedDot": "ChallengeActivity",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ActivityQuestNew",
+      "ActivityQuestReward",
+      "ChallengeActivityReward",
+      "ChallengeActivityRaid",
+      "ChallengeCollectionNew",
+      "ChallengeCollectionReward"
+    ],
+    "RedDot": "ActivityQuest_All",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChallengeGroup_100",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChallengeGroup_101",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChallengeGroup_102",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChallengeGroup_103",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ChallengeGroup_100",
+      "ChallengeGroup_101",
+      "ChallengeGroup_102",
+      "ChallengeGroup_103"
+    ],
+    "RedDot": "ChallengeGroup_All",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "CustomerIM",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TutorialGuide_1",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TutorialGuide_2",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TutorialGuide_3",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TutorialGuide_4",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "TutorialGuide_1"
+    ],
+    "RedDot": "TutorialType_1",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "TutorialGuide_2"
+    ],
+    "RedDot": "TutorialType_2",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "TutorialGuide_3"
+    ],
+    "RedDot": "TutorialType_3",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "TutorialGuide_4"
+    ],
+    "RedDot": "TutorialType_4",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "TutorialGuide_1",
+      "TutorialGuide_2",
+      "TutorialGuide_3",
+      "TutorialGuide_4"
+    ],
+    "RedDot": "TutorialOverview",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AchievementSeries",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AchievementLevelReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AchievementSeries",
+      "AchievementLevelReward"
+    ],
+    "RedDot": "AchievementEnter",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PhoneNotificationsGroup",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "PhoneNotificationsGroup"
+    ],
+    "RedDot": "PhoneNotificationsEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ExpeditionGroup_All",
+    "Type": 1,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ExpeditionGroup_1",
+    "Type": 1,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ExpeditionGroup_2",
+    "Type": 1,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ExpeditionGroup_3",
+    "Type": 1,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ExpeditionGroup_4",
+    "Type": 1,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ExpeditionGroup_5",
+    "Type": 1,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ExpeditionIsNew",
+    "Type": 3,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ExpeditionCompleted",
+    "Type": 1,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ExpeditionCompleted",
+      "ExpeditionIsNew"
+    ],
+    "RedDot": "ExpeditionItem",
+    "Type": 0,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ExpeditionGroupIsNew",
+    "Type": 3,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ExpeditionGroupCompleted",
+    "Type": 1,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ExpeditionGroupCompleted",
+      "ExpeditionGroupIsNew"
+    ],
+    "RedDot": "ExpeditionGroup",
+    "Type": 0,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ExpeditionActivityGroupNew",
+    "Type": 3,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ExpeditionActivityGroupCompleted",
+    "Type": 1,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ExpeditionActivityGroupCompleted",
+      "ExpeditionActivityGroupNew"
+    ],
+    "RedDot": "ExpeditionActivityGroup",
+    "Type": 0,
+    "UnlockID": 3100
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BattlePass",
+    "Type": 1,
+    "UnlockID": 10001
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BattlePassRewardPoint",
+    "Type": 1,
+    "UnlockID": 10001
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BattlePassRewardTab",
+    "Type": 1,
+    "UnlockID": 10001
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BattlePassQuestTab",
+    "Type": 1,
+    "UnlockID": 10001
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BattlePassQuestType",
+    "Type": 1,
+    "UnlockID": 10001
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BattlePassQuestAvailable",
+    "Type": 1,
+    "UnlockID": 10001
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BattlePassQuestNew",
+    "Type": 3,
+    "UnlockID": 10001
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AssistReward",
+    "Type": 1,
+    "UnlockID": 3400
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AssistReward",
+      "AssistEdit"
+    ],
+    "RedDot": "Assist",
+    "Type": 1,
+    "UnlockID": 3400
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AssistEdit",
+    "Type": 1,
+    "UnlockID": 3400
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ItemComposeIsNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ItemComposeTypeIsNew",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DailyMissionBoxReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DailyMissionQuest",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueAreaReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityPunkLordReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityPunkLordQuest",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityPunkLordSummon",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityPunkLordSupport",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityPunkLordRecord",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ActivityPunkLordReward",
+      "ActivityPunkLordQuest",
+      "ActivityPunkLordRecord",
+      "ActivityPunkLordSummon",
+      "ActivityPunkLordSupport"
+    ],
+    "RedDot": "ActivityPunkLord",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChallengeMazeReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChallengeMazeNewSchedule",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      3
+    ],
+    "RedDotChildren": [
+      "ChallengeMazeReward",
+      "ChallengeMazeNewSchedule"
+    ],
+    "RedDot": "ChallengeMazeAll",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ChallengeMazeReward"
+    ],
+    "RedDot": "ChallengeMazeRewardMap",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTalentActive",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ItemComposeNewMainTypeUnlock",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ItemComposeNewMainTypeUnlock",
+      "ItemComposeIsNew"
+    ],
+    "RedDot": "ItemComposeRedDot",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "GachaInvitation",
+      "GachaNewPool",
+      "GachaTrialBtnNormal"
+    ],
+    "RedDot": "Gacha",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "RedDotChildren": [
+      "GachaInvitation",
+      "GachaNewPool",
+      "GachaTrialBtnNormal",
+      "GachaTrialBtnNewTabNormal"
+    ],
+    "RedDot": "GachaTab",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "GachaNewPool",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "GachaInvitation",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "GachaTrialBtnNormal",
+      "GachaTrialBtnNew"
+    ],
+    "RedDot": "GachaTrialBtn",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "GachaTrialBtnNormal",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "GachaTrialBtnNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "GachaTrialBtnNewTabNormal",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "GachaNormalTrialTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "FightActivityReward",
+      "FightActivityGetRewardBtn",
+      "FightActivityRewardExtra",
+      "FightActivityMission"
+    ],
+    "RedDot": "FightActivity",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FightActivityReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FightActivityGetRewardBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RoleTrialActivityReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FightActivityGroupNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FightActivityMission",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PerformanceRecallCategory",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PerformanceRecallItem",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "OfficialCommunity",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "CommunityActivity",
+    "Type": 1,
+    "UnlockID": 1202
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HotPoint",
+    "Type": 1,
+    "UnlockID": 1202
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueScoreReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNewUnlockAeon",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarArchive",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarStoryTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarStoryArchive",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarVoiceTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarVoiceArchive",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarInfoTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarCampNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MonsterArchive",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "LightConeArchive",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ArchiveEntry",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "NounArchive",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RelicArchive",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FightActivityRewardExtra",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueHandbookAeonDoc",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueHandbookAeon",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueHandbookAeonEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueHandbookMiracleRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueHandbookMiracleReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueHandbookBuffReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "RogueHandbookBuffReward",
+      "RogueHandbookMiracleReward",
+      "RogueHandbookAeonEntrance",
+      "RogueHandbookEvent"
+    ],
+    "RedDot": "RogueHandbookEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AvatarPromotionTakeReward",
+      "AvatarTrialTakeReward"
+    ],
+    "RedDot": "AvatarDetailTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarTrialTakeReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarPromotionTakeReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarPromotionTakeReward_1",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarPromotionTakeReward_2",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarPromotionTakeReward_3",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarPromotionTakeReward_4",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarPromotionTakeReward_5",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarPromotionTakeReward_6",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BookSeriesNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BookNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ActivityBoxingClubQuestEntrance",
+      "ActivityBoxingClubChallenge"
+    ],
+    "RedDot": "ActivityBoxingClub",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityBoxingClubReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityBoxingClubQuestTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ActivityBoxingClubQuestTab"
+    ],
+    "RedDot": "ActivityBoxingClubQuestEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityBoxingClubChallenge",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ActivityBoxingClubChallenge"
+    ],
+    "RedDot": "ActivityBoxingClubAllChallenge",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SilverWolfGroupTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SilverWolfExploreTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SilverWolfShootTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SilverWolfRaidTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SilverWolfCollectionBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "SilverWolfGroupTab"
+    ],
+    "RedDot": "SilverWolfMissionBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SilverWolfRewardBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SilverWolfShopBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityMonsterResearchNew",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityMonsterResearchTakeReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ActivityMonsterResearchNew",
+      "ActivityMonsterResearchTakeReward"
+    ],
+    "RedDot": "ActivityMonsterResearchSingleItem",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityMonsterResearchActivityNew",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      3,
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ActivityMonsterResearchActivityNew",
+      "ActivityMonsterResearchNew",
+      "ActivityMonsterResearchTakeReward"
+    ],
+    "RedDot": "ActivityMonsterResearchTab",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityFindTrotterReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityFindTrotterMission",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityFindTrotterNewRecord",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ActivityFindTrotterReward",
+      "ActivityFindTrotterMission"
+    ],
+    "RedDot": "ActivityFindTrotterRecord",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RegionalMapBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityGuessTheSilhouetteNew",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityGuessTheSilhouetteDay",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PlayerReturnOnceOnlyReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PlayerReturnSignReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "PlayerReturnMissionTabReward",
+      "PlayerReturnMissionPointReward"
+    ],
+    "RedDot": "PlayerReturnMissionReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "PlayerReturnMissionTabNew",
+      "PlayerReturnMissionTabReward"
+    ],
+    "RedDot": "PlayerReturnMissionTab",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PlayerReturnMissionTabNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PlayerReturnMissionTabReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PlayerReturnMissionPointReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PlayerReturnQuestionnaireReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PlayerReturnInviteReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "PlayerReturnInviteReward",
+      "PlayerReturnQuestionnaireReward"
+    ],
+    "RedDot": "PlayerReturnH5Tab",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "PlayerReturnOnceOnlyReward",
+      "PlayerReturnSignReward",
+      "PlayerReturnMissionTabReward",
+      "PlayerReturnMissionPointReward",
+      "PlayerReturnQuestionnaireReward",
+      "PlayerReturnInviteReward"
+    ],
+    "RedDot": "PlayerReturnEntranceAll",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PlayerReturnReserveStaminaBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "TreasureDungeonRewardTab",
+      "TreasureDungeonFinalReward"
+    ],
+    "RedDot": "TreasureDungeonReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TreasureDungeonRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TreasureDungeonFinalReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "TreasureDungeonNewDungeon"
+    ],
+    "RedDot": "TreasureDungeonAnyDungeon",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TreasureDungeonNewDungeon",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueChallengeLevelHasReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueChallengeNewLevel",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "RogueChallengeLevelHasReward"
+    ],
+    "RedDot": "RogueChallengeHasReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "RogueChallengeHasReward",
+      "RogueChallengeNewLevel"
+    ],
+    "RedDot": "RogueCahllengeMainRedDot",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AlleyAvatarNew",
+      "AlleyAvatarReward",
+      "AlleyTransportQuestNew",
+      "AlleyTransportQuestReward",
+      "AlleyGoodsQuestNew",
+      "AlleyGoodsQuestReward",
+      "AlleyEventNew",
+      "AlleyEventReward",
+      "AlleyRenownReward",
+      "AlleyPack"
+    ],
+    "RedDot": "AlleyEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "AlleyAvatarNew",
+      "AlleyAvatarReward"
+    ],
+    "RedDot": "AlleyAvatar",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyAvatarNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyAvatarReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      3,
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "AlleyQuestNew",
+      "AlleyTransportQuestReward",
+      "AlleyGoodsQuestReward"
+    ],
+    "RedDot": "AlleyQuest",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyQuestNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyTransportQuestReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyGoodsQuestReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AlleyTransportMapLayer_1",
+      "AlleyTransportMapLayer_2",
+      "AlleyTransportMapLayer_3"
+    ],
+    "RedDot": "AlleyTransport",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyTransportMapLayer_1",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyTransportMapLayer_2",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyTransportMapLayer_3",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyMapQuestReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AlleyActivityNewContent",
+      "AlleyActivityNewMission",
+      "AlleyActivityNewDay"
+    ],
+    "RedDot": "AlleyActivity",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyActivityNewContent",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyActivityNewMission",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyActivityNewDay",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyEventNew",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyEventReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyRenownReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AlleyPackOrderEvent",
+      "AlleyPackGoodNew",
+      "AlleyPackNewStage"
+    ],
+    "RedDot": "AlleyPack",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleySpecialOrderTabNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleySpecialOrderNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyPackOrderEvent",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyPackGoodNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AlleyPackNewStage",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "MuseumNewMarketStaff"
+    ],
+    "RedDot": "MuseumMarket",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MuseumNewMarketStaff",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MuseumMainPageEntrance",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "MuseumMainPageEntrance"
+    ],
+    "RedDot": "MuseumActivityPanelEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MuseumAreaUpgrade",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MuseumNewStaff",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "MuseumLimitedRewardTab"
+    ],
+    "RedDot": "MuseumLimitedReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MuseumPhaseReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MuseumLimitedRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "MuseumMainPageEntrance",
+      "MuseumLimitedRewardTab"
+    ],
+    "RedDot": "ActivityMuseum",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MuseumAtlasCollectReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MuseumAtlasArea",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MuseumAtlasType",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MuseumNewTargetHint",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MuseumStaffSettle",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MuseumHaveNewStaff",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "MuseumStaffSettle",
+      "MuseumNewStaff"
+    ],
+    "RedDot": "MuseumStaffChooseEntrance",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueHandbookEventTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueHandbookEvent",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "RogueHandbookEvent"
+    ],
+    "RedDot": "RogueHandbookEventMain",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "CompanionMissionActivityNewBanner",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AetherDivideQuestReward"
+    ],
+    "RedDot": "AetherDivideReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherDivideQuestReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FantasticStoryGoAttendBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "FantasticChapterNew"
+    ],
+    "RedDot": "FantasticStoryChapterTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "FantasticStoryParagraphNew"
+    ],
+    "RedDot": "FantasticStoryParagraphTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      2
+    ],
+    "RedDotChildren": [
+      "FantasticStoryMyStoryNew",
+      "FantasticStoryMyStoryReward"
+    ],
+    "RedDot": "FantasticStoryMyStoryBtn",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FantasticStoryMyStoryNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FantasticStoryMyStoryReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FantasticChapterNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FantasticStoryParagraphNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FantasticStoryBuffNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FantasticStorySlot",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "FantasticStorySlot"
+    ],
+    "RedDot": "FantasticStoryBuffBookBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FantasticStoryRewardBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FantasticStoryParagraphRewardNormal",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FantasticStoryParagraphRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      2
+    ],
+    "RedDotChildren": [
+      "FantasticStoryParagraphRewardNew",
+      "FantasticStoryParagraphRewardNormal"
+    ],
+    "RedDot": "FantasticStoryParagraphReward",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "FantasticStoryFinalReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "FantasticStoryBuffBookBtn",
+      "FantasticStoryRewardBtn",
+      "FantasticStoryMyStoryBtn"
+    ],
+    "RedDot": "FantasticStoryActivity",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherSpiritNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherSpiritCanPromote",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherSkillCoreItemNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AetherSpiritNew"
+    ],
+    "RedDot": "AetherSpiritAll",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AetherSkillCoreItemNew"
+    ],
+    "RedDot": "AetherSkillCoreItemAll",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherDivideActivityNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherDivideActivityCanTakeReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "AetherDivideActivityNew",
+      "AetherDivideActivityCanTakeReward"
+    ],
+    "RedDot": "AetherDivideActivitySingleData",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherDivideActivityRewardTypeNewGroup",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherDivideActivityRewardTypeCanTakeGroup",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AetherDivideActivityRewardTypeNewGroup",
+      "AetherDivideActivityRewardTypeCanTakeGroup"
+    ],
+    "RedDot": "AetherDivideActivityRewardTypeGroup",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherDivideActivityRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "AetherDivideActivityRewardTypeCanTakeGroup",
+      "AetherDivideActivityRewardNew"
+    ],
+    "RedDot": "AetherDivideActivityRewardAll",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherDivideActivityGetAvatarTypeGroup",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherDivideActivityGetAvatarTypeNewGroup",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "AetherDivideActivityGetAvatarTypeGroup",
+      "AetherDivideActivityGetAvatarTypeNewGroup"
+    ],
+    "RedDot": "AetherDivideActivityGetAvatarTypeAllGroup",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherDivideGymNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherDivideChallengeRankNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherDivideChallengeReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AetherDivideGymNew",
+      "AetherDivideQuestReward",
+      "AetherSpiritNew"
+    ],
+    "RedDot": "AetherDivideGymTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      2
+    ],
+    "RedDotChildren": [
+      "AetherDivideChallengeRankNew",
+      "AetherDivideChallengeReward"
+    ],
+    "RedDot": "AetherDivideChallengeTab",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AetherDivideActivityGoToEveryDay",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AetherDivideQuestReward",
+      "AetherDivideChallengeReward",
+      "AetherDivideGymNew",
+      "AetherDivideChallengeRankNew",
+      "AetherDivideActivityGoToEveryDay"
+    ],
+    "RedDot": "AetherDivideActivityGoTo",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "AetherDivideQuestReward",
+      "AetherDivideChallengeReward",
+      "AetherDivideGymNew",
+      "AetherDivideChallengeRankNew"
+    ],
+    "RedDot": "AetherDivideResidentActivityGoTo",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ChatBubbleNew"
+    ],
+    "RedDot": "ChatBubbleSelect",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChatBubbleNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "PhoneThemeNew"
+    ],
+    "RedDot": "PhoneThemeSelect",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PhoneThemeNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChatEmojiGroupNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarSkin",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "AvatarSkinNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BattleCollegeGroupTabUnlock",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HandBookBattleCollegeReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BattleCollegeLevelTabNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BattleCollegeGroupTabNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      2
+    ],
+    "RedDotChildren": [
+      "BattleCollegeGroupTabUnlock",
+      "HandBookBattleCollegeReward",
+      "BattleCollegeGroupTabNew"
+    ],
+    "RedDot": "HandBookBattleCollegeTab",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ChessRogueLongTermReward",
+      "ChessRogueMainStoryReward",
+      "ChessRogueCabinetReward"
+    ],
+    "RedDot": "ChessRogue",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChessRogueActivityPanelGotoBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ChessRogueDimensionAeon",
+      "ChessRogueCabinetReward"
+    ],
+    "RedDot": "ChessRogueDimensionCabinet",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChessRogueDimensionAeon",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ChessRogueCabinetReward",
+      "ChessRogueCabinetNew"
+    ],
+    "RedDot": "ChessRogueCabinetTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ChessRogueCabinetReward",
+      "ChessRogueCabinetNew"
+    ],
+    "RedDot": "ChessRogueCabinetItem",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChessRogueLongTermReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChessRogueMainStoryReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChessRogueCabinetReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChessRogueDimensionTalentNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChessRogueCabinetNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChessRogueMainStoryNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChessRogueSubStoryNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueEndlessAreaNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueEndlessAreaReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueEndlessScoreReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "RogueEndlessScoreReward",
+      "RogueEndlessAreaReward"
+    ],
+    "RedDot": "RogueEndlessTimeLimitedReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "RogueEndlessAreaNew"
+    ],
+    "RedDot": "RogueEndlessEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "HeliobusQuestNew",
+      "HeliobusQuestReward",
+      "HeliobusChallengeReward",
+      "HeliobusChallengeGroupNew",
+      "HeliobusChallengeRaidNew",
+      "HeliobusSkillNew",
+      "HeliobusCanReplySNSMissionPost",
+      "HeliobusSNSPostTabPostType",
+      "HeliobusSNSNewPost",
+      "HeliobusSNSNewPopulationPhase",
+      "IncomeEntryRedDot"
+    ],
+    "RedDot": "HeliobusActivity",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "HeliobusChallengeReward",
+      "HeliobusChallengeGroupNew",
+      "HeliobusChallengeRaidNew"
+    ],
+    "RedDot": "HeliobusChallenge",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusChallengeReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusChallengeGroupNew",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "HeliobusChallengeRaidNew"
+    ],
+    "RedDot": "HeliobusChallengeRaidNormal",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusChallengeRaidNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusSkillNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusSkillUnselect",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusCanReplySNSMissionPost",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusCanTakeSNSAnchorPost",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusSNSNewPost",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "HeliobusCanReplySNSMissionPost",
+      "HeliobusSNSNewPost"
+    ],
+    "RedDot": "HeliobusSNSPost",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusSNSPostTabPostType",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusSNSCanReplyCommentPost",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusSNSCanReplyCommentPostType",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusSNSNewPopulationPhase",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusIncomeEntryRedDot",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusIncomeUpgradeRedDot",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      2
+    ],
+    "RedDotChildren": [
+      "HeliobusQuestNew",
+      "HeliobusQuestReward"
+    ],
+    "RedDot": "HeliobusQuest",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusQuestNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusQuestReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      2
+    ],
+    "RedDotChildren": [
+      "HeliobusLightConeNew",
+      "HeliobusLightConeReward"
+    ],
+    "RedDot": "HeliobusLightCone",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusLightConeNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusLightConeReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HeliobusActivityGoToEveryDay",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "HeliobusCanReplySNSMissionPost",
+      "HeliobusIncomeEntryRedDot",
+      "HeliobusActivityGoToEveryDay",
+      "HeliobusCanTakeSNSAnchorPost",
+      "HeliobusChallengeReward"
+    ],
+    "RedDot": "HeliobusGoto",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "HeliobusCanReplySNSMissionPost",
+      "HeliobusIncomeEntryRedDot",
+      "HeliobusCanTakeSNSAnchorPost",
+      "HeliobusChallengeReward"
+    ],
+    "RedDot": "HeliobusResidentGoto",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BoxingClubResonanceChallengeNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "BoxingClubResonanceChallengeNew",
+      "BoxingClubResonanceResidentRewardBtnNormal",
+      "BoxingClubResonanceLimitRewardBtnNormal"
+    ],
+    "RedDot": "BoxingClubResonanceTabItem",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BoxingClubResonanceRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "BoxingClubResonanceLimitRewardBtnNormal",
+      "BoxingClubResonanceLimitRewardBtnNew"
+    ],
+    "RedDot": "BoxingClubResonanceLimitRewardBtn",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BoxingClubResonanceLimitRewardBtnNormal",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BoxingClubResonanceLimitRewardBtnNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "BoxingClubResonanceChallengeNew",
+      "BoxingClubResonanceResidentRewardBtnNormal",
+      "BoxingClubResonancePhoneMessage"
+    ],
+    "RedDot": "BoxingClubResonanceBtnGo",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "BoxingClubResonanceResidentRewardBtnNormal",
+      "BoxingClubResonanceResidentRewardBtnNew"
+    ],
+    "RedDot": "BoxingClubResonanceResidentRewardBtn",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BoxingClubResonanceResidentRewardBtnNormal",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BoxingClubResonanceResidentRewardBtnNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "BoxingClubResonancePhoneMessage",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ResidentBoxingClubEnterPanel",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ResidentBoxingClubResonanceEnterPanel",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "VisitorRegisterNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "VisitorRegisterCompensationReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "VisitorRegisterCompensationReward",
+      "VisitorRegisterNew"
+    ],
+    "RedDot": "VisitorRegisterAvatar",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HasNewShopGoodTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "HasNormalShopGoodTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      3
+    ],
+    "RedDotChildren": [
+      "HasNormalShopGoodTab",
+      "HasNewShopGoodTab"
+    ],
+    "RedDot": "ShopTab",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "NewShopGood",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "NormalShopGood",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      3
+    ],
+    "RedDotChildren": [
+      "NormalShopGood",
+      "NewShopGood"
+    ],
+    "RedDot": "ShopGood",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "CoinGiftReset",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TravelBrochureDiaryNew",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TravelBrochureDiaryFinishReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      3,
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "TravelBrochureDiaryNew",
+      "TravelBrochureDiaryFinishReward",
+      "TravelBrochurePasterNewInDiary"
+    ],
+    "RedDot": "TravelBrochureDiary",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "TravelBrochureDiaryNew",
+      "TravelBrochureDiaryFinishReward",
+      "TravelBrochurePasterCollectReward"
+    ],
+    "RedDot": "TravelBrochureEntry",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TravelBrochurePasterNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TravelBrochurePasterNewInDiary",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TravelBrochureTextPasterNewInDiary",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TravelBrochureImagePasterNewInDiary",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TravelBrochurePasterCollectReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "RogueNousDiceHandbookReward",
+      "RogueNousStoryUnlockReward",
+      "RogueNousSubStoryReward",
+      "RogueNousMainStoryReward",
+      "RogueNousMissionReward",
+      "RogueNousEndGameReward"
+    ],
+    "RedDot": "RogueNous",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "RogueNousDiceHandbookReward",
+      "RogueNousStoryUnlockReward",
+      "RogueNousSubStoryReward",
+      "RogueNousMainStoryReward",
+      "RogueNousMissionReward",
+      "RogueNousEndGameReward",
+      "RogueNousActivityPanelBtnGoFirstTimeShow"
+    ],
+    "RedDot": "RogueNousActivityPanelBtnGo",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousActivityPanelBtnGoFirstTimeShow",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "RogueNousStoryUnlockReward",
+      "RogueNousSubStoryReward",
+      "RogueNousMainStoryReward"
+    ],
+    "RedDot": "RogueNousStoryReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousStoryUnlockReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousSubStoryReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousSubStoryNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousMainStoryReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousMainStoryNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousBranchTagNew",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "RogueNousBranchNew"
+    ],
+    "RedDot": "RogueNousBranchParentNew",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousBranchNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousBranchSlotNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousSurfaceNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousDiceHandbookReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousAvailableTalent",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "RogueNousMissionReward",
+      "RogueNousEndGameReward"
+    ],
+    "RedDot": "RogueNousQuestReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousMissionReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousEndGameReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousQuestTabNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueNousNewUnlockAeon",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ChessRogueLongTermReward",
+      "ChessRogueMainStoryReward",
+      "ChessRogueCabinetReward",
+      "RogueNousDiceHandbookReward",
+      "RogueNousStoryUnlockReward",
+      "RogueNousSubStoryReward",
+      "RogueNousMainStoryReward",
+      "RogueNousMissionReward",
+      "RogueNousEndGameReward"
+    ],
+    "RedDot": "RogueDLCEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SpaceZooNewCat",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SpaceZooActivityRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SpaceZooActivityRewardGet",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SpaceZooPointReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SpaceZooNewSpecialCat",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "SpaceZooNewCat",
+      "SpaceZooActivityRewardNew",
+      "SpaceZooActivityRewardGet",
+      "SpaceZooActivityReward",
+      "SpaceZooPointReward",
+      "SpaceZooNewSpecialCat",
+      "SpaceActivityZooGoTo",
+      "SpaceZooSpecialCat",
+      "SpaceZooActivityGoToEveryDay"
+    ],
+    "RedDot": "SpaceZooActivity",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "SpaceZooNewSpecialCat"
+    ],
+    "RedDot": "SpaceZooSpecialCat",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      2
+    ],
+    "RedDotChildren": [
+      "SpaceZooActivityRewardNew",
+      "SpaceZooActivityRewardGet"
+    ],
+    "RedDot": "SpaceZooActivityReward",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "SpaceZooActivityGoToEveryDay"
+    ],
+    "RedDot": "SpaceZooActivityGoTo",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SpaceZooActivityGoToEveryDay",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ActivityStrongChallengeNormalStage",
+      "ActivityStrongChallengeHardStage",
+      "ActivityStrongChallengeRewardTab",
+      "ActivityStrongChallengeRewardNew",
+      "ActivityStrongChallengeRewardButton",
+      "ActivityStrongChallengeEveryDay",
+      "ActivityStrongChallengeEntrance"
+    ],
+    "RedDot": "ActivityStrongChallenge",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ActivityStrongChallengeNormalStage"
+    ],
+    "RedDot": "ActivityStrongChallengeNormalStageTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ActivityStrongChallengeHardStage"
+    ],
+    "RedDot": "ActivityStrongChallengeHardStageTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityStrongChallengeNormalStage",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityStrongChallengeHardStage",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityStrongChallengeRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityStrongChallengeRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ActivityStrongChallengeRewardTab",
+      "ActivityStrongChallengeRewardNew"
+    ],
+    "RedDot": "ActivityStrongChallengeRewardButton",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityStrongChallengeEveryDay",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ActivityStrongChallengeEveryDay",
+      "ActivityStrongChallengeNormalStage",
+      "ActivityStrongChallengeHardStage"
+    ],
+    "RedDot": "ActivityStrongChallengeEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RaidCollectionGroupNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "RaidCollectionGroupNew"
+    ],
+    "RedDot": "RaidCollectionNew",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RaidCollectionTabNew",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RaidCollectionRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RaidCollectionTargetRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RaidCollectionTargetRewardAvailable",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "RaidCollectionTargetRewardAvailable",
+      "RaidCollectionTargetRewardNew"
+    ],
+    "RedDot": "RaidCollectionTargetReward",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RaidCollectionAvatarRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RaidCollectionAvatarRewardAvailable",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "RaidCollectionAvatarRewardAvailable",
+      "RaidCollectionAvatarRewardNew"
+    ],
+    "RedDot": "RaidCollectionAvatarReward",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RaidCollectionDaily",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityAbyssAdvert",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "PenaconyGiftNewUnlockGift",
+      "PenaconyGiftReward",
+      "PenaconyGiftActivityGoToEveryDay"
+    ],
+    "RedDot": "PenaconyGiftActivityGoto",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PenaconyGiftNewUnlockGift",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PenaconyGiftReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "PenaconyGiftNewUnlockGift",
+      "PenaconyGiftReward"
+    ],
+    "RedDot": "PenaconyGiftItem",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PenaconyGiftActivityGoToEveryDay",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "PlayerReturnInvite",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "MissionChronicleIsNew",
+      "MissionChronicleIsEntryNew",
+      "MissionChronicleEntryCanTake"
+    ],
+    "RedDot": "MissionChronicle",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MissionChronicleIsNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MissionChronicleIsEntryNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MissionChronicleCanTake",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "MissionChronicleIsEntryNew",
+      "MissionChronicleCanTake"
+    ],
+    "RedDot": "MissionChronicleEntry",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "CloudGame",
+    "Type": 1,
+    "UnlockID": 1204
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityQuestTimeLimitRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityTelevisionLevelUnlock",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityTelevisionQuestReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityTelevisionQuestRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "DrinkMakerNewDrink",
+      "DrinkMakerNewCustomDrink",
+      "DrinkMakerNewIngredient",
+      "DrinkMakerHandBookEntrance",
+      "DrinkMakerNewChallenge",
+      "DrinkMakerChallengeEntrance",
+      "DrinkMakerGoToEveryDay",
+      "DrinkMakerActivityGoTo",
+      "DrinkMakerOfferSubmit",
+      "DrinkMakerOfferEntrance",
+      "DrinkMakerTimeLimitRewardNew",
+      "DrinkMakerTimeLimitRewardEntrance",
+      "DrinkMakerAvatarRewardTake",
+      "DrinkMakerAvatarRewardNew",
+      "DrinkMakerAvatarRewardEntrance",
+      "DrinkMakerGuestFinishReward",
+      "DrinkMakerResidentActivityGoTo",
+      "DrinkMakerWorkBookEntrance"
+    ],
+    "RedDot": "ActivityDrinkMaker",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DrinkMakerGuestFinishReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "DrinkMakerNewChallenge",
+      "DrinkMakerGuestFinishReward"
+    ],
+    "RedDot": "DrinkMakerResidentActivityGoTo",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "DrinkMakerGuestFinishReward"
+    ],
+    "RedDot": "DrinkMakerWorkBookEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DrinkMakerNewDrink",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DrinkMakerNewCustomDrink",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DrinkMakerNewIngredient",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "DrinkMakerNewDrink",
+      "DrinkMakerNewCustomDrink",
+      "DrinkMakerNewIngredient"
+    ],
+    "RedDot": "DrinkMakerHandBookEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DrinkMakerNewChallenge",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "DrinkMakerNewChallenge"
+    ],
+    "RedDot": "DrinkMakerChallengeEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DrinkMakerGoToEveryDay",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "DrinkMakerGoToEveryDay",
+      "DrinkMakerOfferEntrance",
+      "DrinkMakerGuestFinishReward"
+    ],
+    "RedDot": "DrinkMakerActivityGoTo",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DrinkMakerOfferSubmit",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DrinkMakerOfferEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DrinkMakerTimeLimitReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DrinkMakerTimeLimitRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DrinkMakerTimeLimitRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "DrinkMakerTimeLimitReward",
+      "DrinkMakerTimeLimitRewardNew"
+    ],
+    "RedDot": "DrinkMakerTimeLimitRewardEntrance",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DrinkMakerAvatarRewardTake",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "DrinkMakerAvatarRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "DrinkMakerAvatarRewardTake",
+      "DrinkMakerAvatarRewardNew"
+    ],
+    "RedDot": "DrinkMakerAvatarRewardEntrance",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ActivityMonopolyQuestReward",
+      "ActivityMonopolyProgressReward",
+      "ActivityMonopolyTicketReward",
+      "ActivityMonopolyContributionReward",
+      "ActivityMonopolyMBTIReward",
+      "ActivityMonopolyBtnGoToEveryDay",
+      "ActivityMonopolyDailyRewardHint"
+    ],
+    "RedDot": "ActivityMonopolyBtnGoTo",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityMonopolyBtnGoToEveryDay",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityMonopolyQuestReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityMonopolyProgressReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityMonopolyTicketReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityMonopolyContributionReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityMonopolyMBTIReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityMonopolyFriendLikeHint",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityFeverTimeQuestRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityFeverTimeLevelUnlock",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityFeverTimeGoToEveryDay",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivityMonopolyDailyRewardHint",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ActivityMonopolyDailyRewardHint",
+      "ActivityMonopolyMBTIReward",
+      "ActivityMonopolyQuestReward"
+    ],
+    "RedDot": "ActivityMonopolyBtnEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "EvolveBuildStage",
+      "EvolveBuildActivityGoTo",
+      "EvolveBuildLevelRewardTab",
+      "EvolveBuildLevelRewardNew",
+      "EvolveBuildLevelRewardButton",
+      "EvolveBuildQuestRewardTab",
+      "EvolveBuildQuestRewardNew",
+      "EvolveBuildQuestRewardButton"
+    ],
+    "RedDot": "EvolveBuild",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "EvolveBuildStage",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "EvolveBuildActivityGoTo",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "EvolveBuildLevelRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "EvolveBuildLevelRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "EvolveBuildLevelRewardTab",
+      "EvolveBuildLevelRewardNew"
+    ],
+    "RedDot": "EvolveBuildLevelRewardButton",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "EvolveBuildQuestRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "EvolveBuildQuestRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "EvolveBuildQuestRewardTab",
+      "EvolveBuildQuestRewardNew"
+    ],
+    "RedDot": "EvolveBuildQuestRewardButton",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "WebTool",
+    "Type": 1,
+    "UnlockID": 1205
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ClockParkTimeLimitReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ClockParkTimeLimitRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ClockParkTimeLimitRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ClockParkTimeLimitReward",
+      "ClockParkTimeLimitRewardNew"
+    ],
+    "RedDot": "ClockParkTimeLimitRewardButton",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ClockParkResidentReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ClockParkLightConeReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ClockParkLightConeRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ClockParkLightConeReward",
+      "ClockParkLightConeRewardNew"
+    ],
+    "RedDot": "ClockParkLightConeRewardButton",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ClockParkScriptNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ClockParkScriptEndingNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ClockParkScriptNew",
+      "ClockParkScriptEndingNew"
+    ],
+    "RedDot": "ClockParkScriptEntrance",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ClockParkSpecialMissionNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ClockParkRaidNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ClockParkEndlessModeNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ClockParkBtnGoToEveryDay",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "ClockParkBtnGoToEveryDay",
+      "ClockParkResidentReward"
+    ],
+    "RedDot": "ClockParkBtnGoTo",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      3,
+      1,
+      2
+    ],
+    "RedDotChildren": [
+      "ClockParkScriptNew",
+      "ClockParkSpecialMissionNew",
+      "ClockParkRaidNew",
+      "ClockParkEndlessModeNew",
+      "ClockParkBtnGoToEveryDay",
+      "ClockParkTimeLimitReward",
+      "ClockParkTimeLimitRewardTab",
+      "ClockParkTimeLimitRewardNew",
+      "ClockParkTimeLimitRewardButton",
+      "ClockParkResidentReward",
+      "ClockParkLightConeReward",
+      "ClockParkLightConeRewardNew",
+      "ClockParkLightConeRewardButton"
+    ],
+    "RedDot": "ClockPark",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournExpRewardCanTake",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournExpRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "RogueTournExpRewardCanTake",
+      "RogueTournExpRewardNew"
+    ],
+    "RedDot": "RogueTournExpRewardItem",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournQuestRewardTabCanTake",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournQuestRewardTabNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "RogueTournQuestRewardTabCanTake",
+      "RogueTournQuestRewardTabNew"
+    ],
+    "RedDot": "RogueTournQuestRewardTab",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournQuestRewardCanTake",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "RogueTournQuestRewardCanTake",
+      "RogueTournQuestRewardTabNew"
+    ],
+    "RedDot": "RogueTournQuestReward",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournRepositoryFormulaStoryNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournRepositoryFormulaStoryBuffTypeNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournHandbookRewardTypeCanTake",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournWeekChallengeNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournDifficultyCompNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournActivityFunctionBtnNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournActivityWeekChallengeNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      3,
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "RogueTournExpRewardCanTake",
+      "RogueTournExpRewardNew",
+      "RogueTournActivityFunctionBtnNew"
+    ],
+    "RedDot": "RogueTournActivityExpRewardBtn",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      3,
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "RogueTournQuestRewardCanTake",
+      "RogueTournQuestRewardTabNew",
+      "RogueTournActivityFunctionBtnNew"
+    ],
+    "RedDot": "RogueTournActivityQuestRewardBtn",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "RogueTournHandbookRewardTypeCanTake",
+      "RogueTournActivityFunctionBtnNew"
+    ],
+    "RedDot": "RogueTournActivityHandBookBtn",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "RogueTournActivityWeekChallengeNew",
+      "RogueTournActivityFunctionBtnNew"
+    ],
+    "RedDot": "RogueTournActivityWeekChallengePanel",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournActivityGoToBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournRelicCocoonDifficultyNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournRelicCocoonIDNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournCollectionNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournExhibitionNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournExhibitionTabNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournCollectionBoothCanSet",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "RogueTournPermanentTalentCanActivate",
+      "RogueTournPermanentTalentNew"
+    ],
+    "RedDot": "RogueTournPermanentTalent",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournPermanentTalentNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "RogueTournPermanentTalentCanActivate",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "MatchThreeLimitRewardEntrance",
+      "MatchThreeOfferReward",
+      "MatchThreeQuestReward",
+      "MatchThreeLimitRewardNew",
+      "MatchThreeAvatarRewardEntrance",
+      "MatchThreeActivityGoTo",
+      "MatchThreeGoToEveryDay",
+      "MatchThreeResidentActivityGoTo",
+      "MatchThreeNewEasyLevel",
+      "MatchThreeNewHardLevel",
+      "MatchThreeNewArena",
+      "MatchThreeNewBird",
+      "MatchThreeEasyLevelEntrance",
+      "MatchThreeHardLevelEntrance",
+      "MatchThreeAvatarReward",
+      "MatchThreeAvatarRewardNew",
+      "MatchThreeQuestRewardTab"
+    ],
+    "RedDot": "ActivityMatchThree",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      3,
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "MatchThreeOfferReward",
+      "MatchThreeQuestReward",
+      "MatchThreeLimitRewardNew"
+    ],
+    "RedDot": "MatchThreeLimitRewardEntrance",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MatchThreeOfferReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MatchThreeQuestReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MatchThreeQuestRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MatchThreeLimitRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      2,
+      1
+    ],
+    "RedDotChildren": [
+      "MatchThreeAvatarReward",
+      "MatchThreeAvatarRewardNew"
+    ],
+    "RedDot": "MatchThreeAvatarRewardEntrance",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MatchThreeAvatarReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MatchThreeAvatarRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "MatchThreeGoToEveryDay"
+    ],
+    "RedDot": "MatchThreeActivityGoTo",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MatchThreeGoToEveryDay",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "MatchThreeNewEasyLevel",
+      "MatchThreeNewHardLevel",
+      "MatchThreeNewArena"
+    ],
+    "RedDot": "MatchThreeResidentActivityGoTo",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MatchThreeNewEasyLevel",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MatchThreeNewHardLevel",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MatchThreeNewArena",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "MatchThreeNewBird",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "MatchThreeNewEasyLevel"
+    ],
+    "RedDot": "MatchThreeEasyLevelEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "MatchThreeNewHardLevel"
+    ],
+    "RedDot": "MatchThreeHardLevelEntrance",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "StarFightNewGroup",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      2
+    ],
+    "RedDotChildren": [
+      "StarFightRewardBtnNew",
+      "StarFightRewardBtnNormal"
+    ],
+    "RedDot": "StarFightRewardBtn",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "StarFightRewardBtnNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "StarFightRewardBtnNormal",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "StarFightRewardGroup",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "StarFightNewGroup",
+      "StarFightGotoBtnDaily"
+    ],
+    "RedDot": "StarFightGotoBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "StarFightGotoBtnDaily",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      2
+    ],
+    "RedDotChildren": [
+      "ChallengeCollectionNew",
+      "ChallengeCollectionReward"
+    ],
+    "RedDot": "ChallengeCollection",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChallengeCollectionNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ChallengeCollectionReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SwordTrainingSkillCanLearn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TrackPhotoRewardBtnNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TrackPhotoRewardBtnNormal",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      2
+    ],
+    "RedDotChildren": [
+      "TrackPhotoRewardBtnNew",
+      "TrackPhotoRewardBtnNormal"
+    ],
+    "RedDot": "TrackPhotoRewardBtn",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TrackPhotoRewardGroup",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TrackPhotoGotoBtnDaily",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "TrackPhotoNewGroup",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "TrackPhotoGotoBtnDaily",
+      "TrackPhotoNewGroup"
+    ],
+    "RedDot": "TrackPhotoGotoBtn",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [
+      1,
+      2
+    ],
+    "RedDotChildren": [
+      "ActivitySummonRewardNew",
+      "ActivitySummonRewardNormal"
+    ],
+    "RedDot": "ActivitySummonReward",
+    "Type": 0,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivitySummonRewardNew",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivitySummonRewardNormal",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "ActivitySummonGotoDaily",
+      "ActivitySummonNewStage"
+    ],
+    "RedDot": "ActivitySummonGoto",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivitySummonGotoDaily",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivitySummonNewStage",
+    "Type": 3,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "ActivitySummonRewardPage",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [
+      "SwordTrainingBtnGotoEveryDay",
+      "SwordTrainingEndReward"
+    ],
+    "RedDot": "SwordTrainingBtnGoto",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SwordTrainingBtnGotoEveryDay",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SwordTrainingEidolonReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SwordTrainingTimeLimitReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SwordTrainingEndReward",
+    "Type": 1,
+    "UnlockID": 0
+  },
+  {
+    "Weight": [],
+    "RedDotChildren": [],
+    "RedDot": "SwordTrainingTimeLimitRewardTab",
+    "Type": 1,
+    "UnlockID": 0
+  }
+]

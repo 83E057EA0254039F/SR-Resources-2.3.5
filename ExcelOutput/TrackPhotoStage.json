@@ -1,0 +1,212 @@
+[
+  {
+    "ImagePath": "",
+    "StarList": [
+      1100,
+      2200,
+      3300
+    ],
+    "JunkNumList": [
+      3,
+      12,
+      10
+    ],
+    "XYRange": [
+      25.0,
+      20.0
+    ],
+    "StageID": 1,
+    "DisLimit": 50.0,
+    "RaidID": 40237001,
+    "ActivityModuleID": 5001701,
+    "StageName": {
+      "hash": -1430948811
+    },
+    "StageDesc": {
+      "hash": 30051055
+    },
+    "StageLocation": {
+      "hash": 1409235503
+    },
+    "TrackMoveSpeed": 1.5,
+    "MainMissionID": 8024301,
+    "TotalTrashCanNum": 25,
+    "MaxScore": 3700,
+    "Fov": 45.0
+  },
+  {
+    "ImagePath": "",
+    "StarList": [
+      1200,
+      2200,
+      3300
+    ],
+    "JunkNumList": [
+      3,
+      12,
+      10
+    ],
+    "XYRange": [
+      25.0,
+      20.0
+    ],
+    "StageID": 2,
+    "DisLimit": 50.0,
+    "RaidID": 40237005,
+    "ActivityModuleID": 5001705,
+    "StageName": {
+      "hash": -1430948812
+    },
+    "StageDesc": {
+      "hash": 30051058
+    },
+    "StageLocation": {
+      "hash": 1409235500
+    },
+    "TrackMoveSpeed": 1.3,
+    "MainMissionID": 8024302,
+    "TotalTrashCanNum": 25,
+    "MaxScore": 3700,
+    "Fov": 40.0
+  },
+  {
+    "ImagePath": "",
+    "StarList": [
+      1300,
+      2600,
+      3900
+    ],
+    "JunkNumList": [
+      3,
+      15,
+      12
+    ],
+    "XYRange": [
+      25.0,
+      20.0
+    ],
+    "StageID": 3,
+    "DisLimit": 50.0,
+    "RaidID": 40237003,
+    "ActivityModuleID": 5001703,
+    "StageName": {
+      "hash": -1430948813
+    },
+    "StageDesc": {
+      "hash": 30051057
+    },
+    "StageLocation": {
+      "hash": 1409235501
+    },
+    "TrackMoveSpeed": 1.3,
+    "MainMissionID": 8024303,
+    "TotalTrashCanNum": 30,
+    "MaxScore": 4350,
+    "Fov": 40.0
+  },
+  {
+    "ImagePath": "",
+    "StarList": [
+      1200,
+      2500,
+      3800
+    ],
+    "JunkNumList": [
+      3,
+      13,
+      14
+    ],
+    "XYRange": [
+      25.0,
+      20.0
+    ],
+    "StageID": 4,
+    "DisLimit": 50.0,
+    "RaidID": 40237006,
+    "ActivityModuleID": 5001706,
+    "StageName": {
+      "hash": -1430948806
+    },
+    "StageDesc": {
+      "hash": 30051060
+    },
+    "StageLocation": {
+      "hash": 1409235498
+    },
+    "TrackMoveSpeed": 1.2,
+    "MainMissionID": 8024304,
+    "TotalTrashCanNum": 30,
+    "MaxScore": 4250,
+    "Fov": 45.0
+  },
+  {
+    "ImagePath": "",
+    "StarList": [
+      1400,
+      2700,
+      4000
+    ],
+    "JunkNumList": [
+      3,
+      16,
+      11
+    ],
+    "XYRange": [
+      25.0,
+      20.0
+    ],
+    "StageID": 5,
+    "DisLimit": 50.0,
+    "RaidID": 40237004,
+    "ActivityModuleID": 5001704,
+    "StageName": {
+      "hash": -1430948807
+    },
+    "StageDesc": {
+      "hash": 30051059
+    },
+    "StageLocation": {
+      "hash": 1409235499
+    },
+    "TrackMoveSpeed": 1.4,
+    "MainMissionID": 8024305,
+    "TotalTrashCanNum": 30,
+    "MaxScore": 4400,
+    "Fov": 45.0
+  },
+  {
+    "ImagePath": "",
+    "StarList": [
+      1400,
+      2800,
+      4100
+    ],
+    "JunkNumList": [
+      3,
+      20,
+      7
+    ],
+    "XYRange": [
+      25.0,
+      15.0
+    ],
+    "StageID": 6,
+    "DisLimit": 50.0,
+    "RaidID": 40237002,
+    "ActivityModuleID": 5001702,
+    "StageName": {
+      "hash": -1430948808
+    },
+    "StageDesc": {
+      "hash": 30051062
+    },
+    "StageLocation": {
+      "hash": 1409235496
+    },
+    "TrackMoveSpeed": 2.0,
+    "MainMissionID": 8024306,
+    "TotalTrashCanNum": 30,
+    "MaxScore": 4600,
+    "Fov": 37.0
+  }
+]

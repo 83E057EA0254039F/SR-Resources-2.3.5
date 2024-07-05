@@ -1,0 +1,926 @@
+[
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/NPC/Wenshiling.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_Wenshiling.prefab",
+    "VersusImagePath": "",
+    "ID": 1,
+    "MazeBuffID": 0,
+    "EventID": 43103904,
+    "OpponentName": {
+      "hash": 2019973634
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003206,
+    "Rank": 1,
+    "OpponentStrength": 1,
+    "MissionID": 8014121,
+    "BattleAreaID": 1,
+    "GroupID": 2
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/NPC/11302.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_Urian.prefab",
+    "VersusImagePath": "",
+    "ID": 2,
+    "MazeBuffID": 0,
+    "EventID": 43103905,
+    "OpponentName": {
+      "hash": 453889693
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003207,
+    "Rank": 1,
+    "OpponentStrength": 1,
+    "MissionID": 8014122,
+    "BattleAreaID": 1,
+    "GroupID": 30
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/NPC/2108.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_Donne.prefab",
+    "VersusImagePath": "",
+    "ID": 3,
+    "MazeBuffID": 0,
+    "EventID": 43103906,
+    "OpponentName": {
+      "hash": -1112194248
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003208,
+    "Rank": 1,
+    "OpponentStrength": 1,
+    "MissionID": 8014123,
+    "BattleAreaID": 1,
+    "GroupID": 2
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/NPC/3006.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_Oleg.prefab",
+    "VersusImagePath": "",
+    "ID": 4,
+    "MazeBuffID": 0,
+    "EventID": 43103909,
+    "OpponentName": {
+      "hash": 1260458747
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003209,
+    "Rank": 1,
+    "OpponentStrength": 2,
+    "MissionID": 8014124,
+    "BattleAreaID": 1,
+    "GroupID": 30
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1105.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1105.prefab",
+    "VersusImagePath": "",
+    "ID": 5,
+    "MazeBuffID": 0,
+    "EventID": 43103910,
+    "OpponentName": {
+      "hash": -305625194
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003216,
+    "Rank": 2,
+    "OpponentStrength": 2,
+    "MissionID": 8014125,
+    "BattleAreaID": 1,
+    "GroupID": 2
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1107.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1107.prefab",
+    "VersusImagePath": "",
+    "ID": 6,
+    "MazeBuffID": 0,
+    "EventID": 43103908,
+    "OpponentName": {
+      "hash": -1871709135
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003217,
+    "Rank": 2,
+    "OpponentStrength": 2,
+    "MissionID": 8014126,
+    "BattleAreaID": 2,
+    "GroupID": 2
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1104.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1104.prefab",
+    "VersusImagePath": "",
+    "ID": 7,
+    "MazeBuffID": 0,
+    "EventID": 43103907,
+    "OpponentName": {
+      "hash": 857174220
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003218,
+    "Rank": 2,
+    "OpponentStrength": 2,
+    "MissionID": 8014127,
+    "BattleAreaID": 1,
+    "GroupID": 2
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1110.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1110.prefab",
+    "VersusImagePath": "",
+    "ID": 8,
+    "MazeBuffID": 0,
+    "EventID": 43103912,
+    "OpponentName": {
+      "hash": -1065140081
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003219,
+    "Rank": 2,
+    "OpponentStrength": 3,
+    "MissionID": 8014128,
+    "BattleAreaID": 1,
+    "GroupID": 2
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1008.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1008.prefab",
+    "VersusImagePath": "",
+    "ID": 9,
+    "MazeBuffID": 0,
+    "EventID": 43103913,
+    "OpponentName": {
+      "hash": 1663743274
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003226,
+    "Rank": 3,
+    "OpponentStrength": 3,
+    "MissionID": 8014129,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1009.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1009.prefab",
+    "VersusImagePath": "",
+    "ID": 10,
+    "MazeBuffID": 0,
+    "EventID": 43103914,
+    "OpponentName": {
+      "hash": 513667282
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003227,
+    "Rank": 3,
+    "OpponentStrength": 3,
+    "MissionID": 8014130,
+    "BattleAreaID": 1,
+    "GroupID": 2
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/NPC/3009.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_Diting.prefab",
+    "VersusImagePath": "",
+    "ID": 11,
+    "MazeBuffID": 0,
+    "EventID": 43103915,
+    "OpponentName": {
+      "hash": 513667283
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003228,
+    "Rank": 3,
+    "OpponentStrength": 3,
+    "MissionID": 8014131,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1209.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1209.prefab",
+    "VersusImagePath": "",
+    "ID": 12,
+    "MazeBuffID": 0,
+    "EventID": 43103911,
+    "OpponentName": {
+      "hash": 513667284
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003229,
+    "Rank": 3,
+    "OpponentStrength": 4,
+    "MissionID": 8014132,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1201.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1201.prefab",
+    "VersusImagePath": "",
+    "ID": 13,
+    "MazeBuffID": 0,
+    "EventID": 43103917,
+    "OpponentName": {
+      "hash": 513667285
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003236,
+    "Rank": 4,
+    "OpponentStrength": 4,
+    "MissionID": 8014133,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/NPC/3015.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_Peipei.prefab",
+    "VersusImagePath": "",
+    "ID": 14,
+    "MazeBuffID": 0,
+    "EventID": 43103916,
+    "OpponentName": {
+      "hash": 513667286
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003237,
+    "Rank": 4,
+    "OpponentStrength": 4,
+    "MissionID": 8014134,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1108.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1108.prefab",
+    "VersusImagePath": "",
+    "ID": 15,
+    "MazeBuffID": 0,
+    "EventID": 43103922,
+    "OpponentName": {
+      "hash": 513667287
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003238,
+    "Rank": 4,
+    "OpponentStrength": 4,
+    "MissionID": 8014135,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1101.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1101.prefab",
+    "VersusImagePath": "",
+    "ID": 16,
+    "MazeBuffID": 0,
+    "EventID": 43103918,
+    "OpponentName": {
+      "hash": 513667288
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003239,
+    "Rank": 4,
+    "OpponentStrength": 5,
+    "MissionID": 8014136,
+    "BattleAreaID": 1,
+    "GroupID": 24
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1004.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1004.prefab",
+    "VersusImagePath": "",
+    "ID": 17,
+    "MazeBuffID": 0,
+    "EventID": 43103924,
+    "OpponentName": {
+      "hash": 513667289
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003241,
+    "Rank": 5,
+    "OpponentStrength": 5,
+    "MissionID": 8014137,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1112.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1112.prefab",
+    "VersusImagePath": "",
+    "ID": 18,
+    "MazeBuffID": 0,
+    "EventID": 43103919,
+    "OpponentName": {
+      "hash": 513667274
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003242,
+    "Rank": 5,
+    "OpponentStrength": 5,
+    "MissionID": 8014138,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/NPC/Velite.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_Velite.prefab",
+    "VersusImagePath": "",
+    "ID": 19,
+    "MazeBuffID": 0,
+    "EventID": 43103925,
+    "OpponentName": {
+      "hash": 513667275
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003243,
+    "Rank": 5,
+    "OpponentStrength": 5,
+    "MissionID": 8014139,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1001.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1001.prefab",
+    "VersusImagePath": "",
+    "ID": 20,
+    "MazeBuffID": 0,
+    "EventID": 43103923,
+    "OpponentName": {
+      "hash": -1052416659
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Common",
+    "RewardID": 8003244,
+    "Rank": 5,
+    "OpponentStrength": 5,
+    "MissionID": 8014140,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_11031106.prefab",
+    "VersusImagePath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideTerminalGymIcon1.png",
+    "ID": 101,
+    "MazeBuffID": 0,
+    "EventID": 43103007,
+    "OpponentName": {
+      "hash": 1663322215
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "GymBoss",
+    "RewardID": 100,
+    "Rank": 1,
+    "OpponentStrength": 0,
+    "MissionID": 0,
+    "BattleAreaID": 1,
+    "GroupID": 2
+  },
+  {
+    "OpponentImageIconPath": "",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_MasterGongshu.prefab",
+    "VersusImagePath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideTerminalGymIcon2.png",
+    "ID": 102,
+    "MazeBuffID": 0,
+    "EventID": 43103009,
+    "OpponentName": {
+      "hash": 1260037688
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "GymBoss",
+    "RewardID": 100,
+    "Rank": 2,
+    "OpponentStrength": 0,
+    "MissionID": 0,
+    "BattleAreaID": 1,
+    "GroupID": 2
+  },
+  {
+    "OpponentImageIconPath": "",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1013.prefab",
+    "VersusImagePath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideTerminalGymIcon3.png",
+    "ID": 103,
+    "MazeBuffID": 0,
+    "EventID": 43103310,
+    "OpponentName": {
+      "hash": -1468845667
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "GymBoss",
+    "RewardID": 100,
+    "Rank": 3,
+    "OpponentStrength": 0,
+    "MissionID": 0,
+    "BattleAreaID": 1,
+    "GroupID": 2
+  },
+  {
+    "OpponentImageIconPath": "",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_Giovanni.prefab",
+    "VersusImagePath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideTerminalGymIcon4.png",
+    "ID": 104,
+    "MazeBuffID": 0,
+    "EventID": 43103411,
+    "OpponentName": {
+      "hash": 2066606742
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "GymBoss",
+    "RewardID": 100,
+    "Rank": 4,
+    "OpponentStrength": 0,
+    "MissionID": 0,
+    "BattleAreaID": 1,
+    "GroupID": 2
+  },
+  {
+    "OpponentImageIconPath": "",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_RocketDan.prefab",
+    "VersusImagePath": "",
+    "ID": 105,
+    "MazeBuffID": 0,
+    "EventID": 43103005,
+    "OpponentName": {
+      "hash": -662276613
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "StoryBattle",
+    "RewardID": 100,
+    "Rank": 1,
+    "OpponentStrength": 0,
+    "MissionID": 0,
+    "BattleAreaID": 2,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_RocketDan.prefab",
+    "VersusImagePath": "",
+    "ID": 106,
+    "MazeBuffID": 0,
+    "EventID": 43103008,
+    "OpponentName": {
+      "hash": -1065561140
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "StoryBattle",
+    "RewardID": 100,
+    "Rank": 2,
+    "OpponentStrength": 0,
+    "MissionID": 0,
+    "BattleAreaID": 1,
+    "GroupID": 24
+  },
+  {
+    "OpponentImageIconPath": "",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_RocketDan.prefab",
+    "VersusImagePath": "",
+    "ID": 107,
+    "MazeBuffID": 0,
+    "EventID": 43103227,
+    "OpponentName": {
+      "hash": 500522801
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "StoryBattle",
+    "RewardID": 100,
+    "Rank": 3,
+    "OpponentStrength": 0,
+    "MissionID": 0,
+    "BattleAreaID": 1,
+    "GroupID": 2
+  },
+  {
+    "OpponentImageIconPath": "",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1111.prefab",
+    "VersusImagePath": "",
+    "ID": 108,
+    "MazeBuffID": 0,
+    "EventID": 43103501,
+    "OpponentName": {
+      "hash": -258992086
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "StoryBattle",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 0,
+    "MissionID": 0,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1210.prefab",
+    "VersusImagePath": "",
+    "ID": 109,
+    "MazeBuffID": 0,
+    "EventID": 43103502,
+    "OpponentName": {
+      "hash": 1307091855
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "StoryBattle",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 0,
+    "MissionID": 0,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1006.prefab",
+    "VersusImagePath": "",
+    "ID": 110,
+    "MazeBuffID": 0,
+    "EventID": 43103503,
+    "OpponentName": {
+      "hash": 97238275
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "StoryBattle",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 0,
+    "MissionID": 0,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_Giovanni.prefab",
+    "VersusImagePath": "",
+    "ID": 111,
+    "MazeBuffID": 0,
+    "EventID": 43103504,
+    "OpponentName": {
+      "hash": 1663322216
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "StoryBattle",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 0,
+    "MissionID": 0,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1112.prefab",
+    "VersusImagePath": "",
+    "ID": 112,
+    "MazeBuffID": 0,
+    "EventID": 43103505,
+    "OpponentName": {
+      "hash": 1260037689
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "StoryBattle",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 0,
+    "MissionID": 0,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1109.prefab",
+    "VersusImagePath": "",
+    "ID": 113,
+    "MazeBuffID": 0,
+    "EventID": 43103506,
+    "OpponentName": {
+      "hash": -1468845666
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "StoryBattle",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 0,
+    "MissionID": 0,
+    "BattleAreaID": 1,
+    "GroupID": 2
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/NPC/11031106.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_11031106.prefab",
+    "VersusImagePath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideTerminalGymIcon1.png",
+    "ID": 201,
+    "MazeBuffID": 0,
+    "EventID": 43103926,
+    "OpponentName": {
+      "hash": 1239834712
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Infinite",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 5,
+    "MissionID": 8014141,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/NPC/12118.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_MasterGongshu.prefab",
+    "VersusImagePath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideTerminalGymIcon2.png",
+    "ID": 202,
+    "MazeBuffID": 0,
+    "EventID": 43103927,
+    "OpponentName": {
+      "hash": 1643119239
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Infinite",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 5,
+    "MissionID": 8014142,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1013.prefab",
+    "VersusImagePath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideTerminalGymIcon3.png",
+    "ID": 203,
+    "MazeBuffID": 0,
+    "EventID": 43103928,
+    "OpponentName": {
+      "hash": 77035298
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Infinite",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 5,
+    "MissionID": 8014143,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/NPC/Giovanni.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_Giovanni.prefab",
+    "VersusImagePath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideTerminalGymIcon4.png",
+    "ID": 204,
+    "MazeBuffID": 0,
+    "EventID": 43103929,
+    "OpponentName": {
+      "hash": 480319825
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Infinite",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 5,
+    "MissionID": 8014144,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1111.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1111.prefab",
+    "VersusImagePath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideTerminalGymIcon1.png",
+    "ID": 205,
+    "MazeBuffID": 0,
+    "EventID": 43103930,
+    "OpponentName": {
+      "hash": -1085764116
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Infinite",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 5,
+    "MissionID": 8014145,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1210.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1210.prefab",
+    "VersusImagePath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideTerminalGymIcon1.png",
+    "ID": 206,
+    "MazeBuffID": 0,
+    "EventID": 43103931,
+    "OpponentName": {
+      "hash": -682479589
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Infinite",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 5,
+    "MissionID": 8014146,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1006.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1006.prefab",
+    "VersusImagePath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideTerminalGymIcon1.png",
+    "ID": 207,
+    "MazeBuffID": 0,
+    "EventID": 43103921,
+    "OpponentName": {
+      "hash": 2046403766
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Infinite",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 5,
+    "MissionID": 8014147,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1112.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1112.prefab",
+    "VersusImagePath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideTerminalGymIcon1.png",
+    "ID": 208,
+    "MazeBuffID": 0,
+    "EventID": 43103932,
+    "OpponentName": {
+      "hash": -1845279003
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Infinite",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 5,
+    "MissionID": 8014148,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  },
+  {
+    "OpponentImageIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1109.png",
+    "OpponentImagePath": "",
+    "OpponentPrefabPath": "UI/Quest/AetherDivide/AvatarRole/AvatarRole_1109.prefab",
+    "VersusImagePath": "SpriteOutput/UI/Quest/AetherDivide/IconGym/AetherDivideTerminalGymIcon1.png",
+    "ID": 209,
+    "MazeBuffID": 0,
+    "EventID": 43103920,
+    "OpponentName": {
+      "hash": 883604352
+    },
+    "Signature": {
+      "hash": 371857150
+    },
+    "ChallengeType": "Infinite",
+    "RewardID": 100,
+    "Rank": 5,
+    "OpponentStrength": 5,
+    "MissionID": 8014149,
+    "BattleAreaID": 1,
+    "GroupID": 1
+  }
+]

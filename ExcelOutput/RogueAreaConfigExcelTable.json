@@ -1,0 +1,4653 @@
+[
+  {
+    "DisplayMonsterMap2": {},
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM1.png",
+    "ScoreMap": {},
+    "MonsterDisplayItemList": [],
+    "RecommendNature": [
+      "Ice"
+    ],
+    "DisplayMonsterMap": {
+      "8003020": 8
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueN2.png",
+    "MapDisplayItemList": [],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueN2.png",
+    "ChestDisplayItemList": [],
+    "AreaEnvironment": [],
+    "RecommendLevel": 5,
+    "AreaProgress": 0,
+    "isActivityArea": false,
+    "Difficulty": 1,
+    "RogueAreaID": 100,
+    "AreaNameID": {
+      "hash": 827182339
+    },
+    "UnlockID": 0,
+    "FirstReward": 0,
+    "RecommendSkillTreePoints": 0
+  },
+  {
+    "DisplayMonsterMap2": {
+      "8013010": 13
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM1.png",
+    "ScoreMap": {
+      "1": 80,
+      "2": 240,
+      "3": 240,
+      "4": 400,
+      "5": 480,
+      "6": 480,
+      "7": 800
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111011
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112011
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113011
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114011
+      }
+    ],
+    "RecommendNature": [
+      "Quantum",
+      "Physical",
+      "Wind"
+    ],
+    "DisplayMonsterMap": {
+      "8003010": 16,
+      "8003020": 16
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueN2.png",
+    "MapDisplayItemList": [],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueN2.png",
+    "ChestDisplayItemList": [],
+    "AreaEnvironment": [],
+    "RecommendLevel": 16,
+    "AreaProgress": 1,
+    "isActivityArea": false,
+    "Difficulty": 1,
+    "RogueAreaID": 110,
+    "AreaNameID": {
+      "hash": 827182338
+    },
+    "UnlockID": 12001,
+    "FirstReward": 105101,
+    "RecommendSkillTreePoints": 0
+  },
+  {
+    "DisplayMonsterMap2": {
+      "8003051": 34,
+      "1023010": 31
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM2.png",
+    "ScoreMap": {
+      "1": 60,
+      "2": 120,
+      "3": 180,
+      "4": 300,
+      "5": 300,
+      "6": 420,
+      "7": 480,
+      "8": 720,
+      "9": 720,
+      "10": 840,
+      "11": 960,
+      "12": 960,
+      "13": 1200
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111011
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112011
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113011
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114001
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114011
+      }
+    ],
+    "RecommendNature": [
+      "Thunder",
+      "Ice"
+    ],
+    "DisplayMonsterMap": {
+      "1013012": 37,
+      "1013022": 37
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM2-1.png",
+    "MapDisplayItemList": [],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM2-1.png",
+    "ChestDisplayItemList": [],
+    "AreaEnvironment": [],
+    "RecommendLevel": 35,
+    "AreaProgress": 2,
+    "isActivityArea": false,
+    "Difficulty": 1,
+    "RogueAreaID": 120,
+    "AreaNameID": {
+      "hash": 827182341
+    },
+    "UnlockID": 12002,
+    "FirstReward": 105102,
+    "RecommendSkillTreePoints": 3
+  },
+  {
+    "DisplayMonsterMap2": {
+      "1003011": 42,
+      "1023010": 39,
+      "1013020": 39,
+      "8013010": 39
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM3.png",
+    "ScoreMap": {
+      "1": 90,
+      "2": 180,
+      "3": 270,
+      "4": 450,
+      "5": 450,
+      "6": 630,
+      "7": 720,
+      "8": 990,
+      "9": 990,
+      "10": 1170,
+      "11": 1350,
+      "12": 1350,
+      "13": 1800
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114012
+      }
+    ],
+    "RecommendNature": [
+      "Physical",
+      "Thunder",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "1004022": 45
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM1-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89003
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM1-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83011
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83021
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83022
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83023
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 40,
+    "AreaProgress": 3,
+    "isActivityArea": false,
+    "Difficulty": 1,
+    "RogueAreaID": 130,
+    "AreaNameID": {
+      "hash": 827182340
+    },
+    "UnlockID": 12003,
+    "FirstReward": 105103,
+    "RecommendSkillTreePoints": 7
+  },
+  {
+    "DisplayMonsterMap2": {
+      "1003011": 64,
+      "1023010": 61,
+      "1013020": 61,
+      "8013010": 61
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM3.png",
+    "ScoreMap": {
+      "1": 160,
+      "2": 320,
+      "3": 480,
+      "4": 800,
+      "5": 800,
+      "6": 1120,
+      "7": 1280,
+      "8": 1760,
+      "9": 1760,
+      "10": 2080,
+      "11": 2400,
+      "12": 2400,
+      "13": 3200
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114012
+      }
+    ],
+    "RecommendNature": [
+      "Physical",
+      "Thunder",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "1004022": 67
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM1-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM1-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83022
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83023
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83014
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83024
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 62,
+    "AreaProgress": 3,
+    "isActivityArea": false,
+    "Difficulty": 2,
+    "RogueAreaID": 131,
+    "AreaNameID": {
+      "hash": -1901701015
+    },
+    "UnlockID": 12033,
+    "FirstReward": 105203,
+    "RecommendSkillTreePoints": 21
+  },
+  {
+    "DisplayMonsterMap2": {
+      "1003011": 69,
+      "1023010": 66,
+      "1013020": 66,
+      "8013010": 66
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM3.png",
+    "ScoreMap": {
+      "1": 230,
+      "2": 460,
+      "3": 690,
+      "4": 1150,
+      "5": 1150,
+      "6": 1610,
+      "7": 1840,
+      "8": 2530,
+      "9": 2530,
+      "10": 2990,
+      "11": 3450,
+      "12": 3450,
+      "13": 4600
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Physical",
+      "Thunder",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "1004022": 72
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM1-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM1-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83022
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83023
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83014
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83024
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 67,
+    "AreaProgress": 3,
+    "isActivityArea": false,
+    "Difficulty": 3,
+    "RogueAreaID": 132,
+    "AreaNameID": {
+      "hash": 1989981754
+    },
+    "UnlockID": 12034,
+    "FirstReward": 105303,
+    "RecommendSkillTreePoints": 24
+  },
+  {
+    "DisplayMonsterMap2": {
+      "1003011": 78,
+      "1023010": 75,
+      "1013020": 75,
+      "8013010": 75
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM3.png",
+    "ScoreMap": {
+      "1": 300,
+      "2": 600,
+      "3": 900,
+      "4": 1500,
+      "5": 1500,
+      "6": 2100,
+      "7": 2400,
+      "8": 3300,
+      "9": 3300,
+      "10": 3900,
+      "11": 4500,
+      "12": 4500,
+      "13": 6000
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Physical",
+      "Thunder",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "1004022": 81
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM1-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM1-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83022
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83023
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83014
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83024
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 76,
+    "AreaProgress": 3,
+    "isActivityArea": false,
+    "Difficulty": 4,
+    "RogueAreaID": 133,
+    "AreaNameID": {
+      "hash": -738901601
+    },
+    "UnlockID": 12035,
+    "FirstReward": 105403,
+    "RecommendSkillTreePoints": 31
+  },
+  {
+    "DisplayMonsterMap2": {
+      "1003011": 87,
+      "1023010": 84,
+      "1013020": 84,
+      "8013010": 84
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM3.png",
+    "ScoreMap": {
+      "1": 375,
+      "2": 750,
+      "3": 1125,
+      "4": 1875,
+      "5": 1875,
+      "6": 2625,
+      "7": 3000,
+      "8": 4125,
+      "9": 4125,
+      "10": 4875,
+      "11": 5625,
+      "12": 5625,
+      "13": 7500
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Physical",
+      "Thunder",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "1004022": 90
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM1-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM1-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83023
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83014
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83024
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 80,
+    "AreaProgress": 3,
+    "isActivityArea": false,
+    "Difficulty": 5,
+    "RogueAreaID": 134,
+    "AreaNameID": {
+      "hash": -1498416488
+    },
+    "UnlockID": 12036,
+    "FirstReward": 105503,
+    "RecommendSkillTreePoints": 37
+  },
+  {
+    "DisplayMonsterMap2": {
+      "8003051": 49,
+      "1023020": 46,
+      "1013010": 46,
+      "8003040": 46
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM4.png",
+    "ScoreMap": {
+      "1": 110,
+      "2": 220,
+      "3": 330,
+      "4": 550,
+      "5": 550,
+      "6": 770,
+      "7": 880,
+      "8": 1210,
+      "9": 1210,
+      "10": 1430,
+      "11": 1650,
+      "12": 1650,
+      "13": 2200
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114012
+      }
+    ],
+    "RecommendNature": [
+      "Thunder",
+      "Wind",
+      "Fire"
+    ],
+    "DisplayMonsterMap": {
+      "1014011": 52
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM2-2.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89003
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM2-2.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83071
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83081
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83072
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83082
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83073
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83083
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 47,
+    "AreaProgress": 4,
+    "isActivityArea": false,
+    "Difficulty": 1,
+    "RogueAreaID": 140,
+    "AreaNameID": {
+      "hash": 827182343
+    },
+    "UnlockID": 12004,
+    "FirstReward": 105104,
+    "RecommendSkillTreePoints": 12
+  },
+  {
+    "DisplayMonsterMap2": {
+      "8003051": 64,
+      "1023020": 61,
+      "1013010": 61,
+      "8003040": 61
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM4.png",
+    "ScoreMap": {
+      "1": 160,
+      "2": 320,
+      "3": 480,
+      "4": 800,
+      "5": 800,
+      "6": 1120,
+      "7": 1280,
+      "8": 1760,
+      "9": 1760,
+      "10": 2080,
+      "11": 2400,
+      "12": 2400,
+      "13": 3200
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114012
+      }
+    ],
+    "RecommendNature": [
+      "Thunder",
+      "Wind",
+      "Fire"
+    ],
+    "DisplayMonsterMap": {
+      "1014011": 67
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM2-2.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM2-2.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83072
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83082
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83073
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83083
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83074
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83084
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 62,
+    "AreaProgress": 4,
+    "isActivityArea": false,
+    "Difficulty": 2,
+    "RogueAreaID": 141,
+    "AreaNameID": {
+      "hash": -1901701012
+    },
+    "UnlockID": 12011,
+    "FirstReward": 105204,
+    "RecommendSkillTreePoints": 21
+  },
+  {
+    "DisplayMonsterMap2": {
+      "8003051": 69,
+      "1023020": 66,
+      "1013010": 66,
+      "8003040": 66
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM4.png",
+    "ScoreMap": {
+      "1": 230,
+      "2": 460,
+      "3": 690,
+      "4": 1150,
+      "5": 1150,
+      "6": 1610,
+      "7": 1840,
+      "8": 2530,
+      "9": 2530,
+      "10": 2990,
+      "11": 3450,
+      "12": 3450,
+      "13": 4600
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Thunder",
+      "Wind",
+      "Fire"
+    ],
+    "DisplayMonsterMap": {
+      "1014011": 72
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM2-2.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM2-2.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83072
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83082
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83073
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83083
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83074
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83084
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 67,
+    "AreaProgress": 4,
+    "isActivityArea": false,
+    "Difficulty": 3,
+    "RogueAreaID": 142,
+    "AreaNameID": {
+      "hash": 1989981757
+    },
+    "UnlockID": 12012,
+    "FirstReward": 105304,
+    "RecommendSkillTreePoints": 24
+  },
+  {
+    "DisplayMonsterMap2": {
+      "8003051": 78,
+      "1023020": 75,
+      "1013010": 75,
+      "8003040": 75
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM4.png",
+    "ScoreMap": {
+      "1": 300,
+      "2": 600,
+      "3": 900,
+      "4": 1500,
+      "5": 1500,
+      "6": 2100,
+      "7": 2400,
+      "8": 3300,
+      "9": 3300,
+      "10": 3900,
+      "11": 4500,
+      "12": 4500,
+      "13": 6000
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Thunder",
+      "Wind",
+      "Fire"
+    ],
+    "DisplayMonsterMap": {
+      "1014011": 81
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM2-2.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM2-2.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83072
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83082
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83073
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83083
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83074
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83084
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 76,
+    "AreaProgress": 4,
+    "isActivityArea": false,
+    "Difficulty": 4,
+    "RogueAreaID": 143,
+    "AreaNameID": {
+      "hash": -738901598
+    },
+    "UnlockID": 12013,
+    "FirstReward": 105404,
+    "RecommendSkillTreePoints": 31
+  },
+  {
+    "DisplayMonsterMap2": {
+      "8003051": 87,
+      "1023020": 84,
+      "1013010": 84,
+      "8003040": 84
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM4.png",
+    "ScoreMap": {
+      "1": 375,
+      "2": 750,
+      "3": 1125,
+      "4": 1875,
+      "5": 1875,
+      "6": 2625,
+      "7": 3000,
+      "8": 4125,
+      "9": 4125,
+      "10": 4875,
+      "11": 5625,
+      "12": 5625,
+      "13": 7500
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Thunder",
+      "Wind",
+      "Fire"
+    ],
+    "DisplayMonsterMap": {
+      "1014011": 90
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM2-2.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM2-2.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83073
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83083
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83074
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83084
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 80,
+    "AreaProgress": 4,
+    "isActivityArea": false,
+    "Difficulty": 5,
+    "RogueAreaID": 144,
+    "AreaNameID": {
+      "hash": -1498416485
+    },
+    "UnlockID": 12014,
+    "FirstReward": 105504,
+    "RecommendSkillTreePoints": 37
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2023010": 54,
+      "8003020": 54,
+      "8003030": 54,
+      "8013010": 54
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM5.png",
+    "ScoreMap": {
+      "1": 140,
+      "2": 280,
+      "3": 420,
+      "4": 700,
+      "5": 700,
+      "6": 980,
+      "7": 1120,
+      "8": 1540,
+      "9": 1540,
+      "10": 1820,
+      "11": 2100,
+      "12": 2100,
+      "13": 2800
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114012
+      }
+    ],
+    "RecommendNature": [
+      "Wind",
+      "Imaginary",
+      "Physical"
+    ],
+    "DisplayMonsterMap": {
+      "2004011": 60
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueX1-2.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueX1-2.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83032
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83052
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83033
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83053
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83034
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83054
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 55,
+    "AreaProgress": 5,
+    "isActivityArea": false,
+    "Difficulty": 1,
+    "RogueAreaID": 150,
+    "AreaNameID": {
+      "hash": 827182342
+    },
+    "UnlockID": 12005,
+    "FirstReward": 105105,
+    "RecommendSkillTreePoints": 16
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2023010": 66,
+      "8003020": 66,
+      "8003030": 66,
+      "8013010": 66
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM5.png",
+    "ScoreMap": {
+      "1": 230,
+      "2": 460,
+      "3": 690,
+      "4": 1150,
+      "5": 1150,
+      "6": 1610,
+      "7": 1840,
+      "8": 2530,
+      "9": 2530,
+      "10": 2990,
+      "11": 3450,
+      "12": 3450,
+      "13": 4600
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Wind",
+      "Imaginary",
+      "Physical"
+    ],
+    "DisplayMonsterMap": {
+      "2004011": 72
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueX1-2.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueX1-2.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83032
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83052
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83033
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83053
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83034
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83054
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 67,
+    "AreaProgress": 5,
+    "isActivityArea": false,
+    "Difficulty": 2,
+    "RogueAreaID": 151,
+    "AreaNameID": {
+      "hash": -1901701013
+    },
+    "UnlockID": 12015,
+    "FirstReward": 105205,
+    "RecommendSkillTreePoints": 24
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2023010": 75,
+      "8003020": 75,
+      "8003030": 75,
+      "8013010": 75
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM5.png",
+    "ScoreMap": {
+      "1": 300,
+      "2": 600,
+      "3": 900,
+      "4": 1500,
+      "5": 1500,
+      "6": 2100,
+      "7": 2400,
+      "8": 3300,
+      "9": 3300,
+      "10": 3900,
+      "11": 4500,
+      "12": 4500,
+      "13": 6000
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Wind",
+      "Imaginary",
+      "Physical"
+    ],
+    "DisplayMonsterMap": {
+      "2004011": 81
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueX1-2.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueX1-2.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83032
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83052
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83033
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83053
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83034
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83054
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 76,
+    "AreaProgress": 5,
+    "isActivityArea": false,
+    "Difficulty": 3,
+    "RogueAreaID": 152,
+    "AreaNameID": {
+      "hash": 1989981756
+    },
+    "UnlockID": 12016,
+    "FirstReward": 105305,
+    "RecommendSkillTreePoints": 31
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2023010": 84,
+      "8003020": 84,
+      "8003030": 84,
+      "8013010": 84
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM5.png",
+    "ScoreMap": {
+      "1": 375,
+      "2": 750,
+      "3": 1125,
+      "4": 1875,
+      "5": 1875,
+      "6": 2625,
+      "7": 3000,
+      "8": 4125,
+      "9": 4125,
+      "10": 4875,
+      "11": 5625,
+      "12": 5625,
+      "13": 7500
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Wind",
+      "Imaginary",
+      "Physical"
+    ],
+    "DisplayMonsterMap": {
+      "2004011": 90
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueX1-2.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueX1-2.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83033
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83053
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83034
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83054
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 80,
+    "AreaProgress": 5,
+    "isActivityArea": false,
+    "Difficulty": 4,
+    "RogueAreaID": 153,
+    "AreaNameID": {
+      "hash": -738901599
+    },
+    "UnlockID": 12017,
+    "FirstReward": 105405,
+    "RecommendSkillTreePoints": 37
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2013010": 59,
+      "1023020": 59,
+      "8003010": 59,
+      "8003040": 59
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM6.png",
+    "ScoreMap": {
+      "1": 160,
+      "2": 320,
+      "3": 480,
+      "4": 800,
+      "5": 800,
+      "6": 1120,
+      "7": 1280,
+      "8": 1760,
+      "9": 1760,
+      "10": 2080,
+      "11": 2400,
+      "12": 2400,
+      "13": 3200
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114012
+      }
+    ],
+    "RecommendNature": [
+      "Fire",
+      "Quantum",
+      "Thunder"
+    ],
+    "DisplayMonsterMap": {
+      "1004011": 65
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83042
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83062
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83043
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83063
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83044
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83064
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 60,
+    "AreaProgress": 6,
+    "isActivityArea": false,
+    "Difficulty": 1,
+    "RogueAreaID": 160,
+    "AreaNameID": {
+      "hash": 827182345
+    },
+    "UnlockID": 12006,
+    "FirstReward": 105106,
+    "RecommendSkillTreePoints": 21
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2013010": 66,
+      "1023020": 66,
+      "8003010": 66,
+      "8003040": 66
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM6.png",
+    "ScoreMap": {
+      "1": 230,
+      "2": 460,
+      "3": 690,
+      "4": 1150,
+      "5": 1150,
+      "6": 1610,
+      "7": 1840,
+      "8": 2530,
+      "9": 2530,
+      "10": 2990,
+      "11": 3450,
+      "12": 3450,
+      "13": 4600
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Fire",
+      "Quantum",
+      "Thunder"
+    ],
+    "DisplayMonsterMap": {
+      "1004011": 72
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83042
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83062
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83043
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83063
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83044
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83064
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 67,
+    "AreaProgress": 6,
+    "isActivityArea": false,
+    "Difficulty": 2,
+    "RogueAreaID": 161,
+    "AreaNameID": {
+      "hash": -1901701010
+    },
+    "UnlockID": 12018,
+    "FirstReward": 105206,
+    "RecommendSkillTreePoints": 24
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2013010": 75,
+      "1023020": 75,
+      "8003010": 75,
+      "8003040": 75
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM6.png",
+    "ScoreMap": {
+      "1": 300,
+      "2": 600,
+      "3": 900,
+      "4": 1500,
+      "5": 1500,
+      "6": 2100,
+      "7": 2400,
+      "8": 3300,
+      "9": 3300,
+      "10": 3900,
+      "11": 4500,
+      "12": 4500,
+      "13": 6000
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Fire",
+      "Quantum",
+      "Thunder"
+    ],
+    "DisplayMonsterMap": {
+      "1004011": 81
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83042
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83062
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83043
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83063
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83044
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83064
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 76,
+    "AreaProgress": 6,
+    "isActivityArea": false,
+    "Difficulty": 3,
+    "RogueAreaID": 162,
+    "AreaNameID": {
+      "hash": 1989981759
+    },
+    "UnlockID": 12019,
+    "FirstReward": 105306,
+    "RecommendSkillTreePoints": 31
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2013010": 84,
+      "1023020": 84,
+      "8003010": 84,
+      "8003040": 84
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM6.png",
+    "ScoreMap": {
+      "1": 375,
+      "2": 750,
+      "3": 1125,
+      "4": 1875,
+      "5": 1875,
+      "6": 2625,
+      "7": 3000,
+      "8": 4125,
+      "9": 4125,
+      "10": 4875,
+      "11": 5625,
+      "12": 5625,
+      "13": 7500
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Fire",
+      "Quantum",
+      "Thunder"
+    ],
+    "DisplayMonsterMap": {
+      "1004011": 90
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83043
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83063
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83044
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83064
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 80,
+    "AreaProgress": 6,
+    "isActivityArea": false,
+    "Difficulty": 4,
+    "RogueAreaID": 163,
+    "AreaNameID": {
+      "hash": -738901596
+    },
+    "UnlockID": 12020,
+    "FirstReward": 105406,
+    "RecommendSkillTreePoints": 37
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2023030": 60,
+      "2023020": 60,
+      "8003020": 60,
+      "8003050": 60,
+      "1003011": 63,
+      "2013011": 63,
+      "2023011": 63
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM7.png",
+    "ScoreMap": {
+      "1": 160,
+      "2": 320,
+      "3": 480,
+      "4": 800,
+      "5": 800,
+      "6": 1120,
+      "7": 1280,
+      "8": 1760,
+      "9": 1760,
+      "10": 2080,
+      "11": 2400,
+      "12": 2400,
+      "13": 3200
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114012
+      }
+    ],
+    "RecommendNature": [
+      "Fire",
+      "Ice",
+      "Quantum"
+    ],
+    "DisplayMonsterMap": {
+      "2024011": 66
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83092
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83102
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83093
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83103
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83094
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83104
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 61,
+    "AreaProgress": 7,
+    "isActivityArea": false,
+    "Difficulty": 1,
+    "RogueAreaID": 170,
+    "AreaNameID": {
+      "hash": 827182344
+    },
+    "UnlockID": 12021,
+    "FirstReward": 105107,
+    "RecommendSkillTreePoints": 21
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2023030": 66,
+      "2023020": 66,
+      "8003020": 66,
+      "8003050": 66,
+      "1003011": 69,
+      "2013011": 69,
+      "2023011": 69
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM7.png",
+    "ScoreMap": {
+      "1": 230,
+      "2": 460,
+      "3": 690,
+      "4": 1150,
+      "5": 1150,
+      "6": 1610,
+      "7": 1840,
+      "8": 2530,
+      "9": 2530,
+      "10": 2990,
+      "11": 3450,
+      "12": 3450,
+      "13": 4600
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Fire",
+      "Ice",
+      "Quantum"
+    ],
+    "DisplayMonsterMap": {
+      "2024011": 72
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83092
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83102
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83093
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83103
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83094
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83104
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 67,
+    "AreaProgress": 7,
+    "isActivityArea": false,
+    "Difficulty": 2,
+    "RogueAreaID": 171,
+    "AreaNameID": {
+      "hash": -1901701011
+    },
+    "UnlockID": 12022,
+    "FirstReward": 105207,
+    "RecommendSkillTreePoints": 24
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2023030": 75,
+      "2023020": 75,
+      "8003020": 75,
+      "8003050": 75,
+      "1003011": 78,
+      "2013011": 78,
+      "2023011": 78
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM7.png",
+    "ScoreMap": {
+      "1": 300,
+      "2": 600,
+      "3": 900,
+      "4": 1500,
+      "5": 1500,
+      "6": 2100,
+      "7": 2400,
+      "8": 3300,
+      "9": 3300,
+      "10": 3900,
+      "11": 4500,
+      "12": 4500,
+      "13": 6000
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Fire",
+      "Ice",
+      "Quantum"
+    ],
+    "DisplayMonsterMap": {
+      "2024011": 81
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83092
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83102
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83093
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83103
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83094
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83104
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 76,
+    "AreaProgress": 7,
+    "isActivityArea": false,
+    "Difficulty": 3,
+    "RogueAreaID": 172,
+    "AreaNameID": {
+      "hash": 1989981758
+    },
+    "UnlockID": 12023,
+    "FirstReward": 105307,
+    "RecommendSkillTreePoints": 31
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2023030": 84,
+      "2023020": 84,
+      "8003020": 84,
+      "8003050": 84,
+      "1003011": 87,
+      "2013011": 87,
+      "2023011": 87
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM7.png",
+    "ScoreMap": {
+      "1": 375,
+      "2": 750,
+      "3": 1125,
+      "4": 1875,
+      "5": 1875,
+      "6": 2625,
+      "7": 3000,
+      "8": 4125,
+      "9": 4125,
+      "10": 4875,
+      "11": 5625,
+      "12": 5625,
+      "13": 7500
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Fire",
+      "Ice",
+      "Quantum"
+    ],
+    "DisplayMonsterMap": {
+      "2024011": 90
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83093
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83103
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83094
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83104
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 80,
+    "AreaProgress": 7,
+    "isActivityArea": false,
+    "Difficulty": 4,
+    "RogueAreaID": 173,
+    "AreaNameID": {
+      "hash": -738901597
+    },
+    "UnlockID": 12024,
+    "FirstReward": 105407,
+    "RecommendSkillTreePoints": 37
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2013010": 60,
+      "8003040": 60,
+      "8033010": 60,
+      "2013020": 60,
+      "8013011": 63
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM8.png",
+    "ScoreMap": {
+      "1": 160,
+      "2": 320,
+      "3": 480,
+      "4": 800,
+      "5": 800,
+      "6": 1120,
+      "7": 1280,
+      "8": 1760,
+      "9": 1760,
+      "10": 2080,
+      "11": 2400,
+      "12": 2400,
+      "13": 3200
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114012
+      }
+    ],
+    "RecommendNature": [
+      "Thunder",
+      "Wind",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "2004021": 66
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83112
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83122
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83113
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83123
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83114
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83124
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 61,
+    "AreaProgress": 8,
+    "isActivityArea": false,
+    "Difficulty": 1,
+    "RogueAreaID": 180,
+    "AreaNameID": {
+      "hash": 827182331
+    },
+    "UnlockID": 12025,
+    "FirstReward": 105108,
+    "RecommendSkillTreePoints": 21
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2013010": 66,
+      "8003040": 66,
+      "8033010": 66,
+      "2013020": 66,
+      "8013011": 69
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM8.png",
+    "ScoreMap": {
+      "1": 230,
+      "2": 460,
+      "3": 690,
+      "4": 1150,
+      "5": 1150,
+      "6": 1610,
+      "7": 1840,
+      "8": 2530,
+      "9": 2530,
+      "10": 2990,
+      "11": 3450,
+      "12": 3450,
+      "13": 4600
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Thunder",
+      "Wind",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "2004021": 72
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83112
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83122
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83113
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83123
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83114
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83124
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 67,
+    "AreaProgress": 8,
+    "isActivityArea": false,
+    "Difficulty": 2,
+    "RogueAreaID": 181,
+    "AreaNameID": {
+      "hash": -1901701024
+    },
+    "UnlockID": 12026,
+    "FirstReward": 105208,
+    "RecommendSkillTreePoints": 24
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2013010": 75,
+      "8003040": 75,
+      "8033010": 75,
+      "2013020": 75,
+      "8013011": 78
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM8.png",
+    "ScoreMap": {
+      "1": 300,
+      "2": 600,
+      "3": 900,
+      "4": 1500,
+      "5": 1500,
+      "6": 2100,
+      "7": 2400,
+      "8": 3300,
+      "9": 3300,
+      "10": 3900,
+      "11": 4500,
+      "12": 4500,
+      "13": 6000
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Thunder",
+      "Wind",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "2004021": 81
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83112
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83122
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83113
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83123
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83114
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83124
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 76,
+    "AreaProgress": 8,
+    "isActivityArea": false,
+    "Difficulty": 3,
+    "RogueAreaID": 182,
+    "AreaNameID": {
+      "hash": 1989981745
+    },
+    "UnlockID": 12027,
+    "FirstReward": 105308,
+    "RecommendSkillTreePoints": 31
+  },
+  {
+    "DisplayMonsterMap2": {
+      "2013010": 84,
+      "8003040": 84,
+      "8033010": 84,
+      "2013020": 84,
+      "8013011": 87
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM8.png",
+    "ScoreMap": {
+      "1": 375,
+      "2": 750,
+      "3": 1125,
+      "4": 1875,
+      "5": 1875,
+      "6": 2625,
+      "7": 3000,
+      "8": 4125,
+      "9": 4125,
+      "10": 4875,
+      "11": 5625,
+      "12": 5625,
+      "13": 7500
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Thunder",
+      "Wind",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "2004021": 90
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83113
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83123
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83114
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83124
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 80,
+    "AreaProgress": 8,
+    "isActivityArea": false,
+    "Difficulty": 4,
+    "RogueAreaID": 183,
+    "AreaNameID": {
+      "hash": -738901610
+    },
+    "UnlockID": 12028,
+    "FirstReward": 105408,
+    "RecommendSkillTreePoints": 37
+  },
+  {
+    "DisplayMonsterMap2": {
+      "8003010": 60,
+      "3013010": 60,
+      "3003010": 60,
+      "3003020": 60,
+      "8033011": 63,
+      "2023021": 63
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM9.png",
+    "ScoreMap": {
+      "1": 160,
+      "2": 320,
+      "3": 480,
+      "4": 800,
+      "5": 800,
+      "6": 1120,
+      "7": 1280,
+      "8": 1760,
+      "9": 1760,
+      "10": 2080,
+      "11": 2400,
+      "12": 2400,
+      "13": 3200
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114012
+      }
+    ],
+    "RecommendNature": [
+      "Fire",
+      "Wind",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "3014022": 66
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83132
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83142
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83133
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83143
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83134
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83144
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 61,
+    "AreaProgress": 9,
+    "isActivityArea": false,
+    "Difficulty": 1,
+    "RogueAreaID": 190,
+    "AreaNameID": {
+      "hash": 827182330
+    },
+    "UnlockID": 12029,
+    "FirstReward": 105109,
+    "RecommendSkillTreePoints": 21
+  },
+  {
+    "DisplayMonsterMap2": {
+      "8003010": 66,
+      "3013010": 66,
+      "3003010": 66,
+      "3003020": 66,
+      "8033011": 69,
+      "2023021": 69
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM9.png",
+    "ScoreMap": {
+      "1": 230,
+      "2": 460,
+      "3": 690,
+      "4": 1150,
+      "5": 1150,
+      "6": 1610,
+      "7": 1840,
+      "8": 2530,
+      "9": 2530,
+      "10": 2990,
+      "11": 3450,
+      "12": 3450,
+      "13": 4600
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Fire",
+      "Wind",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "3014022": 72
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83132
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83142
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83133
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83143
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83134
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83144
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 67,
+    "AreaProgress": 9,
+    "isActivityArea": false,
+    "Difficulty": 2,
+    "RogueAreaID": 191,
+    "AreaNameID": {
+      "hash": -1901701025
+    },
+    "UnlockID": 12030,
+    "FirstReward": 105209,
+    "RecommendSkillTreePoints": 24
+  },
+  {
+    "DisplayMonsterMap2": {
+      "8003010": 75,
+      "3013010": 75,
+      "3003010": 75,
+      "3003020": 75,
+      "8033011": 78,
+      "2023021": 78
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM9.png",
+    "ScoreMap": {
+      "1": 300,
+      "2": 600,
+      "3": 900,
+      "4": 1500,
+      "5": 1500,
+      "6": 2100,
+      "7": 2400,
+      "8": 3300,
+      "9": 3300,
+      "10": 3900,
+      "11": 4500,
+      "12": 4500,
+      "13": 6000
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Fire",
+      "Wind",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "3014022": 81
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83132
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83142
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83133
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83143
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83134
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83144
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 76,
+    "AreaProgress": 9,
+    "isActivityArea": false,
+    "Difficulty": 3,
+    "RogueAreaID": 192,
+    "AreaNameID": {
+      "hash": 1989981744
+    },
+    "UnlockID": 12031,
+    "FirstReward": 105309,
+    "RecommendSkillTreePoints": 31
+  },
+  {
+    "DisplayMonsterMap2": {
+      "8003010": 84,
+      "3013010": 84,
+      "3003010": 84,
+      "3003020": 84,
+      "8033011": 87,
+      "2023021": 87
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRoguePlanetM9.png",
+    "ScoreMap": {
+      "1": 375,
+      "2": 750,
+      "3": 1125,
+      "4": 1875,
+      "5": 1875,
+      "6": 2625,
+      "7": 3000,
+      "8": 4125,
+      "9": 4125,
+      "10": 4875,
+      "11": 5625,
+      "12": 5625,
+      "13": 7500
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113013
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114003
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 114013
+      }
+    ],
+    "RecommendNature": [
+      "Fire",
+      "Wind",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "3014022": 90
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM3-1.png",
+    "MapDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 89004
+      }
+    ],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM3-1.png",
+    "ChestDisplayItemList": [
+      {
+        "ItemNum": 200,
+        "ItemID": 22
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83133
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83143
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83134
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 83144
+      }
+    ],
+    "AreaEnvironment": [],
+    "RecommendLevel": 80,
+    "AreaProgress": 9,
+    "isActivityArea": false,
+    "Difficulty": 4,
+    "RogueAreaID": 193,
+    "AreaNameID": {
+      "hash": -738901611
+    },
+    "UnlockID": 12032,
+    "FirstReward": 105409,
+    "RecommendSkillTreePoints": 37
+  },
+  {
+    "DisplayMonsterMap2": {
+      "1003011": 47,
+      "1023010": 44,
+      "1013020": 44,
+      "8013010": 44
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRogueEndlessPlanet.png",
+    "ScoreMap": {
+      "1": 90,
+      "2": 180,
+      "3": 270,
+      "4": 450,
+      "5": 450,
+      "6": 630,
+      "7": 720,
+      "8": 990,
+      "9": 990,
+      "10": 1170,
+      "11": 1350,
+      "12": 1350,
+      "13": 1800
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      }
+    ],
+    "RecommendNature": [
+      "Physical",
+      "Thunder"
+    ],
+    "DisplayMonsterMap": {
+      "1004022": 50
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM1-1.png",
+    "MapDisplayItemList": [],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM1-1.png",
+    "ChestDisplayItemList": [],
+    "AreaEnvironment": [],
+    "RecommendLevel": 45,
+    "AreaProgress": 101,
+    "isActivityArea": true,
+    "Difficulty": 1,
+    "RogueAreaID": 10100,
+    "AreaNameID": {
+      "hash": -489209176
+    },
+    "UnlockID": 12006,
+    "FirstReward": 0,
+    "RecommendSkillTreePoints": 0
+  },
+  {
+    "DisplayMonsterMap2": {
+      "1003011": 47,
+      "1023010": 44,
+      "1013020": 44,
+      "8013010": 44
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRogueEndlessPlanet.png",
+    "ScoreMap": {
+      "1": 90,
+      "2": 180,
+      "3": 270,
+      "4": 450,
+      "5": 450,
+      "6": 630,
+      "7": 720,
+      "8": 990,
+      "9": 990,
+      "10": 1170,
+      "11": 1350,
+      "12": 1350,
+      "13": 1800
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      }
+    ],
+    "RecommendNature": [
+      "Fire",
+      "Quantum"
+    ],
+    "DisplayMonsterMap": {
+      "1004022": 50
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM1-1.png",
+    "MapDisplayItemList": [],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM1-1.png",
+    "ChestDisplayItemList": [],
+    "AreaEnvironment": [],
+    "RecommendLevel": 45,
+    "AreaProgress": 101,
+    "isActivityArea": true,
+    "Difficulty": 1,
+    "RogueAreaID": 10101,
+    "AreaNameID": {
+      "hash": -2055293117
+    },
+    "UnlockID": 12006,
+    "FirstReward": 0,
+    "RecommendSkillTreePoints": 0
+  },
+  {
+    "DisplayMonsterMap2": {
+      "1003011": 47,
+      "1023010": 44,
+      "1013020": 44,
+      "8013010": 44
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRogueEndlessPlanet.png",
+    "ScoreMap": {
+      "1": 90,
+      "2": 180,
+      "3": 270,
+      "4": 450,
+      "5": 450,
+      "6": 630,
+      "7": 720,
+      "8": 990,
+      "9": 990,
+      "10": 1170,
+      "11": 1350,
+      "12": 1350,
+      "13": 1800
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      }
+    ],
+    "RecommendNature": [
+      "Ice",
+      "Quantum"
+    ],
+    "DisplayMonsterMap": {
+      "1004022": 50
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM1-1.png",
+    "MapDisplayItemList": [],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM1-1.png",
+    "ChestDisplayItemList": [],
+    "AreaEnvironment": [],
+    "RecommendLevel": 45,
+    "AreaProgress": 101,
+    "isActivityArea": true,
+    "Difficulty": 1,
+    "RogueAreaID": 10102,
+    "AreaNameID": {
+      "hash": 673590238
+    },
+    "UnlockID": 12006,
+    "FirstReward": 0,
+    "RecommendSkillTreePoints": 0
+  },
+  {
+    "DisplayMonsterMap2": {
+      "1003011": 47,
+      "1023010": 44,
+      "1013020": 44,
+      "8013010": 44
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRogueEndlessPlanet.png",
+    "ScoreMap": {
+      "1": 90,
+      "2": 180,
+      "3": 270,
+      "4": 450,
+      "5": 450,
+      "6": 630,
+      "7": 720,
+      "8": 990,
+      "9": 990,
+      "10": 1170,
+      "11": 1350,
+      "12": 1350,
+      "13": 1800
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      }
+    ],
+    "RecommendNature": [
+      "Thunder",
+      "Fire"
+    ],
+    "DisplayMonsterMap": {
+      "1004022": 50
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM1-1.png",
+    "MapDisplayItemList": [],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM1-1.png",
+    "ChestDisplayItemList": [],
+    "AreaEnvironment": [],
+    "RecommendLevel": 45,
+    "AreaProgress": 101,
+    "isActivityArea": true,
+    "Difficulty": 1,
+    "RogueAreaID": 10103,
+    "AreaNameID": {
+      "hash": -892493703
+    },
+    "UnlockID": 12006,
+    "FirstReward": 0,
+    "RecommendSkillTreePoints": 0
+  },
+  {
+    "DisplayMonsterMap2": {
+      "1003011": 47,
+      "1023010": 44,
+      "1013020": 44,
+      "8013010": 44
+    },
+    "AreaTipsIcon": "SpriteOutput/Rogue/Planet/IconRogueEndlessPlanet.png",
+    "ScoreMap": {
+      "1": 90,
+      "2": 180,
+      "3": 270,
+      "4": 450,
+      "5": 450,
+      "6": 630,
+      "7": 720,
+      "8": 990,
+      "9": 990,
+      "10": 1170,
+      "11": 1350,
+      "12": 1350,
+      "13": 1800
+    },
+    "MonsterDisplayItemList": [
+      {
+        "ItemNum": 0,
+        "ItemID": 2
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 231
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 111012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 112012
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113002
+      },
+      {
+        "ItemNum": 0,
+        "ItemID": 113012
+      }
+    ],
+    "RecommendNature": [
+      "Wind",
+      "Imaginary"
+    ],
+    "DisplayMonsterMap": {
+      "1004022": 50
+    },
+    "AreaFigure": "UI/Rogue/World/PicRogueM1-1.png",
+    "MapDisplayItemList": [],
+    "AreaIcon": "SpriteOutput/Rogue/World/PicRogueM1-1.png",
+    "ChestDisplayItemList": [],
+    "AreaEnvironment": [],
+    "RecommendLevel": 45,
+    "AreaProgress": 101,
+    "isActivityArea": true,
+    "Difficulty": 1,
+    "RogueAreaID": 10104,
+    "AreaNameID": {
+      "hash": 1480159292
+    },
+    "UnlockID": 12006,
+    "FirstReward": 0,
+    "RecommendSkillTreePoints": 0
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "LevelColor": "#699578",
+    "StatusLevel": 1,
+    "LevelText": {
+      "hash": -988690287
+    },
+    "StatusValue": 0
+  },
+  {
+    "LevelColor": "#699578",
+    "StatusLevel": 2,
+    "LevelText": {
+      "hash": 1740193068
+    },
+    "StatusValue": 50
+  },
+  {
+    "LevelColor": "#699578",
+    "StatusLevel": 3,
+    "LevelText": {
+      "hash": 174109127
+    },
+    "StatusValue": 125
+  },
+  {
+    "LevelColor": "#694ac9",
+    "StatusLevel": 4,
+    "LevelText": {
+      "hash": -1748205174
+    },
+    "StatusValue": 250
+  },
+  {
+    "LevelColor": "#694ac9",
+    "StatusLevel": 5,
+    "LevelText": {
+      "hash": 980678181
+    },
+    "StatusValue": 350
+  },
+  {
+    "LevelColor": "#694ac9",
+    "StatusLevel": 6,
+    "LevelText": {
+      "hash": -585405760
+    },
+    "StatusValue": 500
+  },
+  {
+    "LevelColor": "#a7211c",
+    "StatusLevel": 7,
+    "LevelText": {
+      "hash": 2143477595
+    },
+    "StatusValue": 600
+  },
+  {
+    "LevelColor": "#a7211c",
+    "StatusLevel": 8,
+    "LevelText": {
+      "hash": 221163294
+    },
+    "StatusValue": 800
+  },
+  {
+    "LevelColor": "#a7211c",
+    "StatusLevel": 9,
+    "LevelText": {
+      "hash": -1344920647
+    },
+    "StatusValue": 1000
+  }
+]

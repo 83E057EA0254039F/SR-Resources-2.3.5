@@ -1,0 +1,52 @@
+[
+  {
+    "MoodIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingEmoIcon3.png",
+    "EffectIDList": [
+      40001
+    ],
+    "EffectDesc": {
+      "hash": -944870669
+    },
+    "MaximumValue": 19,
+    "MoodLevel": 1,
+    "MinimumValue": 0,
+    "MoodStatus": "Low"
+  },
+  {
+    "MoodIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingEmoIcon3.png",
+    "EffectIDList": [
+      40002
+    ],
+    "EffectDesc": {
+      "hash": -541586142
+    },
+    "MaximumValue": 39,
+    "MoodLevel": 2,
+    "MinimumValue": 20,
+    "MoodStatus": "Middle"
+  },
+  {
+    "MoodIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingEmoIcon1.png",
+    "EffectIDList": [],
+    "EffectDesc": {
+      "hash": 371857150
+    },
+    "MaximumValue": 79,
+    "MoodLevel": 3,
+    "MinimumValue": 40,
+    "MoodStatus": "Normal"
+  },
+  {
+    "MoodIcon": "SpriteOutput/Quest/SwordTraining/SwordTrainingIcon/SwordTrainingEmoIcon1.png",
+    "EffectIDList": [
+      40004
+    ],
+    "EffectDesc": {
+      "hash": -1704385556
+    },
+    "MaximumValue": 150,
+    "MoodLevel": 4,
+    "MinimumValue": 80,
+    "MoodStatus": "High"
+  }
+]

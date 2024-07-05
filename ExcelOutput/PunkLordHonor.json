@@ -1,0 +1,44 @@
+[
+  {
+    "DisplayPriority": 1,
+    "HonorID": 1,
+    "HonorName": {
+      "hash": 1750676926
+    }
+  },
+  {
+    "DisplayPriority": 2,
+    "HonorID": 2,
+    "HonorName": {
+      "hash": 1750676925
+    }
+  },
+  {
+    "DisplayPriority": 3,
+    "HonorID": 3,
+    "HonorName": {
+      "hash": 1750676924
+    }
+  },
+  {
+    "DisplayPriority": 4,
+    "HonorID": 4,
+    "HonorName": {
+      "hash": 1750676931
+    }
+  },
+  {
+    "DisplayPriority": 5,
+    "HonorID": 5,
+    "HonorName": {
+      "hash": 1750676930
+    }
+  },
+  {
+    "DisplayPriority": 7,
+    "HonorID": 6,
+    "HonorName": {
+      "hash": 1750676929
+    }
+  }
+]

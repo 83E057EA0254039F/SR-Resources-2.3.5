@@ -1,0 +1,90 @@
+[
+  {
+    "EventCostOption": 3000,
+    "ChoiceID": 201,
+    "EventRewardBuff": 15,
+    "EventRewardFund": 0,
+    "EventBuffDay": 3,
+    "IsCancel": false,
+    "Option": {
+      "hash": 1543620892
+    }
+  },
+  {
+    "EventCostOption": 0,
+    "ChoiceID": 202,
+    "EventRewardBuff": 0,
+    "EventRewardFund": 0,
+    "EventBuffDay": 0,
+    "IsCancel": true,
+    "Option": {
+      "hash": -1179736213
+    }
+  },
+  {
+    "EventCostOption": 10000,
+    "ChoiceID": 301,
+    "EventRewardBuff": 15,
+    "EventRewardFund": 0,
+    "EventBuffDay": 3,
+    "IsCancel": false,
+    "Option": {
+      "hash": 1543620892
+    }
+  },
+  {
+    "EventCostOption": 0,
+    "ChoiceID": 302,
+    "EventRewardBuff": 0,
+    "EventRewardFund": 0,
+    "EventBuffDay": 0,
+    "IsCancel": true,
+    "Option": {
+      "hash": -1179736213
+    }
+  },
+  {
+    "EventCostOption": 35000,
+    "ChoiceID": 401,
+    "EventRewardBuff": 15,
+    "EventRewardFund": 0,
+    "EventBuffDay": 3,
+    "IsCancel": false,
+    "Option": {
+      "hash": 1543620892
+    }
+  },
+  {
+    "EventCostOption": 0,
+    "ChoiceID": 402,
+    "EventRewardBuff": 0,
+    "EventRewardFund": 0,
+    "EventBuffDay": 0,
+    "IsCancel": true,
+    "Option": {
+      "hash": -1179736213
+    }
+  },
+  {
+    "EventCostOption": 60000,
+    "ChoiceID": 501,
+    "EventRewardBuff": 15,
+    "EventRewardFund": 0,
+    "EventBuffDay": 3,
+    "IsCancel": false,
+    "Option": {
+      "hash": 1543620892
+    }
+  },
+  {
+    "EventCostOption": 0,
+    "ChoiceID": 502,
+    "EventRewardBuff": 0,
+    "EventRewardFund": 0,
+    "EventBuffDay": 0,
+    "IsCancel": true,
+    "Option": {
+      "hash": -1179736213
+    }
+  }
+]

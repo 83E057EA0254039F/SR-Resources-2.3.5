@@ -1,0 +1,3986 @@
+[
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_001.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsKnight.png",
+    "TalkNameID": 1,
+    "SubName": {
+      "hash": 1339543455
+    },
+    "ImageID": 201,
+    "Name": {
+      "hash": 1389708315
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_006.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsMemory.png",
+    "TalkNameID": 2,
+    "SubName": {
+      "hash": 1339543456
+    },
+    "ImageID": 202,
+    "Name": {
+      "hash": -176375626
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_004.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarlock.png",
+    "TalkNameID": 3,
+    "SubName": {
+      "hash": 1339543457
+    },
+    "ImageID": 203,
+    "Name": {
+      "hash": -1742459567
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_003.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPirest.png",
+    "TalkNameID": 4,
+    "SubName": {
+      "hash": 1339543458
+    },
+    "ImageID": 204,
+    "Name": {
+      "hash": 630193428
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_005.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsRogue.png",
+    "TalkNameID": 5,
+    "SubName": {
+      "hash": 1339543459
+    },
+    "ImageID": 205,
+    "Name": {
+      "hash": -935890513
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_002.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsWarrior.png",
+    "TalkNameID": 6,
+    "SubName": {
+      "hash": 1339543460
+    },
+    "ImageID": 206,
+    "Name": {
+      "hash": 1792992842
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_007.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsJoy.png",
+    "TalkNameID": 7,
+    "SubName": {
+      "hash": 1339543461
+    },
+    "ImageID": 207,
+    "Name": {
+      "hash": 226908901
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "TalkNameID": 8,
+    "SubName": {
+      "hash": 1339543462
+    },
+    "ImageID": 301,
+    "Name": {
+      "hash": -982944680
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta2.png",
+    "IconPath": "",
+    "TalkNameID": 9,
+    "SubName": {
+      "hash": 1339543463
+    },
+    "ImageID": 302,
+    "Name": {
+      "hash": 1745938675
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_001.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsOrder.png",
+    "TalkNameID": 10,
+    "SubName": {
+      "hash": -1589107089
+    },
+    "ImageID": 208,
+    "Name": {
+      "hash": 1363661163
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_008.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsShaman.png",
+    "TalkNameID": 11,
+    "SubName": {
+      "hash": -23023148
+    },
+    "ImageID": 209,
+    "Name": {
+      "hash": 1363661162
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_001.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsOroboros.png",
+    "TalkNameID": 12,
+    "SubName": {
+      "hash": -426307675
+    },
+    "ImageID": 210,
+    "Name": {
+      "hash": 1363661165
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta3.png",
+    "IconPath": "",
+    "TalkNameID": 13,
+    "SubName": {
+      "hash": 1139776266
+    },
+    "ImageID": 303,
+    "Name": {
+      "hash": 1363661164
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsPropagation.png",
+    "TalkNameID": 14,
+    "SubName": {
+      "hash": 736491739
+    },
+    "ImageID": 211,
+    "Name": {
+      "hash": 1363661167
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 15,
+    "SubName": {
+      "hash": -1992391616
+    },
+    "ImageID": 304,
+    "Name": {
+      "hash": 1363661166
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 16,
+    "SubName": {
+      "hash": 1899291153
+    },
+    "ImageID": 305,
+    "Name": {
+      "hash": 1363661169
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsnMage.png",
+    "TalkNameID": 17,
+    "SubName": {
+      "hash": -829592202
+    },
+    "ImageID": 212,
+    "Name": {
+      "hash": 1363661168
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 18,
+    "SubName": {
+      "hash": -1945337449
+    },
+    "ImageID": 213,
+    "Name": {
+      "hash": 1363661155
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "SpriteOutput/AvatarProfessionTattoo/Profession/BgPathsMythus.png",
+    "TalkNameID": 19,
+    "SubName": {
+      "hash": -379253508
+    },
+    "ImageID": 214,
+    "Name": {
+      "hash": 1363661154
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 139,
+    "SubName": {
+      "hash": 1826559233
+    },
+    "ImageID": 408,
+    "Name": {
+      "hash": -1599333671
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 140,
+    "SubName": {
+      "hash": 1423274699
+    },
+    "ImageID": 409,
+    "Name": {
+      "hash": 773319327
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 141,
+    "SubName": {
+      "hash": 1423274698
+    },
+    "ImageID": 409,
+    "Name": {
+      "hash": -1955564028
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 142,
+    "SubName": {
+      "hash": 1423274701
+    },
+    "ImageID": 412,
+    "Name": {
+      "hash": 1936118741
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 143,
+    "SubName": {
+      "hash": 1423274700
+    },
+    "ImageID": 412,
+    "Name": {
+      "hash": -792764614
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 144,
+    "SubName": {
+      "hash": 1423274703
+    },
+    "ImageID": 410,
+    "Name": {
+      "hash": -1552279501
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 145,
+    "SubName": {
+      "hash": 1423274702
+    },
+    "ImageID": 410,
+    "Name": {
+      "hash": 13804440
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 146,
+    "SubName": {
+      "hash": 1423274705
+    },
+    "ImageID": 410,
+    "Name": {
+      "hash": -389480087
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 147,
+    "SubName": {
+      "hash": 1423274704
+    },
+    "ImageID": 409,
+    "Name": {
+      "hash": 1176603854
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 148,
+    "SubName": {
+      "hash": 1423274707
+    },
+    "ImageID": 412,
+    "Name": {
+      "hash": 1129549687
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 149,
+    "SubName": {
+      "hash": 1423274706
+    },
+    "ImageID": 407,
+    "Name": {
+      "hash": -1599333668
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 150,
+    "SubName": {
+      "hash": -1305608656
+    },
+    "ImageID": 408,
+    "Name": {
+      "hash": 773319326
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 151,
+    "SubName": {
+      "hash": -1305608657
+    },
+    "ImageID": 408,
+    "Name": {
+      "hash": -1955564029
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 152,
+    "SubName": {
+      "hash": -1305608654
+    },
+    "ImageID": 407,
+    "Name": {
+      "hash": 1936118740
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 153,
+    "SubName": {
+      "hash": -1305608655
+    },
+    "ImageID": 407,
+    "Name": {
+      "hash": -792764615
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 154,
+    "SubName": {
+      "hash": -1305608652
+    },
+    "ImageID": 411,
+    "Name": {
+      "hash": -1552279502
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 155,
+    "SubName": {
+      "hash": -1305608653
+    },
+    "ImageID": 411,
+    "Name": {
+      "hash": 13804439
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 156,
+    "SubName": {
+      "hash": -1305608650
+    },
+    "ImageID": 408,
+    "Name": {
+      "hash": -389480088
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 157,
+    "SubName": {
+      "hash": -1305608651
+    },
+    "ImageID": 411,
+    "Name": {
+      "hash": 1176603853
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 158,
+    "SubName": {
+      "hash": -1305608648
+    },
+    "ImageID": 407,
+    "Name": {
+      "hash": 1129549686
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 159,
+    "SubName": {
+      "hash": -1305608649
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": -1599333669
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_009.png",
+    "IconPath": "",
+    "TalkNameID": 160,
+    "SubName": {
+      "hash": -1708893183
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": 773319329
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 161,
+    "SubName": {
+      "hash": -1708893184
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": -1955564026
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 162,
+    "SubName": {
+      "hash": -1708893181
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": 1936118743
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 163,
+    "SubName": {
+      "hash": -1708893182
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": -792764612
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 164,
+    "SubName": {
+      "hash": -1708893179
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": -1552279499
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 165,
+    "SubName": {
+      "hash": -1708893180
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": 13804442
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 166,
+    "SubName": {
+      "hash": -1708893177
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": -389480085
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 167,
+    "SubName": {
+      "hash": -1708893178
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": 1176603856
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 168,
+    "SubName": {
+      "hash": -1708893175
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": 1129549689
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 169,
+    "SubName": {
+      "hash": -1708893176
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": -1599333666
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 170,
+    "SubName": {
+      "hash": -142809242
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": 773319328
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 171,
+    "SubName": {
+      "hash": -142809243
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": -1955564027
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 172,
+    "SubName": {
+      "hash": -142809240
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": 1936118742
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 173,
+    "SubName": {
+      "hash": -142809241
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": -792764613
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 174,
+    "SubName": {
+      "hash": -142809238
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": -1552279500
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 175,
+    "SubName": {
+      "hash": -142809239
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": 13804441
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 176,
+    "SubName": {
+      "hash": -142809236
+    },
+    "ImageID": 413,
+    "Name": {
+      "hash": -389480086
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 398,
+    "SubName": {
+      "hash": 307529526
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 847224672
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "TalkNameID": 10000,
+    "SubName": {
+      "hash": -1849307361
+    },
+    "ImageID": 301,
+    "Name": {
+      "hash": 1887116059
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "TalkNameID": 10001,
+    "SubName": {
+      "hash": -1849307362
+    },
+    "ImageID": 301,
+    "Name": {
+      "hash": -841767296
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "TalkNameID": 10002,
+    "SubName": {
+      "hash": -1849307359
+    },
+    "ImageID": 301,
+    "Name": {
+      "hash": -1245051823
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 10101,
+    "SubName": {
+      "hash": -1849307329
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 1907319035
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Historian.png",
+    "IconPath": "",
+    "TalkNameID": 10201,
+    "SubName": {
+      "hash": -1849307296
+    },
+    "ImageID": 102,
+    "Name": {
+      "hash": -1124092298
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Historian.png",
+    "IconPath": "",
+    "TalkNameID": 10202,
+    "SubName": {
+      "hash": -1849307297
+    },
+    "ImageID": 102,
+    "Name": {
+      "hash": 441991643
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 10301,
+    "SubName": {
+      "hash": -1849307263
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 1624994033
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 10401,
+    "SubName": {
+      "hash": -1849307230
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -277117292
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 10501,
+    "SubName": {
+      "hash": -1849307197
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -1822998257
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 10601,
+    "SubName": {
+      "hash": -1849307164
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -559442294
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Pixel.png",
+    "IconPath": "",
+    "TalkNameID": 10701,
+    "SubName": {
+      "hash": -1849307131
+    },
+    "ImageID": 103,
+    "Name": {
+      "hash": -2105323259
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Toy.png",
+    "IconPath": "",
+    "TalkNameID": 10801,
+    "SubName": {
+      "hash": -1849307098
+    },
+    "ImageID": 104,
+    "Name": {
+      "hash": -1971067304
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bond.png",
+    "IconPath": "",
+    "TalkNameID": 10901,
+    "SubName": {
+      "hash": -1849307065
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": 778019027
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bond.png",
+    "IconPath": "",
+    "TalkNameID": 10902,
+    "SubName": {
+      "hash": -1849307064
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": -788064914
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 11001,
+    "SubName": {
+      "hash": 1141698019
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -841767393
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 11101,
+    "SubName": {
+      "hash": 1141698052
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 1907318938
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bonus.png",
+    "IconPath": "",
+    "TalkNameID": 11201,
+    "SubName": {
+      "hash": 1141698085
+    },
+    "ImageID": 106,
+    "Name": {
+      "hash": -1124092395
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_ThreePig.png",
+    "IconPath": "",
+    "TalkNameID": 11301,
+    "SubName": {
+      "hash": 1141698118
+    },
+    "ImageID": 107,
+    "Name": {
+      "hash": 1624993936
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 11401,
+    "SubName": {
+      "hash": 1141698151
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -277117389
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 11501,
+    "SubName": {
+      "hash": 1141698184
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -1822998354
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 11601,
+    "SubName": {
+      "hash": 1141698217
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -559442391
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "TalkNameID": 11701,
+    "SubName": {
+      "hash": 1141698250
+    },
+    "ImageID": 108,
+    "Name": {
+      "hash": -2105323356
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "TalkNameID": 11702,
+    "SubName": {
+      "hash": 1141698247
+    },
+    "ImageID": 108,
+    "Name": {
+      "hash": -1702038829
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "TalkNameID": 11703,
+    "SubName": {
+      "hash": 1141698248
+    },
+    "ImageID": 108,
+    "Name": {
+      "hash": 1026844526
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 11801,
+    "SubName": {
+      "hash": 1141698283
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -1971067401
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "TalkNameID": 11901,
+    "SubName": {
+      "hash": 1141698316
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": 778018930
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "TalkNameID": 11902,
+    "SubName": {
+      "hash": 1141698317
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": -788065011
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "TalkNameID": 11903,
+    "SubName": {
+      "hash": 1141698318
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": 1940818344
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 12001,
+    "SubName": {
+      "hash": -2131632364
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -841767230
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 12101,
+    "SubName": {
+      "hash": -2131632331
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 1907319101
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 13301,
+    "SubName": {
+      "hash": 859373116
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 1624994002
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 13302,
+    "SubName": {
+      "hash": 859373113
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 2028278529
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 13501,
+    "SubName": {
+      "hash": 859373182
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -1822998288
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 13502,
+    "SubName": {
+      "hash": 859373183
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 905885067
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 13503,
+    "SubName": {
+      "hash": 859373184
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -660198874
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 13401,
+    "SubName": {
+      "hash": 859373149
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": -277117323
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 13402,
+    "SubName": {
+      "hash": 859373152
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": -680401850
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 13601,
+    "SubName": {
+      "hash": 859373215
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": -559442325
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 13602,
+    "SubName": {
+      "hash": 859373214
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 1006641616
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 13603,
+    "SubName": {
+      "hash": 859373213
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": -1722241739
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 13701,
+    "SubName": {
+      "hash": 859373248
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": -2105323290
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 13702,
+    "SubName": {
+      "hash": 859373245
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": -1702038763
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 13703,
+    "SubName": {
+      "hash": 859373246
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 1026844592
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 13704,
+    "SubName": {
+      "hash": 859373243
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 1786359479
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 13705,
+    "SubName": {
+      "hash": 859373244
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 220275538
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "TalkNameID": 13801,
+    "SubName": {
+      "hash": 859373281
+    },
+    "ImageID": 111,
+    "Name": {
+      "hash": -1971067335
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "TalkNameID": 13901,
+    "SubName": {
+      "hash": 859373314
+    },
+    "ImageID": 111,
+    "Name": {
+      "hash": 778018996
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "TalkNameID": 14001,
+    "SubName": {
+      "hash": 1881009930
+    },
+    "ImageID": 111,
+    "Name": {
+      "hash": -841767164
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114601,
+    "SubName": {
+      "hash": -1836682667
+    },
+    "ImageID": 401,
+    "Name": {
+      "hash": -143782715
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114701,
+    "SubName": {
+      "hash": -1695520166
+    },
+    "ImageID": 401,
+    "Name": {
+      "hash": -143782748
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114801,
+    "SubName": {
+      "hash": 139592347
+    },
+    "ImageID": 401,
+    "Name": {
+      "hash": -143783177
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114901,
+    "SubName": {
+      "hash": 280754848
+    },
+    "ImageID": 401,
+    "Name": {
+      "hash": -143783210
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 115001,
+    "SubName": {
+      "hash": -989707630
+    },
+    "ImageID": 401,
+    "Name": {
+      "hash": 1442504004
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 115101,
+    "SubName": {
+      "hash": -848545129
+    },
+    "ImageID": 401,
+    "Name": {
+      "hash": 1442503971
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 115201,
+    "SubName": {
+      "hash": -1272032632
+    },
+    "ImageID": 401,
+    "Name": {
+      "hash": 1442504070
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 115301,
+    "SubName": {
+      "hash": -1130870131
+    },
+    "ImageID": 401,
+    "Name": {
+      "hash": 1442504037
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 115401,
+    "SubName": {
+      "hash": -1554357634
+    },
+    "ImageID": 401,
+    "Name": {
+      "hash": 1442504136
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 115501,
+    "SubName": {
+      "hash": -1413195133
+    },
+    "ImageID": 402,
+    "Name": {
+      "hash": 1442504103
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 115601,
+    "SubName": {
+      "hash": -1836682636
+    },
+    "ImageID": 402,
+    "Name": {
+      "hash": 1442504202
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 115701,
+    "SubName": {
+      "hash": -1695520135
+    },
+    "ImageID": 402,
+    "Name": {
+      "hash": 1442504169
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 115801,
+    "SubName": {
+      "hash": 139592378
+    },
+    "ImageID": 402,
+    "Name": {
+      "hash": 1442503740
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 115901,
+    "SubName": {
+      "hash": 280754879
+    },
+    "ImageID": 402,
+    "Name": {
+      "hash": 1442503707
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 116001,
+    "SubName": {
+      "hash": -989707595
+    },
+    "ImageID": 402,
+    "Name": {
+      "hash": -426107915
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 116101,
+    "SubName": {
+      "hash": -848545094
+    },
+    "ImageID": 402,
+    "Name": {
+      "hash": -426107948
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 116201,
+    "SubName": {
+      "hash": -1272032597
+    },
+    "ImageID": 402,
+    "Name": {
+      "hash": -426107849
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 116301,
+    "SubName": {
+      "hash": -1130870096
+    },
+    "ImageID": 402,
+    "Name": {
+      "hash": -426107882
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 116401,
+    "SubName": {
+      "hash": -1554357599
+    },
+    "ImageID": 402,
+    "Name": {
+      "hash": -426107783
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 116501,
+    "SubName": {
+      "hash": -1413195098
+    },
+    "ImageID": 402,
+    "Name": {
+      "hash": -426107816
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 116601,
+    "SubName": {
+      "hash": -1836682601
+    },
+    "ImageID": 402,
+    "Name": {
+      "hash": -426107717
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 116701,
+    "SubName": {
+      "hash": -1695520100
+    },
+    "ImageID": 403,
+    "Name": {
+      "hash": -426107750
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 116801,
+    "SubName": {
+      "hash": 139592413
+    },
+    "ImageID": 403,
+    "Name": {
+      "hash": -426108179
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 116901,
+    "SubName": {
+      "hash": 280754914
+    },
+    "ImageID": 403,
+    "Name": {
+      "hash": -426108212
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 117001,
+    "SubName": {
+      "hash": -989707564
+    },
+    "ImageID": 403,
+    "Name": {
+      "hash": 1160179002
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 117101,
+    "SubName": {
+      "hash": -848545063
+    },
+    "ImageID": 403,
+    "Name": {
+      "hash": 1160178969
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 117201,
+    "SubName": {
+      "hash": -1272032566
+    },
+    "ImageID": 403,
+    "Name": {
+      "hash": 1160179068
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 117301,
+    "SubName": {
+      "hash": -1130870065
+    },
+    "ImageID": 401,
+    "Name": {
+      "hash": 1160179035
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 117401,
+    "SubName": {
+      "hash": -1554357568
+    },
+    "ImageID": 401,
+    "Name": {
+      "hash": 1160179134
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 117501,
+    "SubName": {
+      "hash": -1413195067
+    },
+    "ImageID": 401,
+    "Name": {
+      "hash": 1160179101
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 117601,
+    "SubName": {
+      "hash": -1836682570
+    },
+    "ImageID": 404,
+    "Name": {
+      "hash": 1160179200
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 117701,
+    "SubName": {
+      "hash": -1695520069
+    },
+    "ImageID": 404,
+    "Name": {
+      "hash": 1160179167
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 117801,
+    "SubName": {
+      "hash": 139592444
+    },
+    "ImageID": 404,
+    "Name": {
+      "hash": 1160178738
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 117901,
+    "SubName": {
+      "hash": 280754945
+    },
+    "ImageID": 404,
+    "Name": {
+      "hash": 1160178705
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118001,
+    "SubName": {
+      "hash": -989707529
+    },
+    "ImageID": 404,
+    "Name": {
+      "hash": -1837732925
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118101,
+    "SubName": {
+      "hash": -848545028
+    },
+    "ImageID": 404,
+    "Name": {
+      "hash": -1837732958
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118201,
+    "SubName": {
+      "hash": -1272032531
+    },
+    "ImageID": 405,
+    "Name": {
+      "hash": -1837732859
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118301,
+    "SubName": {
+      "hash": -1130870030
+    },
+    "ImageID": 405,
+    "Name": {
+      "hash": -1837732892
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118401,
+    "SubName": {
+      "hash": -1554357533
+    },
+    "ImageID": 405,
+    "Name": {
+      "hash": -1837732793
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118501,
+    "SubName": {
+      "hash": -1413195032
+    },
+    "ImageID": 406,
+    "Name": {
+      "hash": -1837732826
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118601,
+    "SubName": {
+      "hash": -1836682535
+    },
+    "ImageID": 406,
+    "Name": {
+      "hash": -1837732727
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118701,
+    "SubName": {
+      "hash": -1695520034
+    },
+    "ImageID": 406,
+    "Name": {
+      "hash": -1837732760
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "TalkNameID": 110003,
+    "SubName": {
+      "hash": 173091621
+    },
+    "ImageID": 301,
+    "Name": {
+      "hash": -708432915
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "TalkNameID": 110004,
+    "SubName": {
+      "hash": -1392992320
+    },
+    "ImageID": 303,
+    "Name": {
+      "hash": -708432914
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "TalkNameID": 110005,
+    "SubName": {
+      "hash": 1335891035
+    },
+    "ImageID": 301,
+    "Name": {
+      "hash": -708432913
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/HoshinoKami/HoshinoKami_Herta.png",
+    "IconPath": "",
+    "TalkNameID": 110006,
+    "SubName": {
+      "hash": -230192906
+    },
+    "ImageID": 303,
+    "Name": {
+      "hash": -708432912
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 110101,
+    "SubName": {
+      "hash": -848545292
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -708432950
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Historian.png",
+    "IconPath": "",
+    "TalkNameID": 110201,
+    "SubName": {
+      "hash": -1272032795
+    },
+    "ImageID": 102,
+    "Name": {
+      "hash": -708432851
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 110301,
+    "SubName": {
+      "hash": -1130870294
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -708432884
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 110401,
+    "SubName": {
+      "hash": -1554357797
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -708432785
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 110501,
+    "SubName": {
+      "hash": -1413195296
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -708432818
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 110601,
+    "SubName": {
+      "hash": -1836682799
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -708432719
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Pixel.png",
+    "IconPath": "",
+    "TalkNameID": 110701,
+    "SubName": {
+      "hash": -1695520298
+    },
+    "ImageID": 103,
+    "Name": {
+      "hash": -708432752
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Toy.png",
+    "IconPath": "",
+    "TalkNameID": 110801,
+    "SubName": {
+      "hash": 139592215
+    },
+    "ImageID": 104,
+    "Name": {
+      "hash": -708433181
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bond.png",
+    "IconPath": "",
+    "TalkNameID": 110901,
+    "SubName": {
+      "hash": 280754716
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": -708433214
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 111001,
+    "SubName": {
+      "hash": -989707762
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 877854000
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 111101,
+    "SubName": {
+      "hash": -848545261
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 877853967
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bonus.png",
+    "IconPath": "",
+    "TalkNameID": 111201,
+    "SubName": {
+      "hash": -1272032764
+    },
+    "ImageID": 106,
+    "Name": {
+      "hash": 877854066
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_ThreePig.png",
+    "IconPath": "",
+    "TalkNameID": 111301,
+    "SubName": {
+      "hash": -1130870263
+    },
+    "ImageID": 107,
+    "Name": {
+      "hash": 877854033
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 111401,
+    "SubName": {
+      "hash": -1554357766
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 877854132
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 111501,
+    "SubName": {
+      "hash": -1413195265
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 877854099
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 111601,
+    "SubName": {
+      "hash": -1836682768
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 877854198
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "TalkNameID": 111701,
+    "SubName": {
+      "hash": -1695520267
+    },
+    "ImageID": 108,
+    "Name": {
+      "hash": 877854165
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "TalkNameID": 111702,
+    "SubName": {
+      "hash": -129436326
+    },
+    "ImageID": 108,
+    "Name": {
+      "hash": 877854164
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "TalkNameID": 111703,
+    "SubName": {
+      "hash": 1436647615
+    },
+    "ImageID": 108,
+    "Name": {
+      "hash": 877854163
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 111801,
+    "SubName": {
+      "hash": 139592246
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 877853736
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "TalkNameID": 111901,
+    "SubName": {
+      "hash": 280754747
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": 877853703
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "TalkNameID": 111902,
+    "SubName": {
+      "hash": -122529780
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": 877853706
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "TalkNameID": 111903,
+    "SubName": {
+      "hash": 1443554161
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": 877853705
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 112001,
+    "SubName": {
+      "hash": -989707727
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -990757919
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 112101,
+    "SubName": {
+      "hash": -848545226
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -990757952
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 113301,
+    "SubName": {
+      "hash": -1130870197
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 595529031
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 113302,
+    "SubName": {
+      "hash": 435213744
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 595529030
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 113501,
+    "SubName": {
+      "hash": -1413195199
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 595529097
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 113502,
+    "SubName": {
+      "hash": -1816479726
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 595529100
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 113503,
+    "SubName": {
+      "hash": -250395785
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 595529099
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 113401,
+    "SubName": {
+      "hash": -1554357700
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 595529130
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 113402,
+    "SubName": {
+      "hash": 1174525655
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 595529131
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 113601,
+    "SubName": {
+      "hash": -1836682702
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 595529196
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 113602,
+    "SubName": {
+      "hash": -1433398175
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 595529193
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 113603,
+    "SubName": {
+      "hash": 1295485180
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 595529194
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 113701,
+    "SubName": {
+      "hash": -1695520201
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 595529163
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 113702,
+    "SubName": {
+      "hash": -129436260
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 595529162
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 113703,
+    "SubName": {
+      "hash": 1436647681
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 595529161
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 113704,
+    "SubName": {
+      "hash": -1292235674
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 595529160
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 113705,
+    "SubName": {
+      "hash": 273848267
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 595529159
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "TalkNameID": 113801,
+    "SubName": {
+      "hash": 139592312
+    },
+    "ImageID": 111,
+    "Name": {
+      "hash": 595528734
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "TalkNameID": 113901,
+    "SubName": {
+      "hash": 280754813
+    },
+    "ImageID": 111,
+    "Name": {
+      "hash": 595528701
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "TalkNameID": 114001,
+    "SubName": {
+      "hash": -989707661
+    },
+    "ImageID": 111,
+    "Name": {
+      "hash": -143782913
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 112201,
+    "SubName": {
+      "hash": -1272032729
+    },
+    "ImageID": 112,
+    "Name": {
+      "hash": -990757853
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 112301,
+    "SubName": {
+      "hash": -1130870228
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -990757886
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 112401,
+    "SubName": {
+      "hash": -1554357731
+    },
+    "ImageID": 117,
+    "Name": {
+      "hash": -990757787
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 112501,
+    "SubName": {
+      "hash": -1413195230
+    },
+    "ImageID": 114,
+    "Name": {
+      "hash": -990757820
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 112601,
+    "SubName": {
+      "hash": -1836682733
+    },
+    "ImageID": 104,
+    "Name": {
+      "hash": -990757721
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 112701,
+    "SubName": {
+      "hash": -1695520232
+    },
+    "ImageID": 108,
+    "Name": {
+      "hash": -990757754
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 112801,
+    "SubName": {
+      "hash": 139592281
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": -990758183
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 112901,
+    "SubName": {
+      "hash": 280754782
+    },
+    "ImageID": 116,
+    "Name": {
+      "hash": -990758216
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 113001,
+    "SubName": {
+      "hash": -989707696
+    },
+    "ImageID": 104,
+    "Name": {
+      "hash": 595528998
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114201,
+    "SubName": {
+      "hash": -1272032663
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": -143782847
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114202,
+    "SubName": {
+      "hash": -868748136
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": -143782850
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114203,
+    "SubName": {
+      "hash": 1860135219
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": -143782849
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114204,
+    "SubName": {
+      "hash": -1675317190
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": -143782844
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114301,
+    "SubName": {
+      "hash": -1130870162
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": -143782880
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114302,
+    "SubName": {
+      "hash": 435213779
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": -143782881
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114401,
+    "SubName": {
+      "hash": -1554357665
+    },
+    "ImageID": 113,
+    "Name": {
+      "hash": -143782781
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114402,
+    "SubName": {
+      "hash": 1174525690
+    },
+    "ImageID": 113,
+    "Name": {
+      "hash": -143782780
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114501,
+    "SubName": {
+      "hash": -1413195164
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -143782814
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118801,
+    "SubName": {
+      "hash": 139592479
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -1837733189
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118802,
+    "SubName": {
+      "hash": -1426491462
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -1837733188
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118803,
+    "SubName": {
+      "hash": 1302391893
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -1837733187
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118901,
+    "SubName": {
+      "hash": 280754980
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -1837733222
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118902,
+    "SubName": {
+      "hash": -122529547
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -1837733219
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 118903,
+    "SubName": {
+      "hash": 1443554394
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -1837733220
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119001,
+    "SubName": {
+      "hash": -989707498
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -251446008
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119002,
+    "SubName": {
+      "hash": 1739175857
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -251446007
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119003,
+    "SubName": {
+      "hash": 173091916
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -251446006
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119101,
+    "SubName": {
+      "hash": -848544997
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -251446041
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119102,
+    "SubName": {
+      "hash": -1251829524
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -251446038
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119201,
+    "SubName": {
+      "hash": -1272032500
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -251445942
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119202,
+    "SubName": {
+      "hash": -868747973
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -251445945
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119203,
+    "SubName": {
+      "hash": 1860135382
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -251445944
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119301,
+    "SubName": {
+      "hash": -1130869999
+    },
+    "ImageID": 108,
+    "Name": {
+      "hash": -251445975
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119401,
+    "SubName": {
+      "hash": -1554357502
+    },
+    "ImageID": 103,
+    "Name": {
+      "hash": -251445876
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119501,
+    "SubName": {
+      "hash": -1413195001
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -251445909
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119502,
+    "SubName": {
+      "hash": -1816479528
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -251445906
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119503,
+    "SubName": {
+      "hash": -250395587
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -251445907
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 119504,
+    "SubName": {
+      "hash": -1009910474
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -251445912
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114101,
+    "SubName": {
+      "hash": -848545160
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": -143782946
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114102,
+    "SubName": {
+      "hash": -1251829687
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": -143782943
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 114103,
+    "SubName": {
+      "hash": 314254254
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": -143782944
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bonus.png",
+    "IconPath": "",
+    "TalkNameID": 219701,
+    "SubName": {
+      "hash": -1695516736
+    },
+    "ImageID": 106,
+    "Name": {
+      "hash": -1341631554
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 390101,
+    "SubName": {
+      "hash": 2058618782
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -1435232136
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 320101,
+    "SubName": {
+      "hash": -49138937
+    },
+    "ImageID": 120,
+    "Name": {
+      "hash": -1435218109
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 320201,
+    "SubName": {
+      "hash": 1779067030
+    },
+    "ImageID": 118,
+    "Name": {
+      "hash": -1435218080
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 320301,
+    "SubName": {
+      "hash": 233186065
+    },
+    "ImageID": 119,
+    "Name": {
+      "hash": -1435218175
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 320401,
+    "SubName": {
+      "hash": 932092024
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -1435217882
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 320501,
+    "SubName": {
+      "hash": -613788941
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -1435217977
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 320601,
+    "SubName": {
+      "hash": 1214417026
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": -1435217948
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 320701,
+    "SubName": {
+      "hash": -331463939
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": -1435218043
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 320801,
+    "SubName": {
+      "hash": -1668925260
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": -1435218278
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 320901,
+    "SubName": {
+      "hash": 1080161071
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -1435218373
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 320902,
+    "SubName": {
+      "hash": 1483445598
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": -1435218376
+    }
+  },
+  {
+    "ImgPath": "",
+    "IconPath": "",
+    "TalkNameID": 490701,
+    "SubName": {
+      "hash": 1211646977
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": 664069249
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 413401,
+    "SubName": {
+      "hash": -1554352255
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 1685714841
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 414201,
+    "SubName": {
+      "hash": -1272027548
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": 99427858
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 414202,
+    "SubName": {
+      "hash": -868743021
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": 99427855
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 414203,
+    "SubName": {
+      "hash": 1860140334
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": 99427856
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 414204,
+    "SubName": {
+      "hash": -1675312075
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": 99427861
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 414401,
+    "SubName": {
+      "hash": -1554352550
+    },
+    "ImageID": 113,
+    "Name": {
+      "hash": 99427924
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 414402,
+    "SubName": {
+      "hash": 1174530805
+    },
+    "ImageID": 113,
+    "Name": {
+      "hash": 99427925
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 418801,
+    "SubName": {
+      "hash": 139597858
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -465222476
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 418802,
+    "SubName": {
+      "hash": -1426486083
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -465222475
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 418803,
+    "SubName": {
+      "hash": 1302397272
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": -465222474
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 419001,
+    "SubName": {
+      "hash": -989702053
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": 838739703
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 419002,
+    "SubName": {
+      "hash": 1739181302
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": 838739704
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 419003,
+    "SubName": {
+      "hash": 173097361
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": 838739705
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 419201,
+    "SubName": {
+      "hash": -1272027055
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": 838739769
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 419202,
+    "SubName": {
+      "hash": -868742528
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": 838739766
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 419203,
+    "SubName": {
+      "hash": 1860140827
+    },
+    "ImageID": 115,
+    "Name": {
+      "hash": 838739767
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 414101,
+    "SubName": {
+      "hash": -848540045
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": 99427759
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 414102,
+    "SubName": {
+      "hash": -1251824572
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": 99427762
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 412201,
+    "SubName": {
+      "hash": -1272027350
+    },
+    "ImageID": 112,
+    "Name": {
+      "hash": 381752860
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 412301,
+    "SubName": {
+      "hash": -1130864849
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 381752827
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 412401,
+    "SubName": {
+      "hash": -1554352352
+    },
+    "ImageID": 117,
+    "Name": {
+      "hash": 381752926
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 412501,
+    "SubName": {
+      "hash": -1413189851
+    },
+    "ImageID": 114,
+    "Name": {
+      "hash": 381752893
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 412601,
+    "SubName": {
+      "hash": -1836677354
+    },
+    "ImageID": 104,
+    "Name": {
+      "hash": 381752992
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 412701,
+    "SubName": {
+      "hash": -1695514853
+    },
+    "ImageID": 108,
+    "Name": {
+      "hash": 381752959
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 412801,
+    "SubName": {
+      "hash": 139597660
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": 381752530
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 412901,
+    "SubName": {
+      "hash": 280760161
+    },
+    "ImageID": 116,
+    "Name": {
+      "hash": 381752497
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 413001,
+    "SubName": {
+      "hash": -989702251
+    },
+    "ImageID": 104,
+    "Name": {
+      "hash": 1685714709
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 414301,
+    "SubName": {
+      "hash": -1130865047
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": 99427825
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 414302,
+    "SubName": {
+      "hash": 435218894
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": 99427824
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 414501,
+    "SubName": {
+      "hash": -1413190049
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 99427891
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 419301,
+    "SubName": {
+      "hash": -1130864554
+    },
+    "ImageID": 108,
+    "Name": {
+      "hash": 838739736
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 419401,
+    "SubName": {
+      "hash": -1554352057
+    },
+    "ImageID": 103,
+    "Name": {
+      "hash": 838739835
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 419501,
+    "SubName": {
+      "hash": -1413189556
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 838739802
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 414103,
+    "SubName": {
+      "hash": 314259369
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": 99427761
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 420101,
+    "SubName": {
+      "hash": -49135736
+    },
+    "ImageID": 120,
+    "Name": {
+      "hash": 664083078
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 420201,
+    "SubName": {
+      "hash": 1779070231
+    },
+    "ImageID": 118,
+    "Name": {
+      "hash": 664083107
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 420301,
+    "SubName": {
+      "hash": 233189266
+    },
+    "ImageID": 119,
+    "Name": {
+      "hash": 664083012
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 420401,
+    "SubName": {
+      "hash": 932095225
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 664083305
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 420501,
+    "SubName": {
+      "hash": -613785740
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 664083210
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 420601,
+    "SubName": {
+      "hash": 1214420227
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": 664083239
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 420701,
+    "SubName": {
+      "hash": -331460738
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": 664083144
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 420801,
+    "SubName": {
+      "hash": -1668922059
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": 664082909
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 420901,
+    "SubName": {
+      "hash": 1080164272
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 664082814
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 420902,
+    "SubName": {
+      "hash": 1483448799
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 664082811
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bonus.png",
+    "IconPath": "",
+    "TalkNameID": 411201,
+    "SubName": {
+      "hash": -1272027319
+    },
+    "ImageID": 106,
+    "Name": {
+      "hash": 1968039777
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 410101,
+    "SubName": {
+      "hash": -848539913
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 664077763
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Historian.png",
+    "IconPath": "",
+    "TalkNameID": 410201,
+    "SubName": {
+      "hash": -1272027416
+    },
+    "ImageID": 102,
+    "Name": {
+      "hash": 664077862
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 410301,
+    "SubName": {
+      "hash": -1130864915
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 664077829
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 410401,
+    "SubName": {
+      "hash": -1554352418
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 664077928
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 410501,
+    "SubName": {
+      "hash": -1413189917
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 664077895
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 410601,
+    "SubName": {
+      "hash": -1836677420
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 664077994
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Pixel.png",
+    "IconPath": "",
+    "TalkNameID": 410701,
+    "SubName": {
+      "hash": -1695514919
+    },
+    "ImageID": 103,
+    "Name": {
+      "hash": 664077961
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Toy.png",
+    "IconPath": "",
+    "TalkNameID": 410801,
+    "SubName": {
+      "hash": 139597594
+    },
+    "ImageID": 104,
+    "Name": {
+      "hash": 664077532
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Bond.png",
+    "IconPath": "",
+    "TalkNameID": 410901,
+    "SubName": {
+      "hash": 280760095
+    },
+    "ImageID": 105,
+    "Name": {
+      "hash": 664077499
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 411001,
+    "SubName": {
+      "hash": -989702317
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 1968039711
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 411101,
+    "SubName": {
+      "hash": -848539816
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 1968039678
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_ThreePig.png",
+    "IconPath": "",
+    "TalkNameID": 411301,
+    "SubName": {
+      "hash": -1130864818
+    },
+    "ImageID": 107,
+    "Name": {
+      "hash": 1968039744
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 411401,
+    "SubName": {
+      "hash": -1554352321
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 1968039843
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 411501,
+    "SubName": {
+      "hash": -1413189820
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 1968039810
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 411601,
+    "SubName": {
+      "hash": -1836677323
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 1968039909
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "TalkNameID": 411701,
+    "SubName": {
+      "hash": -1695514822
+    },
+    "ImageID": 108,
+    "Name": {
+      "hash": 1968039876
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "TalkNameID": 411702,
+    "SubName": {
+      "hash": -129430881
+    },
+    "ImageID": 108,
+    "Name": {
+      "hash": 1968039875
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_profiteer.png",
+    "IconPath": "",
+    "TalkNameID": 411703,
+    "SubName": {
+      "hash": 1436653060
+    },
+    "ImageID": 108,
+    "Name": {
+      "hash": 1968039874
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 411801,
+    "SubName": {
+      "hash": 139597691
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 1968039447
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "TalkNameID": 411901,
+    "SubName": {
+      "hash": 280760192
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": 1968039414
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "TalkNameID": 411902,
+    "SubName": {
+      "hash": -122524335
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": 1968039417
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Twin.png",
+    "IconPath": "",
+    "TalkNameID": 411903,
+    "SubName": {
+      "hash": 1443559606
+    },
+    "ImageID": 109,
+    "Name": {
+      "hash": 1968039416
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 412001,
+    "SubName": {
+      "hash": -989702348
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 381752794
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 413301,
+    "SubName": {
+      "hash": -1130864752
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 1685714742
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 413501,
+    "SubName": {
+      "hash": -1413189754
+    },
+    "ImageID": 101,
+    "Name": {
+      "hash": 1685714808
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 413601,
+    "SubName": {
+      "hash": -1836677257
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 1685714907
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Battle.png",
+    "IconPath": "",
+    "TalkNameID": 413701,
+    "SubName": {
+      "hash": -1695514756
+    },
+    "ImageID": 110,
+    "Name": {
+      "hash": 1685714874
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "TalkNameID": 413801,
+    "SubName": {
+      "hash": 139597757
+    },
+    "ImageID": 111,
+    "Name": {
+      "hash": 1685714445
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "TalkNameID": 413901,
+    "SubName": {
+      "hash": 280760258
+    },
+    "ImageID": 111,
+    "Name": {
+      "hash": 1685714412
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Trade.png",
+    "IconPath": "",
+    "TalkNameID": 414001,
+    "SubName": {
+      "hash": -989702546
+    },
+    "ImageID": 111,
+    "Name": {
+      "hash": 99427792
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 421001,
+    "SubName": {
+      "hash": 1496745326
+    },
+    "ImageID": 123,
+    "Name": {
+      "hash": 1968045088
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 421101,
+    "SubName": {
+      "hash": -49135639
+    },
+    "ImageID": 124,
+    "Name": {
+      "hash": 1968044993
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 421201,
+    "SubName": {
+      "hash": 1779070328
+    },
+    "ImageID": 125,
+    "Name": {
+      "hash": 1968045022
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 421301,
+    "SubName": {
+      "hash": 233189363
+    },
+    "ImageID": 126,
+    "Name": {
+      "hash": 1968044927
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 421401,
+    "SubName": {
+      "hash": 932095322
+    },
+    "ImageID": 128,
+    "Name": {
+      "hash": 1968045220
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 421501,
+    "SubName": {
+      "hash": -613785643
+    },
+    "ImageID": 122,
+    "Name": {
+      "hash": 1968045125
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 421601,
+    "SubName": {
+      "hash": 1214420324
+    },
+    "ImageID": 121,
+    "Name": {
+      "hash": 1968045154
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/Rogue/RandomEvent/PicRogueEvent_Normal.png",
+    "IconPath": "",
+    "TalkNameID": 421701,
+    "SubName": {
+      "hash": -331460641
+    },
+    "ImageID": 127,
+    "Name": {
+      "hash": 1968045059
+    }
+  }
+]

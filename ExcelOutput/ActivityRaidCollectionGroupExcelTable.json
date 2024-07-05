@@ -1,0 +1,104 @@
+[
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace1.prefab",
+    "RaidCollectionList": [
+      10104,
+      10101
+    ],
+    "UnlockGroupID": 0,
+    "RaidCollectionGroupID": 101,
+    "RaidCollectionGroupName": {
+      "hash": 163535794
+    }
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace4.prefab",
+    "RaidCollectionList": [
+      10204,
+      10201
+    ],
+    "UnlockGroupID": 101,
+    "RaidCollectionGroupID": 102,
+    "RaidCollectionGroupName": {
+      "hash": 163535793
+    }
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace3.prefab",
+    "RaidCollectionList": [
+      10304,
+      10301
+    ],
+    "UnlockGroupID": 102,
+    "RaidCollectionGroupID": 103,
+    "RaidCollectionGroupName": {
+      "hash": 163535792
+    }
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace2.prefab",
+    "RaidCollectionList": [
+      10404,
+      10401
+    ],
+    "UnlockGroupID": 103,
+    "RaidCollectionGroupID": 104,
+    "RaidCollectionGroupName": {
+      "hash": 163535791
+    }
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace5.prefab",
+    "RaidCollectionList": [
+      10102,
+      10103,
+      10501,
+      10502,
+      10503
+    ],
+    "UnlockGroupID": 101,
+    "RaidCollectionGroupID": 105,
+    "RaidCollectionGroupName": {
+      "hash": 163535790
+    }
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace8.prefab",
+    "RaidCollectionList": [
+      10202,
+      10203,
+      10601,
+      10602,
+      10603
+    ],
+    "UnlockGroupID": 102,
+    "RaidCollectionGroupID": 106,
+    "RaidCollectionGroupName": {
+      "hash": 163535789
+    }
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace7.prefab",
+    "RaidCollectionList": [
+      10302,
+      10303
+    ],
+    "UnlockGroupID": 103,
+    "RaidCollectionGroupID": 107,
+    "RaidCollectionGroupName": {
+      "hash": 163535788
+    }
+  },
+  {
+    "GroupEntrancePrefabPath": "UI/MiniGame/Widget/BtnMiniGameSpace/BtnMiniGameSpace6.prefab",
+    "RaidCollectionList": [
+      10402,
+      10403
+    ],
+    "UnlockGroupID": 104,
+    "RaidCollectionGroupID": 108,
+    "RaidCollectionGroupName": {
+      "hash": 163535803
+    }
+  }
+]

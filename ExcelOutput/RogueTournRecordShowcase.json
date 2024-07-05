@@ -1,0 +1,112 @@
+[
+  {
+    "RankIconLargePath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnBigL1.png",
+    "RankTextColor": "#b48459",
+    "RankIconPath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnL1.png",
+    "AreaID": 201,
+    "DifficultyCompLevel": 0,
+    "RankName": {
+      "hash": -1137425449
+    }
+  },
+  {
+    "RankIconLargePath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnBigL1.png",
+    "RankTextColor": "#b48459",
+    "RankIconPath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnL1.png",
+    "AreaID": 202,
+    "DifficultyCompLevel": 0,
+    "RankName": {
+      "hash": -1137425352
+    }
+  },
+  {
+    "RankIconLargePath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnBigL1.png",
+    "RankTextColor": "#b48459",
+    "RankIconPath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnL1.png",
+    "AreaID": 203,
+    "DifficultyCompLevel": 0,
+    "RankName": {
+      "hash": -1137425383
+    }
+  },
+  {
+    "RankIconLargePath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnBigL1.png",
+    "RankTextColor": "#b48459",
+    "RankIconPath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnL1.png",
+    "AreaID": 204,
+    "DifficultyCompLevel": 0,
+    "RankName": {
+      "hash": -1137425550
+    }
+  },
+  {
+    "RankIconLargePath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnBigL1.png",
+    "RankTextColor": "#b48459",
+    "RankIconPath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnL1.png",
+    "AreaID": 205,
+    "DifficultyCompLevel": 0,
+    "RankName": {
+      "hash": -1137425581
+    }
+  },
+  {
+    "RankIconLargePath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnBigL2.png",
+    "RankTextColor": "#b48459",
+    "RankIconPath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnL2.png",
+    "AreaID": 205,
+    "DifficultyCompLevel": 1,
+    "RankName": {
+      "hash": -1137425582
+    }
+  },
+  {
+    "RankIconLargePath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnBigL3.png",
+    "RankTextColor": "#b48459",
+    "RankIconPath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnL3.png",
+    "AreaID": 205,
+    "DifficultyCompLevel": 2,
+    "RankName": {
+      "hash": -1137425579
+    }
+  },
+  {
+    "RankIconLargePath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnBigL4.png",
+    "RankTextColor": "#c6c6c6",
+    "RankIconPath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnL4.png",
+    "AreaID": 205,
+    "DifficultyCompLevel": 3,
+    "RankName": {
+      "hash": -1137425580
+    }
+  },
+  {
+    "RankIconLargePath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnBigL5.png",
+    "RankTextColor": "#c6c6c6",
+    "RankIconPath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnL5.png",
+    "AreaID": 205,
+    "DifficultyCompLevel": 4,
+    "RankName": {
+      "hash": -1137425577
+    }
+  },
+  {
+    "RankIconLargePath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnBigL6.png",
+    "RankTextColor": "#d7c174",
+    "RankIconPath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnL6.png",
+    "AreaID": 205,
+    "DifficultyCompLevel": 5,
+    "RankName": {
+      "hash": -1137425578
+    }
+  },
+  {
+    "RankIconLargePath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnBigL7.png",
+    "RankTextColor": "#d7c174",
+    "RankIconPath": "SpriteOutput/UI/Rogue/Tourn/Rank/RogueTournRankIocnL7.png",
+    "AreaID": 205,
+    "DifficultyCompLevel": 6,
+    "RankName": {
+      "hash": -1137425575
+    }
+  }
+]

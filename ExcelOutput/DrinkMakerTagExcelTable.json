@@ -1,0 +1,547 @@
+[
+  {
+    "MixParam": [],
+    "TagID": 1,
+    "TagName": {
+      "hash": -1847767128
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 4,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 2,
+    "TagName": {
+      "hash": -1847767129
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 3,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 3,
+    "TagName": {
+      "hash": -1847767130
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 2,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 4,
+    "TagName": {
+      "hash": -1847767123
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 1,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 5,
+    "TagName": {
+      "hash": -1847767124
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 8,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 6,
+    "TagName": {
+      "hash": -1847767125
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 7,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 7,
+    "TagName": {
+      "hash": -1847767126
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 6,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 8,
+    "TagName": {
+      "hash": -1847767119
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 5,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 9,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 9,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 10,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 10,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 11,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 11,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 12,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 12,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 21,
+    "TagName": {
+      "hash": -630147364
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 25,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 22,
+    "TagName": {
+      "hash": -1033431891
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 24,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 23,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 23,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 24,
+    "TagName": {
+      "hash": 129367523
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 22,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 25,
+    "TagName": {
+      "hash": 1695451464
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 21,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [
+      2,
+      6
+    ],
+    "TagID": 31,
+    "TagName": {
+      "hash": -630147365
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 31,
+    "SourceType": "Mix",
+    "MixType": "Mix"
+  },
+  {
+    "MixParam": [
+      2,
+      7
+    ],
+    "TagID": 32,
+    "TagName": {
+      "hash": -1033431892
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 32,
+    "SourceType": "Mix",
+    "MixType": "Mix"
+  },
+  {
+    "MixParam": [
+      3,
+      6
+    ],
+    "TagID": 33,
+    "TagName": {
+      "hash": 532652049
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 33,
+    "SourceType": "Mix",
+    "MixType": "Mix"
+  },
+  {
+    "MixParam": [
+      3,
+      7
+    ],
+    "TagID": 34,
+    "TagName": {
+      "hash": 129367522
+    },
+    "CounterTag": 0,
+    "IsShow": true,
+    "Type": "Taste",
+    "Priority": 34,
+    "SourceType": "Mix",
+    "MixType": "Mix"
+  },
+  {
+    "MixParam": [],
+    "TagID": 101,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Cup",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 102,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Cup",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 103,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Cup",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 201,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Ice",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 202,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Ice",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 203,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Ice",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 204,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Ice",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 399,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Decoration",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 300,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Decoration",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 301,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Decoration",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 302,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Decoration",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 303,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Decoration",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 401,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Layer",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 402,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Layer",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 403,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Layer",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 404,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Layer",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 405,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Layer",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 501,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 502,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  },
+  {
+    "MixParam": [],
+    "TagID": 503,
+    "TagName": {
+      "hash": 371857150
+    },
+    "CounterTag": 0,
+    "IsShow": false,
+    "Type": "Taste",
+    "Priority": 0,
+    "SourceType": "Ingredient",
+    "MixType": "None"
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "SubType": [],
+    "BlockTypeChessBoardColor": "#ffffffd9",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcEmptyIcon.png",
+    "BlockIntroID": 1,
+    "BlockIntroName": {
+      "hash": 1816591203
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": 1435838921
+    },
+    "Sort": 1
+  },
+  {
+    "SubType": [],
+    "BlockTypeChessBoardColor": "#80e5edff",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueIntensifyIcon.png",
+    "BlockIntroID": 2,
+    "BlockIntroName": {
+      "hash": 1816591206
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": 1435838920
+    },
+    "Sort": 8
+  },
+  {
+    "SubType": [],
+    "BlockTypeChessBoardColor": "#ffffffd9",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueFoeIcon.png",
+    "BlockIntroID": 3,
+    "BlockIntroName": {
+      "hash": 1816591205
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": 1435838919
+    },
+    "Sort": 2
+  },
+  {
+    "SubType": [
+      "ChessRogue"
+    ],
+    "BlockTypeChessBoardColor": "#c979ffff",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcFoeEliteIcon.png",
+    "BlockIntroID": 4,
+    "BlockIntroName": {
+      "hash": 1816591200
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": 1435838918
+    },
+    "Sort": 10
+  },
+  {
+    "SubType": [],
+    "BlockTypeChessBoardColor": "#ffffffd9",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueFoeEliteIcon.png",
+    "BlockIntroID": 5,
+    "BlockIntroName": {
+      "hash": 1816591199
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": 1435838917
+    },
+    "Sort": 3
+  },
+  {
+    "SubType": [],
+    "BlockTypeChessBoardColor": "#f3dbb5ff",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcGameIcon.png",
+    "BlockIntroID": 6,
+    "BlockIntroName": {
+      "hash": 1816591202
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": 1435838916
+    },
+    "Sort": 7
+  },
+  {
+    "SubType": [],
+    "BlockTypeChessBoardColor": "#f3dbb5ff",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcRewardIcon.png",
+    "BlockIntroID": 7,
+    "BlockIntroName": {
+      "hash": 1816591201
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": 1435838915
+    },
+    "Sort": 6
+  },
+  {
+    "SubType": [],
+    "BlockTypeChessBoardColor": "#ffffffd9",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueRandomIcon.png",
+    "BlockIntroID": 8,
+    "BlockIntroName": {
+      "hash": 1816591212
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": 1435838930
+    },
+    "Sort": 5
+  },
+  {
+    "SubType": [
+      "ChessRogue"
+    ],
+    "BlockTypeChessBoardColor": "#c979ffff",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcRandomIcon.png",
+    "BlockIntroID": 9,
+    "BlockIntroName": {
+      "hash": 1816591211
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": 1435838929
+    },
+    "Sort": 11
+  },
+  {
+    "SubType": [],
+    "BlockTypeChessBoardColor": "#ffffffff",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueBossIcon.png",
+    "BlockIntroID": 10,
+    "BlockIntroName": {
+      "hash": -1909245901
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": -164385159
+    },
+    "Sort": 4
+  },
+  {
+    "SubType": [
+      "ChessRogue"
+    ],
+    "BlockTypeChessBoardColor": "#ffffffff",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcBossIcon.png",
+    "BlockIntroID": 11,
+    "BlockIntroName": {
+      "hash": 819637454
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": -1730469100
+    },
+    "Sort": 12
+  },
+  {
+    "SubType": [],
+    "BlockTypeChessBoardColor": "#80e5edff",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDealIcon.png",
+    "BlockIntroID": 12,
+    "BlockIntroName": {
+      "hash": -746446487
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": 998414255
+    },
+    "Sort": 9
+  },
+  {
+    "SubType": [],
+    "BlockTypeChessBoardColor": "",
+    "BlockIntroIcon": "SpriteOutput/UI/Rogue/DLC/Dice/Buff/IconRogueDlcChessmanGirdBuff1.png",
+    "BlockIntroID": 14,
+    "BlockIntroName": {
+      "hash": 60122567
+    },
+    "IntroGroup": 2,
+    "BlockIntroDesc": {
+      "hash": -2133753627
+    },
+    "Sort": 13
+  },
+  {
+    "SubType": [],
+    "BlockTypeChessBoardColor": "",
+    "BlockIntroIcon": "SpriteOutput/UI/Rogue/DLC/Dice/Buff/IconRogueDlcChessmanGirdBuff4.png",
+    "BlockIntroID": 15,
+    "BlockIntroName": {
+      "hash": -1505961374
+    },
+    "IntroGroup": 2,
+    "BlockIntroDesc": {
+      "hash": 595129728
+    },
+    "Sort": 14
+  },
+  {
+    "SubType": [],
+    "BlockTypeChessBoardColor": "",
+    "BlockIntroIcon": "SpriteOutput/UI/Rogue/DLC/Dice/Buff/IconRogueDlcChessmanGirdBuff2.png",
+    "BlockIntroID": 17,
+    "BlockIntroName": {
+      "hash": -343161960
+    },
+    "IntroGroup": 2,
+    "BlockIntroDesc": {
+      "hash": 1757929142
+    },
+    "Sort": 15
+  },
+  {
+    "SubType": [],
+    "BlockTypeChessBoardColor": "",
+    "BlockIntroIcon": "SpriteOutput/UI/Rogue/DLC/Dice/Buff/IconRogueDlcChessmanGirdBuff3.png",
+    "BlockIntroID": 18,
+    "BlockIntroName": {
+      "hash": 2029491035
+    },
+    "IntroGroup": 2,
+    "BlockIntroDesc": {
+      "hash": -520615519
+    },
+    "Sort": 16
+  },
+  {
+    "SubType": [
+      "ChessRogueNous"
+    ],
+    "BlockTypeChessBoardColor": "#83ffd3",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueNousEventIcon.png",
+    "BlockIntroID": 20,
+    "BlockIntroName": {
+      "hash": -1909245898
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": -164385160
+    },
+    "Sort": 1111
+  },
+  {
+    "SubType": [
+      "ChessRogueNous"
+    ],
+    "BlockTypeChessBoardColor": "#c979ff",
+    "BlockIntroIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueNousSpEventIcon.png",
+    "BlockIntroID": 21,
+    "BlockIntroName": {
+      "hash": 819637457
+    },
+    "IntroGroup": 1,
+    "BlockIntroDesc": {
+      "hash": -1730469101
+    },
+    "Sort": 1051
+  },
+  {
+    "SubType": [
+      "ChessRogueNous"
+    ],
+    "BlockTypeChessBoardColor": "",
+    "BlockIntroIcon": "SpriteOutput/UI/Rogue/DLC/RogueNous/Buff/IconRogueNousChessmanGirdBuff2.png",
+    "BlockIntroID": 22,
+    "BlockIntroName": {
+      "hash": -746446484
+    },
+    "IntroGroup": 2,
+    "BlockIntroDesc": {
+      "hash": 998414254
+    },
+    "Sort": 2021
+  },
+  {
+    "SubType": [
+      "ChessRogueNous"
+    ],
+    "BlockTypeChessBoardColor": "",
+    "BlockIntroIcon": "SpriteOutput/UI/Rogue/DLC/RogueNous/Buff/IconRogueNousChessmanGirdBuff1.png",
+    "BlockIntroID": 23,
+    "BlockIntroName": {
+      "hash": 1982436871
+    },
+    "IntroGroup": 2,
+    "BlockIntroDesc": {
+      "hash": -567669687
+    },
+    "Sort": 2022
+  }
+]

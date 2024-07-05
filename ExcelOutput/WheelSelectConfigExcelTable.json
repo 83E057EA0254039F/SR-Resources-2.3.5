@@ -1,0 +1,409 @@
+[
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/AvatarIcon.png",
+    "FuncGotoIDList": [
+      400,
+      400,
+      400,
+      400,
+      400,
+      401,
+      400,
+      400,
+      400
+    ],
+    "GameModeList": [
+      3,
+      5,
+      6,
+      8,
+      9,
+      14,
+      16,
+      17,
+      18
+    ],
+    "FourSlotOrder": 4,
+    "Order": 5,
+    "FuncName": {
+      "hash": -676993900
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 1,
+    "UnlockID": 400
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
+    "FuncGotoIDList": [
+      300,
+      301,
+      302,
+      303,
+      300,
+      304,
+      304
+    ],
+    "GameModeList": [
+      3,
+      5,
+      6,
+      16,
+      8,
+      17,
+      18
+    ],
+    "FourSlotOrder": 0,
+    "Order": 4,
+    "FuncName": {
+      "hash": -592780657
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 2,
+    "UnlockID": 300
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/ActivityIcon.png",
+    "FuncGotoIDList": [
+      800
+    ],
+    "GameModeList": [
+      3
+    ],
+    "FourSlotOrder": 0,
+    "Order": 7,
+    "FuncName": {
+      "hash": -1927936373
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 3,
+    "UnlockID": 800
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/InventoryIcon.png",
+    "FuncGotoIDList": [
+      500,
+      508,
+      500,
+      500,
+      500,
+      500
+    ],
+    "GameModeList": [
+      3,
+      5,
+      8,
+      9,
+      17,
+      18
+    ],
+    "FourSlotOrder": 0,
+    "Order": 3,
+    "FuncName": {
+      "hash": 888911468
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 4,
+    "UnlockID": 500
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/QuestIcon.png",
+    "FuncGotoIDList": [
+      700
+    ],
+    "GameModeList": [
+      3,
+      8,
+      5,
+      6,
+      16
+    ],
+    "FourSlotOrder": 0,
+    "Order": 6,
+    "FuncName": {
+      "hash": -1034393270
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 5,
+    "UnlockID": 700
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/BattlePass/BPiPhone.png",
+    "FuncGotoIDList": [
+      3400
+    ],
+    "GameModeList": [
+      3,
+      5,
+      6,
+      8,
+      9,
+      16,
+      17,
+      18
+    ],
+    "FourSlotOrder": 3,
+    "Order": 8,
+    "FuncName": {
+      "hash": 1124787289
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 6,
+    "UnlockID": 10001
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/DailyQuestIcon.png",
+    "FuncGotoIDList": [
+      1500
+    ],
+    "GameModeList": [
+      3
+    ],
+    "FourSlotOrder": 2,
+    "Order": 2,
+    "FuncName": {
+      "hash": -2133251693
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 7,
+    "UnlockID": 1500
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/DrawcardIcon.png",
+    "FuncGotoIDList": [
+      2300
+    ],
+    "GameModeList": [
+      3,
+      8,
+      9,
+      14,
+      17,
+      18
+    ],
+    "FourSlotOrder": 1,
+    "Order": 1,
+    "FuncName": {
+      "hash": 891994066
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 8,
+    "UnlockID": 2300
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/ShopIcon.png",
+    "FuncGotoIDList": [
+      600
+    ],
+    "GameModeList": [
+      3,
+      5,
+      6,
+      7,
+      8,
+      14,
+      16
+    ],
+    "FourSlotOrder": 0,
+    "Order": 0,
+    "FuncName": {
+      "hash": -1868259488
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 9,
+    "UnlockID": 600
+  },
+  {
+    "IconPath": "SpriteOutput/TabIcon/Friend/FriendIcon.png",
+    "FuncGotoIDList": [
+      3300
+    ],
+    "GameModeList": [
+      3,
+      6,
+      7,
+      8,
+      14
+    ],
+    "FourSlotOrder": 0,
+    "Order": 0,
+    "FuncName": {
+      "hash": 1382123664
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 10,
+    "UnlockID": 3300
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/AssignmentIcon.png",
+    "FuncGotoIDList": [
+      3100
+    ],
+    "GameModeList": [
+      3,
+      7
+    ],
+    "FourSlotOrder": 0,
+    "Order": 0,
+    "FuncName": {
+      "hash": -507333037
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 11,
+    "UnlockID": 3100
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/SynthesisIcon.png",
+    "FuncGotoIDList": [
+      4100
+    ],
+    "GameModeList": [
+      3,
+      7,
+      17,
+      18
+    ],
+    "FourSlotOrder": 0,
+    "Order": 0,
+    "FuncName": {
+      "hash": -72022017
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 12,
+    "UnlockID": 4100
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/AchievementIcon.png",
+    "FuncGotoIDList": [
+      2900
+    ],
+    "GameModeList": [
+      3,
+      7,
+      8,
+      14
+    ],
+    "FourSlotOrder": 0,
+    "Order": 0,
+    "FuncName": {
+      "hash": 911331385
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 13,
+    "UnlockID": 2800
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/MessagesIcon.png",
+    "FuncGotoIDList": [
+      3000
+    ],
+    "GameModeList": [
+      3,
+      7
+    ],
+    "FourSlotOrder": 0,
+    "Order": 0,
+    "FuncName": {
+      "hash": -1219150119
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 14,
+    "UnlockID": 2900
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/DataBankIcon.png",
+    "FuncGotoIDList": [
+      4300
+    ],
+    "GameModeList": [
+      3,
+      7,
+      8,
+      14
+    ],
+    "FourSlotOrder": 0,
+    "Order": 0,
+    "FuncName": {
+      "hash": 560357873
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 15,
+    "UnlockID": 4300
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/BookIcon.png",
+    "FuncGotoIDList": [
+      1400
+    ],
+    "GameModeList": [
+      3,
+      7
+    ],
+    "FourSlotOrder": 0,
+    "Order": 0,
+    "FuncName": {
+      "hash": 1734708759
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 16,
+    "UnlockID": 0
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/MapIcon.png",
+    "FuncGotoIDList": [
+      200,
+      2700,
+      5500,
+      5300,
+      2700
+    ],
+    "GameModeList": [
+      3,
+      5,
+      8,
+      15,
+      16
+    ],
+    "FourSlotOrder": 0,
+    "Order": 0,
+    "FuncName": {
+      "hash": 1405076994
+    },
+    "Description": {
+      "hash": 371857150
+    },
+    "IndexID": 17,
+    "UnlockID": 200
+  }
+]

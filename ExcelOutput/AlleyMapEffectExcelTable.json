@@ -1,0 +1,178 @@
+[
+  {
+    "MapEffectTitle": {
+      "hash": -137427032
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Neutral",
+    "Param1": 0.0,
+    "MapEffectID": 1,
+    "MapEffectSubType": "BatteryIncrease",
+    "Param2": 0.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": -137427033
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Neutral",
+    "Param1": 0.0,
+    "MapEffectID": 2,
+    "MapEffectSubType": "BatteryIncrease",
+    "Param2": 0.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": -137427034
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Neutral",
+    "Param1": 0.0,
+    "MapEffectID": 3,
+    "MapEffectSubType": "BatteryIncrease",
+    "Param2": 0.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": -137427027
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Neutral",
+    "Param1": 0.0,
+    "MapEffectID": 4,
+    "MapEffectSubType": "BatteryIncrease",
+    "Param2": 0.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": -137427028
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Neutral",
+    "Param1": 0.0,
+    "MapEffectID": 5,
+    "MapEffectSubType": "BatteryIncrease",
+    "Param2": 0.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": -137427029
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Neutral",
+    "Param1": 0.0,
+    "MapEffectID": 6,
+    "MapEffectSubType": "BatteryIncrease",
+    "Param2": 0.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": -137427030
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Neutral",
+    "Param1": 0.0,
+    "MapEffectID": 7,
+    "MapEffectSubType": "BatteryIncrease",
+    "Param2": 0.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": -137427039
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Neutral",
+    "Param1": 0.0,
+    "MapEffectID": 8,
+    "MapEffectSubType": "BatteryIncrease",
+    "Param2": 0.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": -137427040
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Neutral",
+    "Param1": 0.0,
+    "MapEffectID": 9,
+    "MapEffectSubType": "BatteryIncrease",
+    "Param2": 0.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": -151169123
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Buff",
+    "Param1": 5.0,
+    "MapEffectID": 1001,
+    "MapEffectSubType": "BatteryIncrease",
+    "Param2": 0.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": -554453650
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Buff",
+    "Param1": 0.2,
+    "MapEffectID": 1002,
+    "MapEffectSubType": "BatteryIncreasePercent",
+    "Param2": 0.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": 1011630291
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Buff",
+    "Param1": 10.0,
+    "MapEffectID": 1003,
+    "MapEffectSubType": "BatteryIncreaseAndExtraConsume",
+    "Param2": 1.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": 608345764
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Buff",
+    "Param1": 5.0,
+    "MapEffectID": 1004,
+    "MapEffectSubType": "BatteryDecreaseAndAccumlateConsume",
+    "Param2": 2.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": -2120537591
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Buff",
+    "Param1": 10.0,
+    "MapEffectID": 1005,
+    "MapEffectSubType": "BatteryIncreaseAndExtraConsume",
+    "Param2": 1.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": 1771145178
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Buff",
+    "Param1": 5.0,
+    "MapEffectID": 1006,
+    "MapEffectSubType": "BatteryDecreaseAndAccumlateConsume",
+    "Param2": 2.0
+  },
+  {
+    "MapEffectTitle": {
+      "hash": -957738177
+    },
+    "Param3": 0.0,
+    "BuffOrDebuff": "Buff",
+    "Param1": 0.0,
+    "MapEffectID": 1007,
+    "MapEffectSubType": "BatteryDecreaseAndExtraIncrease",
+    "Param2": 2.0
+  }
+]

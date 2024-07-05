@@ -1,0 +1,189 @@
+[
+  {
+    "MuseumMissionList": [
+      11
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 250119,
+    "RewardType": "Staff",
+    "TargetID": 1,
+    "Order": 1,
+    "TriggerPhase": 1
+  },
+  {
+    "MuseumMissionList": [
+      12
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 301,
+    "RewardType": "Event",
+    "TargetID": 2,
+    "Order": 2,
+    "TriggerPhase": 1
+  },
+  {
+    "MuseumMissionList": [
+      21
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 302,
+    "RewardType": "Event",
+    "TargetID": 3,
+    "Order": 3,
+    "TriggerPhase": 2
+  },
+  {
+    "MuseumMissionList": [
+      22
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 303,
+    "RewardType": "Event",
+    "TargetID": 4,
+    "Order": 4,
+    "TriggerPhase": 2
+  },
+  {
+    "MuseumMissionList": [
+      31
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 304,
+    "RewardType": "Event",
+    "TargetID": 5,
+    "Order": 5,
+    "TriggerPhase": 2
+  },
+  {
+    "MuseumMissionList": [
+      32
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 250111,
+    "RewardType": "Staff",
+    "TargetID": 6,
+    "Order": 6,
+    "TriggerPhase": 2
+  },
+  {
+    "MuseumMissionList": [
+      33
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 305,
+    "RewardType": "Event",
+    "TargetID": 7,
+    "Order": 7,
+    "TriggerPhase": 3
+  },
+  {
+    "MuseumMissionList": [
+      34
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 306,
+    "RewardType": "Event",
+    "TargetID": 8,
+    "Order": 8,
+    "TriggerPhase": 3
+  },
+  {
+    "MuseumMissionList": [
+      35
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 250118,
+    "RewardType": "Staff",
+    "TargetID": 9,
+    "Order": 9,
+    "TriggerPhase": 3
+  },
+  {
+    "MuseumMissionList": [
+      41
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 307,
+    "RewardType": "Event",
+    "TargetID": 10,
+    "Order": 10,
+    "TriggerPhase": 3
+  },
+  {
+    "MuseumMissionList": [
+      42
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 308,
+    "RewardType": "Event",
+    "TargetID": 11,
+    "Order": 11,
+    "TriggerPhase": 4
+  },
+  {
+    "MuseumMissionList": [
+      43
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 309,
+    "RewardType": "Event",
+    "TargetID": 12,
+    "Order": 12,
+    "TriggerPhase": 4
+  },
+  {
+    "MuseumMissionList": [
+      44
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 310,
+    "RewardType": "Event",
+    "TargetID": 13,
+    "Order": 13,
+    "TriggerPhase": 4
+  },
+  {
+    "MuseumMissionList": [
+      51
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 311,
+    "RewardType": "Event",
+    "TargetID": 14,
+    "Order": 14,
+    "TriggerPhase": 4
+  },
+  {
+    "MuseumMissionList": [
+      52
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 312,
+    "RewardType": "Event",
+    "TargetID": 15,
+    "Order": 15,
+    "TriggerPhase": 5
+  },
+  {
+    "MuseumMissionList": [
+      53
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 313,
+    "RewardType": "Event",
+    "TargetID": 16,
+    "Order": 16,
+    "TriggerPhase": 5
+  },
+  {
+    "MuseumMissionList": [
+      54
+    ],
+    "TriggerTurns": 3,
+    "TypeParameter": 314,
+    "RewardType": "Event",
+    "TargetID": 17,
+    "Order": 17,
+    "TriggerPhase": 5
+  }
+]

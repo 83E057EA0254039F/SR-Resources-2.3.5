@@ -1,0 +1,68 @@
+[
+  {
+    "SubImagePath": "",
+    "AvatarIDList": [
+      1209
+    ],
+    "MainMissionIDList": [
+      2020313
+    ],
+    "MainImagePath": "SpriteOutput/Quest/Colleague/ColleagueFilm_1209_Main.png",
+    "Title": {
+      "hash": -844123414
+    },
+    "BannerID": 101,
+    "ShortDesc": {
+      "hash": 371823999
+    },
+    "ActivityModuleID": 2200101,
+    "SortID": 1,
+    "SubTitle": {
+      "hash": -497128294
+    }
+  },
+  {
+    "SubImagePath": "",
+    "AvatarIDList": [
+      1211
+    ],
+    "MainMissionIDList": [
+      2020305
+    ],
+    "MainImagePath": "SpriteOutput/Quest/Colleague/ColleagueFilm_1211_Main.png",
+    "Title": {
+      "hash": 721960527
+    },
+    "BannerID": 102,
+    "ShortDesc": {
+      "hash": -1194259942
+    },
+    "ActivityModuleID": 2200101,
+    "SortID": 2,
+    "SubTitle": {
+      "hash": -497128297
+    }
+  },
+  {
+    "SubImagePath": "",
+    "AvatarIDList": [
+      1203
+    ],
+    "MainMissionIDList": [
+      2020307
+    ],
+    "MainImagePath": "SpriteOutput/Quest/Colleague/ColleagueFilm_1203_Main.png",
+    "Title": {
+      "hash": -2006922828
+    },
+    "BannerID": 103,
+    "ShortDesc": {
+      "hash": 1534623413
+    },
+    "ActivityModuleID": 2200102,
+    "SortID": 3,
+    "SubTitle": {
+      "hash": -497128296
+    }
+  }
+]

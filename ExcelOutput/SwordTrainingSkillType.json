@@ -1,0 +1,62 @@
+[
+  {
+    "SkillTypeIcon": "SpriteOutput/SkillIcons/Avatar/1005/SkillIcon_1005_Normal.png",
+    "SkillTypeTag": {
+      "hash": 371857150
+    },
+    "SkillTypeDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeName": {
+      "hash": 1043274955
+    },
+    "UnlockID": 0,
+    "SkillTypeID": 1,
+    "StatusID": 1
+  },
+  {
+    "SkillTypeIcon": "SpriteOutput/SkillIcons/Avatar/1209/SkillIcon_1209_Maze.png",
+    "SkillTypeTag": {
+      "hash": 371857150
+    },
+    "SkillTypeDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeName": {
+      "hash": 1446559482
+    },
+    "UnlockID": 0,
+    "SkillTypeID": 2,
+    "StatusID": 3
+  },
+  {
+    "SkillTypeIcon": "SpriteOutput/SkillIcons/Avatar/1206/SkillIcon_1206_Maze.png",
+    "SkillTypeTag": {
+      "hash": 371857150
+    },
+    "SkillTypeDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeName": {
+      "hash": -119524459
+    },
+    "UnlockID": 0,
+    "SkillTypeID": 3,
+    "StatusID": 2
+  },
+  {
+    "SkillTypeIcon": "SpriteOutput/SkillIcons/Avatar/1209/SkillIcon_1209_Rank1.png",
+    "SkillTypeTag": {
+      "hash": 371857150
+    },
+    "SkillTypeDesc": {
+      "hash": 371857150
+    },
+    "SkillTypeName": {
+      "hash": 283760068
+    },
+    "UnlockID": 0,
+    "SkillTypeID": 4,
+    "StatusID": 4
+  }
+]

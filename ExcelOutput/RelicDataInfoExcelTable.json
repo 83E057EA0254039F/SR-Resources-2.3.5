@@ -1,0 +1,1122 @@
+[
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_101_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_101_1.png",
+    "RelicName": "RelicName_31011",
+    "ItemBGDesc": "ItemBGDesc_31011",
+    "BGStoryContent": "RelicStoryContent_31011",
+    "BGStoryTitle": "RelicStoryTitle_31011",
+    "Type": "HEAD",
+    "SetID": 101
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_101_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_101_2.png",
+    "RelicName": "RelicName_31012",
+    "ItemBGDesc": "ItemBGDesc_31012",
+    "BGStoryContent": "RelicStoryContent_31012",
+    "BGStoryTitle": "RelicStoryTitle_31012",
+    "Type": "HAND",
+    "SetID": 101
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_101_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_101_3.png",
+    "RelicName": "RelicName_31013",
+    "ItemBGDesc": "ItemBGDesc_31013",
+    "BGStoryContent": "RelicStoryContent_31013",
+    "BGStoryTitle": "RelicStoryTitle_31013",
+    "Type": "BODY",
+    "SetID": 101
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_101_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_101_4.png",
+    "RelicName": "RelicName_31014",
+    "ItemBGDesc": "ItemBGDesc_31014",
+    "BGStoryContent": "RelicStoryContent_31014",
+    "BGStoryTitle": "RelicStoryTitle_31014",
+    "Type": "FOOT",
+    "SetID": 101
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_102_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_102_1.png",
+    "RelicName": "RelicName_31021",
+    "ItemBGDesc": "ItemBGDesc_31021",
+    "BGStoryContent": "RelicStoryContent_31021",
+    "BGStoryTitle": "RelicStoryTitle_31021",
+    "Type": "HEAD",
+    "SetID": 102
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_102_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_102_2.png",
+    "RelicName": "RelicName_31022",
+    "ItemBGDesc": "ItemBGDesc_31022",
+    "BGStoryContent": "RelicStoryContent_31022",
+    "BGStoryTitle": "RelicStoryTitle_31022",
+    "Type": "HAND",
+    "SetID": 102
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_102_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_102_3.png",
+    "RelicName": "RelicName_31023",
+    "ItemBGDesc": "ItemBGDesc_31023",
+    "BGStoryContent": "RelicStoryContent_31023",
+    "BGStoryTitle": "RelicStoryTitle_31023",
+    "Type": "BODY",
+    "SetID": 102
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_102_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_102_4.png",
+    "RelicName": "RelicName_31024",
+    "ItemBGDesc": "ItemBGDesc_31024",
+    "BGStoryContent": "RelicStoryContent_31024",
+    "BGStoryTitle": "RelicStoryTitle_31024",
+    "Type": "FOOT",
+    "SetID": 102
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_103_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_103_1.png",
+    "RelicName": "RelicName_31031",
+    "ItemBGDesc": "ItemBGDesc_31031",
+    "BGStoryContent": "RelicStoryContent_31031",
+    "BGStoryTitle": "RelicStoryTitle_31031",
+    "Type": "HEAD",
+    "SetID": 103
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_103_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_103_2.png",
+    "RelicName": "RelicName_31032",
+    "ItemBGDesc": "ItemBGDesc_31032",
+    "BGStoryContent": "RelicStoryContent_31032",
+    "BGStoryTitle": "RelicStoryTitle_31032",
+    "Type": "HAND",
+    "SetID": 103
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_103_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_103_3.png",
+    "RelicName": "RelicName_31033",
+    "ItemBGDesc": "ItemBGDesc_31033",
+    "BGStoryContent": "RelicStoryContent_31033",
+    "BGStoryTitle": "RelicStoryTitle_31033",
+    "Type": "BODY",
+    "SetID": 103
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_103_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_103_4.png",
+    "RelicName": "RelicName_31034",
+    "ItemBGDesc": "ItemBGDesc_31034",
+    "BGStoryContent": "RelicStoryContent_31034",
+    "BGStoryTitle": "RelicStoryTitle_31034",
+    "Type": "FOOT",
+    "SetID": 103
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_104_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_104_1.png",
+    "RelicName": "RelicName_31041",
+    "ItemBGDesc": "ItemBGDesc_31041",
+    "BGStoryContent": "RelicStoryContent_31041",
+    "BGStoryTitle": "RelicStoryTitle_31041",
+    "Type": "HEAD",
+    "SetID": 104
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_104_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_104_2.png",
+    "RelicName": "RelicName_31042",
+    "ItemBGDesc": "ItemBGDesc_31042",
+    "BGStoryContent": "RelicStoryContent_31042",
+    "BGStoryTitle": "RelicStoryTitle_31042",
+    "Type": "HAND",
+    "SetID": 104
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_104_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_104_3.png",
+    "RelicName": "RelicName_31043",
+    "ItemBGDesc": "ItemBGDesc_31043",
+    "BGStoryContent": "RelicStoryContent_31043",
+    "BGStoryTitle": "RelicStoryTitle_31043",
+    "Type": "BODY",
+    "SetID": 104
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_104_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_104_4.png",
+    "RelicName": "RelicName_31044",
+    "ItemBGDesc": "ItemBGDesc_31044",
+    "BGStoryContent": "RelicStoryContent_31044",
+    "BGStoryTitle": "RelicStoryTitle_31044",
+    "Type": "FOOT",
+    "SetID": 104
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_105_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_105_1.png",
+    "RelicName": "RelicName_31051",
+    "ItemBGDesc": "ItemBGDesc_31051",
+    "BGStoryContent": "RelicStoryContent_31051",
+    "BGStoryTitle": "RelicStoryTitle_31051",
+    "Type": "HEAD",
+    "SetID": 105
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_105_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_105_2.png",
+    "RelicName": "RelicName_31052",
+    "ItemBGDesc": "ItemBGDesc_31052",
+    "BGStoryContent": "RelicStoryContent_31052",
+    "BGStoryTitle": "RelicStoryTitle_31052",
+    "Type": "HAND",
+    "SetID": 105
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_105_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_105_3.png",
+    "RelicName": "RelicName_31053",
+    "ItemBGDesc": "ItemBGDesc_31053",
+    "BGStoryContent": "RelicStoryContent_31053",
+    "BGStoryTitle": "RelicStoryTitle_31053",
+    "Type": "BODY",
+    "SetID": 105
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_105_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_105_4.png",
+    "RelicName": "RelicName_31054",
+    "ItemBGDesc": "ItemBGDesc_31054",
+    "BGStoryContent": "RelicStoryContent_31054",
+    "BGStoryTitle": "RelicStoryTitle_31054",
+    "Type": "FOOT",
+    "SetID": 105
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_106_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_106_1.png",
+    "RelicName": "RelicName_31061",
+    "ItemBGDesc": "ItemBGDesc_31061",
+    "BGStoryContent": "RelicStoryContent_31061",
+    "BGStoryTitle": "RelicStoryTitle_31061",
+    "Type": "HEAD",
+    "SetID": 106
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_106_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_106_2.png",
+    "RelicName": "RelicName_31062",
+    "ItemBGDesc": "ItemBGDesc_31062",
+    "BGStoryContent": "RelicStoryContent_31062",
+    "BGStoryTitle": "RelicStoryTitle_31062",
+    "Type": "HAND",
+    "SetID": 106
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_106_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_106_3.png",
+    "RelicName": "RelicName_31063",
+    "ItemBGDesc": "ItemBGDesc_31063",
+    "BGStoryContent": "RelicStoryContent_31063",
+    "BGStoryTitle": "RelicStoryTitle_31063",
+    "Type": "BODY",
+    "SetID": 106
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_106_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_106_4.png",
+    "RelicName": "RelicName_31064",
+    "ItemBGDesc": "ItemBGDesc_31064",
+    "BGStoryContent": "RelicStoryContent_31064",
+    "BGStoryTitle": "RelicStoryTitle_31064",
+    "Type": "FOOT",
+    "SetID": 106
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_107_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_107_1.png",
+    "RelicName": "RelicName_31071",
+    "ItemBGDesc": "ItemBGDesc_31071",
+    "BGStoryContent": "RelicStoryContent_31071",
+    "BGStoryTitle": "RelicStoryTitle_31071",
+    "Type": "HEAD",
+    "SetID": 107
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_107_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_107_2.png",
+    "RelicName": "RelicName_31072",
+    "ItemBGDesc": "ItemBGDesc_31072",
+    "BGStoryContent": "RelicStoryContent_31072",
+    "BGStoryTitle": "RelicStoryTitle_31072",
+    "Type": "HAND",
+    "SetID": 107
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_107_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_107_3.png",
+    "RelicName": "RelicName_31073",
+    "ItemBGDesc": "ItemBGDesc_31073",
+    "BGStoryContent": "RelicStoryContent_31073",
+    "BGStoryTitle": "RelicStoryTitle_31073",
+    "Type": "BODY",
+    "SetID": 107
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_107_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_107_4.png",
+    "RelicName": "RelicName_31074",
+    "ItemBGDesc": "ItemBGDesc_31074",
+    "BGStoryContent": "RelicStoryContent_31074",
+    "BGStoryTitle": "RelicStoryTitle_31074",
+    "Type": "FOOT",
+    "SetID": 107
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_108_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_108_1.png",
+    "RelicName": "RelicName_31081",
+    "ItemBGDesc": "ItemBGDesc_31081",
+    "BGStoryContent": "RelicStoryContent_31081",
+    "BGStoryTitle": "RelicStoryTitle_31081",
+    "Type": "HEAD",
+    "SetID": 108
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_108_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_108_2.png",
+    "RelicName": "RelicName_31082",
+    "ItemBGDesc": "ItemBGDesc_31082",
+    "BGStoryContent": "RelicStoryContent_31082",
+    "BGStoryTitle": "RelicStoryTitle_31082",
+    "Type": "HAND",
+    "SetID": 108
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_108_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_108_3.png",
+    "RelicName": "RelicName_31083",
+    "ItemBGDesc": "ItemBGDesc_31083",
+    "BGStoryContent": "RelicStoryContent_31083",
+    "BGStoryTitle": "RelicStoryTitle_31083",
+    "Type": "BODY",
+    "SetID": 108
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_108_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_108_4.png",
+    "RelicName": "RelicName_31084",
+    "ItemBGDesc": "ItemBGDesc_31084",
+    "BGStoryContent": "RelicStoryContent_31084",
+    "BGStoryTitle": "RelicStoryTitle_31084",
+    "Type": "FOOT",
+    "SetID": 108
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_109_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_109_1.png",
+    "RelicName": "RelicName_31091",
+    "ItemBGDesc": "ItemBGDesc_31091",
+    "BGStoryContent": "RelicStoryContent_31091",
+    "BGStoryTitle": "RelicStoryTitle_31091",
+    "Type": "HEAD",
+    "SetID": 109
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_109_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_109_2.png",
+    "RelicName": "RelicName_31092",
+    "ItemBGDesc": "ItemBGDesc_31092",
+    "BGStoryContent": "RelicStoryContent_31092",
+    "BGStoryTitle": "RelicStoryTitle_31092",
+    "Type": "HAND",
+    "SetID": 109
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_109_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_109_3.png",
+    "RelicName": "RelicName_31093",
+    "ItemBGDesc": "ItemBGDesc_31093",
+    "BGStoryContent": "RelicStoryContent_31093",
+    "BGStoryTitle": "RelicStoryTitle_31093",
+    "Type": "BODY",
+    "SetID": 109
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_109_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_109_4.png",
+    "RelicName": "RelicName_31094",
+    "ItemBGDesc": "ItemBGDesc_31094",
+    "BGStoryContent": "RelicStoryContent_31094",
+    "BGStoryTitle": "RelicStoryTitle_31094",
+    "Type": "FOOT",
+    "SetID": 109
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_110_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_110_1.png",
+    "RelicName": "RelicName_31101",
+    "ItemBGDesc": "ItemBGDesc_31101",
+    "BGStoryContent": "RelicStoryContent_31101",
+    "BGStoryTitle": "RelicStoryTitle_31101",
+    "Type": "HEAD",
+    "SetID": 110
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_110_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_110_2.png",
+    "RelicName": "RelicName_31102",
+    "ItemBGDesc": "ItemBGDesc_31102",
+    "BGStoryContent": "RelicStoryContent_31102",
+    "BGStoryTitle": "RelicStoryTitle_31102",
+    "Type": "HAND",
+    "SetID": 110
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_110_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_110_3.png",
+    "RelicName": "RelicName_31103",
+    "ItemBGDesc": "ItemBGDesc_31103",
+    "BGStoryContent": "RelicStoryContent_31103",
+    "BGStoryTitle": "RelicStoryTitle_31103",
+    "Type": "BODY",
+    "SetID": 110
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_110_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_110_4.png",
+    "RelicName": "RelicName_31104",
+    "ItemBGDesc": "ItemBGDesc_31104",
+    "BGStoryContent": "RelicStoryContent_31104",
+    "BGStoryTitle": "RelicStoryTitle_31104",
+    "Type": "FOOT",
+    "SetID": 110
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_111_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_111_1.png",
+    "RelicName": "RelicName_31111",
+    "ItemBGDesc": "ItemBGDesc_31111",
+    "BGStoryContent": "RelicStoryContent_31111",
+    "BGStoryTitle": "RelicStoryTitle_31111",
+    "Type": "HEAD",
+    "SetID": 111
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_111_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_111_2.png",
+    "RelicName": "RelicName_31112",
+    "ItemBGDesc": "ItemBGDesc_31112",
+    "BGStoryContent": "RelicStoryContent_31112",
+    "BGStoryTitle": "RelicStoryTitle_31112",
+    "Type": "HAND",
+    "SetID": 111
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_111_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_111_3.png",
+    "RelicName": "RelicName_31113",
+    "ItemBGDesc": "ItemBGDesc_31113",
+    "BGStoryContent": "RelicStoryContent_31113",
+    "BGStoryTitle": "RelicStoryTitle_31113",
+    "Type": "BODY",
+    "SetID": 111
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_111_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_111_4.png",
+    "RelicName": "RelicName_31114",
+    "ItemBGDesc": "ItemBGDesc_31114",
+    "BGStoryContent": "RelicStoryContent_31114",
+    "BGStoryTitle": "RelicStoryTitle_31114",
+    "Type": "FOOT",
+    "SetID": 111
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_112_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_112_1.png",
+    "RelicName": "RelicName_31121",
+    "ItemBGDesc": "ItemBGDesc_31121",
+    "BGStoryContent": "RelicStoryContent_31121",
+    "BGStoryTitle": "RelicStoryTitle_31121",
+    "Type": "HEAD",
+    "SetID": 112
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_112_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_112_2.png",
+    "RelicName": "RelicName_31122",
+    "ItemBGDesc": "ItemBGDesc_31122",
+    "BGStoryContent": "RelicStoryContent_31122",
+    "BGStoryTitle": "RelicStoryTitle_31122",
+    "Type": "HAND",
+    "SetID": 112
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_112_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_112_3.png",
+    "RelicName": "RelicName_31123",
+    "ItemBGDesc": "ItemBGDesc_31123",
+    "BGStoryContent": "RelicStoryContent_31123",
+    "BGStoryTitle": "RelicStoryTitle_31123",
+    "Type": "BODY",
+    "SetID": 112
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_112_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_112_4.png",
+    "RelicName": "RelicName_31124",
+    "ItemBGDesc": "ItemBGDesc_31124",
+    "BGStoryContent": "RelicStoryContent_31124",
+    "BGStoryTitle": "RelicStoryTitle_31124",
+    "Type": "FOOT",
+    "SetID": 112
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_301_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_301_5.png",
+    "RelicName": "RelicName_33015",
+    "ItemBGDesc": "ItemBGDesc_33015",
+    "BGStoryContent": "RelicStoryContent_33015",
+    "BGStoryTitle": "RelicStoryTitle_33015",
+    "Type": "NECK",
+    "SetID": 301
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_301_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_301_6.png",
+    "RelicName": "RelicName_33016",
+    "ItemBGDesc": "ItemBGDesc_33016",
+    "BGStoryContent": "RelicStoryContent_33016",
+    "BGStoryTitle": "RelicStoryTitle_33016",
+    "Type": "OBJECT",
+    "SetID": 301
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_302_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_302_5.png",
+    "RelicName": "RelicName_33025",
+    "ItemBGDesc": "ItemBGDesc_33025",
+    "BGStoryContent": "RelicStoryContent_33025",
+    "BGStoryTitle": "RelicStoryTitle_33025",
+    "Type": "NECK",
+    "SetID": 302
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_302_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_302_6.png",
+    "RelicName": "RelicName_33026",
+    "ItemBGDesc": "ItemBGDesc_33026",
+    "BGStoryContent": "RelicStoryContent_33026",
+    "BGStoryTitle": "RelicStoryTitle_33026",
+    "Type": "OBJECT",
+    "SetID": 302
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_303_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_303_5.png",
+    "RelicName": "RelicName_33035",
+    "ItemBGDesc": "ItemBGDesc_33035",
+    "BGStoryContent": "RelicStoryContent_33035",
+    "BGStoryTitle": "RelicStoryTitle_33035",
+    "Type": "NECK",
+    "SetID": 303
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_303_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_303_6.png",
+    "RelicName": "RelicName_33036",
+    "ItemBGDesc": "ItemBGDesc_33036",
+    "BGStoryContent": "RelicStoryContent_33036",
+    "BGStoryTitle": "RelicStoryTitle_33036",
+    "Type": "OBJECT",
+    "SetID": 303
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_304_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_304_5.png",
+    "RelicName": "RelicName_33045",
+    "ItemBGDesc": "ItemBGDesc_33045",
+    "BGStoryContent": "RelicStoryContent_33045",
+    "BGStoryTitle": "RelicStoryTitle_33045",
+    "Type": "NECK",
+    "SetID": 304
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_304_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_304_6.png",
+    "RelicName": "RelicName_33046",
+    "ItemBGDesc": "ItemBGDesc_33046",
+    "BGStoryContent": "RelicStoryContent_33046",
+    "BGStoryTitle": "RelicStoryTitle_33046",
+    "Type": "OBJECT",
+    "SetID": 304
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_305_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_305_5.png",
+    "RelicName": "RelicName_33055",
+    "ItemBGDesc": "ItemBGDesc_33055",
+    "BGStoryContent": "RelicStoryContent_33055",
+    "BGStoryTitle": "RelicStoryTitle_33055",
+    "Type": "NECK",
+    "SetID": 305
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_305_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_305_6.png",
+    "RelicName": "RelicName_33056",
+    "ItemBGDesc": "ItemBGDesc_33056",
+    "BGStoryContent": "RelicStoryContent_33056",
+    "BGStoryTitle": "RelicStoryTitle_33056",
+    "Type": "OBJECT",
+    "SetID": 305
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_306_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_306_5.png",
+    "RelicName": "RelicName_33065",
+    "ItemBGDesc": "ItemBGDesc_33065",
+    "BGStoryContent": "RelicStoryContent_33065",
+    "BGStoryTitle": "RelicStoryTitle_33065",
+    "Type": "NECK",
+    "SetID": 306
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_306_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_306_6.png",
+    "RelicName": "RelicName_33066",
+    "ItemBGDesc": "ItemBGDesc_33066",
+    "BGStoryContent": "RelicStoryContent_33066",
+    "BGStoryTitle": "RelicStoryTitle_33066",
+    "Type": "OBJECT",
+    "SetID": 306
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_307_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_307_5.png",
+    "RelicName": "RelicName_33075",
+    "ItemBGDesc": "ItemBGDesc_33075",
+    "BGStoryContent": "RelicStoryContent_33075",
+    "BGStoryTitle": "RelicStoryTitle_33075",
+    "Type": "NECK",
+    "SetID": 307
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_307_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_307_6.png",
+    "RelicName": "RelicName_33076",
+    "ItemBGDesc": "ItemBGDesc_33076",
+    "BGStoryContent": "RelicStoryContent_33076",
+    "BGStoryTitle": "RelicStoryTitle_33076",
+    "Type": "OBJECT",
+    "SetID": 307
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_308_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_308_5.png",
+    "RelicName": "RelicName_33085",
+    "ItemBGDesc": "ItemBGDesc_33085",
+    "BGStoryContent": "RelicStoryContent_33085",
+    "BGStoryTitle": "RelicStoryTitle_33085",
+    "Type": "NECK",
+    "SetID": 308
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_308_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_308_6.png",
+    "RelicName": "RelicName_33086",
+    "ItemBGDesc": "ItemBGDesc_33086",
+    "BGStoryContent": "RelicStoryContent_33086",
+    "BGStoryTitle": "RelicStoryTitle_33086",
+    "Type": "OBJECT",
+    "SetID": 308
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_309_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_309_5.png",
+    "RelicName": "RelicName_33095",
+    "ItemBGDesc": "ItemBGDesc_33095",
+    "BGStoryContent": "RelicStoryContent_33095",
+    "BGStoryTitle": "RelicStoryTitle_33095",
+    "Type": "NECK",
+    "SetID": 309
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_309_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_309_6.png",
+    "RelicName": "RelicName_33096",
+    "ItemBGDesc": "ItemBGDesc_33096",
+    "BGStoryContent": "RelicStoryContent_33096",
+    "BGStoryTitle": "RelicStoryTitle_33096",
+    "Type": "OBJECT",
+    "SetID": 309
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_310_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_310_5.png",
+    "RelicName": "RelicName_33105",
+    "ItemBGDesc": "ItemBGDesc_33105",
+    "BGStoryContent": "RelicStoryContent_33105",
+    "BGStoryTitle": "RelicStoryTitle_33105",
+    "Type": "NECK",
+    "SetID": 310
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_310_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_310_6.png",
+    "RelicName": "RelicName_33106",
+    "ItemBGDesc": "ItemBGDesc_33106",
+    "BGStoryContent": "RelicStoryContent_33106",
+    "BGStoryTitle": "RelicStoryTitle_33106",
+    "Type": "OBJECT",
+    "SetID": 310
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_113_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_113_1.png",
+    "RelicName": "RelicName_31131",
+    "ItemBGDesc": "ItemBGDesc_31131",
+    "BGStoryContent": "RelicStoryContent_31131",
+    "BGStoryTitle": "RelicStoryTitle_31131",
+    "Type": "HEAD",
+    "SetID": 113
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_113_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_113_2.png",
+    "RelicName": "RelicName_31132",
+    "ItemBGDesc": "ItemBGDesc_31132",
+    "BGStoryContent": "RelicStoryContent_31132",
+    "BGStoryTitle": "RelicStoryTitle_31132",
+    "Type": "HAND",
+    "SetID": 113
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_113_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_113_3.png",
+    "RelicName": "RelicName_31133",
+    "ItemBGDesc": "ItemBGDesc_31133",
+    "BGStoryContent": "RelicStoryContent_31133",
+    "BGStoryTitle": "RelicStoryTitle_31133",
+    "Type": "BODY",
+    "SetID": 113
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_113_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_113_4.png",
+    "RelicName": "RelicName_31134",
+    "ItemBGDesc": "ItemBGDesc_31134",
+    "BGStoryContent": "RelicStoryContent_31134",
+    "BGStoryTitle": "RelicStoryTitle_31134",
+    "Type": "FOOT",
+    "SetID": 113
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_114_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_114_1.png",
+    "RelicName": "RelicName_31141",
+    "ItemBGDesc": "ItemBGDesc_31141",
+    "BGStoryContent": "RelicStoryContent_31141",
+    "BGStoryTitle": "RelicStoryTitle_31141",
+    "Type": "HEAD",
+    "SetID": 114
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_114_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_114_2.png",
+    "RelicName": "RelicName_31142",
+    "ItemBGDesc": "ItemBGDesc_31142",
+    "BGStoryContent": "RelicStoryContent_31142",
+    "BGStoryTitle": "RelicStoryTitle_31142",
+    "Type": "HAND",
+    "SetID": 114
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_114_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_114_3.png",
+    "RelicName": "RelicName_31143",
+    "ItemBGDesc": "ItemBGDesc_31143",
+    "BGStoryContent": "RelicStoryContent_31143",
+    "BGStoryTitle": "RelicStoryTitle_31143",
+    "Type": "BODY",
+    "SetID": 114
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_114_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_114_4.png",
+    "RelicName": "RelicName_31144",
+    "ItemBGDesc": "ItemBGDesc_31144",
+    "BGStoryContent": "RelicStoryContent_31144",
+    "BGStoryTitle": "RelicStoryTitle_31144",
+    "Type": "FOOT",
+    "SetID": 114
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_115_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_115_1.png",
+    "RelicName": "RelicName_31151",
+    "ItemBGDesc": "ItemBGDesc_31151",
+    "BGStoryContent": "RelicStoryContent_31151",
+    "BGStoryTitle": "RelicStoryTitle_31151",
+    "Type": "HEAD",
+    "SetID": 115
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_115_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_115_2.png",
+    "RelicName": "RelicName_31152",
+    "ItemBGDesc": "ItemBGDesc_31152",
+    "BGStoryContent": "RelicStoryContent_31152",
+    "BGStoryTitle": "RelicStoryTitle_31152",
+    "Type": "HAND",
+    "SetID": 115
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_115_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_115_3.png",
+    "RelicName": "RelicName_31153",
+    "ItemBGDesc": "ItemBGDesc_31153",
+    "BGStoryContent": "RelicStoryContent_31153",
+    "BGStoryTitle": "RelicStoryTitle_31153",
+    "Type": "BODY",
+    "SetID": 115
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_115_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_115_4.png",
+    "RelicName": "RelicName_31154",
+    "ItemBGDesc": "ItemBGDesc_31154",
+    "BGStoryContent": "RelicStoryContent_31154",
+    "BGStoryTitle": "RelicStoryTitle_31154",
+    "Type": "FOOT",
+    "SetID": 115
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_116_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_116_1.png",
+    "RelicName": "RelicName_31161",
+    "ItemBGDesc": "ItemBGDesc_31161",
+    "BGStoryContent": "RelicStoryContent_31161",
+    "BGStoryTitle": "RelicStoryTitle_31161",
+    "Type": "HEAD",
+    "SetID": 116
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_116_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_116_2.png",
+    "RelicName": "RelicName_31162",
+    "ItemBGDesc": "ItemBGDesc_31162",
+    "BGStoryContent": "RelicStoryContent_31162",
+    "BGStoryTitle": "RelicStoryTitle_31162",
+    "Type": "HAND",
+    "SetID": 116
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_116_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_116_3.png",
+    "RelicName": "RelicName_31163",
+    "ItemBGDesc": "ItemBGDesc_31163",
+    "BGStoryContent": "RelicStoryContent_31163",
+    "BGStoryTitle": "RelicStoryTitle_31163",
+    "Type": "BODY",
+    "SetID": 116
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_116_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_116_4.png",
+    "RelicName": "RelicName_31164",
+    "ItemBGDesc": "ItemBGDesc_31164",
+    "BGStoryContent": "RelicStoryContent_31164",
+    "BGStoryTitle": "RelicStoryTitle_31164",
+    "Type": "FOOT",
+    "SetID": 116
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_311_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_311_5.png",
+    "RelicName": "RelicName_33115",
+    "ItemBGDesc": "ItemBGDesc_33115",
+    "BGStoryContent": "RelicStoryContent_33115",
+    "BGStoryTitle": "RelicStoryTitle_33115",
+    "Type": "NECK",
+    "SetID": 311
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_311_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_311_6.png",
+    "RelicName": "RelicName_33116",
+    "ItemBGDesc": "ItemBGDesc_33116",
+    "BGStoryContent": "RelicStoryContent_33116",
+    "BGStoryTitle": "RelicStoryTitle_33116",
+    "Type": "OBJECT",
+    "SetID": 311
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_312_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_312_5.png",
+    "RelicName": "RelicName_33125",
+    "ItemBGDesc": "ItemBGDesc_33125",
+    "BGStoryContent": "RelicStoryContent_33125",
+    "BGStoryTitle": "RelicStoryTitle_33125",
+    "Type": "NECK",
+    "SetID": 312
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_312_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_312_6.png",
+    "RelicName": "RelicName_33126",
+    "ItemBGDesc": "ItemBGDesc_33126",
+    "BGStoryContent": "RelicStoryContent_33126",
+    "BGStoryTitle": "RelicStoryTitle_33126",
+    "Type": "OBJECT",
+    "SetID": 312
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_117_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_117_1.png",
+    "RelicName": "RelicName_31171",
+    "ItemBGDesc": "ItemBGDesc_31171",
+    "BGStoryContent": "RelicStoryContent_31171",
+    "BGStoryTitle": "RelicStoryTitle_31171",
+    "Type": "HEAD",
+    "SetID": 117
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_117_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_117_2.png",
+    "RelicName": "RelicName_31172",
+    "ItemBGDesc": "ItemBGDesc_31172",
+    "BGStoryContent": "RelicStoryContent_31172",
+    "BGStoryTitle": "RelicStoryTitle_31172",
+    "Type": "HAND",
+    "SetID": 117
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_117_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_117_3.png",
+    "RelicName": "RelicName_31173",
+    "ItemBGDesc": "ItemBGDesc_31173",
+    "BGStoryContent": "RelicStoryContent_31173",
+    "BGStoryTitle": "RelicStoryTitle_31173",
+    "Type": "BODY",
+    "SetID": 117
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_117_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_117_4.png",
+    "RelicName": "RelicName_31174",
+    "ItemBGDesc": "ItemBGDesc_31174",
+    "BGStoryContent": "RelicStoryContent_31174",
+    "BGStoryTitle": "RelicStoryTitle_31174",
+    "Type": "FOOT",
+    "SetID": 117
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_118_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_118_1.png",
+    "RelicName": "RelicName_31181",
+    "ItemBGDesc": "ItemBGDesc_31181",
+    "BGStoryContent": "RelicStoryContent_31181",
+    "BGStoryTitle": "RelicStoryTitle_31181",
+    "Type": "HEAD",
+    "SetID": 118
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_118_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_118_2.png",
+    "RelicName": "RelicName_31182",
+    "ItemBGDesc": "ItemBGDesc_31182",
+    "BGStoryContent": "RelicStoryContent_31182",
+    "BGStoryTitle": "RelicStoryTitle_31182",
+    "Type": "HAND",
+    "SetID": 118
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_118_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_118_3.png",
+    "RelicName": "RelicName_31183",
+    "ItemBGDesc": "ItemBGDesc_31183",
+    "BGStoryContent": "RelicStoryContent_31183",
+    "BGStoryTitle": "RelicStoryTitle_31183",
+    "Type": "BODY",
+    "SetID": 118
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_118_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_118_4.png",
+    "RelicName": "RelicName_31184",
+    "ItemBGDesc": "ItemBGDesc_31184",
+    "BGStoryContent": "RelicStoryContent_31184",
+    "BGStoryTitle": "RelicStoryTitle_31184",
+    "Type": "FOOT",
+    "SetID": 118
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_313_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_313_5.png",
+    "RelicName": "RelicName_33135",
+    "ItemBGDesc": "ItemBGDesc_33135",
+    "BGStoryContent": "RelicStoryContent_33135",
+    "BGStoryTitle": "RelicStoryTitle_33135",
+    "Type": "NECK",
+    "SetID": 313
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_313_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_313_6.png",
+    "RelicName": "RelicName_33136",
+    "ItemBGDesc": "ItemBGDesc_33136",
+    "BGStoryContent": "RelicStoryContent_33136",
+    "BGStoryTitle": "RelicStoryTitle_33136",
+    "Type": "OBJECT",
+    "SetID": 313
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_314_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_314_5.png",
+    "RelicName": "RelicName_33145",
+    "ItemBGDesc": "ItemBGDesc_33145",
+    "BGStoryContent": "RelicStoryContent_33145",
+    "BGStoryTitle": "RelicStoryTitle_33145",
+    "Type": "NECK",
+    "SetID": 314
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_314_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_314_6.png",
+    "RelicName": "RelicName_33146",
+    "ItemBGDesc": "ItemBGDesc_33146",
+    "BGStoryContent": "RelicStoryContent_33146",
+    "BGStoryTitle": "RelicStoryTitle_33146",
+    "Type": "OBJECT",
+    "SetID": 314
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_119_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_119_1.png",
+    "RelicName": "RelicName_31191",
+    "ItemBGDesc": "ItemBGDesc_31191",
+    "BGStoryContent": "RelicStoryContent_31191",
+    "BGStoryTitle": "RelicStoryTitle_31191",
+    "Type": "HEAD",
+    "SetID": 119
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_119_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_119_2.png",
+    "RelicName": "RelicName_31192",
+    "ItemBGDesc": "ItemBGDesc_31192",
+    "BGStoryContent": "RelicStoryContent_31192",
+    "BGStoryTitle": "RelicStoryTitle_31192",
+    "Type": "HAND",
+    "SetID": 119
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_119_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_119_3.png",
+    "RelicName": "RelicName_31193",
+    "ItemBGDesc": "ItemBGDesc_31193",
+    "BGStoryContent": "RelicStoryContent_31193",
+    "BGStoryTitle": "RelicStoryTitle_31193",
+    "Type": "BODY",
+    "SetID": 119
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_119_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_119_4.png",
+    "RelicName": "RelicName_31194",
+    "ItemBGDesc": "ItemBGDesc_31194",
+    "BGStoryContent": "RelicStoryContent_31194",
+    "BGStoryTitle": "RelicStoryTitle_31194",
+    "Type": "FOOT",
+    "SetID": 119
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_120_1.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_120_1.png",
+    "RelicName": "RelicName_31201",
+    "ItemBGDesc": "ItemBGDesc_31201",
+    "BGStoryContent": "RelicStoryContent_31201",
+    "BGStoryTitle": "RelicStoryTitle_31201",
+    "Type": "HEAD",
+    "SetID": 120
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_120_2.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_120_2.png",
+    "RelicName": "RelicName_31202",
+    "ItemBGDesc": "ItemBGDesc_31202",
+    "BGStoryContent": "RelicStoryContent_31202",
+    "BGStoryTitle": "RelicStoryTitle_31202",
+    "Type": "HAND",
+    "SetID": 120
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_120_3.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_120_3.png",
+    "RelicName": "RelicName_31203",
+    "ItemBGDesc": "ItemBGDesc_31203",
+    "BGStoryContent": "RelicStoryContent_31203",
+    "BGStoryTitle": "RelicStoryTitle_31203",
+    "Type": "BODY",
+    "SetID": 120
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_120_4.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_120_4.png",
+    "RelicName": "RelicName_31204",
+    "ItemBGDesc": "ItemBGDesc_31204",
+    "BGStoryContent": "RelicStoryContent_31204",
+    "BGStoryTitle": "RelicStoryTitle_31204",
+    "Type": "FOOT",
+    "SetID": 120
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_315_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_315_5.png",
+    "RelicName": "RelicName_33155",
+    "ItemBGDesc": "ItemBGDesc_33155",
+    "BGStoryContent": "RelicStoryContent_33155",
+    "BGStoryTitle": "RelicStoryTitle_33155",
+    "Type": "NECK",
+    "SetID": 315
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_315_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_315_6.png",
+    "RelicName": "RelicName_33156",
+    "ItemBGDesc": "ItemBGDesc_33156",
+    "BGStoryContent": "RelicStoryContent_33156",
+    "BGStoryTitle": "RelicStoryTitle_33156",
+    "Type": "OBJECT",
+    "SetID": 315
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_316_5.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_316_5.png",
+    "RelicName": "RelicName_33165",
+    "ItemBGDesc": "ItemBGDesc_33165",
+    "BGStoryContent": "RelicStoryContent_33165",
+    "BGStoryTitle": "RelicStoryTitle_33165",
+    "Type": "NECK",
+    "SetID": 316
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/RelicIcons/IconRelic_316_6.png",
+    "ItemFigureIconPath": "SpriteOutput/RelicFigures/IconRelic_316_6.png",
+    "RelicName": "RelicName_33166",
+    "ItemBGDesc": "ItemBGDesc_33166",
+    "BGStoryContent": "RelicStoryContent_33166",
+    "BGStoryTitle": "RelicStoryTitle_33166",
+    "Type": "OBJECT",
+    "SetID": 316
+  }
+]

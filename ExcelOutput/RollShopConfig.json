@@ -1,0 +1,54 @@
+[
+  {
+    "SpecialGroupList": [],
+    "T2GroupID": 102,
+    "RollShopType": "Mall",
+    "CostItemID": 122000,
+    "CostItemNum": 2,
+    "T1GroupID": 101,
+    "ShopName": {
+      "hash": 1559946433
+    },
+    "T4GroupID": 104,
+    "SecretGroupID": 0,
+    "T3GroupID": 103,
+    "RollShopID": 1,
+    "IntroduceID": 79
+  },
+  {
+    "SpecialGroupList": [],
+    "T2GroupID": 202,
+    "RollShopType": "Normal",
+    "CostItemID": 122000,
+    "CostItemNum": 1,
+    "T1GroupID": 0,
+    "ShopName": {
+      "hash": 1559946434
+    },
+    "T4GroupID": 204,
+    "SecretGroupID": 205,
+    "T3GroupID": 203,
+    "RollShopID": 2,
+    "IntroduceID": 77
+  },
+  {
+    "SpecialGroupList": [
+      {
+        "GHLFFICMOEO": 305
+      }
+    ],
+    "T2GroupID": 302,
+    "RollShopType": "Normal",
+    "CostItemID": 122000,
+    "CostItemNum": 1,
+    "T1GroupID": 0,
+    "ShopName": {
+      "hash": 1559946435
+    },
+    "T4GroupID": 304,
+    "SecretGroupID": 0,
+    "T3GroupID": 303,
+    "RollShopID": 3,
+    "IntroduceID": 78
+  }
+]

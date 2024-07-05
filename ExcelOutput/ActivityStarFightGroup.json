@@ -1,0 +1,231 @@
+[
+  {
+    "TrialAvatar": [
+      3231310,
+      3238005,
+      3238006
+    ],
+    "ElementList": [
+      "Fire",
+      "Quantum"
+    ],
+    "GroupPicPath": "SpriteOutput/UI/Quest/Challenge/IconStarChallengeCover/IconStarChallenge_Stage01.png",
+    "EvaluateWave": [
+      6,
+      5,
+      4,
+      3
+    ],
+    "GroupID": 1,
+    "TutorialGuideID": 8150,
+    "ActivityModuleID": 5001601,
+    "MazeBuffID": 3109001,
+    "PerfectWave": 6,
+    "FightStageDesc": {
+      "hash": 371857150
+    },
+    "GroupTitle": {
+      "hash": 8027368
+    },
+    "PerfectQuest": 6026150
+  },
+  {
+    "TrialAvatar": [
+      3231308,
+      3231006
+    ],
+    "ElementList": [
+      "Thunder"
+    ],
+    "GroupPicPath": "SpriteOutput/UI/Quest/Challenge/IconStarChallengeCover/IconStarChallenge_Stage07.png",
+    "EvaluateWave": [
+      6,
+      5,
+      4,
+      3
+    ],
+    "GroupID": 2,
+    "TutorialGuideID": 8151,
+    "ActivityModuleID": 5001602,
+    "MazeBuffID": 3109008,
+    "PerfectWave": 6,
+    "FightStageDesc": {
+      "hash": 371857150
+    },
+    "GroupTitle": {
+      "hash": 8027367
+    },
+    "PerfectQuest": 6026156
+  },
+  {
+    "TrialAvatar": [
+      3231309,
+      3231112
+    ],
+    "ElementList": [
+      "Fire",
+      "Imaginary"
+    ],
+    "GroupPicPath": "SpriteOutput/UI/Quest/Challenge/IconStarChallengeCover/IconStarChallenge_Stage03.png",
+    "EvaluateWave": [
+      6,
+      5,
+      4,
+      3
+    ],
+    "GroupID": 3,
+    "TutorialGuideID": 8152,
+    "ActivityModuleID": 5001603,
+    "MazeBuffID": 3109003,
+    "PerfectWave": 6,
+    "FightStageDesc": {
+      "hash": 371857150
+    },
+    "GroupTitle": {
+      "hash": 8027366
+    },
+    "PerfectQuest": 6026152
+  },
+  {
+    "TrialAvatar": [
+      3231213,
+      3231306
+    ],
+    "ElementList": [
+      "Ice"
+    ],
+    "GroupPicPath": "SpriteOutput/UI/Quest/Challenge/IconStarChallengeCover/IconStarChallenge_Stage05.png",
+    "EvaluateWave": [
+      6,
+      5,
+      4,
+      3
+    ],
+    "GroupID": 4,
+    "TutorialGuideID": 8153,
+    "ActivityModuleID": 5001604,
+    "MazeBuffID": 3109006,
+    "PerfectWave": 6,
+    "FightStageDesc": {
+      "hash": 371857150
+    },
+    "GroupTitle": {
+      "hash": 8027365
+    },
+    "PerfectQuest": 6026154
+  },
+  {
+    "TrialAvatar": [
+      3231315,
+      3231303
+    ],
+    "ElementList": [
+      "Physical"
+    ],
+    "GroupPicPath": "SpriteOutput/UI/Quest/Challenge/IconStarChallengeCover/IconStarChallenge_Stage04.png",
+    "EvaluateWave": [
+      6,
+      5,
+      4,
+      3
+    ],
+    "GroupID": 5,
+    "TutorialGuideID": 8154,
+    "ActivityModuleID": 5001605,
+    "MazeBuffID": 3109004,
+    "PerfectWave": 6,
+    "FightStageDesc": {
+      "hash": 371857150
+    },
+    "GroupTitle": {
+      "hash": 8027364
+    },
+    "PerfectQuest": 6026153
+  },
+  {
+    "TrialAvatar": [
+      3231302,
+      3231217
+    ],
+    "ElementList": [
+      "Physical"
+    ],
+    "GroupPicPath": "SpriteOutput/UI/Quest/Challenge/IconStarChallengeCover/IconStarChallenge_Stage06.png",
+    "EvaluateWave": [
+      6,
+      5,
+      4,
+      3
+    ],
+    "GroupID": 6,
+    "TutorialGuideID": 8155,
+    "ActivityModuleID": 5001606,
+    "MazeBuffID": 3109007,
+    "PerfectWave": 6,
+    "FightStageDesc": {
+      "hash": 371857150
+    },
+    "GroupTitle": {
+      "hash": 8027363
+    },
+    "PerfectQuest": 6026155
+  },
+  {
+    "TrialAvatar": [
+      3231314,
+      3231013
+    ],
+    "ElementList": [
+      "Ice",
+      "Quantum"
+    ],
+    "GroupPicPath": "SpriteOutput/UI/Quest/Challenge/IconStarChallengeCover/IconStarChallenge_Stage02.png",
+    "EvaluateWave": [
+      6,
+      5,
+      4,
+      3
+    ],
+    "GroupID": 7,
+    "TutorialGuideID": 8156,
+    "ActivityModuleID": 5001607,
+    "MazeBuffID": 3109002,
+    "PerfectWave": 6,
+    "FightStageDesc": {
+      "hash": 371857150
+    },
+    "GroupTitle": {
+      "hash": 8027362
+    },
+    "PerfectQuest": 6026151
+  },
+  {
+    "TrialAvatar": [
+      3231005,
+      3231307
+    ],
+    "ElementList": [
+      "Thunder",
+      "Wind"
+    ],
+    "GroupPicPath": "SpriteOutput/UI/Quest/Challenge/IconStarChallengeCover/IconStarChallenge_Stage08.png",
+    "EvaluateWave": [
+      6,
+      5,
+      4,
+      3
+    ],
+    "GroupID": 8,
+    "TutorialGuideID": 8157,
+    "ActivityModuleID": 5001608,
+    "MazeBuffID": 3109009,
+    "PerfectWave": 6,
+    "FightStageDesc": {
+      "hash": 371857150
+    },
+    "GroupTitle": {
+      "hash": 8027361
+    },
+    "PerfectQuest": 6026157
+  }
+]

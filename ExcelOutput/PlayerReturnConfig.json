@@ -1,0 +1,389 @@
+[
+  {
+    "ExtraMultipleDropList": [],
+    "RecommendActivity": [],
+    "LoginReward": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RecommendAvatar": [],
+    "RecommendMission": [],
+    "KeyPointID": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "QuestGroupID": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "DispatchLink": "return_questionnaire_a_url",
+    "ActivityModuleID": 0,
+    "ValidityPeriod": 14,
+    "ReturnRewardID": 160001,
+    "PlayerReturnID": 1,
+    "TotalDoubleTime": 42,
+    "DailyDoubleTime": 6,
+    "LimitTime": 40,
+    "FarmMultipleDropID": 20001
+  },
+  {
+    "ExtraMultipleDropList": [],
+    "RecommendActivity": [],
+    "LoginReward": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RecommendAvatar": [],
+    "RecommendMission": [],
+    "KeyPointID": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "QuestGroupID": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "DispatchLink": "return_questionnaire_b_url",
+    "ActivityModuleID": 0,
+    "ValidityPeriod": 14,
+    "ReturnRewardID": 160001,
+    "PlayerReturnID": 2,
+    "TotalDoubleTime": 42,
+    "DailyDoubleTime": 6,
+    "LimitTime": 40,
+    "FarmMultipleDropID": 20001
+  },
+  {
+    "ExtraMultipleDropList": [],
+    "RecommendActivity": [],
+    "LoginReward": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RecommendAvatar": [],
+    "RecommendMission": [],
+    "KeyPointID": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "QuestGroupID": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "DispatchLink": "return_questionnaire_a_url",
+    "ActivityModuleID": 1003401,
+    "ValidityPeriod": 14,
+    "ReturnRewardID": 160001,
+    "PlayerReturnID": 3,
+    "TotalDoubleTime": 42,
+    "DailyDoubleTime": 6,
+    "LimitTime": 40,
+    "FarmMultipleDropID": 20001
+  },
+  {
+    "ExtraMultipleDropList": [],
+    "RecommendActivity": [],
+    "LoginReward": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RecommendAvatar": [],
+    "RecommendMission": [],
+    "KeyPointID": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "QuestGroupID": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "DispatchLink": "return_questionnaire_b_url",
+    "ActivityModuleID": 1003601,
+    "ValidityPeriod": 14,
+    "ReturnRewardID": 160001,
+    "PlayerReturnID": 4,
+    "TotalDoubleTime": 42,
+    "DailyDoubleTime": 6,
+    "LimitTime": 40,
+    "FarmMultipleDropID": 20001
+  },
+  {
+    "ExtraMultipleDropList": [],
+    "RecommendActivity": [],
+    "LoginReward": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RecommendAvatar": [],
+    "RecommendMission": [],
+    "KeyPointID": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "QuestGroupID": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "DispatchLink": "return_questionnaire_a_url",
+    "ActivityModuleID": 1004201,
+    "ValidityPeriod": 14,
+    "ReturnRewardID": 160001,
+    "PlayerReturnID": 5,
+    "TotalDoubleTime": 42,
+    "DailyDoubleTime": 6,
+    "LimitTime": 40,
+    "FarmMultipleDropID": 20001
+  },
+  {
+    "ExtraMultipleDropList": [],
+    "RecommendActivity": [],
+    "LoginReward": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RecommendAvatar": [],
+    "RecommendMission": [],
+    "KeyPointID": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "QuestGroupID": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "DispatchLink": "return_questionnaire_b_url",
+    "ActivityModuleID": 1004601,
+    "ValidityPeriod": 14,
+    "ReturnRewardID": 160001,
+    "PlayerReturnID": 6,
+    "TotalDoubleTime": 42,
+    "DailyDoubleTime": 6,
+    "LimitTime": 40,
+    "FarmMultipleDropID": 20001
+  },
+  {
+    "ExtraMultipleDropList": [],
+    "RecommendActivity": [],
+    "LoginReward": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RecommendAvatar": [],
+    "RecommendMission": [],
+    "KeyPointID": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "QuestGroupID": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "DispatchLink": "return_questionnaire_a_url",
+    "ActivityModuleID": 1005501,
+    "ValidityPeriod": 14,
+    "ReturnRewardID": 160001,
+    "PlayerReturnID": 7,
+    "TotalDoubleTime": 42,
+    "DailyDoubleTime": 6,
+    "LimitTime": 40,
+    "FarmMultipleDropID": 20001
+  },
+  {
+    "ExtraMultipleDropList": [],
+    "RecommendActivity": [],
+    "LoginReward": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RecommendAvatar": [],
+    "RecommendMission": [],
+    "KeyPointID": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "QuestGroupID": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "DispatchLink": "return_questionnaire_b_url",
+    "ActivityModuleID": 1006301,
+    "ValidityPeriod": 14,
+    "ReturnRewardID": 160001,
+    "PlayerReturnID": 8,
+    "TotalDoubleTime": 42,
+    "DailyDoubleTime": 6,
+    "LimitTime": 40,
+    "FarmMultipleDropID": 20001
+  },
+  {
+    "ExtraMultipleDropList": [
+      {
+        "LHPBJNHHLCB": 42,
+        "DGGAFEFJBLF": 42,
+        "FCKLAHDFIBF": 20002
+      },
+      {
+        "LHPBJNHHLCB": 4,
+        "DGGAFEFJBLF": 4,
+        "FCKLAHDFIBF": 20003
+      }
+    ],
+    "RecommendActivity": [],
+    "LoginReward": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RecommendAvatar": [],
+    "RecommendMission": [],
+    "KeyPointID": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "QuestGroupID": [
+      6
+    ],
+    "DispatchLink": "return_questionnaire_a_url",
+    "ActivityModuleID": 1006701,
+    "ValidityPeriod": 14,
+    "ReturnRewardID": 160001,
+    "PlayerReturnID": 9,
+    "TotalDoubleTime": 0,
+    "DailyDoubleTime": 0,
+    "LimitTime": 40,
+    "FarmMultipleDropID": 0
+  },
+  {
+    "ExtraMultipleDropList": [
+      {
+        "LHPBJNHHLCB": 42,
+        "DGGAFEFJBLF": 42,
+        "FCKLAHDFIBF": 20002
+      },
+      {
+        "LHPBJNHHLCB": 4,
+        "DGGAFEFJBLF": 4,
+        "FCKLAHDFIBF": 20003
+      }
+    ],
+    "RecommendActivity": [],
+    "LoginReward": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RecommendAvatar": [],
+    "RecommendMission": [],
+    "KeyPointID": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "QuestGroupID": [
+      6
+    ],
+    "DispatchLink": "return_questionnaire_b_url",
+    "ActivityModuleID": 1006901,
+    "ValidityPeriod": 14,
+    "ReturnRewardID": 160001,
+    "PlayerReturnID": 10,
+    "TotalDoubleTime": 0,
+    "DailyDoubleTime": 0,
+    "LimitTime": 40,
+    "FarmMultipleDropID": 0
+  }
+]
